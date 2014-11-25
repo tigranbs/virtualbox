@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/53360/trunk/src/VBox/Devices/Network
+END
+DrvNAT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52976/trunk/src/VBox/Devices/Network/DrvNAT.cpp
+END
+DevINIP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/Network/DevINIP.cpp
+END
+SrvIntNetR0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Devices/Network/SrvIntNetR0.cpp
+END
+DrvTAP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/49598/trunk/src/VBox/Devices/Network/DrvTAP.cpp
+END
+DrvNetShaper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/Devices/Network/DrvNetShaper.cpp
+END
+DevE1000Phy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44565/trunk/src/VBox/Devices/Network/DevE1000Phy.cpp
+END
+VDEPlug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/29122/trunk/src/VBox/Devices/Network/VDEPlug.cpp
+END
+DevPCNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51155/trunk/src/VBox/Devices/Network/DevPCNet.cpp
+END
+DevE1000Phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Devices/Network/DevE1000Phy.h
+END
+DrvDedicatedNic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Devices/Network/DrvDedicatedNic.cpp
+END
+DrvIntNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/Network/DrvIntNet.cpp
+END
+DrvNetSniffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/Devices/Network/DrvNetSniffer.cpp
+END
+DevVirtioNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/49414/trunk/src/VBox/Devices/Network/DevVirtioNet.cpp
+END
+Pcap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/38549/trunk/src/VBox/Devices/Network/Pcap.cpp
+END
+DevE1000.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51150/trunk/src/VBox/Devices/Network/DevE1000.cpp
+END
+DevEEPROM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Devices/Network/DevEEPROM.cpp
+END
+lwipopts.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/50273/trunk/src/VBox/Devices/Network/lwipopts.h
+END
+Pcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Network/Pcap.h
+END
+DrvVDE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/Devices/Network/DrvVDE.cpp
+END
+DrvUDPTunnel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/Devices/Network/DrvUDPTunnel.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Devices/Network/Makefile.kup
+END
+DevEEPROM.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44542/trunk/src/VBox/Devices/Network/DevEEPROM.h
+END

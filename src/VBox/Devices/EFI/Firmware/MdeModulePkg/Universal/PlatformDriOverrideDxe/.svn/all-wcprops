@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/PlatformDriOverrideDxe
+END
+InternalPlatDriOverrideDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/PlatformDriOverrideDxe/InternalPlatDriOverrideDxe.h
+END
+PlatOverMngr.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/PlatformDriOverrideDxe/PlatOverMngr.h
+END
+PlatDriOverrideLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/PlatformDriOverrideDxe/PlatDriOverrideLib.c
+END
+Vfr.vfr
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/PlatformDriOverrideDxe/Vfr.vfr
+END
+PlatformDriOverrideDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/PlatformDriOverrideDxe/PlatformDriOverrideDxe.inf
+END
+PlatDriOverrideDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/PlatformDriOverrideDxe/PlatDriOverrideDxe.c
+END
+VfrStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/PlatformDriOverrideDxe/VfrStrings.uni
+END

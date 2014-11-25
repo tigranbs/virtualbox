@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/NvVarsFileLib
+END
+NvVarsFileLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/NvVarsFileLib/NvVarsFileLib.h
+END
+NvVarsFileLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/NvVarsFileLib/NvVarsFileLib.inf
+END
+NvVarsFileLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/NvVarsFileLib/NvVarsFileLib.c
+END
+FsAccess.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/NvVarsFileLib/FsAccess.c
+END

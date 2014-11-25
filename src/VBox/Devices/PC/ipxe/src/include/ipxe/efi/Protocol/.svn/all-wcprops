@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol
+END
+PciRootBridgeIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/PciRootBridgeIo.h
+END
+SimpleTextIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/SimpleTextIn.h
+END
+ComponentName2.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/ComponentName2.h
+END
+DriverBinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/DriverBinding.h
+END
+SimpleTextOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/SimpleTextOut.h
+END
+Cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/Cpu.h
+END
+FormBrowser2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/FormBrowser2.h
+END
+LoadedImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/LoadedImage.h
+END
+HiiDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/HiiDatabase.h
+END
+CpuIo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/CpuIo2.h
+END
+SimpleNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/SimpleNetwork.h
+END
+PciIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/PciIo.h
+END
+DevicePath.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/DevicePath.h
+END
+NetworkInterfaceIdentifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/NetworkInterfaceIdentifier.h
+END
+CpuIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/CpuIo.h
+END
+HiiConfigAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/HiiConfigAccess.h
+END
+DebugSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Protocol/DebugSupport.h
+END

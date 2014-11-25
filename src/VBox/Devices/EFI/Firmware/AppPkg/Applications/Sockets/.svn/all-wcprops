@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/ReadMe.txt
+END
+Sockets.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/Sockets.inc
+END

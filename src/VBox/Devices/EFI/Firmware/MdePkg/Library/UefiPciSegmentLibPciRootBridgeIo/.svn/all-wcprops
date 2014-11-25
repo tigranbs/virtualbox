@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/UefiPciSegmentLibPciRootBridgeIo
+END
+PciSegmentLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/UefiPciSegmentLibPciRootBridgeIo/PciSegmentLib.h
+END
+UefiPciSegmentLibPciRootBridgeIo.inf
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/UefiPciSegmentLibPciRootBridgeIo/UefiPciSegmentLibPciRootBridgeIo.inf
+END
+PciSegmentLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/UefiPciSegmentLibPciRootBridgeIo/PciSegmentLib.c
+END

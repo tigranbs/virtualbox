@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuIoPei
+END
+CpuIoPei.inf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuIoPei/CpuIoPei.inf
+END
+CpuIoPei.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuIoPei/CpuIoPei.c
+END
+CpuIoPei.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuIoPei/CpuIoPei.h
+END

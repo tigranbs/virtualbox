@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Include/Guid
+END
+IScsiConfigHii.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Include/Guid/IScsiConfigHii.h
+END
+Ip6ConfigHii.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Include/Guid/Ip6ConfigHii.h
+END

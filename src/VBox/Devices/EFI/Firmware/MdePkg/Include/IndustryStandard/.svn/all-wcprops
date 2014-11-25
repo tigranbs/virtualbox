@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard
+END
+SmBios.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/SmBios.h
+END
+MemoryMappedConfigurationSpaceAccessTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/MemoryMappedConfigurationSpaceAccessTable.h
+END
+Scsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Scsi.h
+END
+ElTorito.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/ElTorito.h
+END
+HighPrecisionEventTimerTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/HighPrecisionEventTimerTable.h
+END
+Acpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Acpi.h
+END
+SdramSpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/SdramSpd.h
+END
+Acpi10.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Acpi10.h
+END
+Pci22.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Pci22.h
+END
+Acpi30.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Acpi30.h
+END
+Pci23.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Pci23.h
+END
+Mbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Mbr.h
+END
+Acpi50.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Acpi50.h
+END
+PciExpress21.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/PciExpress21.h
+END
+SmBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/SmBus.h
+END
+UefiTcgPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/UefiTcgPlatform.h
+END
+Atapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Atapi.h
+END
+Tpm12.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Tpm12.h
+END
+IScsiBootFirmwareTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/IScsiBootFirmwareTable.h
+END
+AcpiAml.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/AcpiAml.h
+END
+WatchdogActionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/WatchdogActionTable.h
+END
+SerialPortConsoleRedirectionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/SerialPortConsoleRedirectionTable.h
+END
+PeImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/PeImage.h
+END
+AlertStandardFormatTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/AlertStandardFormatTable.h
+END
+Pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Pci.h
+END
+Pal.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Pal.h
+END
+Pci30.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Pci30.h
+END
+Acpi20.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Acpi20.h
+END
+Bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Bmp.h
+END
+Sal.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Sal.h
+END
+Acpi40.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Acpi40.h
+END
+WatchdogResourceTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/WatchdogResourceTable.h
+END
+LegacyBiosMpTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/LegacyBiosMpTable.h
+END
+Usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/IndustryStandard/Usb.h
+END

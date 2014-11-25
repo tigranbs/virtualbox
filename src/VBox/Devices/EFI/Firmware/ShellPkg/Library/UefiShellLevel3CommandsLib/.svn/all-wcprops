@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib
+END
+Ver.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/Ver.c
+END
+Pause.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/Pause.c
+END
+UefiShellLevel3CommandsLib.uni
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib.uni
+END
+Echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/Echo.c
+END
+UefiShellLevel3CommandsLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib.inf
+END
+Cls.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/Cls.c
+END
+Type.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/Type.c
+END
+Touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/Touch.c
+END
+GetMtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/GetMtc.c
+END
+UefiShellLevel3CommandsLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib.c
+END
+Help.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/Help.c
+END
+Alias.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/Alias.c
+END
+UefiShellLevel3CommandsLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellLevel3CommandsLib/UefiShellLevel3CommandsLib.h
+END

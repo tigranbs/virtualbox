@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/pcbios/ipxe
+END
+dhcp_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/pcbios/ipxe/dhcp_arch.h
+END

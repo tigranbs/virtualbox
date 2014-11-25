@@ -1,0 +1,83 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/HostDrivers/VBoxUSB/win
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-10-21T16:44:36.861333Z
+53109
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+mon
+dir
+
+testcase
+dir
+
+cmn
+dir
+
+usbd
+dir
+
+dev
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:42:59.952657Z
+4bba5d80db0f2ef3b0e52ce65a722fa3
+2012-07-13T23:00:53.369247Z
+42154
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5884
+
+Install
+dir
+
+lib
+dir
+

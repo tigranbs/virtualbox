@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/53359/trunk/src/VBox/Devices/BiosCommonCode
+END
+support.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/42147/trunk/src/VBox/Devices/BiosCommonCode/support.asm
+END
+MakeAlternativeSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51062/trunk/src/VBox/Devices/BiosCommonCode/MakeAlternativeSource.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53359/trunk/src/VBox/Devices/BiosCommonCode/Makefile.kmk
+END

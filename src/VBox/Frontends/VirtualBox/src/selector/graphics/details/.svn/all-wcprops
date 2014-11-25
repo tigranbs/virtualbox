@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53324/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details
+END
+UIGDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetails.h
+END
+UIGDetailsElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsElement.cpp
+END
+UIGDetailsSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsSet.cpp
+END
+UIGDetailsGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsGroup.cpp
+END
+UIGDetailsItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsItem.cpp
+END
+UIGDetailsElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsElement.h
+END
+UIGDetailsSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsSet.h
+END
+UIGDetailsModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/53302/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsModel.cpp
+END
+UIGMachinePreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/53324/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGMachinePreview.cpp
+END
+UIGDetailsGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsGroup.h
+END
+UIGDetailsItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsItem.h
+END
+UIGDetailsModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsModel.h
+END
+UIGMachinePreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGMachinePreview.h
+END
+UIGDetailsView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsView.cpp
+END
+UIGDetailsElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsElements.cpp
+END
+UIGDetailsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsView.h
+END
+UIGDetails.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetails.cpp
+END
+UIGDetailsElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsElements.h
+END

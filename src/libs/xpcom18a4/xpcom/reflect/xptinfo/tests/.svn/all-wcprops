@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/tests
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/tests/.cvsignore
+END
+TestInterfaceInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/tests/TestInterfaceInfo.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/tests/Makefile.in
+END

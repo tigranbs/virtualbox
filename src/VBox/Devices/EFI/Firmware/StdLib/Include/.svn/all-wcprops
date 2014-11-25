@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/stdlib.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/ctype.h
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/dirent.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/errno.h
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/math.h
+END
+pwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/pwd.h
+END
+sysexits.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/sysexits.h
+END
+netdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/netdb.h
+END
+nl_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/nl_types.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/time.h
+END
+locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/locale.h
+END
+libgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/libgen.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/assert.h
+END
+stringlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/stringlist.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/setjmp.h
+END
+float.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/float.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/unistd.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/fcntl.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/signal.h
+END
+paths.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/paths.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/inttypes.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/stdio.h
+END
+utime.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/utime.h
+END
+glob.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/glob.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/stdarg.h
+END
+err.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/err.h
+END
+strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/strings.h
+END
+iso646.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/iso646.h
+END
+langinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/langinfo.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/limits.h
+END
+wchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/wchar.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/stdint.h
+END
+stdbool.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/stdbool.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/string.h
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/stddef.h
+END
+resolv.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/resolv.h
+END
+wctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/Include/wctype.h
+END

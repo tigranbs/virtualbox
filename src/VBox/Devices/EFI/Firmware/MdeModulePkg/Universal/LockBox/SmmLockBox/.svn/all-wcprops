@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/LockBox/SmmLockBox
+END
+SmmLockBox.inf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/LockBox/SmmLockBox/SmmLockBox.inf
+END
+SmmLockBox.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/LockBox/SmmLockBox/SmmLockBox.c
+END

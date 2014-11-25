@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe
+END
+PciBusDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe.inf
+END
+PciHotPlugSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciHotPlugSupport.h
+END
+PciResourceSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciResourceSupport.c
+END
+PciEnumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciEnumerator.h
+END
+PciOptionRomSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciOptionRomSupport.h
+END
+PciBus.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciBus.c
+END
+PciPowerManagement.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciPowerManagement.c
+END
+PciResourceSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciResourceSupport.h
+END
+PciDriverOverride.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciDriverOverride.c
+END
+PciDeviceSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciDeviceSupport.c
+END
+PciBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciBus.h
+END
+PciPowerManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciPowerManagement.h
+END
+PciDriverOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciDriverOverride.h
+END
+PciDeviceSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciDeviceSupport.h
+END
+PciRomTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciRomTable.c
+END
+PciLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciLib.c
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/ComponentName.c
+END
+PciIo.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciIo.c
+END
+PciRomTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciRomTable.h
+END
+PciLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciLib.h
+END
+ComponentName.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/ComponentName.h
+END
+PciIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciIo.h
+END
+PciEnumeratorSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciEnumeratorSupport.c
+END
+PciCommand.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciCommand.c
+END
+PciHotPlugSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciHotPlugSupport.c
+END
+PciEnumerator.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciEnumerator.c
+END
+PciEnumeratorSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciEnumeratorSupport.h
+END
+PciCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciCommand.h
+END
+PciOptionRomSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/PciBusDxe/PciOptionRomSupport.c
+END

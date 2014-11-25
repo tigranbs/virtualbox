@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Library/Xml
+END
+XmlRoutines.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Library/Xml/XmlRoutines.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Library/Xml/__init__.py
+END

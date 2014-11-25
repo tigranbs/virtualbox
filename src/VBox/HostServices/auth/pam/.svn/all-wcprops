@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostServices/auth/pam
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/33185/trunk/src/VBox/HostServices/auth/pam/Makefile.kup
+END
+VBoxAuthPAM.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostServices/auth/pam/VBoxAuthPAM.c
+END

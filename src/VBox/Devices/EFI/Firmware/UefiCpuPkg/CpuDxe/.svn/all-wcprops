@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuDxe
+END
+CpuGdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuDxe/CpuGdt.c
+END
+CpuDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuDxe/CpuDxe.c
+END
+CpuDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuDxe/CpuDxe.h
+END
+CpuDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuDxe/CpuDxe.inf
+END

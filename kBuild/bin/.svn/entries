@@ -1,0 +1,70 @@
+10
+
+dir
+2712
+http://www.virtualbox.org/svn/kbuild-mirror/trunk/kBuild/bin
+http://www.virtualbox.org/svn/kbuild-mirror
+
+
+
+2013-11-21T14:51:26.001892Z
+2712
+bird
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1093d150-e988-4e3a-8fd4-90e8b09e91e5
+
+linux.x86
+dir
+
+freebsd.amd64
+dir
+
+haiku.x86
+dir
+
+solaris.amd64
+dir
+
+os2.x86
+dir
+
+win.amd64
+dir
+
+darwin.x86
+dir
+
+solaris.sparc32
+dir
+
+linux.amd64
+dir
+
+solaris.sparc64
+dir
+
+darwin.amd64
+dir
+
+freebsd.x86
+dir
+
+solaris.x86
+dir
+
+win.x86
+dir
+

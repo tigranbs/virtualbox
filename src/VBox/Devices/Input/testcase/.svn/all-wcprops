@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/53204/trunk/src/VBox/Devices/Input/testcase
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/46800/trunk/src/VBox/Devices/Input/testcase/Makefile.kmk
+END
+tstUsbMouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53204/trunk/src/VBox/Devices/Input/testcase/tstUsbMouse.cpp
+END

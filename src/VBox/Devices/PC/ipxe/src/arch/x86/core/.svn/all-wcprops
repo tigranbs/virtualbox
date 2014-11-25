@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/x86/core
+END
+x86_bigint.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/x86/core/x86_bigint.c
+END
+pcidirect.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/x86/core/pcidirect.c
+END
+x86_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/x86/core/x86_string.c
+END

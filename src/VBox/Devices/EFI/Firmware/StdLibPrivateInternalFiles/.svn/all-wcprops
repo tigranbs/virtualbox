@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLibPrivateInternalFiles
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLibPrivateInternalFiles/ReadMe.txt
+END
+DoNotUse.dec
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLibPrivateInternalFiles/DoNotUse.dec
+END

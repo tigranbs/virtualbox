@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser
+END
+DecParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/DecParser.py
+END
+InfSectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfSectionParser.py
+END
+InfGuidPpiProtocolSectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfGuidPpiProtocolSectionParser.py
+END
+InfBinarySectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfBinarySectionParser.py
+END
+DecParserMisc.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/DecParserMisc.py
+END
+InfBuildOptionSectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfBuildOptionSectionParser.py
+END
+InfParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfParser.py
+END
+InfDefineSectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfDefineSectionParser.py
+END
+InfPackageSectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfPackageSectionParser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/__init__.py
+END
+InfSourceSectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfSourceSectionParser.py
+END
+InfAsBuiltProcess.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfAsBuiltProcess.py
+END
+InfLibrarySectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfLibrarySectionParser.py
+END
+InfDepexSectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfDepexSectionParser.py
+END
+InfPcdSectionParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfPcdSectionParser.py
+END
+InfParserMisc.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python/UPT/Parser/InfParserMisc.py
+END

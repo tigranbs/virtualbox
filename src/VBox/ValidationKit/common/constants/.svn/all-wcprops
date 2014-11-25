@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/common/constants
+END
+rtexitcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/common/constants/rtexitcode.py
+END
+valueunit.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/common/constants/valueunit.py
+END
+tbreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/common/constants/tbreq.py
+END
+result.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/common/constants/result.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/common/constants/__init__.py
+END
+tbresp.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/common/constants/tbresp.py
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/common/constants/Makefile.kup
+END

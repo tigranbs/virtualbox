@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/8259InterruptControllerDxe
+END
+8259.inf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/8259InterruptControllerDxe/8259.inf
+END
+8259.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/8259InterruptControllerDxe/8259.c
+END
+8259.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/8259InterruptControllerDxe/8259.h
+END

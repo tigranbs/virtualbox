@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe
+END
+IScsiIbft.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiIbft.c
+END
+IScsiConfigStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiConfigStrings.uni
+END
+IScsiConfigNVDataStruc.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiConfigNVDataStruc.h
+END
+IScsiIbft.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiIbft.h
+END
+IScsiDriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiDriver.c
+END
+IScsiAuthenticationInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiAuthenticationInfo.c
+END
+IScsiMisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiMisc.c
+END
+IScsiConfigVfr.vfr
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiConfigVfr.vfr
+END
+IScsiDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiDriver.h
+END
+IScsiMisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiMisc.h
+END
+IScsiInitiatorName.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiInitiatorName.c
+END
+IScsiProto.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiProto.c
+END
+IScsiDhcp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiDhcp6.c
+END
+IScsiConfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiConfig.c
+END
+IScsiImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiImpl.h
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/ComponentName.c
+END
+IScsiProto.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiProto.h
+END
+IScsiDhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiDhcp6.h
+END
+IScsiDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiDxe.inf
+END
+IScsiConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiConfig.h
+END
+IScsiCHAP.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiCHAP.c
+END
+IScsiExtScsiPassThru.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiExtScsiPassThru.c
+END
+IScsiDhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiDhcp.c
+END
+IScsiCHAP.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiCHAP.h
+END
+IScsiDhcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/IScsiDxe/IScsiDhcp.h
+END

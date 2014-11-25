@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib
+END
+Ip4.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/Ip4.c
+END
+Udp4.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/Udp4.c
+END
+DxeSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/DxeSupport.c
+END
+EfiSocketLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/EfiSocketLib.inf
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/Socket.h
+END
+Service.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/Service.c
+END
+UseEfiSocketLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/UseEfiSocketLib.c
+END
+Init.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/Init.c
+END
+ReleaseNotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/ReleaseNotes.txt
+END
+Socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/Socket.c
+END
+Tcp4.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/EfiSocketLib/Tcp4.c
+END

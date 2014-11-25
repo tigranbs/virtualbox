@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuIo2Dxe
+END
+CpuIo2Dxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuIo2Dxe/CpuIo2Dxe.inf
+END
+CpuIo2Dxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuIo2Dxe/CpuIo2Dxe.c
+END
+CpuIo2Dxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/CpuIo2Dxe/CpuIo2Dxe.h
+END

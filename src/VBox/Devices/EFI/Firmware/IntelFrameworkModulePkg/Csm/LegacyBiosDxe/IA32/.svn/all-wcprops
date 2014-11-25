@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/LegacyBiosDxe/IA32
+END
+InterruptTable.asm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/LegacyBiosDxe/IA32/InterruptTable.asm
+END
+InterruptTable.S
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/LegacyBiosDxe/IA32/InterruptTable.S
+END

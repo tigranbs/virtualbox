@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52712/trunk/src/VBox/Devices/Network/slirp/libalias
+END
+libalias.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/27869/trunk/src/VBox/Devices/Network/slirp/libalias/libalias.3
+END
+alias_ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52683/trunk/src/VBox/Devices/Network/slirp/libalias/alias_ftp.c
+END
+alias_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/26495/trunk/src/VBox/Devices/Network/slirp/libalias/alias_dummy.c
+END
+alias_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52683/trunk/src/VBox/Devices/Network/slirp/libalias/alias_local.h
+END
+alias_smedia.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/26495/trunk/src/VBox/Devices/Network/slirp/libalias/alias_smedia.c
+END
+HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/27869/trunk/src/VBox/Devices/Network/slirp/libalias/HISTORY
+END
+alias_skinny.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/26495/trunk/src/VBox/Devices/Network/slirp/libalias/alias_skinny.c
+END
+alias_irc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/26495/trunk/src/VBox/Devices/Network/slirp/libalias/alias_irc.c
+END
+alias_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52683/trunk/src/VBox/Devices/Network/slirp/libalias/alias_util.c
+END
+alias_old.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/20958/trunk/src/VBox/Devices/Network/slirp/libalias/alias_old.c
+END
+alias_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52683/trunk/src/VBox/Devices/Network/slirp/libalias/alias_mod.c
+END
+alias.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52683/trunk/src/VBox/Devices/Network/slirp/libalias/alias.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/24235/trunk/src/VBox/Devices/Network/slirp/libalias/Makefile.kup
+END
+alias_proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/40423/trunk/src/VBox/Devices/Network/slirp/libalias/alias_proxy.c
+END
+alias_pptp.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/26495/trunk/src/VBox/Devices/Network/slirp/libalias/alias_pptp.c
+END
+alias_nbt.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52683/trunk/src/VBox/Devices/Network/slirp/libalias/alias_nbt.c
+END
+alias_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52683/trunk/src/VBox/Devices/Network/slirp/libalias/alias_mod.h
+END
+alias_dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/46765/trunk/src/VBox/Devices/Network/slirp/libalias/alias_dns.c
+END
+alias_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52712/trunk/src/VBox/Devices/Network/slirp/libalias/alias_db.c
+END
+alias.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/26495/trunk/src/VBox/Devices/Network/slirp/libalias/alias.h
+END
+alias_cuseeme.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/26495/trunk/src/VBox/Devices/Network/slirp/libalias/alias_cuseeme.c
+END

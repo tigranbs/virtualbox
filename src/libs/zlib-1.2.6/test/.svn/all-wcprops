@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/test
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/test/minigzip.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/test/example.c
+END
+infcover.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/test/infcover.c
+END

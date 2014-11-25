@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kbuild-mirror/!svn/ver/2571/trunk/kBuild/units
+END
+yacc.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/units/yacc.kmk
+END
+qt-Q_OBJECT.sed
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/units/qt-Q_OBJECT.sed
+END
+dtrace.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kbuild-mirror/!svn/ver/2571/trunk/kBuild/units/dtrace.kmk
+END
+qt3.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kbuild-mirror/!svn/ver/2544/trunk/kBuild/units/qt3.kmk
+END
+lex.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/units/lex.kmk
+END
+qt4.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kbuild-mirror/!svn/ver/2544/trunk/kBuild/units/qt4.kmk
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/IsaBusDxe
+END
+IsaBusDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/IsaBusDxe/IsaBusDxe.inf
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/IsaBusDxe/ComponentName.c
+END
+IsaIo.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/IsaBusDxe/IsaIo.c
+END
+InternalIsaIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/IsaBusDxe/InternalIsaIo.h
+END
+IsaBus.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/IsaBusDxe/IsaBus.c
+END
+ComponentName.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/IsaBusDxe/ComponentName.h
+END
+InternalIsaBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/IsaBusDxe/InternalIsaBus.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50673/trunk/src/VBox/Devices/Network/slirp/dnsproxy
+END
+dnsproxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/26495/trunk/src/VBox/Devices/Network/slirp/dnsproxy/dnsproxy.h
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/45321/trunk/src/VBox/Devices/Network/slirp/dnsproxy/hash.c
+END
+dnsproxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50673/trunk/src/VBox/Devices/Network/slirp/dnsproxy/dnsproxy.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/xf86driproto-2.1.0
+END
+xf86dri.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/xf86driproto-2.1.0/xf86dri.h
+END
+xf86driproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/xf86driproto-2.1.0/xf86driproto.h
+END
+xf86dristr.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/xf86driproto-2.1.0/xf86dristr.h
+END

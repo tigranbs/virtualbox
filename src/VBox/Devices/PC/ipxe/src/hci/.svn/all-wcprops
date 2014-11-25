@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/strerror.c
+END
+readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/readline.c
+END
+shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/shell.c
+END
+wireless_errors.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/wireless_errors.c
+END
+linux_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/linux_args.c
+END
+editstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/editstring.c
+END

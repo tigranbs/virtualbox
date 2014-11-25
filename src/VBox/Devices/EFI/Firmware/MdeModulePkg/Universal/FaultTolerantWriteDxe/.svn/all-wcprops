@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe
+END
+FaultTolerantWriteSmmDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmmDxe.h
+END
+FaultTolerantWrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWrite.h
+END
+FaultTolerantWriteSmm.inf
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm.inf
+END
+FaultTolerantWriteSmmDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmmDxe.inf
+END
+FaultTolerantWriteDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteDxe.inf
+END
+FaultTolerantWriteSmmCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmmCommon.h
+END
+FaultTolerantWriteSmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmm.c
+END
+FtwMisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FtwMisc.c
+END
+FaultTolerantWriteSmmDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteSmmDxe.c
+END
+UpdateWorkingBlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/UpdateWorkingBlock.c
+END
+FaultTolerantWrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWrite.c
+END
+FaultTolerantWriteDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/FaultTolerantWriteDxe/FaultTolerantWriteDxe.c
+END

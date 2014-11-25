@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Python/PyMod-2.7.2/Modules/zlib
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Python/PyMod-2.7.2/Modules/zlib/zutil.h
+END

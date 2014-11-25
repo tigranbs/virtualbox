@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/53073/trunk/src/VBox/Devices/VMMDev
+END
+VMMDevTesting.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46300/trunk/src/VBox/Devices/VMMDev/VMMDevTesting.h
+END
+VMMDevHGCM.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/50891/trunk/src/VBox/Devices/VMMDev/VMMDevHGCM.h
+END
+VMMDevState.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52789/trunk/src/VBox/Devices/VMMDev/VMMDevState.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Devices/VMMDev/Makefile.kup
+END
+VMMDevTesting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/46919/trunk/src/VBox/Devices/VMMDev/VMMDevTesting.cpp
+END
+VMMDevHGCM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/50982/trunk/src/VBox/Devices/VMMDev/VMMDevHGCM.cpp
+END
+VMMDev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53073/trunk/src/VBox/Devices/VMMDev/VMMDev.cpp
+END

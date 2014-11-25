@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/LibC/Signal
+END
+Signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/LibC/Signal/Signal.c
+END
+Signal.inf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/LibC/Signal/Signal.inf
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac
+END
+macdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/macdll.h
+END
+macrng.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/macrng.c
+END
+macthr.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/macthr.c
+END
+macsocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/macsocket.h
+END
+prcpucfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/prcpucfg.h
+END
+mdcriticalregion.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/mdcriticalregion.c
+END
+mactime.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/mactime.c
+END
+mdmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/mdmac.c
+END
+mdcriticalregion.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/mdcriticalregion.h
+END
+mactime.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/mactime.h
+END
+MacErrorHandling.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/MacErrorHandling.h
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/MANIFEST
+END
+mdmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/mdmac.h
+END
+macsockotpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/macsockotpt.c
+END
+macio.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/macio.c
+END
+macdll.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/macdll.c
+END
+macio.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/mac/macio.h
+END

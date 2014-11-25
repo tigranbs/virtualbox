@@ -1,0 +1,35 @@
+K 10
+svn:ignore
+V 374
+CvtURL
+FilesTest
+Makefile
+PropertiesTest
+RegFactory
+SizeTest01
+SizeTest02
+SizeTest03
+SizeTest04
+SizeTest05
+SizeTest06
+TestAtoms
+TestAutoLock
+TestBuffers
+TestCOMPtr
+TestCOMPtrEq
+TestArray
+TestCRT
+TestFactory
+TestID
+TestObserverService
+TestPermanentAtoms
+TestPipes
+TestThreads
+TestVoidBTree
+TestXPIDLString
+TestServMgr
+nsIFileEnumerator
+nsIFileTest
+TestCallTemplates
+TestDeque
+END

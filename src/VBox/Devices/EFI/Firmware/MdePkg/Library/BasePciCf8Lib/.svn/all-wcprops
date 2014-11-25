@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BasePciCf8Lib
+END
+PciCf8Lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BasePciCf8Lib/PciCf8Lib.c
+END
+BasePciCf8Lib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BasePciCf8Lib/BasePciCf8Lib.inf
+END

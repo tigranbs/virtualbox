@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53329/trunk/src/VBox/HostDrivers/Support/win
+END
+import-template-ntdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52953/trunk/src/VBox/HostDrivers/Support/win/import-template-ntdll.h
+END
+SUPR3HardenedMainA-win.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52967/trunk/src/VBox/HostDrivers/Support/win/SUPR3HardenedMainA-win.asm
+END
+SUPR3HardenedMain-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53220/trunk/src/VBox/HostDrivers/Support/win/SUPR3HardenedMain-win.cpp
+END
+SUPR3HardenedNoCrt-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52949/trunk/src/VBox/HostDrivers/Support/win/SUPR3HardenedNoCrt-win.cpp
+END
+import-template-kernel32.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52947/trunk/src/VBox/HostDrivers/Support/win/import-template-kernel32.h
+END
+VBoxDrv.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/HostDrivers/Support/win/VBoxDrv.rc
+END
+SUPDrvA-win.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/51958/trunk/src/VBox/HostDrivers/Support/win/SUPDrvA-win.asm
+END
+SUPSvc-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/win/SUPSvc-win.cpp
+END
+SUPDrv-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53329/trunk/src/VBox/HostDrivers/Support/win/SUPDrv-win.cpp
+END
+SUPHardenedVerifyProcess-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53220/trunk/src/VBox/HostDrivers/Support/win/SUPHardenedVerifyProcess-win.cpp
+END
+SUPR0IdcClient-win.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/win/SUPR0IdcClient-win.c
+END
+VBoxDrv.inf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/win/VBoxDrv.inf
+END
+SUPR3HardenedMainImports-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52969/trunk/src/VBox/HostDrivers/Support/win/SUPR3HardenedMainImports-win.cpp
+END
+SUPHardenedVerifyImage-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53220/trunk/src/VBox/HostDrivers/Support/win/SUPHardenedVerifyImage-win.cpp
+END
+winstub.com
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52448/trunk/src/VBox/HostDrivers/Support/win/winstub.com
+END
+SUPHardenedVerify-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/53220/trunk/src/VBox/HostDrivers/Support/win/SUPHardenedVerify-win.h
+END
+VBoxSupLib-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52940/trunk/src/VBox/HostDrivers/Support/win/VBoxSupLib-win.cpp
+END
+SUPLib-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53036/trunk/src/VBox/HostDrivers/Support/win/SUPLib-win.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/3540/trunk/src/VBox/HostDrivers/Support/win/Makefile.kup
+END

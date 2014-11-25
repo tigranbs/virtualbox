@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/TcgDxe
+END
+TpmComm.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/TcgDxe/TpmComm.c
+END
+TcgDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/TcgDxe/TcgDxe.c
+END
+TisDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/TcgDxe/TisDxe.c
+END
+TpmComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/TcgDxe/TpmComm.h
+END
+TcgDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/TcgDxe/TcgDxe.inf
+END

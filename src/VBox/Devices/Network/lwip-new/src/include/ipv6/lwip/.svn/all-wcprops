@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50207/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip
+END
+ip6_addr.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50207/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/ip6_addr.h
+END
+ip6_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50023/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/ip6_frag.h
+END
+icmp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/49592/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/icmp6.h
+END
+ip6.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/ip6.h
+END
+ethip6.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/ethip6.h
+END
+mld6.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/mld6.h
+END
+dhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/dhcp6.h
+END
+inet6.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50169/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/inet6.h
+END
+nd6.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/include/ipv6/lwip/nd6.h
+END

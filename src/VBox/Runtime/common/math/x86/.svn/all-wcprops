@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/5424/trunk/src/VBox/Runtime/common/math/x86
+END
+fenv-x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/5424/trunk/src/VBox/Runtime/common/math/x86/fenv-x86.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/5424/trunk/src/VBox/Runtime/common/math/x86/Makefile.kup
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52228/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/interface/pxeparent
+END
+pxeparent_dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/interface/pxeparent/pxeparent_dhcp.c
+END
+pxeparent.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/52228/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/interface/pxeparent/pxeparent.c
+END

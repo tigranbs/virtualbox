@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseLib/Ebc
+END
+SetJumpLongJump.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseLib/Ebc/SetJumpLongJump.c
+END
+CpuBreakpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseLib/Ebc/CpuBreakpoint.c
+END
+SwitchStack.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseLib/Ebc/SwitchStack.c
+END

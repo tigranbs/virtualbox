@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/37216/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine
+END
+c_1255.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1255.c
+END
+c_1257.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1257.c
+END
+compose.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/compose.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/config.c
+END
+loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/loader.c
+END
+cptable.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/cptable.c
+END
+c_424.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_424.c
+END
+wctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/wctype.c
+END
+wine.def
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/25949/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/wine.def
+END
+c_860.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_860.c
+END
+c_862.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_862.c
+END
+c_864.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_864.c
+END
+ldt.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/ldt.c
+END
+collation.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/collation.c
+END
+c_866.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_866.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/37216/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/debug.c
+END
+c_949.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_949.c
+END
+c_21866.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_21866.c
+END
+c_1026.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1026.c
+END
+c_28592.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28592.c
+END
+mbtowc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/mbtowc.c
+END
+wctomb.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/wctomb.c
+END
+c_28594.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28594.c
+END
+c_28596.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28596.c
+END
+sortkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/sortkey.c
+END
+c_28598.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28598.c
+END
+c_10007.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_10007.c
+END
+c_10081.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_10081.c
+END
+c_037.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_037.c
+END
+c_20127.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_20127.c
+END
+c_850.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_850.c
+END
+c_950.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_950.c
+END
+c_437.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_437.c
+END
+c_852.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_852.c
+END
+c_28600.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28600.c
+END
+c_737.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_737.c
+END
+c_856.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_856.c
+END
+c_775.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_775.c
+END
+fold.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/fold.c
+END
+c_875.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_875.c
+END
+c_28604.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28604.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/version.c
+END
+defaults
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/25949/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/defaults
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/utf8.c
+END
+c_28606.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28606.c
+END
+c_1250.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1250.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/Makefile.kup
+END
+c_1252.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1252.c
+END
+c_1254.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1254.c
+END
+c_1256.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1256.c
+END
+c_1258.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1258.c
+END
+c_500.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_500.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/string.c
+END
+casemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/casemap.c
+END
+c_861.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_861.c
+END
+c_20932.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_20932.c
+END
+c_863.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_863.c
+END
+c_10079.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_10079.c
+END
+c_865.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_865.c
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/port.c
+END
+c_869.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_869.c
+END
+c_1006.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1006.c
+END
+cpmap.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/cpmap.pl
+END
+c_28591.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28591.c
+END
+c_1361.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1361.c
+END
+c_28593.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28593.c
+END
+wine.map
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/wine.map
+END
+c_28595.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28595.c
+END
+c_28597.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28597.c
+END
+c_28599.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28599.c
+END
+c_10000.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_10000.c
+END
+c_10006.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_10006.c
+END
+c_10029.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_10029.c
+END
+c_932.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_932.c
+END
+c_936.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_936.c
+END
+c_855.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_855.c
+END
+c_874.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_874.c
+END
+c_28603.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28603.c
+END
+c_857.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_857.c
+END
+c_28605.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_28605.c
+END
+c_20866.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_20866.c
+END
+c_878.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_878.c
+END
+c_1251.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1251.c
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/mmap.c
+END
+c_1253.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/libWine/c_1253.c
+END

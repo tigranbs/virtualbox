@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr
+END
+egman.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/egman.c
+END
+err.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/err.c
+END
+AntlrDDK.mak
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/AntlrDDK.mak
+END
+makefile.cygwin
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/makefile.cygwin
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/misc.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/makefile
+END
+stdpccts.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/stdpccts.h
+END
+antlr1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/antlr1.txt
+END
+bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/bits.c
+END
+dumpcycles.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/dumpcycles.c
+END
+tokens.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/tokens.h
+END
+gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/gen.c
+END
+AntlrPPC.mak
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/AntlrPPC.mak
+END
+fcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/fcache.c
+END
+dumpnode.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/dumpnode.c
+END
+makefile1
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/makefile1
+END
+antlr.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/antlr.c
+END
+parser.dlg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/parser.dlg
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/globals.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/hash.c
+END
+antlr.g
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/antlr.g
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/hash.h
+END
+lex.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/lex.c
+END
+mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/mode.h
+END
+pred.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/pred.c
+END
+antlr.1
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/antlr.1
+END
+antlr.r
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/antlr.r
+END
+build.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/build.c
+END
+fset.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/fset.c
+END
+AntlrMS.mak
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/AntlrMS.mak
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/proto.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/README
+END
+syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/syn.h
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/generic.h
+END
+fset2.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/fset2.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/main.c
+END
+scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/scan.c
+END
+mrhoist.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/VfrCompile/Pccts/antlr/mrhoist.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLib/SysCall
+END
+TimerWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLib/SysCall/TimerWrapper.c
+END
+RuntimeMemAllocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLib/SysCall/RuntimeMemAllocation.c
+END
+CrtWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLib/SysCall/CrtWrapper.c
+END
+RealTimeClock.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLib/SysCall/RealTimeClock.c
+END
+BaseMemAllocation.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLib/SysCall/BaseMemAllocation.c
+END
+HelperWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLib/SysCall/HelperWrapper.c
+END

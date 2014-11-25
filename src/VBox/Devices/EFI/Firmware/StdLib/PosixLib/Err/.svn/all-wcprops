@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/PosixLib/Err
+END
+LibErr.inf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/PosixLib/Err/LibErr.inf
+END
+warn_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/StdLib/PosixLib/Err/warn_err.c
+END

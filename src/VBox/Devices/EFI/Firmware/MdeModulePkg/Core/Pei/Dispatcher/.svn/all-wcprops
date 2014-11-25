@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Core/Pei/Dispatcher
+END
+Dispatcher.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Core/Pei/Dispatcher/Dispatcher.c
+END

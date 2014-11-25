@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/DebugSupportDxe/X64
+END
+PlDebugSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/DebugSupportDxe/X64/PlDebugSupport.h
+END
+AsmFuncs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/DebugSupportDxe/X64/AsmFuncs.asm
+END
+AsmFuncs.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/DebugSupportDxe/X64/AsmFuncs.S
+END
+PlDebugSupportX64.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/DebugSupportDxe/X64/PlDebugSupportX64.c
+END

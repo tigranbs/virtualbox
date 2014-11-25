@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53295/trunk/src/VBox/Frontends/VirtualBox/src/extensions
+END
+QIMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIMenu.cpp
+END
+QIFileDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIFileDialog.h
+END
+QIDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIDialog.h
+END
+QIDialogButtonBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIDialogButtonBox.cpp
+END
+QILabelSeparator.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QILabelSeparator.h
+END
+QIStatusBarIndicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIStatusBarIndicator.cpp
+END
+QIListView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIListView.cpp
+END
+QIArrowButtonPress.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51873/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIArrowButtonPress.h
+END
+QITreeWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QITreeWidget.h
+END
+QIMainDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIMainDialog.h
+END
+QISplitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QISplitter.h
+END
+QIAdvancedSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIAdvancedSlider.h
+END
+QIArrowButtonSwitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51873/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIArrowButtonSwitch.h
+END
+QIStatusBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIStatusBar.h
+END
+QIToolButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIToolButton.h
+END
+QIRichToolButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIRichToolButton.cpp
+END
+QITabWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QITabWidget.h
+END
+QIArrowSplitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIArrowSplitter.cpp
+END
+QITableView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QITableView.cpp
+END
+QIProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIProcess.h
+END
+QIStyledItemDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/53295/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIStyledItemDelegate.h
+END
+QILabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QILabel.h
+END
+QIAdvancedToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIAdvancedToolBar.cpp
+END
+QIWidgetValidator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIWidgetValidator.cpp
+END
+QIRichTextLabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIRichTextLabel.cpp
+END
+QIMessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIMessageBox.cpp
+END
+QILineEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QILineEdit.cpp
+END
+QIDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIDialog.cpp
+END
+QIFileDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52816/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIFileDialog.cpp
+END
+QITreeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QITreeView.h
+END
+QILabelSeparator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QILabelSeparator.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/46575/trunk/src/VBox/Frontends/VirtualBox/src/extensions/Makefile.kup
+END
+QIArrowButtonPress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIArrowButtonPress.cpp
+END
+QITreeWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QITreeWidget.cpp
+END
+QIMainDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIMainDialog.cpp
+END
+QISplitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QISplitter.cpp
+END
+QIAdvancedSlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIAdvancedSlider.cpp
+END
+QIArrowButtonSwitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIArrowButtonSwitch.cpp
+END
+QIStatusBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIStatusBar.cpp
+END
+QIMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52130/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIMenu.h
+END
+QIDialogButtonBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIDialogButtonBox.h
+END
+QIStatusBarIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51992/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIStatusBarIndicator.h
+END
+QIListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIListView.h
+END
+QIProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIProcess.cpp
+END
+QILabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QILabel.cpp
+END
+QIRichToolButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51873/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIRichToolButton.h
+END
+QIArrowSplitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51873/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIArrowSplitter.h
+END
+QITableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QITableView.h
+END
+QITreeView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QITreeView.cpp
+END
+QIAdvancedToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIAdvancedToolBar.h
+END
+QIWidgetValidator.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIWidgetValidator.h
+END
+QIRichTextLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIRichTextLabel.h
+END
+QIMessageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51873/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QIMessageBox.h
+END
+QILineEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/QILineEdit.h
+END

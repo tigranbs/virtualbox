@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48737/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Include
+END
+VBoxMemLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Include/VBoxMemLayout.h
+END
+VBoxDebugLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Include/VBoxDebugLib.h
+END
+VBoxPkg.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Include/VBoxPkg.h
+END
+DevEFI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Include/DevEFI.h
+END

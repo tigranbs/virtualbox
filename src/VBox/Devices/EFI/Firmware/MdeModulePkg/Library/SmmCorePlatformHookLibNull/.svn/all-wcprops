@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmCorePlatformHookLibNull
+END
+SmmCorePlatformHookLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmCorePlatformHookLibNull/SmmCorePlatformHookLibNull.inf
+END
+SmmCorePlatformHookLibNull.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmCorePlatformHookLibNull/SmmCorePlatformHookLibNull.c
+END

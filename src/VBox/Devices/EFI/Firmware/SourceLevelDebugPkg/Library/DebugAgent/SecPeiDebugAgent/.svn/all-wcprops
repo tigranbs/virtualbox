@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/SecPeiDebugAgent
+END
+SecPeiDebugAgentLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/SecPeiDebugAgent/SecPeiDebugAgentLib.c
+END
+SecPeiDebugAgentLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/SecPeiDebugAgent/SecPeiDebugAgentLib.h
+END

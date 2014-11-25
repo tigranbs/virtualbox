@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/53369/trunk/src/VBox/HostDrivers/Support
+END
+SUPR0IdcClientComponent.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/SUPR0IdcClientComponent.c
+END
+SUPR3HardenedMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53045/trunk/src/VBox/HostDrivers/Support/SUPR3HardenedMain.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52947/trunk/src/VBox/HostDrivers/Support/Makefile.kmk
+END
+SUPR3HardenedNoCrt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52160/trunk/src/VBox/HostDrivers/Support/SUPR3HardenedNoCrt.cpp
+END
+SUPR0-def-lx.sed
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40802/trunk/src/VBox/HostDrivers/Support/SUPR0-def-lx.sed
+END
+SUPSvcGrant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/SUPSvcGrant.cpp
+END
+SUPDrvTracerA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/40781/trunk/src/VBox/HostDrivers/Support/SUPDrvTracerA.asm
+END
+SUPDrvIOC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/53269/trunk/src/VBox/HostDrivers/Support/SUPDrvIOC.h
+END
+SUPDrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53369/trunk/src/VBox/HostDrivers/Support/SUPDrv.c
+END
+SUPSvc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/SUPSvc.cpp
+END
+SUPDrv-dtrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/49396/trunk/src/VBox/HostDrivers/Support/SUPDrv-dtrace.cpp
+END
+SUPDrvTracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/49143/trunk/src/VBox/HostDrivers/Support/SUPDrvTracer.cpp
+END
+SUPDrv.d
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/40881/trunk/src/VBox/HostDrivers/Support/SUPDrv.d
+END
+SUPDrvInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/53054/trunk/src/VBox/HostDrivers/Support/SUPDrvInternal.h
+END
+SUPSvcInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/SUPSvcInternal.h
+END
+SUPDrvSem.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/SUPDrvSem.c
+END
+SUPR0IdcClient.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/HostDrivers/Support/SUPR0IdcClient.c
+END
+SUPR0IdcClientInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/SUPR0IdcClientInternal.h
+END
+SUPR3HardenedVerify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52940/trunk/src/VBox/HostDrivers/Support/SUPR3HardenedVerify.cpp
+END
+SUPLibTracerA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/HostDrivers/Support/SUPLibTracerA.asm
+END
+SUPLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53212/trunk/src/VBox/HostDrivers/Support/SUPLib.cpp
+END
+SUPLibLdr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53331/trunk/src/VBox/HostDrivers/Support/SUPLibLdr.cpp
+END
+SUPR0-def-pe.sed
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40795/trunk/src/VBox/HostDrivers/Support/SUPR0-def-pe.sed
+END
+SUPLibInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/SUPLibInternal.h
+END
+SUPLibSem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/SUPLibSem.cpp
+END
+SUPSvcGlobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/SUPSvcGlobal.cpp
+END
+SUPR3HardenedIPRT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/SUPR3HardenedIPRT.cpp
+END
+SUPR3HardenedMainTemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52436/trunk/src/VBox/HostDrivers/Support/SUPR3HardenedMainTemplate.cpp
+END
+SUPDrvIDC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/45250/trunk/src/VBox/HostDrivers/Support/SUPDrvIDC.h
+END
+SUPR0IdcClientStubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/SUPR0IdcClientStubs.c
+END

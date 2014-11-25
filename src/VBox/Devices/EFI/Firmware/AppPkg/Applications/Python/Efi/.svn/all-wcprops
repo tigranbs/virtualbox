@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Python/Efi
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Python/Efi/config.c
+END
+getpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Python/Efi/getpath.c
+END

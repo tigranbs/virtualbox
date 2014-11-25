@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library
+END
+slang_pp_version_syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_pp_version_syn.h
+END
+slang_version_syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_version_syn.h
+END
+slang_shader_syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_shader_syn.h
+END
+slang_core_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_core_gc.h
+END
+slang_fragment_builtin_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_fragment_builtin_gc.h
+END
+slang_120_core_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_120_core_gc.h
+END
+slang_builtin_120_fragment_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_builtin_120_fragment_gc.h
+END
+slang_common_builtin_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_common_builtin_gc.h
+END
+slang_pp_expression_syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_pp_expression_syn.h
+END
+slang_builtin_120_common_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_builtin_120_common_gc.h
+END
+slang_pp_directives_syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_pp_directives_syn.h
+END
+slang_vertex_builtin_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/slang/library/slang_vertex_builtin_gc.h
+END

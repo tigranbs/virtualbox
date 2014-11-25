@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiFileHandleLib
+END
+UefiFileHandleLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiFileHandleLib/UefiFileHandleLib.inf
+END
+UefiFileHandleLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiFileHandleLib/UefiFileHandleLib.c
+END

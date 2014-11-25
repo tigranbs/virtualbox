@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/grammar
+END
+grammar_crt.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/grammar/grammar_crt.h
+END
+grammar_syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/grammar/grammar_syn.h
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/grammar/grammar.h
+END
+grammar_mesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/shader/grammar/grammar_mesa.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Disk/CdExpressPei
+END
+PeiCdExpress.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Disk/CdExpressPei/PeiCdExpress.h
+END
+CdExpressPei.inf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Disk/CdExpressPei/CdExpressPei.inf
+END
+PeiCdExpress.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Disk/CdExpressPei/PeiCdExpress.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ
+END
+TestExecServiceTcp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/TestExecServiceTcp.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/Makefile.kmk
+END
+TestExecService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/TestExecService.cpp
+END
+vboxtxs-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/vboxtxs-readme.txt
+END
+TestExecServiceInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/TestExecServiceInternal.h
+END

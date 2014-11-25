@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/nt
+END
+NtProcessStartup-stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/nt/NtProcessStartup-stub.cpp
+END
+RTErrConvertFromNtStatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/nt/RTErrConvertFromNtStatus.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Runtime/nt/Makefile.kup
+END

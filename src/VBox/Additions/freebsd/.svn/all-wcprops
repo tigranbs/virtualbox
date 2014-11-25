@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/51963/trunk/src/VBox/Additions/freebsd
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/freebsd/Makefile
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Additions/freebsd/Makefile.kmk
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseDebugLibNull
+END
+BaseDebugLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull.inf
+END
+DebugLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseDebugLibNull/DebugLib.c
+END

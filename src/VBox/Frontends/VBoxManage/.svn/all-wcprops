@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Frontends/VBoxManage
+END
+VBoxManageDHCPServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48776/trunk/src/VBox/Frontends/VBoxManage/VBoxManageDHCPServer.cpp
+END
+VBoxManageBandwidthControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53266/trunk/src/VBox/Frontends/VBoxManage/VBoxManageBandwidthControl.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/49983/trunk/src/VBox/Frontends/VBoxManage/Makefile.kmk
+END
+VBoxManageMetrics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47908/trunk/src/VBox/Frontends/VBoxManage/VBoxManageMetrics.cpp
+END
+VBoxManageStorageController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51259/trunk/src/VBox/Frontends/VBoxManage/VBoxManageStorageController.cpp
+END
+VBoxManageList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53297/trunk/src/VBox/Frontends/VBoxManage/VBoxManageList.cpp
+END
+VBoxManageGuestCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52842/trunk/src/VBox/Frontends/VBoxManage/VBoxManageGuestCtrl.cpp
+END
+VBoxInternalManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/49621/trunk/src/VBox/Frontends/VBoxManage/VBoxInternalManage.cpp
+END
+VBoxManageHostonly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/46658/trunk/src/VBox/Frontends/VBoxManage/VBoxManageHostonly.cpp
+END
+VBoxManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Frontends/VBoxManage/VBoxManage.cpp
+END
+VBoxManageGuestCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/49181/trunk/src/VBox/Frontends/VBoxManage/VBoxManageGuestCtrl.h
+END
+VBoxManageGuestCtrlListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/49181/trunk/src/VBox/Frontends/VBoxManage/VBoxManageGuestCtrlListener.cpp
+END
+VBoxManageControlVM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Frontends/VBoxManage/VBoxManageControlVM.cpp
+END
+VBoxManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Frontends/VBoxManage/VBoxManage.h
+END
+VBoxManageHelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Frontends/VBoxManage/VBoxManageHelp.cpp
+END
+VBoxManageGuestProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/47000/trunk/src/VBox/Frontends/VBoxManage/VBoxManageGuestProp.cpp
+END
+VBoxManageDebugVM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52927/trunk/src/VBox/Frontends/VBoxManage/VBoxManageDebugVM.cpp
+END
+VBoxManageUSB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50117/trunk/src/VBox/Frontends/VBoxManage/VBoxManageUSB.cpp
+END
+VBoxManageDisk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Frontends/VBoxManage/VBoxManageDisk.cpp
+END
+VBoxManageModifyVM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52312/trunk/src/VBox/Frontends/VBoxManage/VBoxManageModifyVM.cpp
+END
+VBoxManageInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53266/trunk/src/VBox/Frontends/VBoxManage/VBoxManageInfo.cpp
+END
+VBoxManageMisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48087/trunk/src/VBox/Frontends/VBoxManage/VBoxManageMisc.cpp
+END
+VBoxManageAppliance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/50447/trunk/src/VBox/Frontends/VBoxManage/VBoxManageAppliance.cpp
+END
+VBoxManageNATNetwork.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/53312/trunk/src/VBox/Frontends/VBoxManage/VBoxManageNATNetwork.cpp
+END
+VBoxManageSnapshot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/53267/trunk/src/VBox/Frontends/VBoxManage/VBoxManageSnapshot.cpp
+END

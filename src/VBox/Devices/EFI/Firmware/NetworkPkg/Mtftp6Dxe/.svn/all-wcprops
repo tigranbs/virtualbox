@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe
+END
+Mtftp6Impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Impl.h
+END
+Mtftp6Option.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Option.c
+END
+Mtftp6Wrq.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Wrq.c
+END
+Mtftp6Dxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Dxe.inf
+END
+Mtftp6Driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Driver.c
+END
+Mtftp6Support.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Support.c
+END
+Mtftp6Option.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Option.h
+END
+Mtftp6Driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Driver.h
+END
+Mtftp6Impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Impl.c
+END
+Mtftp6Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Support.h
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/ComponentName.c
+END
+Mtftp6Rrq.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Mtftp6Dxe/Mtftp6Rrq.c
+END

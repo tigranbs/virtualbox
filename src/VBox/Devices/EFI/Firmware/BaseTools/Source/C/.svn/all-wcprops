@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48727/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/Makefile.kmk
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GNUmakefile
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/Makefile
+END

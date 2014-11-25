@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru
+END
+AtaAtapiPassThru.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/AtaAtapiPassThru.h
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/ComponentName.c
+END
+IdeMode.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/IdeMode.c
+END
+AtaAtapiPassThru.inf
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/AtaAtapiPassThru.inf
+END
+AhciMode.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/AhciMode.c
+END
+IdeMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/IdeMode.h
+END
+AhciMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/AhciMode.h
+END
+AtaAtapiPassThru.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Ata/AtaAtapiPassThru/AtaAtapiPassThru.c
+END

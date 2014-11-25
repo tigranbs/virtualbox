@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/35943/trunk/src/VBox/HostServices/auth/winlogon
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/33185/trunk/src/VBox/HostServices/auth/winlogon/Makefile.kup
+END
+winlogon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/35943/trunk/src/VBox/HostServices/auth/winlogon/winlogon.cpp
+END

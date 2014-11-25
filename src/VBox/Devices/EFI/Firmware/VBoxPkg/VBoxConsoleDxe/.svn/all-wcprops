@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52069/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxConsoleDxe
+END
+VBoxConsole.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52069/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxConsoleDxe/VBoxConsole.c
+END
+VBoxConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxConsoleDxe/VBoxConsole.h
+END
+VBoxConsoleDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxConsoleDxe/VBoxConsoleDxe.inf
+END

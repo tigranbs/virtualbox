@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd
+END
+UIWizardCloneVDPageBasic4.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageBasic4.h
+END
+UIWizardCloneVDPageExpert.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageExpert.h
+END
+UIWizardCloneVD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVD.cpp
+END
+UIWizardCloneVDPageBasic1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageBasic1.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/40870/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/Makefile.kup
+END
+UIWizardCloneVDPageBasic2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageBasic2.cpp
+END
+UIWizardCloneVDPageBasic3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageBasic3.cpp
+END
+UIWizardCloneVDPageBasic4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageBasic4.cpp
+END
+UIWizardCloneVD.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVD.h
+END
+UIWizardCloneVDPageBasic1.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageBasic1.h
+END
+UIWizardCloneVDPageExpert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageExpert.cpp
+END
+UIWizardCloneVDPageBasic2.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageBasic2.h
+END
+UIWizardCloneVDPageBasic3.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevd/UIWizardCloneVDPageBasic3.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/50900/trunk/src/VBox/Additions/common/VBoxVideo
+END
+HGSMIBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/50900/trunk/src/VBox/Additions/common/VBoxVideo/HGSMIBase.cpp
+END
+Modesetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/38929/trunk/src/VBox/Additions/common/VBoxVideo/Modesetting.cpp
+END
+VBVABase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/46857/trunk/src/VBox/Additions/common/VBoxVideo/VBVABase.cpp
+END

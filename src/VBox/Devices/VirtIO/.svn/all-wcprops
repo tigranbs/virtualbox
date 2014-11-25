@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/44902/trunk/src/VBox/Devices/VirtIO
+END
+Virtio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44902/trunk/src/VBox/Devices/VirtIO/Virtio.cpp
+END
+Virtio.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44856/trunk/src/VBox/Devices/VirtIO/Virtio.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/25966/trunk/src/VBox/Devices/VirtIO/Makefile.kup
+END

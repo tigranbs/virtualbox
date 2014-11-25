@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaMiniPortDxe
+END
+VBoxVgaMiniPortDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaMiniPortDxe/VBoxVgaMiniPortDxe.c
+END
+VBoxVgaMiniPortDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaMiniPortDxe/VBoxVgaMiniPortDxe.inf
+END
+VBoxVgaFont-8x14.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaMiniPortDxe/VBoxVgaFont-8x14.h
+END
+VBoxVgaFonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaMiniPortDxe/VBoxVgaFonts.h
+END
+VBoxVgaFont-8x16.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaMiniPortDxe/VBoxVgaFont-8x16.h
+END
+VBoxVgaFont-8x8.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaMiniPortDxe/VBoxVgaFont-8x8.h
+END

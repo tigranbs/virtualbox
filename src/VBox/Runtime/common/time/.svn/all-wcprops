@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52833/trunk/src/VBox/Runtime/common/time
+END
+timesupref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/time/timesupref.cpp
+END
+timesupA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/time/timesupA.asm
+END
+timesupA.mac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/time/timesupA.mac
+END
+timeprog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/time/timeprog.cpp
+END
+timesup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/time/timesup.cpp
+END
+timesysalias.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/time/timesysalias.cpp
+END
+timesupref.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/time/timesupref.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/5430/trunk/src/VBox/Runtime/common/time/Makefile.kup
+END
+time.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52833/trunk/src/VBox/Runtime/common/time/time.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe
+END
+CompareMemWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/CompareMemWrapper.c
+END
+BaseMemoryLibOptDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe.inf
+END
+ScanMem32Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/ScanMem32Wrapper.c
+END
+CopyMemWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/CopyMemWrapper.c
+END
+MemLibInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/MemLibInternals.h
+END
+ScanMem16Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/ScanMem16Wrapper.c
+END
+SetMemWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/SetMemWrapper.c
+END
+ScanMem8Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/ScanMem8Wrapper.c
+END
+ScanMem64Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/ScanMem64Wrapper.c
+END
+MemLibGuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/MemLibGuid.c
+END
+ZeroMemWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/ZeroMemWrapper.c
+END
+SetMem32Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/SetMem32Wrapper.c
+END
+SetMem16Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/SetMem16Wrapper.c
+END
+SetMem64Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseMemoryLibOptDxe/SetMem64Wrapper.c
+END

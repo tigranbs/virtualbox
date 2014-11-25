@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/TpmCommLib
+END
+CommonHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/TpmCommLib/CommonHeader.h
+END
+TpmComm.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/TpmCommLib/TpmComm.c
+END
+TpmCommLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/TpmCommLib/TpmCommLib.inf
+END
+TisPc.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/TpmCommLib/TisPc.c
+END

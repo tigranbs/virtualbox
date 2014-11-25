@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/test
+END
+TestServer.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/test/TestServer.js
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/test/Makefile.in
+END
+TestClient.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/test/TestClient.js
+END
+TestDConnect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/test/TestDConnect.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxOemHookStatusCodeLib
+END
+VBoxOemHookStatusCodeLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxOemHookStatusCodeLib/VBoxOemHookStatusCodeLib.inf
+END
+VBoxOemHookStatusCodeLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxOemHookStatusCodeLib/VBoxOemHookStatusCodeLib.c
+END

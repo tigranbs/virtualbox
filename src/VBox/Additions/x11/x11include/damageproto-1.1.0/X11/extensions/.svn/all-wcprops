@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/17574/trunk/src/VBox/Additions/x11/x11include/damageproto-1.1.0/X11/extensions
+END
+damageproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/17574/trunk/src/VBox/Additions/x11/x11include/damageproto-1.1.0/X11/extensions/damageproto.h
+END
+damagewire.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/17574/trunk/src/VBox/Additions/x11/x11include/damageproto-1.1.0/X11/extensions/damagewire.h
+END

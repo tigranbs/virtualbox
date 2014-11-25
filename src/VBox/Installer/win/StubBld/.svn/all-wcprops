@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/49116/trunk/src/VBox/Installer/win/StubBld
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49116/trunk/src/VBox/Installer/win/StubBld/Makefile.kmk
+END
+VBoxStubBld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Installer/win/StubBld/VBoxStubBld.cpp
+END
+VBoxStubBld.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/45319/trunk/src/VBox/Installer/win/StubBld/VBoxStubBld.h
+END

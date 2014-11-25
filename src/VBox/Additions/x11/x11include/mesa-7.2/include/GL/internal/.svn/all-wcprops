@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/internal
+END
+dri_sarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/internal/dri_sarea.h
+END
+glcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/internal/glcore.h
+END
+sarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/internal/sarea.h
+END
+dri_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/internal/dri_interface.h
+END

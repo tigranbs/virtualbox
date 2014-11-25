@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/28992/trunk/src/libs/xpcom18a4/xpcom/build
+END
+dlldeps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/dlldeps.cpp
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/malloc.c
+END
+nsXPCOMPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/xpcom/build/nsXPCOMPrivate.h
+END
+xpcom_alpha.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/xpcom_alpha.def
+END
+nsXPComInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/28992/trunk/src/libs/xpcom18a4/xpcom/build/nsXPComInit.cpp
+END
+win32.order
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/win32.order
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/.cvsignore
+END
+nsXPCOM.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/xpcom/build/nsXPCOM.h
+END
+nsXPCOMCID.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/nsXPCOMCID.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/Makefile.in
+END
+nsStringAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/nsStringAPI.cpp
+END
+nsOS2VACLegacy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/2981/trunk/src/libs/xpcom18a4/xpcom/build/nsOS2VACLegacy.cpp
+END
+xpcom-tests.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/xpcom-tests.pkg
+END
+xpcom.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/build/xpcom.pkg
+END

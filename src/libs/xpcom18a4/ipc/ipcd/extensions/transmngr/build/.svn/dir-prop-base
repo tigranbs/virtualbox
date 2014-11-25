@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 147
+Makefile
+module.rc
+module.res
+tmModule.obj
+transmngr_client.dll
+transmngr_client.pdb
+transmngr_client.exp
+transmngr_client.lib
+transmngr_client.ilk
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/RecvDgram
+END
+RecvDgram.inf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/RecvDgram/RecvDgram.inf
+END
+RecvDgram.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/RecvDgram/RecvDgram.c
+END

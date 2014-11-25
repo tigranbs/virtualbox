@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/53239/trunk/src/VBox/Installer/linux/debian
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/34774/trunk/src/VBox/Installer/linux/debian/copyright
+END
+postinst.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51040/trunk/src/VBox/Installer/linux/debian/postinst.in
+END
+preinst.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Installer/linux/debian/preinst.in
+END
+prerm.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48810/trunk/src/VBox/Installer/linux/debian/prerm.in
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53239/trunk/src/VBox/Installer/linux/debian/rules
+END
+changelog.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/32008/trunk/src/VBox/Installer/linux/debian/changelog.in
+END
+templates
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/33267/trunk/src/VBox/Installer/linux/debian/templates
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47937/trunk/src/VBox/Installer/linux/debian/control
+END
+lintian-override.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47894/trunk/src/VBox/Installer/linux/debian/lintian-override.in
+END
+LocalConfig.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51346/trunk/src/VBox/Installer/linux/debian/LocalConfig.kmk
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44969/trunk/src/VBox/Installer/linux/debian/dirs
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/32008/trunk/src/VBox/Installer/linux/debian/compat
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Installer/linux/debian/postrm
+END

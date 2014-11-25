@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/selftests
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/selftests/Makefile.kmk
+END
+tdSelfTest1.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/selftests/tdSelfTest1.py
+END
+tdSelfTest2.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/selftests/tdSelfTest2.py
+END
+tdSelfTest3.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/selftests/tdSelfTest3.py
+END
+tdSelfTest4.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/selftests/tdSelfTest4.py
+END

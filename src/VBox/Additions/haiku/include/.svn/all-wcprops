@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48940/trunk/src/VBox/Additions/haiku/include
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48940/trunk/src/VBox/Additions/haiku/include/lock.h
+END
+VBoxGuestInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/43363/trunk/src/VBox/Additions/haiku/include/VBoxGuestInternal.h
+END

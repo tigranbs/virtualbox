@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/Library/GopBltLib
+END
+GopBltLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/Library/GopBltLib/GopBltLib.c
+END
+GopBltLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/Library/GopBltLib/GopBltLib.inf
+END

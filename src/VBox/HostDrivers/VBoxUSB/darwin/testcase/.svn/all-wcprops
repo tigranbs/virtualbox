@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/VBoxUSB/darwin/testcase
+END
+tstOpenUSBDev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/VBoxUSB/darwin/testcase/tstOpenUSBDev.cpp
+END

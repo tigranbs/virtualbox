@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions
+END
+multibuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/multibuf.h
+END
+Xext.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/Xext.h
+END
+extutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/extutil.h
+END
+shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/shape.h
+END
+dpms.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/dpms.h
+END
+MITMisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/MITMisc.h
+END
+security.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/security.h
+END
+xtestext1.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/xtestext1.h
+END
+XEVI.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/XEVI.h
+END
+sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/sync.h
+END
+XLbx.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/XLbx.h
+END
+Xcup.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/Xcup.h
+END
+Xag.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/Xag.h
+END
+XShm.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/XShm.h
+END
+Xdbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/Xdbe.h
+END
+Xge.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/43280/trunk/src/VBox/Additions/x11/x11include/libXext-1.3.1/X11/extensions/Xge.h
+END

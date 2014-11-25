@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/solaris/Virtio
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Additions/solaris/Virtio/Makefile.kmk
+END
+VirtioNet-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/solaris/Virtio/VirtioNet-solaris.c
+END
+VirtioPci-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/solaris/Virtio/VirtioPci-solaris.c
+END
+Virtio-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/solaris/Virtio/Virtio-solaris.c
+END
+VirtioRing-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/solaris/Virtio/VirtioRing-solaris.c
+END
+VirtioPci-solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/34233/trunk/src/VBox/Additions/solaris/Virtio/VirtioPci-solaris.h
+END
+Virtio-solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/34233/trunk/src/VBox/Additions/solaris/Virtio/Virtio-solaris.h
+END

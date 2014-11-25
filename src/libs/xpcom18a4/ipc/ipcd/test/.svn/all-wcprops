@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/test
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/test/Makefile.in
+END
+TestIPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/test/TestIPC.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/test/.cvsignore
+END

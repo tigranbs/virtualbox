@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/53086/trunk/src/VBox/Frontends/VirtualBox/src/converter
+END
+UIConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/converter/UIConverter.h
+END
+UIConverterBackendCOM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52830/trunk/src/VBox/Frontends/VirtualBox/src/converter/UIConverterBackendCOM.cpp
+END
+UIConverterBackendGlobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/53086/trunk/src/VBox/Frontends/VirtualBox/src/converter/UIConverterBackendGlobal.cpp
+END
+UIConverterBackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52937/trunk/src/VBox/Frontends/VirtualBox/src/converter/UIConverterBackend.h
+END
+UIConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/converter/UIConverter.cpp
+END

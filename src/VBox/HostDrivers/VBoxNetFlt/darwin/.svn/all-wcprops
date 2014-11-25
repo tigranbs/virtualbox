@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/darwin
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/11935/trunk/src/VBox/HostDrivers/VBoxNetFlt/darwin/Makefile.kup
+END
+VBoxNetFlt-darwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/darwin/VBoxNetFlt-darwin.cpp
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/45365/trunk/src/VBox/HostDrivers/VBoxNetFlt/darwin/Info.plist
+END
+loadnetflt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/29844/trunk/src/VBox/HostDrivers/VBoxNetFlt/darwin/loadnetflt.sh
+END

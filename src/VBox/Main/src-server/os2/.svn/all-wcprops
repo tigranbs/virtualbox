@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-server/os2
+END
+PerformanceOs2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48010/trunk/src/VBox/Main/src-server/os2/PerformanceOs2.cpp
+END
+NetIf-os2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/50196/trunk/src/VBox/Main/src-server/os2/NetIf-os2.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/src-server/os2/Makefile.kup
+END
+USBProxyServiceOs2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-server/os2/USBProxyServiceOs2.cpp
+END

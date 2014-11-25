@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52822/trunk/src/VBox/Runtime/r0drv/haiku
+END
+time-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52822/trunk/src/VBox/Runtime/r0drv/haiku/time-r0drv-haiku.c
+END
+semeventmulti-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/43363/trunk/src/VBox/Runtime/r0drv/haiku/semeventmulti-r0drv-haiku.c
+END
+assert-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/assert-r0drv-haiku.c
+END
+RTLogWriteStdOut-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/43363/trunk/src/VBox/Runtime/r0drv/haiku/RTLogWriteStdOut-r0drv-haiku.c
+END
+thread-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/43366/trunk/src/VBox/Runtime/r0drv/haiku/thread-r0drv-haiku.c
+END
+semmutex-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/semmutex-r0drv-haiku.c
+END
+RTLogWriteDebugger-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/43366/trunk/src/VBox/Runtime/r0drv/haiku/RTLogWriteDebugger-r0drv-haiku.c
+END
+the-haiku-kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/the-haiku-kernel.h
+END
+memobj-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/memobj-r0drv-haiku.c
+END
+mp-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/r0drv/haiku/mp-r0drv-haiku.c
+END
+process-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/process-r0drv-haiku.c
+END
+spinlock-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/r0drv/haiku/spinlock-r0drv-haiku.c
+END
+semfastmutex-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/43366/trunk/src/VBox/Runtime/r0drv/haiku/semfastmutex-r0drv-haiku.c
+END
+semevent-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/semevent-r0drv-haiku.c
+END
+thread2-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/thread2-r0drv-haiku.c
+END
+alloc-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/alloc-r0drv-haiku.c
+END
+initterm-r0drv-haiku.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/43403/trunk/src/VBox/Runtime/r0drv/haiku/initterm-r0drv-haiku.c
+END

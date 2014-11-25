@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxPci
+END
+VBoxPci.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxPci/VBoxPci.c
+END
+VBoxPciInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/50779/trunk/src/VBox/HostDrivers/VBoxPci/VBoxPciInternal.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/HostDrivers/VBoxPci/Makefile.kmk
+END

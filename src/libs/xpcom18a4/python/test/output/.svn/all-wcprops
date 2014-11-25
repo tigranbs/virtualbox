@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/output
+END
+test_test_component
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/output/test_test_component
+END
+test_isupports_primitives
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/output/test_isupports_primitives
+END
+test_components
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/output/test_components
+END
+test_weakreferences
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/output/test_weakreferences
+END
+test_comfile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/output/test_comfile
+END
+test_streams
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/output/test_streams
+END
+test_com_exceptions
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/output/test_com_exceptions
+END

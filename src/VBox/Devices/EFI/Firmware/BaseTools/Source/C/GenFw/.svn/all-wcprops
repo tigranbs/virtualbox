@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw
+END
+elf64.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/elf64.h
+END
+Elf64Convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/Elf64Convert.h
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/GNUmakefile
+END
+GenFw.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/GenFw.c
+END
+ElfConvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/ElfConvert.c
+END
+GenFw.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/GenFw.h
+END
+Elf32Convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/Elf32Convert.c
+END
+ElfConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/ElfConvert.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/Makefile
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/Makefile.kmk
+END
+elf32.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/elf32.h
+END
+Elf32Convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/Elf32Convert.h
+END
+Elf64Convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/Elf64Convert.c
+END
+elf_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/GenFw/elf_common.h
+END

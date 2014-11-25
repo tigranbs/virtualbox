@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52148/trunk/src/VBox/Devices/USB/freebsd
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/31888/trunk/src/VBox/Devices/USB/freebsd/Makefile.kup
+END
+USBProxyDevice-freebsd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52148/trunk/src/VBox/Devices/USB/freebsd/USBProxyDevice-freebsd.cpp
+END

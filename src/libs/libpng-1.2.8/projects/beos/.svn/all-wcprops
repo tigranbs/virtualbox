@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/beos
+END
+x86-shared.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/beos/x86-shared.txt
+END
+x86-static.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/beos/x86-static.txt
+END
+x86-shared.proj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/beos/x86-shared.proj
+END
+x86-static.proj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/beos/x86-static.proj
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/Pei
+END
+StatusCodePei.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/Pei/StatusCodePei.c
+END
+MemoryStausCodeWorker.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/Pei/MemoryStausCodeWorker.c
+END
+StatusCodePei.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/Pei/StatusCodePei.h
+END
+StatusCodePei.inf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/Pei/StatusCodePei.inf
+END
+SerialStatusCodeWorker.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/Pei/SerialStatusCodeWorker.c
+END

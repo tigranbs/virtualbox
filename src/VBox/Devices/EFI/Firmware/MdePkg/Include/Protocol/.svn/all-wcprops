@@ -1,0 +1,965 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol
+END
+Decompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Decompress.h
+END
+ExtendedSalBootService.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ExtendedSalBootService.h
+END
+Metronome.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Metronome.h
+END
+SerialIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SerialIo.h
+END
+FirmwareManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/FirmwareManagement.h
+END
+EdidDiscovered.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/EdidDiscovered.h
+END
+SmmCpuIo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmCpuIo2.h
+END
+HiiPackageList.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/HiiPackageList.h
+END
+SmmCommunication.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmCommunication.h
+END
+Reset.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Reset.h
+END
+Variable.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Variable.h
+END
+DriverBinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DriverBinding.h
+END
+FirmwareVolume2.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/FirmwareVolume2.h
+END
+GuidedSectionExtraction.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/GuidedSectionExtraction.h
+END
+IdeControllerInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/IdeControllerInit.h
+END
+ServiceBinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ServiceBinding.h
+END
+DebugPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DebugPort.h
+END
+SmmStatusCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmStatusCode.h
+END
+IScsiInitiatorName.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/IScsiInitiatorName.h
+END
+ExtendedSalServiceClasses.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ExtendedSalServiceClasses.h
+END
+PxeBaseCodeCallBack.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PxeBaseCodeCallBack.h
+END
+HiiString.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/HiiString.h
+END
+LoadFile2.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/LoadFile2.h
+END
+EapManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/EapManagement.h
+END
+SimpleNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SimpleNetwork.h
+END
+DriverDiagnostics2.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DriverDiagnostics2.h
+END
+SmmSwDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmSwDispatch2.h
+END
+SmmUsbDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmUsbDispatch2.h
+END
+Tcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Tcp6.h
+END
+Mtftp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Mtftp4.h
+END
+FirmwareVolumeBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/FirmwareVolumeBlock.h
+END
+DriverDiagnostics.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DriverDiagnostics.h
+END
+SmmConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmConfiguration.h
+END
+PciRootBridgeIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PciRootBridgeIo.h
+END
+AuthenticationInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/AuthenticationInfo.h
+END
+UsbHostController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/UsbHostController.h
+END
+ScsiPassThru.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ScsiPassThru.h
+END
+HiiDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/HiiDatabase.h
+END
+CpuIo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/CpuIo2.h
+END
+EdidActive.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/EdidActive.h
+END
+Dhcp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Dhcp4.h
+END
+BlockIo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/BlockIo2.h
+END
+DevicePathUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DevicePathUtilities.h
+END
+PciEnumerationComplete.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PciEnumerationComplete.h
+END
+RealTimeClock.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/RealTimeClock.h
+END
+Udp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Udp6.h
+END
+IncompatiblePciDeviceSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/IncompatiblePciDeviceSupport.h
+END
+Ip4Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Ip4Config.h
+END
+Ip6Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Ip6Config.h
+END
+AcpiTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/AcpiTable.h
+END
+DeviceIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DeviceIo.h
+END
+IpSecConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/IpSecConfig.h
+END
+SimplePointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SimplePointer.h
+END
+LegacyRegion2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/LegacyRegion2.h
+END
+UserCredential2.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/UserCredential2.h
+END
+Capsule.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Capsule.h
+END
+MpService.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/MpService.h
+END
+DxeSmmReadyToLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DxeSmmReadyToLock.h
+END
+TcgService.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/TcgService.h
+END
+VariableWrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/VariableWrite.h
+END
+HiiFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/HiiFont.h
+END
+WatchdogTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/WatchdogTimer.h
+END
+PciHotPlugInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PciHotPlugInit.h
+END
+PciIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PciIo.h
+END
+SmmCpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmCpu.h
+END
+DriverConfiguration2.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DriverConfiguration2.h
+END
+DevicePathFromText.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DevicePathFromText.h
+END
+DiskInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DiskInfo.h
+END
+HiiConfigRouting.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/HiiConfigRouting.h
+END
+SmmPowerButtonDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmPowerButtonDispatch2.h
+END
+ReportStatusCodeHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ReportStatusCodeHandler.h
+END
+HiiImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/HiiImage.h
+END
+Ftp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Ftp4.h
+END
+NetworkInterfaceIdentifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/NetworkInterfaceIdentifier.h
+END
+Usb2HostController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Usb2HostController.h
+END
+SmmPeriodicTimerDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmPeriodicTimerDispatch2.h
+END
+PciPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PciPlatform.h
+END
+BlockIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/BlockIo.h
+END
+S3SmmSaveState.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/S3SmmSaveState.h
+END
+DeferredImageLoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DeferredImageLoad.h
+END
+Hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Hash.h
+END
+Runtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Runtime.h
+END
+DriverConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DriverConfiguration.h
+END
+ComponentName2.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ComponentName2.h
+END
+PciHotPlugRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PciHotPlugRequest.h
+END
+Cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Cpu.h
+END
+SecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SecurityPolicy.h
+END
+FormBrowser2.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/FormBrowser2.h
+END
+ScsiIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ScsiIo.h
+END
+StorageSecurityCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/StorageSecurityCommand.h
+END
+SmmGpiDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmGpiDispatch2.h
+END
+Ip6.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Ip6.h
+END
+AtaPassThru.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/AtaPassThru.h
+END
+ComponentName.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ComponentName.h
+END
+SmbusHc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmbusHc.h
+END
+S3SaveState.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/S3SaveState.h
+END
+Eap.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Eap.h
+END
+SmmSxDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmSxDispatch2.h
+END
+PciOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PciOverride.h
+END
+DevicePath.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DevicePath.h
+END
+AbsolutePointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/AbsolutePointer.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Timer.h
+END
+HiiConfigAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/HiiConfigAccess.h
+END
+SimpleTextInEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SimpleTextInEx.h
+END
+SimpleTextOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SimpleTextOut.h
+END
+Ebc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Ebc.h
+END
+PlatformToDriverConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PlatformToDriverConfiguration.h
+END
+AcpiSystemDescriptionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/AcpiSystemDescriptionTable.h
+END
+PiPcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PiPcd.h
+END
+SmmAccess2.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmAccess2.h
+END
+SmmPciRootBridgeIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmPciRootBridgeIo.h
+END
+UgaIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/UgaIo.h
+END
+UserCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/UserCredential.h
+END
+Tcp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Tcp4.h
+END
+BusSpecificDriverOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/BusSpecificDriverOverride.h
+END
+ScsiPassThruExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ScsiPassThruExt.h
+END
+LoadFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/LoadFile.h
+END
+SmmStandbyButtonDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmStandbyButtonDispatch2.h
+END
+Mtftp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Mtftp6.h
+END
+GraphicsOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/GraphicsOutput.h
+END
+UsbIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/UsbIo.h
+END
+PxeBaseCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PxeBaseCode.h
+END
+DebugSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DebugSupport.h
+END
+UgaDraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/UgaDraw.h
+END
+UnicodeCollation.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/UnicodeCollation.h
+END
+Smbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Smbios.h
+END
+IpSec.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/IpSec.h
+END
+Dhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Dhcp6.h
+END
+EdidOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/EdidOverride.h
+END
+Pcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Pcd.h
+END
+Udp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Udp4.h
+END
+Bis.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Bis.h
+END
+StatusCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/StatusCode.h
+END
+SmmControl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmControl2.h
+END
+DiskIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DiskIo.h
+END
+SmmReportStatusCodeHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmReportStatusCodeHandler.h
+END
+VlanConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/VlanConfig.h
+END
+Kms.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Kms.h
+END
+LoadedImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/LoadedImage.h
+END
+DriverSupportedEfiVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DriverSupportedEfiVersion.h
+END
+SimpleFileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SimpleFileSystem.h
+END
+PlatformDriverOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PlatformDriverOverride.h
+END
+PciHostBridgeResourceAllocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/PciHostBridgeResourceAllocation.h
+END
+MonotonicCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/MonotonicCounter.h
+END
+ManagedNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/ManagedNetwork.h
+END
+Security.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Security.h
+END
+Bds.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Bds.h
+END
+UserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/UserManager.h
+END
+SmmBase2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmBase2.h
+END
+SmmIoTrapDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmIoTrapDispatch2.h
+END
+TapeIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/TapeIo.h
+END
+DriverHealth.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DriverHealth.h
+END
+Arp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Arp.h
+END
+DevicePathToText.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DevicePathToText.h
+END
+SimpleTextIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SimpleTextIn.h
+END
+SuperIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SuperIo.h
+END
+McaInitPmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/McaInitPmi.h
+END
+Ip4.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/Ip4.h
+END
+SmmReadyToLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/SmmReadyToLock.h
+END
+DriverFamilyOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Include/Protocol/DriverFamilyOverride.h
+END

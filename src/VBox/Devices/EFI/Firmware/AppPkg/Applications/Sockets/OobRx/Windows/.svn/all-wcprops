@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/OobRx/Windows
+END
+OobRx.sln
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/OobRx/Windows/OobRx.sln
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/OobRx/Windows/main.c
+END
+OobRx.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/OobRx/Windows/OobRx.vcproj
+END
+OobRx.suo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/OobRx/Windows/OobRx.suo
+END

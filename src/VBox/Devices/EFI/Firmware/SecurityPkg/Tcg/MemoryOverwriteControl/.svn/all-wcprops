@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/MemoryOverwriteControl
+END
+TcgMor.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/MemoryOverwriteControl/TcgMor.h
+END
+TcgMor.inf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/MemoryOverwriteControl/TcgMor.inf
+END
+TcgMor.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Tcg/MemoryOverwriteControl/TcgMor.c
+END

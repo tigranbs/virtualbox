@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Core/Pei/CpuIo
+END
+CpuIo.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Core/Pei/CpuIo/CpuIo.c
+END

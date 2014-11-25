@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/IncompatiblePciDeviceSupportDxe
+END
+IncompatiblePciDeviceSupportDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/IncompatiblePciDeviceSupportDxe/IncompatiblePciDeviceSupportDxe.inf
+END
+IncompatiblePciDeviceSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci/IncompatiblePciDeviceSupportDxe/IncompatiblePciDeviceSupport.c
+END

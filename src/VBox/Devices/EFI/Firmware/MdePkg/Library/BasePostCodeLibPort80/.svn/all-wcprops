@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BasePostCodeLibPort80
+END
+PostCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BasePostCodeLibPort80/PostCode.c
+END
+BasePostCodeLibPort80.inf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BasePostCodeLibPort80/BasePostCodeLibPort80.inf
+END

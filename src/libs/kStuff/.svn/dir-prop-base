@@ -1,0 +1,5 @@
+K 13
+svn:externals
+V 62
+kStuff -r66 http://www.virtualbox.org/svn/kstuff-mirror/trunk 
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/DataHubStdErrDxe
+END
+DataHubStdErr.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/DataHubStdErrDxe/DataHubStdErr.c
+END
+DataHubStdErrDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/DataHubStdErrDxe/DataHubStdErrDxe.inf
+END

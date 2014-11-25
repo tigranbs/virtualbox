@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe
+END
+fsw_efi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48748/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_efi.c
+END
+VBoxFswParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/VBoxFswParam.h
+END
+fsw_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_lib.c
+END
+fsw_efi.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_efi.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/ReadMe.txt
+END
+fsw_iso9660.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_iso9660.c
+END
+fsw_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_base.h
+END
+fsw_hfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_hfs.c
+END
+VBoxFsDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/VBoxFsDxe.inf
+END
+fsw_iso9660.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_iso9660.h
+END
+fsw_hfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_hfs.h
+END
+fsw_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_core.c
+END
+fsw_efi_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_efi_lib.c
+END
+VBoxIso9660.inf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/VBoxIso9660.inf
+END
+VBoxFsDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/VBoxFsDxe.c
+END
+fsw_strfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_strfunc.h
+END
+VBoxHfs.inf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/VBoxHfs.inf
+END
+fsw_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_core.h
+END
+fsw_efi_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxFsDxe/fsw_efi_base.h
+END

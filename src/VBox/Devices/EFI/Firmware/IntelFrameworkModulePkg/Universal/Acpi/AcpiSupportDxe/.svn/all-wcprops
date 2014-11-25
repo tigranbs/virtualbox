@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/Acpi/AcpiSupportDxe
+END
+AcpiSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/Acpi/AcpiSupportDxe/AcpiSupport.c
+END
+AcpiSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/Acpi/AcpiSupportDxe/AcpiSupport.h
+END
+AcpiSupportDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/Acpi/AcpiSupportDxe/AcpiSupportDxe.inf
+END
+AcpiSupportAcpiSupportProtocol.c
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/Acpi/AcpiSupportDxe/AcpiSupportAcpiSupportProtocol.c
+END

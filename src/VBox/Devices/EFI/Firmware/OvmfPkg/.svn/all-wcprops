@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52193/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg
+END
+OvmfPkgIa32.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/OvmfPkgIa32.fdf
+END
+OvmfPkgIa32X64.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/OvmfPkgIa32X64.fdf
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/build.sh
+END
+create-release.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/create-release.py
+END
+OvmfPkgX64.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/OvmfPkgX64.fdf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/README
+END
+OvmfPkgIa32.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48727/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/OvmfPkgIa32.dsc
+END
+OvmfPkgIa32X64.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/OvmfPkgIa32X64.dsc
+END
+OvmfPkgX64.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48727/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/OvmfPkgX64.dsc
+END
+OvmfPkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/OvmfPkg.dec
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/Ps2MouseAbsolutePointerDxe
+END
+CommPs2.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/Ps2MouseAbsolutePointerDxe/CommPs2.c
+END
+Ps2MouseAbsolutePointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/Ps2MouseAbsolutePointerDxe/Ps2MouseAbsolutePointer.h
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/Ps2MouseAbsolutePointerDxe/ComponentName.c
+END
+CommPs2.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/Ps2MouseAbsolutePointerDxe/CommPs2.h
+END
+Ps2MouseAbsolutePointerDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/Ps2MouseAbsolutePointerDxe/Ps2MouseAbsolutePointerDxe.inf
+END
+Ps2MouseAbsolutePointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Bus/Isa/Ps2MouseAbsolutePointerDxe/Ps2MouseAbsolutePointer.c
+END

@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51287/trunk/src/VBox/Frontends/VirtualBox/images/unused
+END
+discard_cur_state_dis_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/discard_cur_state_dis_22px.png
+END
+serial_port_read_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/serial_port_read_16px.png
+END
+usb_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/usb_disabled_32px.png
+END
+go_to_error_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/go_to_error_16px.png
+END
+cd_add_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_add_disabled_22px.png
+END
+register_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/register_16px.png
+END
+extension_pack_install_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/extension_pack_install_disabled_32px.png
+END
+parallel_port_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/parallel_port_disabled_32px.png
+END
+fd_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_22px.png
+END
+hd_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/hd_22px.png
+END
+fd_24px.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_24px.png
+END
+vm_add_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/vm_add_32px.png
+END
+machine_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/machine_disabled_32px.png
+END
+fd_new_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_new_disabled_16px.png
+END
+sf_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/sf_disabled_32px.png
+END
+discard_cur_state_snapshot_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/discard_cur_state_snapshot_22px.png
+END
+fd_new_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_new_22px.png
+END
+vrdp_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/vrdp_disabled_32px.png
+END
+hd_new_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/hd_new_22px.png
+END
+extension_pack_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/extension_pack_disabled_16px.png
+END
+go_to_error_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/go_to_error_disabled_16px.png
+END
+proxy_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/proxy_disabled_16px.png
+END
+parallel_port_write_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/parallel_port_write_16px.png
+END
+hostkey_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/hostkey_disabled_32px.png
+END
+register_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/register_disabled_16px.png
+END
+sound_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/sound_disabled_32px.png
+END
+fd_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_disabled_32px.png
+END
+status_check_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/status_check_32px.png
+END
+vm_new_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/vm_new_disabled_32px.png
+END
+discard_cur_state_dis_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/discard_cur_state_dis_16px.png
+END
+session_info_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/session_info_disabled_32px.png
+END
+chipset_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/chipset_disabled_32px.png
+END
+cd_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_32px.png
+END
+fd_add_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_add_disabled_22px.png
+END
+list_movedown_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/list_movedown_22px.png
+END
+attachment_24px.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/attachment_24px.png
+END
+hd_new_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/hd_new_disabled_22px.png
+END
+description_edit_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/description_edit_16px.png
+END
+vm_show_logs_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/vm_show_logs_disabled_22px.png
+END
+cd_add_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_add_22px.png
+END
+site_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/site_disabled_16px.png
+END
+serial_port_write_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/serial_port_write_16px.png
+END
+discard_cur_state_snapshot_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/discard_cur_state_snapshot_16px.png
+END
+fd_new_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_new_16px.png
+END
+video_capture_write_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/video_capture_write_16px.png
+END
+global_settings_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/global_settings_disabled_16px.png
+END
+eraser_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/eraser_disabled_16px.png
+END
+serial_port_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/serial_port_disabled_32px.png
+END
+description_edit_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/description_edit_disabled_16px.png
+END
+discard_cur_state_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/discard_cur_state_22px.png
+END
+diskimage_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/diskimage_disabled_32px.png
+END
+register_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/register_32px.png
+END
+cd_new_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_new_disabled_22px.png
+END
+cd_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_22px.png
+END
+cd_24px.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_24px.png
+END
+parallel_port_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/parallel_port_disabled_16px.png
+END
+attachment_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/attachment_16px.png
+END
+list_moveup_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/list_moveup_disabled_22px.png
+END
+status_error_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/status_error_32px.png
+END
+machine_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/machine_disabled_16px.png
+END
+parallel_port_read_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/parallel_port_read_16px.png
+END
+cd_new_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_new_22px.png
+END
+discard_cur_state_snapshot_dis_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/discard_cur_state_snapshot_dis_22px.png
+END
+extension_pack_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/extension_pack_disabled_32px.png
+END
+transparent_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/transparent_16px.png
+END
+vm_show_logs_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/vm_show_logs_22px.png
+END
+proxy_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/proxy_disabled_32px.png
+END
+auto_resize_off_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/auto_resize_off_disabled_16px.png
+END
+list_movedown_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/list_movedown_disabled_22px.png
+END
+attachment_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/attachment_disabled_16px.png
+END
+sound_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/sound_disabled_16px.png
+END
+hd_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/hd_disabled_32px.png
+END
+discard_cur_state_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/discard_cur_state_16px.png
+END
+fd_new_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_new_disabled_22px.png
+END
+chipset_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/chipset_disabled_16px.png
+END
+cd_new_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_new_disabled_16px.png
+END
+hd_add_disabled_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/hd_add_disabled_22px.png
+END
+fd_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_32px.png
+END
+extension_pack_uninstall_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/extension_pack_uninstall_disabled_32px.png
+END
+site_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/site_disabled_32px.png
+END
+fd_add_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/fd_add_22px.png
+END
+extension_pack_install_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/extension_pack_install_32px.png
+END
+cd_new_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_new_16px.png
+END
+close_red_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/close_red_16px.png
+END
+hd_add_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/hd_add_22px.png
+END
+discard_cur_state_snapshot_dis_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/discard_cur_state_snapshot_dis_16px.png
+END
+extension_pack_uninstall_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/extension_pack_uninstall_32px.png
+END
+list_moveup_22px.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/list_moveup_22px.png
+END
+nw_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/nw_disabled_32px.png
+END
+description_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/description_disabled_16px.png
+END
+serial_port_disabled_16px.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/serial_port_disabled_16px.png
+END
+cd_disabled_32px.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50895/trunk/src/VBox/Frontends/VirtualBox/images/unused/cd_disabled_32px.png
+END

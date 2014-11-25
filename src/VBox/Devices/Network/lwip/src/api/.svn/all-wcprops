@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51521/trunk/src/VBox/Devices/Network/lwip/src/api
+END
+err.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/api/err.c
+END
+sockets.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51521/trunk/src/VBox/Devices/Network/lwip/src/api/sockets.c
+END
+api_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/api/api_lib.c
+END
+api_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/api/api_msg.c
+END
+tcpip.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/api/tcpip.c
+END

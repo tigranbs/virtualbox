@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52978/trunk/src/VBox/Frontends/VBoxShell
+END
+vboxshell.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52978/trunk/src/VBox/Frontends/VBoxShell/vboxshell.py
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Frontends/VBoxShell/Makefile.kmk
+END
+vboxinfo.vb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Frontends/VBoxShell/vboxinfo.vb
+END
+vboxinfo.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Frontends/VBoxShell/vboxinfo.vbs
+END

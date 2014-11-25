@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/tcp
+END
+httpcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/tcp/httpcore.c
+END
+ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/tcp/ftp.c
+END
+iscsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/tcp/iscsi.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/tcp/http.c
+END
+https.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/tcp/https.c
+END
+syslogs.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/tcp/syslogs.c
+END

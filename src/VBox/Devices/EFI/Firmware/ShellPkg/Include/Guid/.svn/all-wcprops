@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Include/Guid
+END
+ShellAliasGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Include/Guid/ShellAliasGuid.h
+END
+ShellMapGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Include/Guid/ShellMapGuid.h
+END
+ShellEnvironment2Ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Include/Guid/ShellEnvironment2Ext.h
+END
+ShellLibHiiGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Include/Guid/ShellLibHiiGuid.h
+END
+ShellPkgTokenSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Include/Guid/ShellPkgTokenSpace.h
+END
+ShellVariableGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Include/Guid/ShellVariableGuid.h
+END

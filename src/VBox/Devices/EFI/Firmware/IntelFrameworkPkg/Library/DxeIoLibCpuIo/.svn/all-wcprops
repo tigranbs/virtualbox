@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/DxeIoLibCpuIo
+END
+DxeCpuIoLibInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/DxeIoLibCpuIo/DxeCpuIoLibInternal.h
+END
+DxeIoLibCpuIo.inf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/DxeIoLibCpuIo/DxeIoLibCpuIo.inf
+END
+IoLibMmioBuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/DxeIoLibCpuIo/IoLibMmioBuffer.c
+END
+IoLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/DxeIoLibCpuIo/IoLib.c
+END
+IoHighLevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/DxeIoLibCpuIo/IoHighLevel.c
+END

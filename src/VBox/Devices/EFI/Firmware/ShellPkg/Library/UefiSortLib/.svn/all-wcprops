@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiSortLib
+END
+UefiSortLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiSortLib/UefiSortLib.c
+END
+UefiSortLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiSortLib/UefiSortLib.inf
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/tests
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/tests/Makefile.in
+END
+nsITestProxy.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/tests/nsITestProxy.idl
+END
+proxytests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/tests/proxytests.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/tests/.cvsignore
+END

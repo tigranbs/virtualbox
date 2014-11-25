@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/DxeCrc32GuidedSectionExtractLib
+END
+DxeCrc32GuidedSectionExtractLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/DxeCrc32GuidedSectionExtractLib/DxeCrc32GuidedSectionExtractLib.c
+END
+DxeCrc32GuidedSectionExtractLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/DxeCrc32GuidedSectionExtractLib/DxeCrc32GuidedSectionExtractLib.inf
+END

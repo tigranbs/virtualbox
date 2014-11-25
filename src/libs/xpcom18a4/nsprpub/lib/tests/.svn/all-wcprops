@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests
+END
+base64t.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/base64t.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/Makefile.in
+END
+arena.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/arena.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/string.c
+END

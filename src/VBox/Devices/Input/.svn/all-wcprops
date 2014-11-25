@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/53322/trunk/src/VBox/Devices/Input
+END
+PS2K.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/52782/trunk/src/VBox/Devices/Input/PS2K.cpp
+END
+DrvKeyboardQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51539/trunk/src/VBox/Devices/Input/DrvKeyboardQueue.cpp
+END
+PS2M.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/53322/trunk/src/VBox/Devices/Input/PS2M.cpp
+END
+UsbMouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/49814/trunk/src/VBox/Devices/Input/UsbMouse.cpp
+END
+DevPS2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/53055/trunk/src/VBox/Devices/Input/DevPS2.cpp
+END
+PS2Dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/49469/trunk/src/VBox/Devices/Input/PS2Dev.h
+END
+DrvMouseQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51609/trunk/src/VBox/Devices/Input/DrvMouseQueue.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Devices/Input/Makefile.kup
+END
+UsbKbd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51546/trunk/src/VBox/Devices/Input/UsbKbd.cpp
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52835/trunk/src/VBox/Runtime/common/dbg
+END
+dbgmodnm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/46164/trunk/src/VBox/Runtime/common/dbg/dbgmodnm.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/19566/trunk/src/VBox/Runtime/common/dbg/Makefile.kup
+END
+dbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/dbg/dbg.cpp
+END
+dbgcfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52138/trunk/src/VBox/Runtime/common/dbg/dbgcfg.cpp
+END
+dbgmod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49082/trunk/src/VBox/Runtime/common/dbg/dbgmod.cpp
+END
+dbgmoddeferred.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/49044/trunk/src/VBox/Runtime/common/dbg/dbgmoddeferred.cpp
+END
+dbgmodldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/49044/trunk/src/VBox/Runtime/common/dbg/dbgmodldr.cpp
+END
+dbgmodcontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/dbg/dbgmodcontainer.cpp
+END
+dbgas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/46281/trunk/src/VBox/Runtime/common/dbg/dbgas.cpp
+END
+dbgmoddwarf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52835/trunk/src/VBox/Runtime/common/dbg/dbgmoddwarf.cpp
+END
+dbgmodexports.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51450/trunk/src/VBox/Runtime/common/dbg/dbgmodexports.cpp
+END
+dbgmodcodeview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/49997/trunk/src/VBox/Runtime/common/dbg/dbgmodcodeview.cpp
+END
+dbgmoddbghelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51450/trunk/src/VBox/Runtime/common/dbg/dbgmoddbghelp.cpp
+END

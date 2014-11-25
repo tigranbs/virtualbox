@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/OpensslLib
+END
+Patch-HOWTO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/OpensslLib/Patch-HOWTO.txt
+END
+Install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/OpensslLib/Install.sh
+END
+buildinf.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/OpensslLib/buildinf.h
+END
+OpensslLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/OpensslLib/OpensslLib.inf
+END
+EDKII_openssl-0.9.8w.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/OpensslLib/EDKII_openssl-0.9.8w.patch
+END
+Install.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/OpensslLib/Install.cmd
+END

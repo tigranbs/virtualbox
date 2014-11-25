@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/52410/trunk/src/VBox/VMM/VMMSwitcher
+END
+32BitTo32Bit.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/41933/trunk/src/VBox/VMM/VMMSwitcher/32BitTo32Bit.asm
+END
+32BitToPAE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/41933/trunk/src/VBox/VMM/VMMSwitcher/32BitToPAE.asm
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/VMM/VMMSwitcher/Makefile.kup
+END
+PAETo32Bit.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/41933/trunk/src/VBox/VMM/VMMSwitcher/PAETo32Bit.asm
+END
+PAEand32Bit.mac
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47844/trunk/src/VBox/VMM/VMMSwitcher/PAEand32Bit.mac
+END
+PAEToPAE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/41933/trunk/src/VBox/VMM/VMMSwitcher/PAEToPAE.asm
+END
+32BitToAMD64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/45745/trunk/src/VBox/VMM/VMMSwitcher/32BitToAMD64.asm
+END
+AMD64To32Bit.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/41933/trunk/src/VBox/VMM/VMMSwitcher/AMD64To32Bit.asm
+END
+AMD64andLegacy.mac
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52410/trunk/src/VBox/VMM/VMMSwitcher/AMD64andLegacy.mac
+END
+LegacyandAMD64.mac
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49528/trunk/src/VBox/VMM/VMMSwitcher/LegacyandAMD64.mac
+END
+X86Stub.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/45721/trunk/src/VBox/VMM/VMMSwitcher/X86Stub.asm
+END
+AMD64ToPAE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/41933/trunk/src/VBox/VMM/VMMSwitcher/AMD64ToPAE.asm
+END
+PAEToAMD64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/45745/trunk/src/VBox/VMM/VMMSwitcher/PAEToAMD64.asm
+END
+AMD64Stub.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/45701/trunk/src/VBox/VMM/VMMSwitcher/AMD64Stub.asm
+END

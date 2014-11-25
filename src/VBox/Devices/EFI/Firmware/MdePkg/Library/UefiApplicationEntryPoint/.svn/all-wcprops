@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/UefiApplicationEntryPoint
+END
+ApplicationEntryPoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/UefiApplicationEntryPoint/ApplicationEntryPoint.c
+END
+UefiApplicationEntryPoint.inf
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint.inf
+END

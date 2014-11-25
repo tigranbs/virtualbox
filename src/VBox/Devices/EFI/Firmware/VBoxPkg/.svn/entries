@@ -1,0 +1,141 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-14T17:29:57.103930Z
+53336
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+VBoxInterceptorDxe
+dir
+
+VBoxVgaMiniPortDxe
+dir
+
+VBoxConsoleDxe
+dir
+
+Library
+dir
+
+VBoxSysTables
+dir
+
+VBoxFsDxe
+dir
+
+VBoxMimicryDxe
+dir
+
+VBoxAppleSim
+dir
+
+PartitionDxe
+dir
+
+VBoxPkg.dec
+file
+
+
+
+
+2014-11-25T14:40:24.924657Z
+bb4475902247dece2a11459ed7cc9ed2
+2014-11-14T17:29:57.103930Z
+53336
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3873
+
+Makefile.kup
+file
+
+
+
+
+2014-11-25T14:40:24.924657Z
+d41d8cd98f00b204e9800998ecf8427e
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+VBoxVgaDxe
+dir
+
+PlatformPei
+dir
+
+AcpiPlatformDxe
+dir
+
+Include
+dir
+
+VBoxVariable
+dir
+
+VBoxMisc
+dir
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/tools
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51809/trunk/src/VBox/Runtime/tools/Makefile.kmk
+END
+RTLdrFlt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/47057/trunk/src/VBox/Runtime/tools/RTLdrFlt.cpp
+END
+RTNtDbgHelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51450/trunk/src/VBox/Runtime/tools/RTNtDbgHelp.cpp
+END
+RTDbgSymCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/50615/trunk/src/VBox/Runtime/tools/RTDbgSymCache.cpp
+END
+RTGzip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51519/trunk/src/VBox/Runtime/tools/RTGzip.cpp
+END
+RTShutdown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/39723/trunk/src/VBox/Runtime/tools/RTShutdown.cpp
+END
+RTRm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44278/trunk/src/VBox/Runtime/tools/RTRm.cpp
+END
+RTSignTool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/tools/RTSignTool.cpp
+END
+RTUnzip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/51696/trunk/src/VBox/Runtime/tools/RTUnzip.cpp
+END
+RTManifest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/tools/RTManifest.cpp
+END
+RTTar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/tools/RTTar.cpp
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe
+END
+timer2.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/timer2.h
+END
+rtc_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/rtc_time.h
+END
+bios_smbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/bios_smbios.h
+END
+rtc_entropy.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/rtc_entropy.h
+END
+bios_nap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/bios_nap.h
+END
+bios_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/bios_timer.h
+END
+guestrpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/guestrpc.h
+END
+x86_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/x86_io.h
+END
+memtop_umalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/memtop_umalloc.h
+END
+rdtsc_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/rdtsc_timer.h
+END
+bios_sanboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/bios_sanboot.h
+END
+vmware.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/include/ipxe/vmware.h
+END

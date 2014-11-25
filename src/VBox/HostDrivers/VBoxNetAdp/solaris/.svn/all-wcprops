@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50664/trunk/src/VBox/HostDrivers/VBoxNetAdp/solaris
+END
+vboxnet.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/41700/trunk/src/VBox/HostDrivers/VBoxNetAdp/solaris/vboxnet.conf
+END
+hostname.vboxnet0
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/19647/trunk/src/VBox/HostDrivers/VBoxNetAdp/solaris/hostname.vboxnet0
+END
+VBoxNetAdp-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/50664/trunk/src/VBox/HostDrivers/VBoxNetAdp/solaris/VBoxNetAdp-solaris.c
+END

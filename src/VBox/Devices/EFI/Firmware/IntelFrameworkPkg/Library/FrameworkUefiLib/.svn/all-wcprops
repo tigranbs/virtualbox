@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/FrameworkUefiLib
+END
+UefiLibInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/FrameworkUefiLib/UefiLibInternal.h
+END
+Console.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/FrameworkUefiLib/Console.c
+END
+UefiNotTiano.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/FrameworkUefiLib/UefiNotTiano.c
+END
+UefiDriverModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/FrameworkUefiLib/UefiDriverModel.c
+END
+FrameworkUefiLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/FrameworkUefiLib/FrameworkUefiLib.inf
+END
+UefiLibPrint.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/FrameworkUefiLib/UefiLibPrint.c
+END
+UefiLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkPkg/Library/FrameworkUefiLib/UefiLib.c
+END

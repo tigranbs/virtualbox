@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/50237/trunk/src/VBox/Devices/USB/solaris
+END
+USBProxyDevice-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50237/trunk/src/VBox/Devices/USB/solaris/USBProxyDevice-solaris.cpp
+END

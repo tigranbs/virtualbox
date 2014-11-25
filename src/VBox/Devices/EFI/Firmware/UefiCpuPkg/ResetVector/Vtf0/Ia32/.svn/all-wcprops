@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Ia32
+END
+Flat32ToFlat64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Ia32/Flat32ToFlat64.asm
+END
+SearchForBfvBase.asm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Ia32/SearchForBfvBase.asm
+END
+SearchForSecEntry.asm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Ia32/SearchForSecEntry.asm
+END

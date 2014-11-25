@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PiDxeS3BootScriptLib
+END
+BootScriptSave.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PiDxeS3BootScriptLib/BootScriptSave.c
+END
+BootScriptExecute.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PiDxeS3BootScriptLib/BootScriptExecute.c
+END
+DxeS3BootScriptLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PiDxeS3BootScriptLib/DxeS3BootScriptLib.inf
+END
+InternalBootScriptLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PiDxeS3BootScriptLib/InternalBootScriptLib.h
+END
+BootScriptInternalFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PiDxeS3BootScriptLib/BootScriptInternalFormat.h
+END

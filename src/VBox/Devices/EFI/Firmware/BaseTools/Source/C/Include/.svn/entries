@@ -1,0 +1,46 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C/Include
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-27T11:03:53.188833Z
+48727
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+Common
+dir
+
+Guid
+dir
+
+Ia32
+dir
+
+Protocol
+dir
+
+X64
+dir
+
+IndustryStandard
+dir
+

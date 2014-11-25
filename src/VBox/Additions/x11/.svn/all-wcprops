@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/53346/trunk/src/VBox/Additions/x11
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/x11/Makefile.kmk
+END
+undefined_xfree86_modules
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/52225/trunk/src/VBox/Additions/x11/undefined_xfree86_modules
+END
+undefined_xorg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52225/trunk/src/VBox/Additions/x11/undefined_xorg
+END
+undefined_xfree86
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52651/trunk/src/VBox/Additions/x11/undefined_xfree86
+END

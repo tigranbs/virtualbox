@@ -1,0 +1,3059 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53373/trunk/src/VBox/Frontends/VirtualBox/images/hidpi
+END
+os_other_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_other_hidpi.png
+END
+edataman_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edataman_32px_hidpi.png
+END
+usb_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/52186/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_settings_16px_hidpi.png
+END
+extension_pack_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/extension_pack_16px_hidpi.png
+END
+cd_release_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_release_disabled_22px_hidpi.png
+END
+os_win2k_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win2k_hidpi.png
+END
+vm_shutdown_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_shutdown_16px_hidpi.png
+END
+scale_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scale_disabled_16px_hidpi.png
+END
+os_gentoo_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_gentoo_hidpi.png
+END
+next_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/next_16px_hidpi.png
+END
+global_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/global_settings_16px_hidpi.png
+END
+os_win7_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win7_64_hidpi.png
+END
+video_capture_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/video_capture_disabled_16px_hidpi.png
+END
+minimize_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/minimize_16px_hidpi.png
+END
+state_paused_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_paused_16px_hidpi.png
+END
+eraser_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/eraser_16px_hidpi.png
+END
+remove_host_iface_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/remove_host_iface_16px_hidpi.png
+END
+nw_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_24px_hidpi.png
+END
+refresh_disabled_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/refresh_disabled_32px_hidpi.png
+END
+hostkey_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hostkey_24px_hidpi.png
+END
+vm_group_name_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_group_name_disabled_16px_hidpi.png
+END
+edata_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_add_16px_hidpi.png
+END
+cpu_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cpu_16px_hidpi.png
+END
+vm_settings_disabled_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_settings_disabled_32px_hidpi.png
+END
+sound_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sound_24px_hidpi.png
+END
+drag_drop_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/drag_drop_disabled_16px_hidpi.png
+END
+controller_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/controller_add_16px_hidpi.png
+END
+snapshot_show_details_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_show_details_disabled_16px_hidpi.png
+END
+nw_settings_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_settings_disabled_16px_hidpi.png
+END
+statusbar_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/statusbar_on_disabled_16px_hidpi.png
+END
+parallel_port_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/parallel_port_32px_hidpi.png
+END
+os_solaris_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_solaris_hidpi.png
+END
+fd_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_add_16px_hidpi.png
+END
+cd_unmount_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_unmount_disabled_16px_hidpi.png
+END
+hd_settings_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_settings_disabled_16px_hidpi.png
+END
+snapshot_restore_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_restore_16px_hidpi.png
+END
+state_saved_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_saved_16px_hidpi.png
+END
+vm_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_settings_16px_hidpi.png
+END
+os_redhat_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_redhat_64_hidpi.png
+END
+hd_write_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_write_16px_hidpi.png
+END
+sf_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_24px_hidpi.png
+END
+keyboard_settings_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/51472/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/keyboard_settings_disabled_16px_hidpi.png
+END
+serial_port_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/serial_port_warning_16px_hidpi.png
+END
+floppy_expand_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/floppy_expand_16px_hidpi.png
+END
+os_win2k3_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win2k3_64_hidpi.png
+END
+exit_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/exit_16px_hidpi.png
+END
+vrdp_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vrdp_16px_hidpi.png
+END
+vm_pause_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_pause_32px_hidpi.png
+END
+preview_empty_4to3_242x192px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/51740/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/preview_empty_4to3_242x192px_hidpi.png
+END
+sf_edit_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_edit_16px_hidpi.png
+END
+hostkey_captured_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hostkey_captured_16px_hidpi.png
+END
+edata_save_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_save_disabled_22px_hidpi.png
+END
+hd_copy_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_copy_22px_hidpi.png
+END
+edata_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_remove_disabled_16px_hidpi.png
+END
+ide_collapse_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/ide_collapse_16px_hidpi.png
+END
+state_saving_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_saving_16px_hidpi.png
+END
+usb_expand_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_expand_16px_hidpi.png
+END
+fullscreen_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fullscreen_disabled_16px_hidpi.png
+END
+list_movedown_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/list_movedown_16px_hidpi.png
+END
+edata_save_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_save_22px_hidpi.png
+END
+fd_release_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_release_16px_hidpi.png
+END
+vm_new_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_new_32px_hidpi.png
+END
+cd_modify_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_modify_22px_hidpi.png
+END
+refresh_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/refresh_22px_hidpi.png
+END
+hd_release_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_release_16px_hidpi.png
+END
+vm_open_filemanager_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_open_filemanager_16px_hidpi.png
+END
+diskimage_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/diskimage_16px_hidpi.png
+END
+chipset_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/chipset_24px_hidpi.png
+END
+os_os2warp3_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_os2warp3_hidpi.png
+END
+site_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/site_24px_hidpi.png
+END
+vm_pause_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_pause_disabled_16px_hidpi.png
+END
+help_button_normal_mac_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/help_button_normal_mac_22px_hidpi.png
+END
+hd_copy_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_copy_disabled_22px_hidpi.png
+END
+edata_load_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_load_22px_hidpi.png
+END
+os_win2k8_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win2k8_64_hidpi.png
+END
+fd_unmount_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_unmount_16px_hidpi.png
+END
+state_aborted_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_aborted_16px_hidpi.png
+END
+fd_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_disabled_16px_hidpi.png
+END
+fd_read_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_read_16px_hidpi.png
+END
+web_camera_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/web_camera_16px_hidpi.png
+END
+shared_clipboard_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/shared_clipboard_16px_hidpi.png
+END
+vm_clone_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52920/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_clone_disabled_22px_hidpi.png
+END
+cd_remove_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_remove_disabled_22px_hidpi.png
+END
+os_gentoo_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_gentoo_64_hidpi.png
+END
+vtx_amdv_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vtx_amdv_16px_hidpi.png
+END
+os_qnx_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_qnx_hidpi.png
+END
+hd_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_24px_hidpi.png
+END
+fd_remove_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_remove_disabled_22px_hidpi.png
+END
+hd_remove_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_remove_disabled_22px_hidpi.png
+END
+edataglobal_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edataglobal_32px_hidpi.png
+END
+cd_write_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_write_16px_hidpi.png
+END
+scsi_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scsi_16px_hidpi.png
+END
+os_linux26_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_linux26_64_hidpi.png
+END
+os_win7_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win7_hidpi.png
+END
+sata_collapse_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sata_collapse_16px_hidpi.png
+END
+nw_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_disabled_16px_hidpi.png
+END
+usb_moveup_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_moveup_disabled_16px_hidpi.png
+END
+previous_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/previous_16px_hidpi.png
+END
+web_camera_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/web_camera_disabled_16px_hidpi.png
+END
+shared_clipboard_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/shared_clipboard_disabled_16px_hidpi.png
+END
+cd_release_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_release_disabled_16px_hidpi.png
+END
+fd_release_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_release_disabled_22px_hidpi.png
+END
+proxy_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/proxy_24px_hidpi.png
+END
+cd_read_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_read_16px_hidpi.png
+END
+serial_port_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/serial_port_32px_hidpi.png
+END
+refresh_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/refresh_disabled_22px_hidpi.png
+END
+sf_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_remove_16px_hidpi.png
+END
+snapshot_restore_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_restore_disabled_22px_hidpi.png
+END
+extension_pack_install_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/extension_pack_install_disabled_16px_hidpi.png
+END
+os_oracle_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_oracle_hidpi.png
+END
+os_netware_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_netware_hidpi.png
+END
+vm_start_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_start_16px_hidpi.png
+END
+keyboard_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51580/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/keyboard_16px_hidpi.png
+END
+attachment_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/attachment_add_16px_hidpi.png
+END
+cd_remove_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_remove_22px_hidpi.png
+END
+os_oracle_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_oracle_64_hidpi.png
+END
+drag_drop_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/drag_drop_16px_hidpi.png
+END
+os_xandros_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_xandros_hidpi.png
+END
+usb_new_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_new_16px_hidpi.png
+END
+vm_discard_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_discard_disabled_16px_hidpi.png
+END
+seamless_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/seamless_disabled_16px_hidpi.png
+END
+hd_new_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_new_16px_hidpi.png
+END
+fd_unmount_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_unmount_disabled_16px_hidpi.png
+END
+list_moveup_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/list_moveup_16px_hidpi.png
+END
+usb_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_remove_16px_hidpi.png
+END
+screenshot_take_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/screenshot_take_disabled_16px_hidpi.png
+END
+guesttools_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/guesttools_16px_hidpi.png
+END
+sf_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_remove_disabled_16px_hidpi.png
+END
+seamless_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/seamless_16px_hidpi.png
+END
+state_restoring_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_restoring_16px_hidpi.png
+END
+os_other_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_other_64_hidpi.png
+END
+mouse_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/mouse_disabled_16px_hidpi.png
+END
+vm_poweroff_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_poweroff_disabled_16px_hidpi.png
+END
+nw_loading_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_loading_16px_hidpi.png
+END
+hd_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_disabled_16px_hidpi.png
+END
+edata_save_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_save_disabled_16px_hidpi.png
+END
+refresh_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/refresh_warning_16px_hidpi.png
+END
+vm_reset_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_reset_16px_hidpi.png
+END
+chipset_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/chipset_warning_16px_hidpi.png
+END
+hd_copy_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_copy_16px_hidpi.png
+END
+cancel_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cancel_16px_hidpi.png
+END
+pin_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/pin_16px_hidpi.png
+END
+movie_reel_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51296/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/movie_reel_16px_hidpi.png
+END
+os_linux22_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_linux22_hidpi.png
+END
+sort_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sort_16px_hidpi.png
+END
+expanding_collapsing_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/expanding_collapsing_16px_hidpi.png
+END
+machine_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/machine_warning_16px_hidpi.png
+END
+os_archlinux_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_archlinux_64_hidpi.png
+END
+os_mint_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_mint_hidpi.png
+END
+meditation_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/meditation_32px_hidpi.png
+END
+edata_save_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_save_16px_hidpi.png
+END
+cd_modify_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_modify_16px_hidpi.png
+END
+refresh_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/refresh_16px_hidpi.png
+END
+session_info_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/session_info_16px_hidpi.png
+END
+cd_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_add_16px_hidpi.png
+END
+nw_write_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_write_16px_hidpi.png
+END
+hd_modify_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_modify_22px_hidpi.png
+END
+vm_create_shortcut_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_create_shortcut_16px_hidpi.png
+END
+usb_settings_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52186/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_settings_disabled_16px_hidpi.png
+END
+os_l4_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_l4_hidpi.png
+END
+fd_write_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_write_16px_hidpi.png
+END
+session_info_details_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/session_info_details_16px_hidpi.png
+END
+machine_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/machine_16px_hidpi.png
+END
+usb_movedown_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_movedown_16px_hidpi.png
+END
+floppy_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/floppy_add_disabled_16px_hidpi.png
+END
+floppy_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/floppy_16px_hidpi.png
+END
+extension_pack_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/extension_pack_24px_hidpi.png
+END
+hd_copy_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_copy_disabled_16px_hidpi.png
+END
+hostkey_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hostkey_disabled_16px_hidpi.png
+END
+edata_load_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_load_16px_hidpi.png
+END
+os_debian_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_debian_64_hidpi.png
+END
+select_file_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/select_file_16px_hidpi.png
+END
+display_software_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/display_software_16px_hidpi.png
+END
+hd_release_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_release_disabled_22px_hidpi.png
+END
+group_abstract_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/group_abstract_16px_hidpi.png
+END
+hd_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_warning_16px_hidpi.png
+END
+nw_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_32px_hidpi.png
+END
+os_linux_other_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_linux_other_hidpi.png
+END
+hostkey_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hostkey_32px_hidpi.png
+END
+os_win31_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win31_hidpi.png
+END
+mouse_seamless_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/mouse_seamless_16px_hidpi.png
+END
+sound_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sound_32px_hidpi.png
+END
+os_os2_other_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_os2_other_hidpi.png
+END
+usb_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_add_disabled_16px_hidpi.png
+END
+connect_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/connect_16px_hidpi.png
+END
+vm_clone_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52920/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_clone_disabled_16px_hidpi.png
+END
+usb_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_16px_hidpi.png
+END
+cd_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_remove_disabled_16px_hidpi.png
+END
+vm_delete_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_delete_disabled_16px_hidpi.png
+END
+fd_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_remove_disabled_16px_hidpi.png
+END
+vm_show_logs_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_show_logs_disabled_16px_hidpi.png
+END
+hd_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_remove_disabled_16px_hidpi.png
+END
+vm_save_state_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_save_state_16px_hidpi.png
+END
+snapshot_show_details_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_show_details_22px_hidpi.png
+END
+ide_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/ide_16px_hidpi.png
+END
+vm_group_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_group_remove_disabled_16px_hidpi.png
+END
+vm_show_logs_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_show_logs_32px_hidpi.png
+END
+mouse_can_seamless_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/mouse_can_seamless_16px_hidpi.png
+END
+sf_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_32px_hidpi.png
+END
+proxy_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/proxy_warning_16px_hidpi.png
+END
+os_freebsd_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/53373/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_freebsd_64_hidpi.png
+END
+fd_copy_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_copy_disabled_22px_hidpi.png
+END
+os_solaris_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_solaris_64_hidpi.png
+END
+video_capture_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/video_capture_settings_16px_hidpi.png
+END
+scsi_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scsi_add_16px_hidpi.png
+END
+scale_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scale_on_disabled_16px_hidpi.png
+END
+edataman_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edataman_16px_hidpi.png
+END
+vrdp_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vrdp_24px_hidpi.png
+END
+os_ubuntu_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_ubuntu_64_hidpi.png
+END
+list_movedown_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/list_movedown_disabled_16px_hidpi.png
+END
+fd_release_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_release_disabled_16px_hidpi.png
+END
+cd_release_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_release_22px_hidpi.png
+END
+parallel_port_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/parallel_port_warning_16px_hidpi.png
+END
+session_info_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/session_info_disabled_16px_hidpi.png
+END
+refresh_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/refresh_disabled_16px_hidpi.png
+END
+os_oraclesolaris_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_oraclesolaris_hidpi.png
+END
+cd_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_add_disabled_16px_hidpi.png
+END
+machine_abstract_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/machine_abstract_16px_hidpi.png
+END
+os_winxp_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_winxp_hidpi.png
+END
+mouse_can_seamless_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/mouse_can_seamless_on_disabled_16px_hidpi.png
+END
+snapshot_restore_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_restore_disabled_16px_hidpi.png
+END
+vm_settings_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_settings_disabled_16px_hidpi.png
+END
+mouse_can_seamless_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/mouse_can_seamless_disabled_16px_hidpi.png
+END
+chipset_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/chipset_32px_hidpi.png
+END
+os_freebsd_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53373/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_freebsd_hidpi.png
+END
+fd_modify_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_modify_22px_hidpi.png
+END
+fullscreen_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fullscreen_on_16px_hidpi.png
+END
+scsi_expand_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scsi_expand_16px_hidpi.png
+END
+parallel_port_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/parallel_port_16px_hidpi.png
+END
+os_winxp_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_winxp_64_hidpi.png
+END
+site_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/site_32px_hidpi.png
+END
+cd_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_remove_16px_hidpi.png
+END
+hd_remove_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_remove_22px_hidpi.png
+END
+select_file_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/select_file_disabled_16px_hidpi.png
+END
+vrdp_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vrdp_on_16px_hidpi.png
+END
+vm_discard_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_discard_32px_hidpi.png
+END
+ok_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/ok_16px_hidpi.png
+END
+edata_add_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_add_disabled_22px_hidpi.png
+END
+cd_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_disabled_16px_hidpi.png
+END
+sort_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sort_disabled_16px_hidpi.png
+END
+nw_read_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_read_16px_hidpi.png
+END
+vm_pause_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_pause_16px_hidpi.png
+END
+ram_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/ram_16px_hidpi.png
+END
+status_check_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/status_check_16px_hidpi.png
+END
+fd_copy_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_copy_22px_hidpi.png
+END
+screenshot_take_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/screenshot_take_16px_hidpi.png
+END
+controller_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/controller_add_disabled_16px_hidpi.png
+END
+scale_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scale_on_16px_hidpi.png
+END
+os_fedora_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_fedora_hidpi.png
+END
+os_opensuse_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_opensuse_hidpi.png
+END
+attachment_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/attachment_add_disabled_16px_hidpi.png
+END
+edata_remove_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_remove_22px_hidpi.png
+END
+help_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/help_16px_hidpi.png
+END
+disconnect_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/disconnect_16px_hidpi.png
+END
+hd_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_32px_hidpi.png
+END
+hd_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_add_disabled_16px_hidpi.png
+END
+usb_filter_edit_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_filter_edit_disabled_16px_hidpi.png
+END
+reset_warnings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/reset_warnings_16px_hidpi.png
+END
+vm_new_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_new_16px_hidpi.png
+END
+usb_movedown_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_movedown_disabled_16px_hidpi.png
+END
+sf_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_disabled_16px_hidpi.png
+END
+statusbar_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/statusbar_disabled_16px_hidpi.png
+END
+mouse_can_seamless_uncaptured_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/mouse_can_seamless_uncaptured_16px_hidpi.png
+END
+sata_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sata_add_16px_hidpi.png
+END
+snapshot_offline_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_offline_16px_hidpi.png
+END
+vrdp_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vrdp_disabled_16px_hidpi.png
+END
+hd_modify_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_modify_16px_hidpi.png
+END
+vm_delete_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_delete_32px_hidpi.png
+END
+snapshot_delete_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_delete_disabled_22px_hidpi.png
+END
+os_winnt4_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_winnt4_hidpi.png
+END
+nw_disconnected_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/53301/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_disconnected_16px_hidpi.png
+END
+vm_group_create_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_group_create_disabled_16px_hidpi.png
+END
+cd_copy_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_copy_22px_hidpi.png
+END
+proxy_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/proxy_32px_hidpi.png
+END
+arrow_right_10px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/arrow_right_10px_hidpi.png
+END
+floppy_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/floppy_add_16px_hidpi.png
+END
+hd_release_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_release_disabled_16px_hidpi.png
+END
+auto_resize_off_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/auto_resize_off_16px_hidpi.png
+END
+vm_start_disabled_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_start_disabled_32px_hidpi.png
+END
+fullscreen_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fullscreen_on_disabled_16px_hidpi.png
+END
+auto_resize_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/auto_resize_on_16px_hidpi.png
+END
+snapshot_take_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_take_disabled_22px_hidpi.png
+END
+vm_create_shortcut_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_create_shortcut_disabled_16px_hidpi.png
+END
+sata_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sata_16px_hidpi.png
+END
+os_linux24_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_linux24_hidpi.png
+END
+mouse_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/mouse_16px_hidpi.png
+END
+floppy_collapse_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/floppy_collapse_16px_hidpi.png
+END
+status_error_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/status_error_16px_hidpi.png
+END
+os_fedora_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_fedora_64_hidpi.png
+END
+seamless_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/seamless_on_disabled_16px_hidpi.png
+END
+keyboard_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51580/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/keyboard_24px_hidpi.png
+END
+os_win2k3_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win2k3_hidpi.png
+END
+vrdp_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vrdp_warning_16px_hidpi.png
+END
+usb_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_add_16px_hidpi.png
+END
+os_linux24_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_linux24_64_hidpi.png
+END
+hd_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_add_16px_hidpi.png
+END
+usb_filter_edit_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_filter_edit_16px_hidpi.png
+END
+fd_remove_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_remove_22px_hidpi.png
+END
+add_host_iface_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/add_host_iface_disabled_16px_hidpi.png
+END
+nw_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_settings_16px_hidpi.png
+END
+vm_shutdown_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_shutdown_disabled_16px_hidpi.png
+END
+snapshot_show_details_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_show_details_16px_hidpi.png
+END
+statusbar_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/statusbar_on_16px_hidpi.png
+END
+state_discarding_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_discarding_16px_hidpi.png
+END
+auto_resize_on_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/auto_resize_on_on_disabled_16px_hidpi.png
+END
+ide_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/ide_add_16px_hidpi.png
+END
+fd_copy_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_copy_disabled_16px_hidpi.png
+END
+os_freedos_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_freedos_hidpi.png
+END
+vm_pause_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_pause_on_16px_hidpi.png
+END
+usb_collapse_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_collapse_16px_hidpi.png
+END
+auto_resize_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/auto_resize_on_disabled_16px_hidpi.png
+END
+add_host_iface_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/add_host_iface_16px_hidpi.png
+END
+statusbar_settings_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/statusbar_settings_disabled_16px_hidpi.png
+END
+sf_settings_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_settings_disabled_16px_hidpi.png
+END
+description_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/description_16px_hidpi.png
+END
+serial_port_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/serial_port_16px_hidpi.png
+END
+cd_release_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_release_16px_hidpi.png
+END
+vm_save_state_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_save_state_disabled_16px_hidpi.png
+END
+usb_new_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_new_disabled_16px_hidpi.png
+END
+display_hardware_write_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/display_hardware_write_16px_hidpi.png
+END
+refresh_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/refresh_24px_hidpi.png
+END
+vrdp_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vrdp_on_disabled_16px_hidpi.png
+END
+fd_modify_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_modify_16px_hidpi.png
+END
+ide_expand_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/ide_expand_16px_hidpi.png
+END
+controller_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/controller_remove_16px_hidpi.png
+END
+snapshot_take_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_take_22px_hidpi.png
+END
+mouse_can_seamless_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/mouse_can_seamless_on_16px_hidpi.png
+END
+hostkey_captured_pressed_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hostkey_captured_pressed_16px_hidpi.png
+END
+snapshot_online_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_online_16px_hidpi.png
+END
+machine_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/machine_24px_hidpi.png
+END
+sf_edit_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_edit_disabled_16px_hidpi.png
+END
+hd_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_remove_16px_hidpi.png
+END
+extension_pack_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/extension_pack_32px_hidpi.png
+END
+import_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/import_16px_hidpi.png
+END
+hd_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_settings_16px_hidpi.png
+END
+cd_unmount_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_unmount_16px_hidpi.png
+END
+edata_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_add_disabled_16px_hidpi.png
+END
+preview_empty_16to10_242x167px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/51740/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/preview_empty_16to10_242x167px_hidpi.png
+END
+name_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/name_16px_hidpi.png
+END
+usb_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_disabled_16px_hidpi.png
+END
+cd_modify_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_modify_disabled_22px_hidpi.png
+END
+os_jrockitve_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_jrockitve_hidpi.png
+END
+fd_copy_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_copy_16px_hidpi.png
+END
+usb_unavailable_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_unavailable_disabled_16px_hidpi.png
+END
+vm_open_filemanager_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_open_filemanager_disabled_16px_hidpi.png
+END
+fd_modify_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_modify_disabled_22px_hidpi.png
+END
+usb_read_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_read_16px_hidpi.png
+END
+hd_modify_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_modify_disabled_22px_hidpi.png
+END
+adjust_win_size_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/adjust_win_size_disabled_16px_hidpi.png
+END
+usb_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_24px_hidpi.png
+END
+os_redhat_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_redhat_hidpi.png
+END
+extension_pack_uninstall_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/extension_pack_uninstall_disabled_16px_hidpi.png
+END
+edata_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_remove_16px_hidpi.png
+END
+usb_unavailable_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_unavailable_16px_hidpi.png
+END
+nw_error_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_error_16px_hidpi.png
+END
+vm_settings_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_settings_32px_hidpi.png
+END
+scsi_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scsi_add_disabled_16px_hidpi.png
+END
+edata_load_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_load_disabled_22px_hidpi.png
+END
+os_mint_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_mint_64_hidpi.png
+END
+os_win2k8_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win2k8_hidpi.png
+END
+snapshot_delete_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_delete_disabled_16px_hidpi.png
+END
+nw_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_warning_16px_hidpi.png
+END
+vrdp_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vrdp_32px_hidpi.png
+END
+hostkey_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hostkey_warning_16px_hidpi.png
+END
+os_netbsd_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_netbsd_64_hidpi.png
+END
+sound_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sound_warning_16px_hidpi.png
+END
+snapshot_delete_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_delete_22px_hidpi.png
+END
+sf_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_add_16px_hidpi.png
+END
+cd_copy_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_copy_16px_hidpi.png
+END
+state_running_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_running_16px_hidpi.png
+END
+vm_group_create_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_group_create_16px_hidpi.png
+END
+export_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/export_16px_hidpi.png
+END
+os_linux_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_linux_hidpi.png
+END
+usb_moveup_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_moveup_16px_hidpi.png
+END
+os_mandriva_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_mandriva_hidpi.png
+END
+nw_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/nw_16px_hidpi.png
+END
+video_capture_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/video_capture_on_16px_hidpi.png
+END
+help_button_pressed_mac_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/help_button_pressed_mac_22px_hidpi.png
+END
+hostkey_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hostkey_16px_hidpi.png
+END
+sata_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sata_add_disabled_16px_hidpi.png
+END
+sound_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sound_16px_hidpi.png
+END
+video_capture_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/video_capture_16px_hidpi.png
+END
+snapshot_take_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_take_disabled_16px_hidpi.png
+END
+hd_new_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_new_disabled_16px_hidpi.png
+END
+diskimage_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/diskimage_32px_hidpi.png
+END
+sf_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_warning_16px_hidpi.png
+END
+os_opensuse_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_opensuse_64_hidpi.png
+END
+arrow_left_10px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/arrow_left_10px_hidpi.png
+END
+os_turbolinux_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_turbolinux_hidpi.png
+END
+parallel_port_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/parallel_port_24px_hidpi.png
+END
+fullscreen_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fullscreen_16px_hidpi.png
+END
+extension_pack_uninstall_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/extension_pack_uninstall_16px_hidpi.png
+END
+sf_read_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_read_16px_hidpi.png
+END
+cd_copy_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_copy_disabled_22px_hidpi.png
+END
+os_os2warp4_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_os2warp4_hidpi.png
+END
+vm_pause_disabled_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_pause_disabled_32px_hidpi.png
+END
+attachment_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/attachment_remove_16px_hidpi.png
+END
+fd_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_remove_16px_hidpi.png
+END
+vm_show_logs_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_show_logs_16px_hidpi.png
+END
+statusbar_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/statusbar_16px_hidpi.png
+END
+sf_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_16px_hidpi.png
+END
+preview_full_16to9_242x155px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/51740/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/preview_full_16to9_242x155px_hidpi.png
+END
+arrow_down_10px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/arrow_down_10px_hidpi.png
+END
+hostkey_pressed_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hostkey_pressed_16px_hidpi.png
+END
+vm_reset_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_reset_disabled_16px_hidpi.png
+END
+video_capture_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/video_capture_on_disabled_16px_hidpi.png
+END
+os_archlinux_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_archlinux_hidpi.png
+END
+preview_full_4to3_242x192px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51740/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/preview_full_4to3_242x192px_hidpi.png
+END
+auto_resize_on_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/auto_resize_on_on_16px_hidpi.png
+END
+display_hardware_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/display_hardware_16px_hidpi.png
+END
+menubar_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/52696/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/menubar_on_16px_hidpi.png
+END
+os_macosx_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_macosx_64_hidpi.png
+END
+hd_read_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_read_16px_hidpi.png
+END
+os_win2k12_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win2k12_64_hidpi.png
+END
+site_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/site_warning_16px_hidpi.png
+END
+os_linux26_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_linux26_hidpi.png
+END
+vm_add_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_add_16px_hidpi.png
+END
+attachment_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/attachment_remove_disabled_16px_hidpi.png
+END
+vm_clone_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52920/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_clone_22px_hidpi.png
+END
+chipset_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/chipset_16px_hidpi.png
+END
+os_winvista_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_winvista_64_hidpi.png
+END
+os_netbsd_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_netbsd_hidpi.png
+END
+snapshot_take_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_take_16px_hidpi.png
+END
+usb_write_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_write_16px_hidpi.png
+END
+site_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/site_16px_hidpi.png
+END
+preview_empty_16to9_242x155px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51740/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/preview_empty_16to9_242x155px_hidpi.png
+END
+remove_host_iface_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/remove_host_iface_disabled_16px_hidpi.png
+END
+seamless_on_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/seamless_on_16px_hidpi.png
+END
+os_win8_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win8_hidpi.png
+END
+vm_discard_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_discard_16px_hidpi.png
+END
+menubar_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52696/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/menubar_on_disabled_16px_hidpi.png
+END
+os_macosx_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_macosx_hidpi.png
+END
+usb_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_warning_16px_hidpi.png
+END
+keyboard_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51472/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/keyboard_settings_16px_hidpi.png
+END
+os_win8_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win8_64_hidpi.png
+END
+os_win_other_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win_other_hidpi.png
+END
+sf_write_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_write_16px_hidpi.png
+END
+edata_add_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_add_22px_hidpi.png
+END
+restore_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/restore_16px_hidpi.png
+END
+preview_full_16to10_242x167px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/51740/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/preview_full_16to10_242x167px_hidpi.png
+END
+cd_modify_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_modify_disabled_16px_hidpi.png
+END
+os_openbsd_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_openbsd_64_hidpi.png
+END
+cd_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_16px_hidpi.png
+END
+controller_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/controller_remove_disabled_16px_hidpi.png
+END
+scale_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scale_16px_hidpi.png
+END
+sata_expand_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sata_expand_16px_hidpi.png
+END
+fd_modify_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_modify_disabled_16px_hidpi.png
+END
+fd_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_add_disabled_16px_hidpi.png
+END
+snapshot_show_details_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_show_details_disabled_22px_hidpi.png
+END
+sf_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_settings_16px_hidpi.png
+END
+statusbar_settings_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52187/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/statusbar_settings_16px_hidpi.png
+END
+hd_modify_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_modify_disabled_16px_hidpi.png
+END
+fd_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_16px_hidpi.png
+END
+hd_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_16px_hidpi.png
+END
+list_moveup_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/list_moveup_disabled_16px_hidpi.png
+END
+vm_start_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_start_32px_hidpi.png
+END
+usb_remove_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_remove_disabled_16px_hidpi.png
+END
+keyboard_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51580/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/keyboard_32px_hidpi.png
+END
+os_oraclesolaris_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_oraclesolaris_64_hidpi.png
+END
+snapshot_restore_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_restore_22px_hidpi.png
+END
+state_powered_off_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_powered_off_16px_hidpi.png
+END
+vm_discard_disabled_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_discard_disabled_32px_hidpi.png
+END
+ide_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/ide_add_disabled_16px_hidpi.png
+END
+adjust_win_size_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/adjust_win_size_16px_hidpi.png
+END
+session_info_runtime_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/session_info_runtime_16px_hidpi.png
+END
+os_win98_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win98_hidpi.png
+END
+vm_delete_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_delete_16px_hidpi.png
+END
+edata_load_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_load_disabled_16px_hidpi.png
+END
+os_debian_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_debian_hidpi.png
+END
+close_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/close_16px_hidpi.png
+END
+os_turbolinux_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_turbolinux_64_hidpi.png
+END
+os_openbsd_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_openbsd_hidpi.png
+END
+edata_remove_disabled_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51922/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/edata_remove_disabled_22px_hidpi.png
+END
+vtx_amdv_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vtx_amdv_disabled_16px_hidpi.png
+END
+snapshot_delete_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/snapshot_delete_16px_hidpi.png
+END
+os_os2ecs_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_os2ecs_hidpi.png
+END
+proxy_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/proxy_16px_hidpi.png
+END
+serial_port_24px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/serial_port_24px_hidpi.png
+END
+scsi_collapse_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/scsi_collapse_16px_hidpi.png
+END
+fd_release_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51295/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/fd_release_22px_hidpi.png
+END
+vm_start_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_start_disabled_16px_hidpi.png
+END
+arrow_up_10px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/arrow_up_10px_hidpi.png
+END
+hd_release_22px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/hd_release_22px_hidpi.png
+END
+close_popup_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/close_popup_16px_hidpi.png
+END
+session_info_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/session_info_32px_hidpi.png
+END
+refresh_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/refresh_32px_hidpi.png
+END
+vm_group_name_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_group_name_16px_hidpi.png
+END
+machine_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/machine_32px_hidpi.png
+END
+os_winme_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_winme_hidpi.png
+END
+os_ubuntu_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_ubuntu_hidpi.png
+END
+sf_add_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/sf_add_disabled_16px_hidpi.png
+END
+cd_copy_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/cd_copy_disabled_16px_hidpi.png
+END
+os_dos_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_dos_hidpi.png
+END
+os_xandros_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_xandros_64_hidpi.png
+END
+vm_group_remove_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_group_remove_16px_hidpi.png
+END
+usb_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/usb_32px_hidpi.png
+END
+os_winvista_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_winvista_hidpi.png
+END
+vm_delete_disabled_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_delete_disabled_32px_hidpi.png
+END
+os_os2warp45_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_os2warp45_hidpi.png
+END
+state_stuck_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/state_stuck_16px_hidpi.png
+END
+vm_poweroff_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_poweroff_16px_hidpi.png
+END
+vm_show_logs_disabled_32px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_show_logs_disabled_32px_hidpi.png
+END
+os_mandriva_64_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_mandriva_64_hidpi.png
+END
+os_win95_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50936/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/os_win95_hidpi.png
+END
+guesttools_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/guesttools_disabled_16px_hidpi.png
+END
+extension_pack_warning_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/extension_pack_warning_16px_hidpi.png
+END
+extension_pack_install_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/extension_pack_install_16px_hidpi.png
+END
+vm_pause_on_disabled_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51264/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_pause_on_disabled_16px_hidpi.png
+END
+vm_clone_16px_hidpi.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52920/trunk/src/VBox/Frontends/VirtualBox/images/hidpi/vm_clone_16px_hidpi.png
+END

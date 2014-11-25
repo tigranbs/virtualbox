@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52421/trunk/src/VBox/Additions/linux/sharedfolders
+END
+vbsfmount.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/31205/trunk/src/VBox/Additions/linux/sharedfolders/vbsfmount.c
+END
+vfsmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/38811/trunk/src/VBox/Additions/linux/sharedfolders/vfsmod.h
+END
+lnkops.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/35854/trunk/src/VBox/Additions/linux/sharedfolders/lnkops.c
+END
+files_vboxsf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/37350/trunk/src/VBox/Additions/linux/sharedfolders/files_vboxsf
+END
+mount.vboxsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/linux/sharedfolders/mount.vboxsf.c
+END
+vbsfmount.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/31202/trunk/src/VBox/Additions/linux/sharedfolders/vbsfmount.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/49643/trunk/src/VBox/Additions/linux/sharedfolders/Makefile.kmk
+END
+vfsmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48941/trunk/src/VBox/Additions/linux/sharedfolders/vfsmod.c
+END
+regops.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51622/trunk/src/VBox/Additions/linux/sharedfolders/regops.c
+END
+Makefile.module
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52421/trunk/src/VBox/Additions/linux/sharedfolders/Makefile.module
+END
+dirops.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48529/trunk/src/VBox/Additions/linux/sharedfolders/dirops.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/45300/trunk/src/VBox/Additions/linux/sharedfolders/utils.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg
+END
+UefiCpuPkg.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/UefiCpuPkg.dsc
+END
+UefiCpuPkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/UefiCpuPkg.dec
+END

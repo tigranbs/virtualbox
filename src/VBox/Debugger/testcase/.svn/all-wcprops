@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/48946/trunk/src/VBox/Debugger/testcase
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/31513/trunk/src/VBox/Debugger/testcase/Makefile.kup
+END
+tstDBGCStubs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/48946/trunk/src/VBox/Debugger/testcase/tstDBGCStubs.cpp
+END
+tstVBoxDbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Debugger/testcase/tstVBoxDbg.cpp
+END
+tstDBGCParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Debugger/testcase/tstDBGCParser.cpp
+END

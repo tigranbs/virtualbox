@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Variable/EmuRuntimeDxe
+END
+InitVariable.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/InitVariable.c
+END
+Variable.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/Variable.h
+END
+EmuVariableRuntimeDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariableRuntimeDxe.inf
+END
+EmuVariable.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Variable/EmuRuntimeDxe/EmuVariable.c
+END

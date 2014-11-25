@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/PlatformBdsLibNull
+END
+PlatformBdsLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/PlatformBdsLibNull/PlatformBdsLibNull.inf
+END
+BdsPlatform.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/PlatformBdsLibNull/BdsPlatform.c
+END
+PlatformData.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/PlatformBdsLibNull/PlatformData.c
+END
+BdsPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/PlatformBdsLibNull/BdsPlatform.h
+END

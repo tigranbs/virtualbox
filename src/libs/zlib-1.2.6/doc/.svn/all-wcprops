@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/doc
+END
+rfc1952.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/doc/rfc1952.txt
+END
+txtvsbin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/doc/txtvsbin.txt
+END
+algorithm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/doc/algorithm.txt
+END
+rfc1950.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/doc/rfc1950.txt
+END
+rfc1951.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/doc/rfc1951.txt
+END

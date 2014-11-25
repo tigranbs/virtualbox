@@ -1,0 +1,7 @@
+K 10
+svn:ignore
+V 26
+Makefile
+xpt_dump
+xpt_link
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxPeCoffLib
+END
+BasePeCoffLibInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxPeCoffLib/BasePeCoffLibInternals.h
+END
+BasePeCoff.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxPeCoffLib/BasePeCoff.c
+END
+VBoxPeCoffLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxPeCoffLib/VBoxPeCoffLib.inf
+END
+PeCoffLoaderEx.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxPeCoffLib/PeCoffLoaderEx.c
+END

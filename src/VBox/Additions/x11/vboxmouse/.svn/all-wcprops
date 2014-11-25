@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52224/trunk/src/VBox/Additions/x11/vboxmouse
+END
+vboxmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50578/trunk/src/VBox/Additions/x11/vboxmouse/vboxmouse.c
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52224/trunk/src/VBox/Additions/x11/vboxmouse/Makefile.kmk
+END

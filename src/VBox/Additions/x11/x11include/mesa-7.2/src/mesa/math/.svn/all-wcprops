@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math
+END
+m_copy_tmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_copy_tmp.h
+END
+m_dotprod_tmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_dotprod_tmp.h
+END
+m_norm_tmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_norm_tmp.h
+END
+m_xform.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_xform.h
+END
+m_xform_tmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_xform_tmp.h
+END
+m_translate.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_translate.h
+END
+mathmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/mathmod.h
+END
+m_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_vector.h
+END
+m_debug_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_debug_util.h
+END
+m_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_matrix.h
+END
+m_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_debug.h
+END
+m_clip_tmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_clip_tmp.h
+END
+m_eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_eval.h
+END
+m_trans_tmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/src/mesa/math/m_trans_tmp.h
+END

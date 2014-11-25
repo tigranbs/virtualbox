@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53349/trunk/src/VBox/Additions/WINNT/Graphics/Video
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48944/trunk/src/VBox/Additions/WINNT/Graphics/Video/Makefile.kmk
+END

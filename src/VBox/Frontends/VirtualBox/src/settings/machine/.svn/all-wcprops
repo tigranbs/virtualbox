@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine
+END
+UIMachineSettingsSF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSF.cpp
+END
+UIMachineSettingsSFDetails.ui
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/49342/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSFDetails.ui
+END
+UIMachineSettingsDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsDisplay.h
+END
+UIMachineSettingsUSBFilterDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsUSBFilterDetails.h
+END
+UIMachineSettingsSystem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/51989/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSystem.ui
+END
+UIMachineSettingsGeneral.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsGeneral.h
+END
+UIMachineSettingsSFDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSFDetails.h
+END
+UIMachineSettingsSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSerial.h
+END
+UIMachineSettingsUSB.ui
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/51370/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsUSB.ui
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/33882/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/Makefile.kup
+END
+UIMachineSettingsSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSystem.h
+END
+UIMachineSettingsUSB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsUSB.cpp
+END
+UIMachineSettingsParallel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsParallel.cpp
+END
+UIMachineSettingsNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsNetwork.h
+END
+UIMachineSettingsStorage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51276/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsStorage.ui
+END
+UIMachineSettingsDisplay.ui
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsDisplay.ui
+END
+UIMachineSettingsUSBFilterDetails.ui
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsUSBFilterDetails.ui
+END
+UIMachineSettingsSF.ui
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48582/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSF.ui
+END
+UIMachineSettingsPortForwardingDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsPortForwardingDlg.h
+END
+UIMachineSettingsDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsDisplay.cpp
+END
+UIMachineSettingsUSBFilterDetails.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsUSBFilterDetails.cpp
+END
+UIMachineSettingsAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsAudio.h
+END
+UIMachineSettingsGeneral.ui
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsGeneral.ui
+END
+UIMachineSettingsStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsStorage.h
+END
+UIMachineSettingsSerial.ui
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSerial.ui
+END
+UIMachineSettingsSF.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSF.h
+END
+UIMachineSettingsGeneral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsGeneral.cpp
+END
+UIMachineSettingsSFDetails.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSFDetails.cpp
+END
+UIMachineSettingsSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSerial.cpp
+END
+UIMachineSettingsSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52936/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsSystem.cpp
+END
+UIMachineSettingsNetwork.ui
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/51280/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsNetwork.ui
+END
+UIMachineSettingsParallel.ui
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsParallel.ui
+END
+UIMachineSettingsNetwork.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsNetwork.cpp
+END
+UIMachineSettingsAudio.ui
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/46634/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsAudio.ui
+END
+UIMachineSettingsPortForwardingDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsPortForwardingDlg.cpp
+END
+UIMachineSettingsUSB.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsUSB.h
+END
+UIMachineSettingsAudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsAudio.cpp
+END
+UIMachineSettingsParallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsParallel.h
+END
+UIMachineSettingsStorage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/settings/machine/UIMachineSettingsStorage.cpp
+END

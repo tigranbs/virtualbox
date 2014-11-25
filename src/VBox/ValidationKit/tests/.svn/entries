@@ -1,0 +1,104 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/ValidationKit/tests
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-10-22T18:17:50.403679Z
+53120
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+autostart
+dir
+
+cpu
+dir
+
+usb
+dir
+
+teleportation
+dir
+
+network
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:42:15.676657Z
+3a4ba2959c042942767f3fa00b27fdd6
+2014-09-17T14:51:43.053392Z
+52776
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1909
+
+smoketests
+dir
+
+installation
+dir
+
+unittests
+dir
+
+storage
+dir
+
+api
+dir
+
+shutdown
+dir
+
+selftests
+dir
+
+benchmarks
+dir
+
+additions
+dir
+

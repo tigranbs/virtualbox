@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/UefiHiiServicesLib
+END
+UefiHiiServicesLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.c
+END
+UefiHiiServicesLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.inf
+END

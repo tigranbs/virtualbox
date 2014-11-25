@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48727/trunk/src/VBox/Devices/EFI/Firmware/BaseTools
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Makefile
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Makefile.kmk
+END
+toolsetup.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/toolsetup.bat
+END
+building-gcc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/building-gcc.txt
+END
+BuildNotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/BuildNotes.txt
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/GNUmakefile
+END
+BuildEnv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/BuildEnv
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/ReadMe.txt
+END

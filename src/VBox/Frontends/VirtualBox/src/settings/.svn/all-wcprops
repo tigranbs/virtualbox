@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/settings
+END
+UISettingsDialogSpecific.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsDialogSpecific.cpp
+END
+UISettingsDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50906/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsDefs.h
+END
+VBoxSettingsSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/VBoxSettingsSelector.h
+END
+UISettingsDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47772/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsDialog.ui
+END
+UISettingsDialogSpecific.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsDialogSpecific.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/32243/trunk/src/VBox/Frontends/VirtualBox/src/settings/Makefile.kup
+END
+UISettingsPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsPage.cpp
+END
+UISettingsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsDialog.cpp
+END
+UISettingsDefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsDefs.cpp
+END
+UISettingsPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsPage.h
+END
+VBoxSettingsSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/settings/VBoxSettingsSelector.cpp
+END
+UISettingsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/settings/UISettingsDialog.h
+END

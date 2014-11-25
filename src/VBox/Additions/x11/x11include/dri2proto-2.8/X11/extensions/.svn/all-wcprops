@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/49188/trunk/src/VBox/Additions/x11/x11include/dri2proto-2.8/X11/extensions
+END
+dri2proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/49188/trunk/src/VBox/Additions/x11/x11include/dri2proto-2.8/X11/extensions/dri2proto.h
+END
+dri2tokens.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/49188/trunk/src/VBox/Additions/x11/x11include/dri2proto-2.8/X11/extensions/dri2tokens.h
+END

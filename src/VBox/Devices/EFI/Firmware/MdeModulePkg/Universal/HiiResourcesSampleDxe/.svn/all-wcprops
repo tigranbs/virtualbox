@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/HiiResourcesSampleDxe
+END
+Sample.vfr
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/HiiResourcesSampleDxe/Sample.vfr
+END
+HiiResourcesSampleDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/HiiResourcesSampleDxe/HiiResourcesSampleDxe.inf
+END
+SampleStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/HiiResourcesSampleDxe/SampleStrings.uni
+END
+HiiResourcesSample.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/HiiResourcesSampleDxe/HiiResourcesSample.c
+END

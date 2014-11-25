@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/ResetSystemLib
+END
+ResetSystemLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/ResetSystemLib/ResetSystemLib.inf
+END
+ResetSystemLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/ResetSystemLib/ResetSystemLib.c
+END

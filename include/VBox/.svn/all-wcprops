@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/vbox/!svn/ver/53330/trunk/include/VBox
+END
+err.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/53330/trunk/include/VBox/err.h
+END
+vd-ifs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/52022/trunk/include/VBox/vd-ifs.h
+END
+VBoxVideo3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/50754/trunk/include/VBox/VBoxVideo3D.h
+END
+VBoxKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/33656/trunk/include/VBox/VBoxKeyboard.h
+END
+usbfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/44529/trunk/include/VBox/usbfilter.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/param.h
+END
+scsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/47708/trunk/include/VBox/scsi.h
+END
+vd-ifs-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/51102/trunk/include/VBox/vd-ifs-internal.h
+END
+VMMDevTesting.mac
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/42585/trunk/include/VBox/VMMDevTesting.mac
+END
+nasm.mac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/nasm.mac
+END
+usblib-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/usblib-win.h
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/44543/trunk/include/VBox/pci.h
+END
+VBoxVideoGuest.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/50900/trunk/include/VBox/VBoxVideoGuest.h
+END
+sup.mac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/53269/trunk/include/VBox/sup.mac
+END
+usblib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/usblib.h
+END
+VMMDev2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/VMMDev2.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/52921/trunk/include/VBox/log.h
+END
+rawpci.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/36717/trunk/include/VBox/rawpci.h
+END
+apic.mac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/47876/trunk/include/VBox/apic.mac
+END
+VBoxGL2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/44529/trunk/include/VBox/VBoxGL2D.h
+END
+vscsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/53096/trunk/include/VBox/vscsi.h
+END
+msi.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/33314/trunk/include/VBox/msi.h
+END
+dbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/44399/trunk/include/VBox/dbg.h
+END
+vd-cache-backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50988/trunk/include/VBox/vd-cache-backend.h
+END
+VBoxGuest.mac
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/VBoxGuest.mac
+END
+VBoxAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/35201/trunk/include/VBox/VBoxAuth.h
+END
+VBoxNetCfg-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/53090/trunk/include/VBox/VBoxNetCfg-win.h
+END
+err.mac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/51757/trunk/include/VBox/err.mac
+END
+intnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/52592/trunk/include/VBox/intnet.h
+END
+VDEPlugSymDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/VDEPlugSymDefs.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/45152/trunk/include/VBox/types.h
+END
+VBoxVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/51260/trunk/include/VBox/VBoxVideo.h
+END
+sup.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/53269/trunk/include/VBox/sup.h
+END
+VBoxGuest2.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/VBoxGuest2.h
+END
+param.mac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/39310/trunk/include/VBox/param.mac
+END
+err.sed
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/err.sed
+END
+vusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/53210/trunk/include/VBox/vusb.h
+END
+VBoxOGLTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/52622/trunk/include/VBox/VBoxOGLTest.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/27861/trunk/include/VBox/Makefile.kup
+END
+vddbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/38876/trunk/include/VBox/vddbg.h
+END
+VBoxTpG.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/48934/trunk/include/VBox/VBoxTpG.h
+END
+usblib-solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/47497/trunk/include/VBox/usblib-solaris.h
+END
+VBoxVideoHost3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52429/trunk/include/VBox/VBoxVideoHost3D.h
+END
+VBoxUhgsmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/44529/trunk/include/VBox/VBoxUhgsmi.h
+END
+VBoxGuest16.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/VBoxGuest16.h
+END
+x86.mac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/37955/trunk/include/VBox/x86.mac
+END
+intnetinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/46904/trunk/include/VBox/intnetinline.h
+END
+dbggui.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/dbggui.h
+END
+VBoxGuestMangling.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/36190/trunk/include/VBox/VBoxGuestMangling.h
+END
+vd-plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/50992/trunk/include/VBox/vd-plugin.h
+END
+VDEPlug.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/29200/trunk/include/VBox/VDEPlug.h
+END
+VBoxGuest.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/VBoxGuest.inc
+END
+disopcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/53179/trunk/include/VBox/disopcode.h
+END
+various.sed
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/47442/trunk/include/VBox/various.sed
+END
+vd-image-backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50988/trunk/include/VBox/vd-image-backend.h
+END
+dis.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/53172/trunk/include/VBox/dis.h
+END
+VBoxCocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/39206/trunk/include/VBox/VBoxCocoa.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/version.h
+END
+vrdpusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/49814/trunk/include/VBox/vrdpusb.h
+END
+dbus-calls.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/44529/trunk/include/VBox/dbus-calls.h
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/52743/trunk/include/VBox/usb.h
+END
+hgcmsvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/hgcmsvc.h
+END
+VBoxCrHgsmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/50984/trunk/include/VBox/VBoxCrHgsmi.h
+END
+asmdefs.mac
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/asmdefs.mac
+END
+VMMDevTesting.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/42585/trunk/include/VBox/VMMDevTesting.h
+END
+dbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/44529/trunk/include/VBox/dbus.h
+END
+VMMDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/52789/trunk/include/VBox/VMMDev.h
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/52312/trunk/include/VBox/settings.h
+END
+SUPDrvMangling.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/36190/trunk/include/VBox/SUPDrvMangling.h
+END
+usblib-darwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/49787/trunk/include/VBox/usblib-darwin.h
+END
+VBoxDrvCfg-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44529/trunk/include/VBox/VBoxDrvCfg-win.h
+END
+ostypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/53008/trunk/include/VBox/ostypes.h
+END
+shflsvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/51998/trunk/include/VBox/shflsvc.h
+END
+vd.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/52830/trunk/include/VBox/vd.h
+END
+apic.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/47844/trunk/include/VBox/apic.h
+END
+bioslogo.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/bioslogo.h
+END
+VBoxGuestLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52956/trunk/include/VBox/VBoxGuestLib.h
+END
+vd-filter-backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/50991/trunk/include/VBox/vd-filter-backend.h
+END
+cdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/49893/trunk/include/VBox/cdefs.h
+END
+VBoxGuest.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/52867/trunk/include/VBox/VBoxGuest.h
+END

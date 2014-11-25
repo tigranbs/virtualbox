@@ -1,0 +1,153 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-20T16:33:54.236545Z
+53362
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+Config.kmk
+file
+
+
+
+
+2014-11-25T14:41:07.868657Z
+fad86a307d6bedfd80560232ec5ad09e
+2013-07-03T13:43:35.805352Z
+46938
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2574
+
+Network
+dir
+
+Bus
+dir
+
+USB
+dir
+
+Misc
+dir
+
+Parallel
+dir
+
+VMMDev
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:41:07.872657Z
+9c943622253f3f8aa865302e605e7431
+2014-11-11T15:00:41.752469Z
+53304
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40812
+
+Input
+dir
+
+build
+dir
+
+Graphics
+dir
+
+BiosCommonCode
+dir
+
+Audio
+dir
+
+PC
+dir
+
+EFI
+dir
+
+Storage
+dir
+
+Samples
+dir
+
+GIMDev
+dir
+
+testcase
+dir
+
+VirtIO
+dir
+
+Serial
+dir
+

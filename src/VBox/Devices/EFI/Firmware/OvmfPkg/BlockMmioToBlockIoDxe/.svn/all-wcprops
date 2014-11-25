@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/BlockMmioToBlockIoDxe
+END
+BlockIo.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/BlockMmioToBlockIoDxe/BlockIo.c
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/BlockMmioToBlockIoDxe/ComponentName.c
+END
+BlockIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/BlockMmioToBlockIoDxe/BlockIo.h
+END
+BlockIo.inf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/BlockMmioToBlockIoDxe/BlockIo.inf
+END

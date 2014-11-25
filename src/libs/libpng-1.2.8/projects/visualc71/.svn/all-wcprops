@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/visualc71
+END
+libpng.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/visualc71/libpng.vcproj
+END
+zlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/visualc71/zlib.vcproj
+END
+libpng.sln
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/visualc71/libpng.sln
+END
+pngtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/visualc71/pngtest.vcproj
+END
+PRJ0041.mak
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/visualc71/PRJ0041.mak
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/visualc71/README.txt
+END
+README_zlib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/visualc71/README_zlib.txt
+END

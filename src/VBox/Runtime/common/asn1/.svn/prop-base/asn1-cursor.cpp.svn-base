@@ -1,0 +1,24 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 1325
+/branches/VBox-3.0/src/VBox/Runtime/common/asn1/asn1-basics.cpp:58652,70973
+/branches/VBox-3.2/src/VBox/Runtime/common/asn1/asn1-basics.cpp:66309,66318
+/branches/VBox-4.0/src/VBox/Runtime/common/asn1/asn1-basics.cpp:70873
+/branches/VBox-4.1/src/VBox/Runtime/common/asn1/asn1-basics.cpp:74233,78414,78691,81841,82127,85941,85944-85947,85949-85950,85953,86701,86728,87009
+/branches/VBox-4.2/src/VBox/Runtime/common/asn1/asn1-basics.cpp:86229-86230,86234,86529,91503-91504,91506-91508,91510,91514-91515,91521
+/branches/VBox-4.3/src/VBox/Runtime/common/asn1/asn1-basics.cpp:91223
+/branches/VBox-4.3/trunk/src/VBox/Runtime/common/asn1/asn1-basics.cpp:91223
+/branches/andy/draganddrop/src/VBox/Runtime/common/asn1/asn1-basics.cpp:90781-91268
+/branches/andy/guestctrl20/src/VBox/Runtime/common/asn1/asn1-basics.cpp:78916,78930
+/branches/dsen/gui/src/VBox/Runtime/common/asn1/asn1-basics.cpp:79076-79078,79089,79109-79110,79112-79113,79127-79130,79134,79141,79151,79155,79157-79159,79193,79197
+/branches/dsen/gui2/src/VBox/Runtime/common/asn1/asn1-basics.cpp:79224,79228,79233,79235,79258,79262-79263,79273,79341,79345,79354,79357,79387-79388,79559-79569,79572-79573,79578,79581-79582,79590-79591,79598-79599,79602-79603,79605-79606,79632,79635,79637,79644
+/branches/dsen/gui3/src/VBox/Runtime/common/asn1/asn1-basics.cpp:79645-79692
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe
+END
+FwPadFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe/FwPadFile.c
+END
+FwVolAttrib.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe/FwVolAttrib.c
+END
+FwVolDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe/FwVolDxe.inf
+END
+FwVolWrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe/FwVolWrite.c
+END
+FwVolRead.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe/FwVolRead.c
+END
+FwVol.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe/FwVol.c
+END
+Ffs.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe/Ffs.c
+END
+FwVolDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/FwVolDxe/FwVolDriver.h
+END

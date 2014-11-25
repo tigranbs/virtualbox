@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Acpi/S3SaveStateDxe
+END
+InternalS3SaveState.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Acpi/S3SaveStateDxe/InternalS3SaveState.h
+END
+S3SaveStateDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Acpi/S3SaveStateDxe/S3SaveStateDxe.inf
+END
+S3SaveState.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Acpi/S3SaveStateDxe/S3SaveState.c
+END

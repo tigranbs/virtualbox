@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/53019/trunk/src/VBox/Runtime/r0drv/linux
+END
+semmutex-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/semmutex-r0drv-linux.c
+END
+RTLogWriteDebugger-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/RTLogWriteDebugger-r0drv-linux.c
+END
+thread-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/thread-r0drv-linux.c
+END
+the-linux-kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50077/trunk/src/VBox/Runtime/r0drv/linux/the-linux-kernel.h
+END
+memobj-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/51938/trunk/src/VBox/Runtime/r0drv/linux/memobj-r0drv-linux.c
+END
+mp-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/r0drv/linux/mp-r0drv-linux.c
+END
+process-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/process-r0drv-linux.c
+END
+memuserkernel-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r0drv/linux/memuserkernel-r0drv-linux.c
+END
+waitqueue-r0drv-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/33630/trunk/src/VBox/Runtime/r0drv/linux/waitqueue-r0drv-linux.h
+END
+timer-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53019/trunk/src/VBox/Runtime/r0drv/linux/timer-r0drv-linux.c
+END
+spinlock-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/r0drv/linux/spinlock-r0drv-linux.c
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r0drv/linux/string.h
+END
+mpnotification-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r0drv/linux/mpnotification-r0drv-linux.c
+END
+semfastmutex-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/semfastmutex-r0drv-linux.c
+END
+semevent-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/semevent-r0drv-linux.c
+END
+thread2-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/thread2-r0drv-linux.c
+END
+alloc-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/52803/trunk/src/VBox/Runtime/r0drv/linux/alloc-r0drv-linux.c
+END
+threadctxhooks-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48383/trunk/src/VBox/Runtime/r0drv/linux/threadctxhooks-r0drv-linux.c
+END
+initterm-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/50008/trunk/src/VBox/Runtime/r0drv/linux/initterm-r0drv-linux.c
+END
+time-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52822/trunk/src/VBox/Runtime/r0drv/linux/time-r0drv-linux.c
+END
+semeventmulti-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/semeventmulti-r0drv-linux.c
+END
+assert-r0drv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/linux/assert-r0drv-linux.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/4781/trunk/src/VBox/Runtime/r0drv/linux/Makefile.kup
+END

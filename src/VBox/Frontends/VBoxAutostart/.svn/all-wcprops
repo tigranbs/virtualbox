@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/46737/trunk/src/VBox/Frontends/VBoxAutostart
+END
+VBoxAutostartStart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/43967/trunk/src/VBox/Frontends/VBoxAutostart/VBoxAutostartStart.cpp
+END
+VBoxAutostart-posix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/46649/trunk/src/VBox/Frontends/VBoxAutostart/VBoxAutostart-posix.cpp
+END
+VBoxAutostartCfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/46737/trunk/src/VBox/Frontends/VBoxAutostart/VBoxAutostartCfg.cpp
+END
+VBoxAutostartUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/43967/trunk/src/VBox/Frontends/VBoxAutostart/VBoxAutostartUtils.cpp
+END
+VBoxAutostart.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/43967/trunk/src/VBox/Frontends/VBoxAutostart/VBoxAutostart.h
+END
+VBoxAutostartStop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/43967/trunk/src/VBox/Frontends/VBoxAutostart/VBoxAutostartStop.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/43967/trunk/src/VBox/Frontends/VBoxAutostart/Makefile.kmk
+END
+VBoxAutostart-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/46649/trunk/src/VBox/Frontends/VBoxAutostart/VBoxAutostart-win.cpp
+END

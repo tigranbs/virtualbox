@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/Additions/common/crOpenGL/passthrough
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/18882/trunk/src/VBox/Additions/common/crOpenGL/passthrough/Makefile.kup
+END
+passthrough.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/passthrough/passthrough.py
+END
+passthroughspu.rc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/Additions/common/crOpenGL/passthrough/passthroughspu.rc
+END
+passthroughspu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/passthrough/passthroughspu_init.c
+END
+passthrough.def
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/passthrough/passthrough.def
+END
+passthroughspu.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/passthrough/passthroughspu.h
+END

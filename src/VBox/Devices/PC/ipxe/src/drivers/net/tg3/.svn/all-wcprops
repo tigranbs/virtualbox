@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/tg3
+END
+tg3.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/tg3/tg3.h
+END
+tg3_hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/tg3/tg3_hw.c
+END
+tg3.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/tg3/tg3.c
+END
+tg3_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/tg3/tg3_phy.c
+END

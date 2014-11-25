@@ -1,0 +1,80 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/libs
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-10-21T09:36:17.971182Z
+53105
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+libxml2-2.6.31
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:39:50.108657Z
+caf58db86666da91e227d05ffe2d4218
+2014-10-21T09:36:17.971182Z
+53105
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3062
+
+libpng-1.2.8
+dir
+
+kStuff
+dir
+
+zlib-1.2.6
+dir
+
+liblzf-3.4
+dir
+
+xpcom18a4
+dir
+

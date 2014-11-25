@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component
+END
+nsIRegistry.idl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/nsIRegistry.idl
+END
+nsIRegistryUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/nsIRegistryUtils.h
+END
+nsRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/nsRegistry.cpp
+END
+nsFileSpecImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/nsFileSpecImpl.cpp
+END
+nsRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/nsRegistry.h
+END
+regExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/regExport.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/Makefile.in
+END
+nsFileSpecImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/nsFileSpecImpl.h
+END
+nsXPCOMObsolete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/nsXPCOMObsolete.cpp
+END
+xpcomobsoletec.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/obsolete/component/xpcomobsoletec.pkg
+END

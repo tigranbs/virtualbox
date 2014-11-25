@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/53361/trunk/src/VBox/Devices/Audio
+END
+ossaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/40844/trunk/src/VBox/Devices/Audio/ossaudio.c
+END
+mixeng.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50686/trunk/src/VBox/Devices/Audio/mixeng.c
+END
+mixeng_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/50686/trunk/src/VBox/Devices/Audio/mixeng_template.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Devices/Audio/Makefile.kup
+END
+rate_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/1/trunk/src/VBox/Devices/Audio/rate_template.h
+END
+mixeng.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50686/trunk/src/VBox/Devices/Audio/mixeng.h
+END
+noaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/40719/trunk/src/VBox/Devices/Audio/noaudio.c
+END
+audio_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/35116/trunk/src/VBox/Devices/Audio/audio_template.h
+END
+alsa_mangling.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/45136/trunk/src/VBox/Devices/Audio/alsa_mangling.h
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/51639/trunk/src/VBox/Devices/Audio/audio.c
+END
+alsaaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/45136/trunk/src/VBox/Devices/Audio/alsaaudio.c
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/35487/trunk/src/VBox/Devices/Audio/audio.h
+END
+pulse_stubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/45136/trunk/src/VBox/Devices/Audio/pulse_stubs.c
+END
+DevSB16.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/50686/trunk/src/VBox/Devices/Audio/DevSB16.cpp
+END
+pulse_stubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Audio/pulse_stubs.h
+END
+DevIchHdaCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51636/trunk/src/VBox/Devices/Audio/DevIchHdaCodec.cpp
+END
+dsoundaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53361/trunk/src/VBox/Devices/Audio/dsoundaudio.c
+END
+DevIchHda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52101/trunk/src/VBox/Devices/Audio/DevIchHda.cpp
+END
+solaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/47498/trunk/src/VBox/Devices/Audio/solaudio.c
+END
+winaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Audio/winaudio.c
+END
+audio_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/35487/trunk/src/VBox/Devices/Audio/audio_int.h
+END
+DevIchAc97.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50708/trunk/src/VBox/Devices/Audio/DevIchAc97.cpp
+END
+dsound_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/32936/trunk/src/VBox/Devices/Audio/dsound_template.h
+END
+alsa_stubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/45136/trunk/src/VBox/Devices/Audio/alsa_stubs.c
+END
+sys-queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/1/trunk/src/VBox/Devices/Audio/sys-queue.h
+END
+alsa_stubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Audio/alsa_stubs.h
+END
+filteraudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Devices/Audio/filteraudio.c
+END
+pulse_mangling.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/45136/trunk/src/VBox/Devices/Audio/pulse_mangling.h
+END
+pulseaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51637/trunk/src/VBox/Devices/Audio/pulseaudio.c
+END
+coreaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Devices/Audio/coreaudio.c
+END
+DrvAudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50680/trunk/src/VBox/Devices/Audio/DrvAudio.c
+END
+audiosniffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/45025/trunk/src/VBox/Devices/Audio/audiosniffer.c
+END
+DevIchHdaCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50686/trunk/src/VBox/Devices/Audio/DevIchHdaCodec.h
+END

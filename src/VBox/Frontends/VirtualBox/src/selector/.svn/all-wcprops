@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53324/trunk/src/VBox/Frontends/VirtualBox/src/selector
+END
+UIVMDesktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/49706/trunk/src/VBox/Frontends/VirtualBox/src/selector/UIVMDesktop.h
+END
+UIVMItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/UIVMItem.cpp
+END
+UIVirtualBoxEventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/UIVirtualBoxEventHandler.h
+END
+VBoxSnapshotsWgt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/VBoxSnapshotsWgt.cpp
+END
+UIVMItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/UIVMItem.h
+END
+UIActionPoolSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/UIActionPoolSelector.cpp
+END
+UISelectorWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53305/trunk/src/VBox/Frontends/VirtualBox/src/selector/UISelectorWindow.cpp
+END
+VBoxSnapshotsWgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/VBoxSnapshotsWgt.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/30868/trunk/src/VBox/Frontends/VirtualBox/src/selector/Makefile.kup
+END
+UIVMDesktop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/selector/UIVMDesktop.cpp
+END
+UIActionPoolSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52579/trunk/src/VBox/Frontends/VirtualBox/src/selector/UIActionPoolSelector.h
+END
+UISelectorWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/UISelectorWindow.h
+END
+UIVirtualBoxEventHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/UIVirtualBoxEventHandler.cpp
+END
+VBoxSnapshotsWgt.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/43106/trunk/src/VBox/Frontends/VirtualBox/src/selector/VBoxSnapshotsWgt.ui
+END

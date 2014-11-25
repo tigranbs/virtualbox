@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/nasm/v0.98.39-bird
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/nasm/v0.98.39-bird/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/nasm/v0.98.39-bird/TODO
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/nasm/v0.98.39-bird/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/nasm/v0.98.39-bird/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/nasm/v0.98.39-bird/README
+END
+nasm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/nasm/v0.98.39-bird/nasm.exe
+END
+ndisasm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/nasm/v0.98.39-bird/ndisasm.exe
+END

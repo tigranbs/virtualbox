@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Uefi
+END
+UefiGpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Uefi/UefiGpt.h
+END
+UefiSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Uefi/UefiSpec.h
+END
+UefiMultiPhase.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Uefi/UefiMultiPhase.h
+END
+UefiBaseType.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Uefi/UefiBaseType.h
+END
+UefiPxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Uefi/UefiPxe.h
+END
+UefiInternalFormRepresentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Uefi/UefiInternalFormRepresentation.h
+END

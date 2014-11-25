@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/i2c
+END
+xf86i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/i2c/xf86i2c.h
+END

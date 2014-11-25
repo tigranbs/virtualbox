@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/alloc
+END
+memcache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/46257/trunk/src/VBox/Runtime/common/alloc/memcache.cpp
+END
+heapoffset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/alloc/heapoffset.cpp
+END
+heapsimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/alloc/heapsimple.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/5410/trunk/src/VBox/Runtime/common/alloc/Makefile.kup
+END
+alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/alloc/alloc.cpp
+END
+memtracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39515/trunk/src/VBox/Runtime/common/alloc/memtracker.cpp
+END

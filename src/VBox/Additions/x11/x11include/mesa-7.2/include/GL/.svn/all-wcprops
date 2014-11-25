@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL
+END
+amesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/amesa.h
+END
+osmesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/osmesa.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/glu.h
+END
+xmesa_xf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/xmesa_xf86.h
+END
+dmesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/dmesa.h
+END
+glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/glx.h
+END
+uglmesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/uglmesa.h
+END
+mesa_wgl.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/mesa_wgl.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/gl.h
+END
+xmesa_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/xmesa_x.h
+END
+miniglx.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/miniglx.h
+END
+glfbdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/glfbdev.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/glxext.h
+END
+xmesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/xmesa.h
+END
+glx_mangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/glx_mangle.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/18881/trunk/src/VBox/Additions/x11/x11include/mesa-7.2/include/GL/glext.h
+END

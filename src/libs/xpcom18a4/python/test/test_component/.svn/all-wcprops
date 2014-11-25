@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/test_component
+END
+py_test_component.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/test_component/py_test_component.html
+END
+py_test_component.idl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/test_component/py_test_component.idl
+END
+py_test_component.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/test/test_component/py_test_component.py
+END

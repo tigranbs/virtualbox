@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 89
+Makefile
+tmModuleTest.exe
+tmModuleTest.ilk
+tmModuleTest.pdb
+tmModuleTest.obj
+tmModuleTest
+END

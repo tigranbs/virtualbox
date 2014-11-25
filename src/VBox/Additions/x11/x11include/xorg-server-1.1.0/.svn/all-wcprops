@@ -1,0 +1,2795 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0
+END
+xf86ScanPci.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86ScanPci.h
+END
+x86emu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/x86emu.h
+END
+ChkNotMaskEv.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ChkNotMaskEv.h
+END
+glcontextmodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glcontextmodes.h
+END
+xtest1dd.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xtest1dd.h
+END
+regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/regs.h
+END
+exevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/exevents.h
+END
+xf86Keymap.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Keymap.h
+END
+dixgrabs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dixgrabs.h
+END
+mfb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mfb.h
+END
+site.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/site.h
+END
+xisb.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xisb.h
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/window.h
+END
+usb-other.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usb-other.h
+END
+dmxinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxinput.h
+END
+xf86Parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Parser.h
+END
+fbmmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fbmmx.h
+END
+Pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Pci.h
+END
+ungrdevb.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ungrdevb.h
+END
+dmxevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxevents.h
+END
+xf86Opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Opt.h
+END
+exglobals.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/exglobals.h
+END
+getprop.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getprop.h
+END
+cfbtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfbtab.h
+END
+swapreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/swapreq.h
+END
+dmxsigio.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxsigio.h
+END
+xf86_OSlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86_OSlib.h
+END
+xorg-server.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xorg-server.h
+END
+quartzCursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/quartzCursor.h
+END
+dmxscrinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxscrinit.h
+END
+ppcGCstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ppcGCstr.h
+END
+scoasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/scoasm.h
+END
+cfb8_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfb8_32.h
+END
+dmxcursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxcursor.h
+END
+dmxmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxmap.h
+END
+OidStrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/OidStrs.h
+END
+glxutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxutil.h
+END
+xf86dgaext.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86dgaext.h
+END
+cfbmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfbmap.h
+END
+x-hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/x-hash.h
+END
+gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/gc.h
+END
+dmxcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxcompat.h
+END
+glxdrawable.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxdrawable.h
+END
+appgroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/appgroup.h
+END
+do-not-use-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/do-not-use-config.h
+END
+lnx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lnx.h
+END
+Preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Preferences.h
+END
+xvdix.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xvdix.h
+END
+glxerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxerror.h
+END
+460gxPCI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/460gxPCI.h
+END
+xf86int10.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86int10.h
+END
+ungrdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ungrdev.h
+END
+picture.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/picture.h
+END
+closure.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/closure.h
+END
+queryst.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/queryst.h
+END
+configProcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/configProcs.h
+END
+glwindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glwindows.h
+END
+getselev.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getselev.h
+END
+dmxeq.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxeq.h
+END
+midbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/midbe.h
+END
+unpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/unpack.h
+END
+dmxarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxarg.h
+END
+stip68kgnu.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/stip68kgnu.h
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/decode.h
+END
+usl_kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usl_kbd.h
+END
+dix.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dix.h
+END
+property.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/property.h
+END
+dlloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dlloader.h
+END
+xf86Resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Resources.h
+END
+lbxsrvopts.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lbxsrvopts.h
+END
+vidmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/vidmode.h
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/options.h
+END
+mibstorest.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mibstorest.h
+END
+pseudoramiX.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/pseudoramiX.h
+END
+miscstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/miscstruct.h
+END
+setdval.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/setdval.h
+END
+closedev.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/closedev.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/types.h
+END
+BT.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/BT.h
+END
+rlAccel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/rlAccel.h
+END
+edid.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/edid.h
+END
+tda9885.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/tda9885.h
+END
+fbpict.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fbpict.h
+END
+midbestr.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/midbestr.h
+END
+mistruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mistruct.h
+END
+fi1236.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fi1236.h
+END
+xaaWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xaaWrapper.h
+END
+TI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/TI.h
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cursor.h
+END
+xfixesint.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xfixesint.h
+END
+xf86InPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86InPriv.h
+END
+ungrdevk.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ungrdevk.h
+END
+glxswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxswap.h
+END
+bstorestr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/bstorestr.h
+END
+dix-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dix-config.h
+END
+prim_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/prim_ops.h
+END
+cfb8_16.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfb8_16.h
+END
+EVIstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/EVIstruct.h
+END
+getmmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getmmap.h
+END
+opaque.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/opaque.h
+END
+i2c_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/i2c_def.h
+END
+shrotpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/shrotpack.h
+END
+randrstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/randrstr.h
+END
+quartzCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/quartzCommon.h
+END
+dmxcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxcommon.h
+END
+xaawrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xaawrap.h
+END
+cr.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cr.h
+END
+sco_kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/sco_kbd.h
+END
+picturestr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/picturestr.h
+END
+x-hook.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/x-hook.h
+END
+darwinKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/darwinKeyboard.h
+END
+setmmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/setmmap.h
+END
+xf86_ansic.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86_ansic.h
+END
+lk201kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lk201kbd.h
+END
+rootless.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/rootless.h
+END
+dixfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dixfont.h
+END
+mizerarc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mizerarc.h
+END
+screen-cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/screen-cfg.h
+END
+altixPCI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/altixPCI.h
+END
+usb-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usb-common.h
+END
+xf86tokens.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86tokens.h
+END
+oscolor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/oscolor.h
+END
+indirect_dispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/indirect_dispatch.h
+END
+glxserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxserver.h
+END
+xvmodproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xvmodproc.h
+END
+region.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/region.h
+END
+rootlessCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/rootlessCommon.h
+END
+uda1380.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/uda1380.h
+END
+xf86CursorPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86CursorPriv.h
+END
+CanvasP.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/CanvasP.h
+END
+ddcPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ddcPriv.h
+END
+quartzPasteboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/quartzPasteboard.h
+END
+xvmcext.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xvmcext.h
+END
+closestr.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/closestr.h
+END
+glxcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxcontext.h
+END
+dmxbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxbackend.h
+END
+shmint.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/shmint.h
+END
+mipointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mipointer.h
+END
+fpu_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fpu_regs.h
+END
+vgaReg.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/vgaReg.h
+END
+Oid.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Oid.h
+END
+dmxdpms.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxdpms.h
+END
+dmxvisual.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxvisual.h
+END
+OidDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/OidDefs.h
+END
+exa.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/exa.h
+END
+extnsionst.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/extnsionst.h
+END
+fbdevhw.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fbdevhw.h
+END
+dpmsproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dpmsproc.h
+END
+xf86PciIds.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86PciIds.h
+END
+xf86Sbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Sbus.h
+END
+dmxlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxlog.h
+END
+cfbrrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfbrrop.h
+END
+ia64Pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ia64Pci.h
+END
+XView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/XView.h
+END
+lnx-ps2.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lnx-ps2.h
+END
+dixfontstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dixfontstr.h
+END
+renderedge.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/renderedge.h
+END
+ppcSpMcro.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ppcSpMcro.h
+END
+chgdctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/chgdctl.h
+END
+DiPrint.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/DiPrint.h
+END
+xf86xv.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86xv.h
+END
+mispans.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mispans.h
+END
+xvdisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xvdisp.h
+END
+exa_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/exa_priv.h
+END
+xf86OSKbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86OSKbd.h
+END
+mifpoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mifpoly.h
+END
+Configint.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Configint.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/globals.h
+END
+mibstore.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mibstore.h
+END
+agpgart.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/agpgart.h
+END
+applewmExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/applewmExt.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/resource.h
+END
+dmxclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxclient.h
+END
+xf86Date.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Date.h
+END
+fboverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fboverlay.h
+END
+micoord.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/micoord.h
+END
+glxsingle.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxsingle.h
+END
+xf86fbman.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86fbman.h
+END
+windowstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/windowstr.h
+END
+mibank.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mibank.h
+END
+usbvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usbvar.h
+END
+mfbunmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mfbunmap.h
+END
+xfixes.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xfixes.h
+END
+quartzAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/quartzAudio.h
+END
+msp3430.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/msp3430.h
+END
+damageextint.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/damageextint.h
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/compiler.h
+END
+vgaHW.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/vgaHW.h
+END
+extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/extension.h
+END
+TIPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/TIPriv.h
+END
+loaderProcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/loaderProcs.h
+END
+keysym2ucs.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/keysym2ucs.h
+END
+Pcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Pcl.h
+END
+migc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/migc.h
+END
+xf86Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Config.h
+END
+cfb8bit.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfb8bit.h
+END
+colormapst.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/colormapst.h
+END
+darwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/darwin.h
+END
+dmxsync.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxsync.h
+END
+miwideline.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/miwideline.h
+END
+cfbmskbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfbmskbits.h
+END
+xf86Pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Pci.h
+END
+help.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/help.h
+END
+panoramiXsrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/panoramiXsrv.h
+END
+xf86xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86xvmc.h
+END
+sarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/sarea.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/parser.h
+END
+usl_xqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usl_xqueue.h
+END
+dispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dispatch.h
+END
+dbestruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dbestruct.h
+END
+atKeynames.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/atKeynames.h
+END
+fb24_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fb24_32.h
+END
+mfbmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mfbmap.h
+END
+chgprop.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/chgprop.h
+END
+prim_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/prim_asm.h
+END
+IBM.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/IBM.h
+END
+damagestr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/damagestr.h
+END
+IBMPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/IBMPriv.h
+END
+selectev.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/selectev.h
+END
+rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/rgb.h
+END
+singlesize.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/singlesize.h
+END
+grabdevb.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/grabdevb.h
+END
+lnx-ms.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lnx-ms.h
+END
+screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/screen.h
+END
+mivalidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mivalidate.h
+END
+fbedgeimp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fbedgeimp.h
+END
+dristruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dristruct.h
+END
+monitor-cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/monitor-cfg.h
+END
+dmxgcops.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxgcops.h
+END
+mouse-cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mouse-cfg.h
+END
+usb-keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usb-keyboard.h
+END
+pixmapstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/pixmapstr.h
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usb.h
+END
+cfb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfb.h
+END
+xf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86.h
+END
+memrange.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/memrange.h
+END
+setfocus.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/setfocus.h
+END
+cards.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cards.h
+END
+xf86Priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Priv.h
+END
+bstore.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/bstore.h
+END
+cfb32.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfb32.h
+END
+indirect_reqsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/indirect_reqsize.h
+END
+xf86glx_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86glx_util.h
+END
+xf86Axp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Axp.h
+END
+e8870PCI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/e8870PCI.h
+END
+dmxpict.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxpict.h
+END
+sym.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/sym.h
+END
+listdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/listdev.h
+END
+grabdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/grabdev.h
+END
+Canvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Canvas.h
+END
+OScompiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/OScompiler.h
+END
+devbell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/devbell.h
+END
+chgkbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/chgkbd.h
+END
+spooler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/spooler.h
+END
+extinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/extinit.h
+END
+xaalocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xaalocal.h
+END
+getkmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getkmap.h
+END
+getfctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getfctl.h
+END
+bsd_kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/bsd_kbd.h
+END
+inputstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/inputstr.h
+END
+int10Defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/int10Defines.h
+END
+dmxprop.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxprop.h
+END
+dmxcmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxcmap.h
+END
+fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fpu.h
+END
+lnx-keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lnx-keyboard.h
+END
+fastblt.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fastblt.h
+END
+cfb24.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfb24.h
+END
+xf86Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Version.h
+END
+ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ops.h
+END
+modinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/modinit.h
+END
+lbxtags.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lbxtags.h
+END
+xf86Bus.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Bus.h
+END
+panoramiXh.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/panoramiXh.h
+END
+xf86Build.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Build.h
+END
+zx1PCI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/zx1PCI.h
+END
+getvers.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getvers.h
+END
+dgaproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dgaproc.h
+END
+xf86glxint.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86glxint.h
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/os.h
+END
+sendexev.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/sendexev.h
+END
+dummylib.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dummylib.h
+END
+xf86str.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86str.h
+END
+selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/selection.h
+END
+grabdevk.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/grabdevk.h
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/attributes.h
+END
+indirect_size_get.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/indirect_size_get.h
+END
+set.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/set.h
+END
+xf86miscproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86miscproc.h
+END
+panoramiX.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/panoramiX.h
+END
+usb-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usb-private.h
+END
+cfb16.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfb16.h
+END
+vgaVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/vgaVideo.h
+END
+xf86OSmouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86OSmouse.h
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/elf.h
+END
+cursorstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cursorstr.h
+END
+BTPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/BTPriv.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/README
+END
+fbrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fbrop.h
+END
+bt829.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/bt829.h
+END
+xf86x86emu.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86x86emu.h
+END
+glxvendor.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxvendor.h
+END
+psout.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/psout.h
+END
+colormap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/colormap.h
+END
+xf86_OSproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86_OSproc.h
+END
+xf86RAC.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86RAC.h
+END
+xf86_libc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86_libc.h
+END
+quartz.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/quartz.h
+END
+xf86i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86i2c.h
+END
+dmx-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmx-config.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/misc.h
+END
+tda8425.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/tda8425.h
+END
+keyboard-cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/keyboard-cfg.h
+END
+xf86OSpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86OSpriv.h
+END
+dmxshadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxshadow.h
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/input.h
+END
+dmxgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxgc.h
+END
+mispritest.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mispritest.h
+END
+coffloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/coffloader.h
+END
+dmxdummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxdummy.h
+END
+card-cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/card-cfg.h
+END
+xf86DDC.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86DDC.h
+END
+dmxpixmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxpixmap.h
+END
+mioverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mioverlay.h
+END
+mipointrst.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mipointrst.h
+END
+xf86Optrec.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Optrec.h
+END
+xaa.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xaa.h
+END
+xpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xpr.h
+END
+mipoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mipoly.h
+END
+glyphstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glyphstr.h
+END
+Pclmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Pclmap.h
+END
+dmxinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxinit.h
+END
+dmxconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxconfig.h
+END
+getfocus.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getfocus.h
+END
+shrotpackYX.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/shrotpackYX.h
+END
+lbxdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lbxdata.h
+END
+getbmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getbmap.h
+END
+xf86PciStr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86PciStr.h
+END
+mergerop.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mergerop.h
+END
+fourcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fourcc.h
+END
+Ps.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Ps.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/hash.h
+END
+xkb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xkb.h
+END
+sun_kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/sun_kbd.h
+END
+ibmTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ibmTrace.h
+END
+Xplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Xplugin.h
+END
+fb.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fb.h
+END
+vdif.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/vdif.h
+END
+xf86Cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Cursor.h
+END
+lbxserve.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lbxserve.h
+END
+cfbunmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cfbunmap.h
+END
+XApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/XApplication.h
+END
+setbmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/setbmap.h
+END
+elfloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/elfloader.h
+END
+indirect_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/indirect_util.h
+END
+gcstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/gcstruct.h
+END
+rootlessConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/rootlessConfig.h
+END
+xf86Module.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Module.h
+END
+XIstubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/XIstubs.h
+END
+xf86PciInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86PciInfo.h
+END
+glx_ansic.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glx_ansic.h
+END
+dixevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dixevents.h
+END
+xqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xqueue.h
+END
+glxscreens.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxscreens.h
+END
+maskbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/maskbits.h
+END
+miline.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/miline.h
+END
+dmxmotion.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxmotion.h
+END
+damage.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/damage.h
+END
+xf86PciData.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86PciData.h
+END
+dmxparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxparse.h
+END
+safeAlpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/safeAlpha.h
+END
+xf86Privstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Privstr.h
+END
+xorgVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xorgVersion.h
+END
+shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/shadow.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/debug.h
+END
+glxfbconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxfbconfig.h
+END
+fbpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fbpriv.h
+END
+g_disptab.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/g_disptab.h
+END
+dmxcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxcb.h
+END
+pixmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/pixmap.h
+END
+xf86drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86drm.h
+END
+aoutloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/aoutloader.h
+END
+Raster.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/Raster.h
+END
+xf86pciBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86pciBus.h
+END
+ar.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/ar.h
+END
+xf86RamDac.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86RamDac.h
+END
+xf86Xinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86Xinput.h
+END
+xf86RamDacPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86RamDacPriv.h
+END
+darwinClut8.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/darwinClut8.h
+END
+dmxprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxprint.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/config.h
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/loader.h
+END
+xf86glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86glx.h
+END
+cw.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/cw.h
+END
+fbbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fbbits.h
+END
+compint.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/compint.h
+END
+dmxconsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxconsole.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxext.h
+END
+regionstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/regionstr.h
+END
+x-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/x-list.h
+END
+xkbDflts.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xkbDflts.h
+END
+miscanfill.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/miscanfill.h
+END
+xorg-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xorg-config.h
+END
+dmxstat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxstat.h
+END
+mipict.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mipict.h
+END
+servermd.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/servermd.h
+END
+dmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmx.h
+END
+validate.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/validate.h
+END
+propertyst.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/propertyst.h
+END
+dmxinputinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxinputinit.h
+END
+PclDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/PclDef.h
+END
+setmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/setmode.h
+END
+gtmotion.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/gtmotion.h
+END
+stubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/stubs.h
+END
+mifillarc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mifillarc.h
+END
+xf86PciStdIds.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86PciStdIds.h
+END
+xf86sbusBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86sbusBus.h
+END
+xf4bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf4bpp.h
+END
+vbeModes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/vbeModes.h
+END
+wm3.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/wm3.h
+END
+micmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/micmap.h
+END
+dmx_glxvisuals.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmx_glxvisuals.h
+END
+allowev.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/allowev.h
+END
+scrnintstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/scrnintstr.h
+END
+assyntax.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/assyntax.h
+END
+xf86xvpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86xvpriv.h
+END
+vidmodeproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/vidmodeproc.h
+END
+g_disptab_EXT.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/g_disptab_EXT.h
+END
+vbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/vbe.h
+END
+dri.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dri.h
+END
+dmxwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxwindow.h
+END
+lnx_kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/lnx_kbd.h
+END
+swaprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/swaprep.h
+END
+sleepuntil.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/sleepuntil.h
+END
+getdctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/getdctl.h
+END
+dixstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dixstruct.h
+END
+AttrValid.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/AttrValid.h
+END
+screenint.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/screenint.h
+END
+misprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/misprite.h
+END
+xf86cmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf86cmap.h
+END
+shadowfb.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/shadowfb.h
+END
+XServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/XServer.h
+END
+tda9850.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/tda9850.h
+END
+damageext.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/damageext.h
+END
+opendev.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/opendev.h
+END
+xf1bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xf1bpp.h
+END
+glxvisuals.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/glxvisuals.h
+END
+PsDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/PsDef.h
+END
+rootlessWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/rootlessWindow.h
+END
+mi.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/mi.h
+END
+x86emui.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/x86emui.h
+END
+fbpseudocolor.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/fbpseudocolor.h
+END
+aout.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/aout.h
+END
+chgfctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/chgfctl.h
+END
+chgkmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/chgkmap.h
+END
+osdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/osdep.h
+END
+PclSFonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/PclSFonts.h
+END
+coff.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/coff.h
+END
+xfIOKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xfIOKit.h
+END
+usb-mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/usb-mouse.h
+END
+dmxfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxfont.h
+END
+dmxextension.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/dmxextension.h
+END
+chgptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/chgptr.h
+END
+afb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/afb.h
+END
+xaacexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xaacexp.h
+END
+xaarop.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51223/trunk/src/VBox/Additions/x11/x11include/xorg-server-1.1.0/xaarop.h
+END

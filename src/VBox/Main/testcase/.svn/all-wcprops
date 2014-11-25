@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/52064/trunk/src/VBox/Main/testcase
+END
+tstUSBLinux.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/testcase/tstUSBLinux.h
+END
+tstVBoxAPIXPCOM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/50339/trunk/src/VBox/Main/testcase/tstVBoxAPIXPCOM.cpp
+END
+makefile.tstVBoxAPIWin
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/45064/trunk/src/VBox/Main/testcase/makefile.tstVBoxAPIWin
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52045/trunk/src/VBox/Main/testcase/Makefile.kmk
+END
+tstVBoxAPIPerf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/49943/trunk/src/VBox/Main/testcase/tstVBoxAPIPerf.cpp
+END
+tstCollector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51965/trunk/src/VBox/Main/testcase/tstCollector.cpp
+END
+tstVBoxAPIWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/50339/trunk/src/VBox/Main/testcase/tstVBoxAPIWin.cpp
+END
+tstGuid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52045/trunk/src/VBox/Main/testcase/tstGuid.cpp
+END
+tstMediumLock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48955/trunk/src/VBox/Main/testcase/tstMediumLock.cpp
+END
+tstOVF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50351/trunk/src/VBox/Main/testcase/tstOVF.cpp
+END
+tstGuestCtrlContextID.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/45415/trunk/src/VBox/Main/testcase/tstGuestCtrlContextID.cpp
+END
+tstGuestCtrlParseBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/testcase/tstGuestCtrlParseBuffer.cpp
+END
+tstVBoxAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50439/trunk/src/VBox/Main/testcase/tstVBoxAPI.cpp
+END
+tstAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50117/trunk/src/VBox/Main/testcase/tstAPI.cpp
+END
+tstMouseImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52064/trunk/src/VBox/Main/testcase/tstMouseImpl.cpp
+END
+makefile.tstVBoxAPIXPCOM
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50339/trunk/src/VBox/Main/testcase/makefile.tstVBoxAPIXPCOM
+END
+tstUSBProxyLinux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49960/trunk/src/VBox/Main/testcase/tstUSBProxyLinux.cpp
+END

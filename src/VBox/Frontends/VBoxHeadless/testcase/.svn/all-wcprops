@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/50117/trunk/src/VBox/Frontends/VBoxHeadless/testcase
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48225/trunk/src/VBox/Frontends/VBoxHeadless/testcase/Makefile.kmk
+END
+tstHeadless.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/50117/trunk/src/VBox/Frontends/VBoxHeadless/testcase/tstHeadless.cpp
+END

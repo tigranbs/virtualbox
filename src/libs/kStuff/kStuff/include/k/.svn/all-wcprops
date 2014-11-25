@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kstuff-mirror/!svn/ver/63/trunk/include/k
+END
+kHlpDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpDefs.h
+END
+kDbgAll.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kDbgAll.h
+END
+kDbgBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kstuff-mirror/!svn/ver/40/trunk/include/k/kDbgBase.h
+END
+kCpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kCpu.h
+END
+kRdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kRdr.h
+END
+kErr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kErr.h
+END
+kHlpSem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpSem.h
+END
+kAvloU32.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvloU32.h
+END
+kHlpEnv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpEnv.h
+END
+kDbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kDbg.h
+END
+kRbU32.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kstuff-mirror/!svn/ver/35/trunk/include/k/kRbU32.h
+END
+kHlpAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpAlloc.h
+END
+kAvlrU32.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlrU32.h
+END
+kHlpPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpPath.h
+END
+kMagics.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kMagics.h
+END
+kTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kTypes.h
+END
+kHlpAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kstuff-mirror/!svn/ver/46/trunk/include/k/kHlpAssert.h
+END
+kCpus.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kCpus.h
+END
+kHlpString.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpString.h
+END
+kHlpThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpThread.h
+END
+kErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/58/trunk/include/k/kErrors.h
+END
+kAvlU32.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlU32.h
+END
+kRdrAll.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kRdrAll.h
+END
+kDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kDefs.h
+END
+kLdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kstuff-mirror/!svn/ver/58/trunk/include/k/kLdr.h
+END
+kHlpProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpProcess.h
+END
+kHlpSys.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlpSys.h
+END
+kHlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kHlp.h
+END

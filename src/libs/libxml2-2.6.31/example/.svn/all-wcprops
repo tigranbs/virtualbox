@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/example
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/example/Makefile.in
+END
+gjobs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/example/gjobs.xml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/example/Makefile.am
+END
+gjobread.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/example/gjobread.c
+END

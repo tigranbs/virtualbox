@@ -1,0 +1,77 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Additions/solaris
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-08-21T13:17:56.875283Z
+52441
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+Mouse
+dir
+
+Virtio
+dir
+
+Installer
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:44:14.116657Z
+a889c190610ffee1199de2fd900bb1c7
+2013-04-23T11:01:26.575404Z
+45677
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16660
+
+DRM
+dir
+
+SharedFolders
+dir
+

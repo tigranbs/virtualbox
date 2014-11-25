@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/53347/trunk/src/VBox/Runtime/r0drv
+END
+memobj-r0drv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/memobj-r0drv.cpp
+END
+alloc-r0drv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/alloc-r0drv.cpp
+END
+initterm-r0drv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52553/trunk/src/VBox/Runtime/r0drv/initterm-r0drv.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/1191/trunk/src/VBox/Runtime/r0drv/Makefile.kup
+END
+alloc-r0drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r0drv/alloc-r0drv.h
+END
+mp-r0drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52581/trunk/src/VBox/Runtime/r0drv/mp-r0drv.h
+END
+power-r0drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r0drv/power-r0drv.h
+END
+powernotification-r0drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r0drv/powernotification-r0drv.c
+END
+mpnotification-r0drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r0drv/mpnotification-r0drv.c
+END

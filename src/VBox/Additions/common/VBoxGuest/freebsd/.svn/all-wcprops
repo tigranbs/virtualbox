@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/53241/trunk/src/VBox/Additions/common/VBoxGuest/freebsd
+END
+files_vboxguest
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53241/trunk/src/VBox/Additions/common/VBoxGuest/freebsd/files_vboxguest
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/25590/trunk/src/VBox/Additions/common/VBoxGuest/freebsd/Makefile.kup
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/53241/trunk/src/VBox/Additions/common/VBoxGuest/freebsd/Makefile
+END

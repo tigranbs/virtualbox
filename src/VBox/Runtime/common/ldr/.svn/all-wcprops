@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52845/trunk/src/VBox/Runtime/common/ldr
+END
+ldrkStuff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52403/trunk/src/VBox/Runtime/common/ldr/ldrkStuff.cpp
+END
+ldrPE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52839/trunk/src/VBox/Runtime/common/ldr/ldrPE.cpp
+END
+ldrELF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/ldr/ldrELF.cpp
+END
+ldrNative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52213/trunk/src/VBox/Runtime/common/ldr/ldrNative.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/ldr/Makefile.kup
+END
+ldrMemory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52845/trunk/src/VBox/Runtime/common/ldr/ldrMemory.cpp
+END
+ldrELFRelocatable.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52213/trunk/src/VBox/Runtime/common/ldr/ldrELFRelocatable.cpp.h
+END
+ldrEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52403/trunk/src/VBox/Runtime/common/ldr/ldrEx.cpp
+END
+ldr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52213/trunk/src/VBox/Runtime/common/ldr/ldr.cpp
+END
+ldrFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/ldr/ldrFile.cpp
+END

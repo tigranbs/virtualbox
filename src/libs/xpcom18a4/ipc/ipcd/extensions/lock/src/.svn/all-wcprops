@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/src
+END
+ipcLockProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/src/ipcLockProtocol.cpp
+END
+ipcLockService.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/src/ipcLockService.h
+END
+ipcLockProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/src/ipcLockProtocol.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/src/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/src/Makefile.in
+END
+ipcLockService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/src/ipcLockService.cpp
+END

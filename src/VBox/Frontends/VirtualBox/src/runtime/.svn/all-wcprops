@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53372/trunk/src/VBox/Frontends/VirtualBox/src/runtime
+END
+UIMachineDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53050/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachineDefs.h
+END
+UIActionPoolRuntime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIActionPoolRuntime.cpp
+END
+UISlidingToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52786/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UISlidingToolBar.cpp
+END
+UIDnDMIMEData.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDMIMEData.h
+END
+UIStatusBarEditorWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIStatusBarEditorWindow.h
+END
+UIDnDEnumFormat_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDEnumFormat_win.cpp
+END
+UISession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UISession.cpp
+END
+UIFrameBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53372/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIFrameBuffer.cpp
+END
+UIMachineLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53030/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachineLogic.h
+END
+UIMenuBarEditorWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMenuBarEditorWindow.cpp
+END
+UIMultiScreenLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53287/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMultiScreenLayout.cpp
+END
+UIIndicatorsPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIIndicatorsPool.cpp
+END
+UIMouseHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53079/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMouseHandler.h
+END
+UIMachineWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53086/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachineWindow.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/26699/trunk/src/VBox/Frontends/VirtualBox/src/runtime/Makefile.kup
+END
+UIDnDDropSource_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDDropSource_win.h
+END
+UIVMCloseDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53086/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIVMCloseDialog.h
+END
+UIMachineView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53372/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachineView.cpp
+END
+UIConsoleEventHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52998/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIConsoleEventHandler.cpp
+END
+UIKeyboardHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53221/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIKeyboardHandler.h
+END
+UIDnDDrag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDDrag.cpp
+END
+UIMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/53046/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachine.cpp
+END
+UIDnDMIMEData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDMIMEData.cpp
+END
+UIStatusBarEditorWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIStatusBarEditorWindow.cpp
+END
+UIDnDDataObject_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDDataObject_win.h
+END
+UIDnDHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDHandler.h
+END
+UIActionPoolRuntime.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIActionPoolRuntime.h
+END
+UISlidingToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52594/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UISlidingToolBar.h
+END
+UIMachineLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachineLogic.cpp
+END
+UIDnDEnumFormat_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDEnumFormat_win.h
+END
+UIMouseHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53249/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMouseHandler.cpp
+END
+UIDnDDropSource_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDDropSource_win.cpp
+END
+UISession.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UISession.h
+END
+UIVMCloseDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53086/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIVMCloseDialog.cpp
+END
+UIFrameBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53372/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIFrameBuffer.h
+END
+UIMenuBarEditorWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53321/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMenuBarEditorWindow.h
+END
+UIMultiScreenLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMultiScreenLayout.h
+END
+UIKeyboardHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53221/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIKeyboardHandler.cpp
+END
+UIIndicatorsPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIIndicatorsPool.h
+END
+UIMachineWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53068/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachineWindow.h
+END
+UIDnDDataObject_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDDataObject_win.cpp
+END
+UIDnDHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDHandler.cpp
+END
+UIMachineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53372/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachineView.h
+END
+UIConsoleEventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52998/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIConsoleEventHandler.h
+END
+UIDnDDrag.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIDnDDrag.h
+END
+UIMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/53041/trunk/src/VBox/Frontends/VirtualBox/src/runtime/UIMachine.h
+END

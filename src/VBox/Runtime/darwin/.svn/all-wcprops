@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/darwin
+END
+RTErrConvertFromDarwinCOM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/darwin/RTErrConvertFromDarwinCOM.cpp
+END
+RTErrConvertFromDarwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/darwin/RTErrConvertFromDarwin.cpp
+END
+RTErrConvertFromDarwinKern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/darwin/RTErrConvertFromDarwinKern.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/10135/trunk/src/VBox/Runtime/darwin/Makefile.kup
+END
+RTErrConvertFromDarwinIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/darwin/RTErrConvertFromDarwinIO.cpp
+END

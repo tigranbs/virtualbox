@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/internal
+END
+sarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/internal/sarea.h
+END
+dri_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/internal/dri_interface.h
+END

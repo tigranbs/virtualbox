@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kstuff-mirror/!svn/ver/29/trunk/kRdr
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kstuff-mirror/!svn/ver/29/trunk/kRdr/Makefile.kmk
+END
+kRdr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kstuff-mirror/!svn/ver/29/trunk/kRdr/kRdr.cpp
+END
+kRdrFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kstuff-mirror/!svn/ver/29/trunk/kRdr/kRdrFile.cpp
+END
+kRdrInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/kRdr/kRdrInternal.h
+END
+kRdrBuffered.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kstuff-mirror/!svn/ver/29/trunk/kRdr/kRdrBuffered.cpp
+END

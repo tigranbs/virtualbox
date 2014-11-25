@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/kbuild-mirror/!svn/ver/2343/trunk/kBuild/doc/example1
+END
+hellolib.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2343/trunk/kBuild/doc/example1/hellolib.c
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kbuild-mirror/!svn/ver/2343/trunk/kBuild/doc/example1/Makefile.kmk
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2343/trunk/kBuild/doc/example1/hello.c
+END
+Config.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2343/trunk/kBuild/doc/example1/Config.kmk
+END

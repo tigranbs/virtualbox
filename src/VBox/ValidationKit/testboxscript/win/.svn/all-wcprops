@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testboxscript/win
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testboxscript/win/readme.txt
+END
+autoexec-testbox.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testboxscript/win/autoexec-testbox.cmd
+END

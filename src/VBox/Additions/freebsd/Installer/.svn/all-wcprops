@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/32388/trunk/src/VBox/Additions/freebsd/Installer
+END
+pkg-descr
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/7548/trunk/src/VBox/Additions/freebsd/Installer/pkg-descr
+END
+vboxguest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/32388/trunk/src/VBox/Additions/freebsd/Installer/vboxguest.sh
+END

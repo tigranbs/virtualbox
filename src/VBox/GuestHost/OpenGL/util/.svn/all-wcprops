@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/53371/trunk/src/VBox/GuestHost/OpenGL/util
+END
+sortarray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52136/trunk/src/VBox/GuestHost/OpenGL/util/sortarray.cpp
+END
+filenet.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/18328/trunk/src/VBox/GuestHost/OpenGL/util/filenet.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52437/trunk/src/VBox/GuestHost/OpenGL/util/error.c
+END
+util.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44887/trunk/src/VBox/GuestHost/OpenGL/util/util.def
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40261/trunk/src/VBox/GuestHost/OpenGL/util/threads.c
+END
+calllists.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/calllists.c
+END
+lowercase.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/lowercase.py
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/Makefile.kup
+END
+endian.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/endian.c
+END
+htable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/50311/trunk/src/VBox/GuestHost/OpenGL/util/htable.cpp
+END
+url.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/url.c
+END
+libteac.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/libteac.c
+END
+vreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50246/trunk/src/VBox/GuestHost/OpenGL/util/vreg.cpp
+END
+environment.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/environment.c
+END
+hull.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/hull.c
+END
+vboxhgsmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/GuestHost/OpenGL/util/vboxhgsmi.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51655/trunk/src/VBox/GuestHost/OpenGL/util/string.c
+END
+devnull.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/GuestHost/OpenGL/util/devnull.c
+END
+net_internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/50984/trunk/src/VBox/GuestHost/OpenGL/util/net_internals.h
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/23614/trunk/src/VBox/GuestHost/OpenGL/util/mem.c
+END
+tcpip.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/33595/trunk/src/VBox/GuestHost/OpenGL/util/tcpip.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/timer.c
+END
+pixel.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46369/trunk/src/VBox/GuestHost/OpenGL/util/pixel.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50100/trunk/src/VBox/GuestHost/OpenGL/util/hash.c
+END
+idpool.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/idpool.c
+END
+bmpscale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/50371/trunk/src/VBox/GuestHost/OpenGL/util/bmpscale.cpp
+END
+net.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53371/trunk/src/VBox/GuestHost/OpenGL/util/net.c
+END
+udptcpip.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/GuestHost/OpenGL/util/udptcpip.c
+END
+bbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/GuestHost/OpenGL/util/bbox.c
+END
+compositor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/50178/trunk/src/VBox/GuestHost/OpenGL/util/compositor.cpp
+END
+util.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/GuestHost/OpenGL/util/util.rc
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/matrix.c
+END
+blitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51524/trunk/src/VBox/GuestHost/OpenGL/util/blitter.cpp
+END
+bufpool.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/15709/trunk/src/VBox/GuestHost/OpenGL/util/bufpool.c
+END
+debug_opcodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/debug_opcodes.py
+END
+warp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/warp.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/16915/trunk/src/VBox/GuestHost/OpenGL/util/list.c
+END
+dll.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/46805/trunk/src/VBox/GuestHost/OpenGL/util/dll.c
+END
+vboxhgcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51944/trunk/src/VBox/GuestHost/OpenGL/util/vboxhgcm.c
+END
+process.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/33990/trunk/src/VBox/GuestHost/OpenGL/util/process.c
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/util/rand.c
+END

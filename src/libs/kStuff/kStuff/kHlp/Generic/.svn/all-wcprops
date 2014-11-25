@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic
+END
+kHlpStrNPCat.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrNPCat.c
+END
+kHlpGetExt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpGetExt.c
+END
+kHlpStrCopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrCopy.c
+END
+kHlpStrNComp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrNComp.c
+END
+kHlpStrChr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrChr.c
+END
+kHlpMemMove.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemMove.c
+END
+kHlpStrPComp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrPComp.c
+END
+kHlpGetEnvUZ.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpGetEnvUZ.c
+END
+kHlpStrNIPCompAscii.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrNIPCompAscii.c
+END
+kHlpStrICompAscii.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrICompAscii.c
+END
+kHlpMemCopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemCopy.c
+END
+kHlpMemChr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemChr.c
+END
+kHlpMemPComp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemPComp.c
+END
+kHlpStrNCat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrNCat.c
+END
+kHlpMemICompAscii.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemICompAscii.c
+END
+kHlpStrPCat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrPCat.c
+END
+kHlpGetFilename.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpGetFilename.c
+END
+kHlpStrNLen.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrNLen.c
+END
+kHlpInt2Ascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpInt2Ascii.c
+END
+kHlpStrComp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrComp.c
+END
+kHlpStrIPCompAscii.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrIPCompAscii.c
+END
+kHlpMemComp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemComp.c
+END
+kHlpStrCat.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrCat.c
+END
+kHlpStrLen.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrLen.c
+END
+kHlpMemPSet.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemPSet.c
+END
+kHlpPage.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpPage.c
+END
+kHlpIsFilenameOnly.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpIsFilenameOnly.c
+END
+kHlpStrPCopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrPCopy.c
+END
+kHlpMemPMove.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemPMove.c
+END
+kHlpStrNPComp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrNPComp.c
+END
+kHlpStrNICompAscii.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrNICompAscii.c
+END
+kHlpStrRChr.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpStrRChr.c
+END
+kHlpMemPCopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemPCopy.c
+END
+kHlpMemSet.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Generic/kHlpMemSet.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/52601/trunk/include/iprt/crypto
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/crypto/Makefile.kup
+END
+rsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/crypto/rsa.h
+END
+spc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/51862/trunk/include/iprt/crypto/spc.h
+END
+x509.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/52600/trunk/include/iprt/crypto/x509.h
+END
+tsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52601/trunk/include/iprt/crypto/tsp.h
+END
+pkcs7.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52600/trunk/include/iprt/crypto/pkcs7.h
+END
+taf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/crypto/taf.h
+END
+pkix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/crypto/pkix.h
+END
+store.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/crypto/store.h
+END
+digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/51856/trunk/include/iprt/crypto/digest.h
+END
+pem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/crypto/pem.h
+END

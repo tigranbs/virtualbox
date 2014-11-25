@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/DxeSmmPerformanceLib
+END
+DxeSmmPerformanceLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/DxeSmmPerformanceLib/DxeSmmPerformanceLib.inf
+END
+DxeSmmPerformanceLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/DxeSmmPerformanceLib/DxeSmmPerformanceLib.c
+END

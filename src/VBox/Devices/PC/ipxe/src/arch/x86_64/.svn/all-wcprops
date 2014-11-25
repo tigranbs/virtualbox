@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/x86_64
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/x86_64/Makefile
+END
+Makefile.efi
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/x86_64/Makefile.efi
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/x86_64/Makefile.linux
+END

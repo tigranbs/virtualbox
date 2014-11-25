@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/50542/trunk/include/VBox/HGSMI
+END
+HGSMIDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/50482/trunk/include/VBox/HGSMI/HGSMIDefs.h
+END
+HGSMIMemAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/50481/trunk/include/VBox/HGSMI/HGSMIMemAlloc.h
+END
+HGSMIChSetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/49365/trunk/include/VBox/HGSMI/HGSMIChSetup.h
+END
+HGSMIChannels.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/HGSMI/HGSMIChannels.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/36536/trunk/include/VBox/HGSMI/Makefile.kup
+END
+HGSMI.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/50542/trunk/include/VBox/HGSMI/HGSMI.h
+END

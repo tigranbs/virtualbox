@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/ReportStatusCodeRouter/RuntimeDxe
+END
+ReportStatusCodeRouterRuntimeDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/ReportStatusCodeRouter/RuntimeDxe/ReportStatusCodeRouterRuntimeDxe.inf
+END
+ReportStatusCodeRouterRuntimeDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/ReportStatusCodeRouter/RuntimeDxe/ReportStatusCodeRouterRuntimeDxe.c
+END
+ReportStatusCodeRouterRuntimeDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/ReportStatusCodeRouter/RuntimeDxe/ReportStatusCodeRouterRuntimeDxe.h
+END

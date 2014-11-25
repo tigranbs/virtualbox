@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg
+END
+NetworkPkg.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/NetworkPkg.dsc
+END
+NetworkPkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/NetworkPkg.dec
+END

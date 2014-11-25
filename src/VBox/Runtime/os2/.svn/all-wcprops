@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/os2
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Runtime/os2/Makefile.kup
+END
+rtSemWaitOs2ConvertTimeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/os2/rtSemWaitOs2ConvertTimeout.cpp
+END
+sys0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/os2/sys0.asm
+END
+RTErrConvertFromOS2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/os2/RTErrConvertFromOS2.cpp
+END

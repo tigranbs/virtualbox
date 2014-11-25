@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/HostDrivers/VBoxUSB/os2
+END
+usbcalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/HostDrivers/VBoxUSB/os2/usbcalls.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/31896/trunk/src/VBox/HostDrivers/VBoxUSB/os2/Makefile.kup
+END
+usbcalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/31896/trunk/src/VBox/HostDrivers/VBoxUSB/os2/usbcalls.h
+END

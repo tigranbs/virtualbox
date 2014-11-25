@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/53314/trunk/src/VBox/ValidationKit
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/Makefile.kmk
+END
+jshintrc.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/jshintrc.js
+END
+ValidationKitCodingGuidelines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/ValidationKitCodingGuidelines.cpp
+END
+Config.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/Config.kmk
+END
+td-dummy.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/td-dummy.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/readme.txt
+END

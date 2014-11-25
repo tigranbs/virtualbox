@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/46001/trunk/src/VBox/Additions/haiku/VBoxVideo/driver
+END
+driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/46001/trunk/src/VBox/Additions/haiku/VBoxVideo/driver/driver.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/43363/trunk/src/VBox/Additions/haiku/VBoxVideo/driver/Makefile.kmk
+END

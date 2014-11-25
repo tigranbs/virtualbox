@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/52411/trunk/src/VBox/VMM/VMMRZ
+END
+PGMRZDynMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/51517/trunk/src/VBox/VMM/VMMRZ/PGMRZDynMap.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/19288/trunk/src/VBox/VMM/VMMRZ/Makefile.kup
+END
+VMMRZ.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52411/trunk/src/VBox/VMM/VMMRZ/VMMRZ.cpp
+END
+DBGFRZ.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/47699/trunk/src/VBox/VMM/VMMRZ/DBGFRZ.cpp
+END

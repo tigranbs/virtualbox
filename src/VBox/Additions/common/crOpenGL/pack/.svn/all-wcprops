@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/Additions/common/crOpenGL/pack
+END
+packspu_framebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/45008/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_framebuffer.c
+END
+packspu_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52262/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_context.c
+END
+packspu_get.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51313/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_get.py
+END
+packspu.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52262/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu.h
+END
+packspu_unimplemented_special
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_unimplemented_special
+END
+packspu_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_net.c
+END
+packspu_flush.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/20083/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_flush.py
+END
+packspu_getshaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_getshaders.c
+END
+packspu_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_misc.c
+END
+packspu_vertex_special
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_vertex_special
+END
+pack.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/20083/trunk/src/VBox/Additions/common/crOpenGL/pack/pack.py
+END
+packspu_special
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52328/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_special
+END
+packspu_flush_special
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/20084/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_flush_special
+END
+packspu_bufferobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/45008/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_bufferobject.c
+END
+packspu_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/46174/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_texture.c
+END
+packspu_glsl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51200/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_glsl.c
+END
+packspu.rc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu.rc
+END
+packspu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51313/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_init.c
+END
+pack.def
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/pack/pack.def
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/18882/trunk/src/VBox/Additions/common/crOpenGL/pack/Makefile.kup
+END
+packspu_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33595/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_config.c
+END
+packspu_getstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52262/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_getstring.c
+END
+packspu_swapbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/42499/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_swapbuf.c
+END
+packspu_proto.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/20083/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_proto.py
+END
+packspu_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51316/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_client.c
+END
+packspu_beginend.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/46527/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_beginend.py
+END
+packspu_pixel.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/42499/trunk/src/VBox/Additions/common/crOpenGL/pack/packspu_pixel.c
+END

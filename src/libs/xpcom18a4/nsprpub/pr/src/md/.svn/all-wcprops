@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/46043/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/.cvsignore
+END
+prosdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/prosdep.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/Makefile.in
+END

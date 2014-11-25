@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/50244/trunk/tools/kBuildTools
+END
+VBoxXGccAmd64LinuxGnu.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/46564/trunk/tools/kBuildTools/VBoxXGccAmd64LinuxGnu.kmk
+END
+VBoxXGccX86RedHatLinux.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50244/trunk/tools/kBuildTools/VBoxXGccX86RedHatLinux.kmk
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/39924/trunk/src/libs/libxml2-2.6.31/win32
+END
+Makefile.bcb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/win32/Makefile.bcb
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/39924/trunk/src/libs/libxml2-2.6.31/win32/Makefile.msvc
+END
+VBox-README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39924/trunk/src/libs/libxml2-2.6.31/win32/VBox-README.txt
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/win32/Readme.txt
+END
+config.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/39924/trunk/src/libs/libxml2-2.6.31/win32/config.msvc
+END
+configure.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/win32/configure.js
+END
+libxml2.def.src
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/win32/libxml2.def.src
+END
+Makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/win32/Makefile.mingw
+END
+defgen.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/win32/defgen.xsl
+END

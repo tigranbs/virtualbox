@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg
+END
+CryptoPkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/CryptoPkg.dec
+END
+CryptoPkg.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/CryptoPkg.dsc
+END

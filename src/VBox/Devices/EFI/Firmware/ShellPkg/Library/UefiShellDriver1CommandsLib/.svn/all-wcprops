@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib
+END
+DrvCfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/DrvCfg.c
+END
+OpenInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/OpenInfo.c
+END
+Drivers.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/Drivers.c
+END
+UefiShellDriver1CommandsLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib.inf
+END
+Reconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/Reconnect.c
+END
+DrvDiag.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/DrvDiag.c
+END
+Unload.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/Unload.c
+END
+Devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/Devices.c
+END
+UefiShellDriver1CommandsLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib.c
+END
+Disconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/Disconnect.c
+END
+Connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/Connect.c
+END
+UefiShellDriver1CommandsLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib.h
+END
+Dh.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/Dh.c
+END
+DevTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/DevTree.c
+END
+UefiShellDriver1CommandsLib.uni
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib.uni
+END

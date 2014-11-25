@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48762/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg
+END
+IntelFrameworkModulePkg.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/IntelFrameworkModulePkg.dsc
+END
+IntelFrameworkModulePkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/IntelFrameworkModulePkg.dec
+END

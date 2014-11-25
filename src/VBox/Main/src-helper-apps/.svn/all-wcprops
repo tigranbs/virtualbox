@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/51978/trunk/src/VBox/Main/src-helper-apps
+END
+VBoxVolInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48672/trunk/src/VBox/Main/src-helper-apps/VBoxVolInfo.cpp
+END
+VBoxExtPackHelperApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51978/trunk/src/VBox/Main/src-helper-apps/VBoxExtPackHelperApp.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/35378/trunk/src/VBox/Main/src-helper-apps/Makefile.kup
+END

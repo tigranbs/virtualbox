@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/51941/trunk/src/VBox/Runtime/common/rand
+END
+randparkmiller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/rand/randparkmiller.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/31853/trunk/src/VBox/Runtime/common/rand/Makefile.kup
+END
+randadv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/rand/randadv.cpp
+END
+rand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51941/trunk/src/VBox/Runtime/common/rand/rand.cpp
+END

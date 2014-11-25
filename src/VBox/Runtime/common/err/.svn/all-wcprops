@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/err
+END
+errinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/err/errinfo.cpp
+END
+errmsgxpcom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/err/errmsgxpcom.cpp
+END
+errmsgcom.sed
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/err/errmsgcom.sed
+END
+RTErrConvertToErrno.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/err/RTErrConvertToErrno.cpp
+END
+errmsg.sed
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/47443/trunk/src/VBox/Runtime/common/err/errmsg.sed
+END
+RTErrConvertFromErrno.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/err/RTErrConvertFromErrno.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/5455/trunk/src/VBox/Runtime/common/err/Makefile.kup
+END
+errinfo-alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/err/errinfo-alloc.cpp
+END
+errmsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/err/errmsg.cpp
+END

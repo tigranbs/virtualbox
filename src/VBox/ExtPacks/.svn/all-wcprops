@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/51231/trunk/src/VBox/ExtPacks
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/47207/trunk/src/VBox/ExtPacks/Makefile.kmk
+END

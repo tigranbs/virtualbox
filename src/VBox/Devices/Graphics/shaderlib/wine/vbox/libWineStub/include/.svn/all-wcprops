@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/vbox/libWineStub/include
+END
+d3d9.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/vbox/libWineStub/include/d3d9.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/vbox/libWineStub/include/config.h
+END
+d3d8.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/vbox/libWineStub/include/d3d8.h
+END

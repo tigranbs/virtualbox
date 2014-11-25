@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/52959/trunk/src/VBox/Main/xml
+END
+Settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52959/trunk/src/VBox/Main/xml/Settings.cpp
+END
+SchemaDefs.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44948/trunk/src/VBox/Main/xml/SchemaDefs.xsl
+END
+VirtualBox-settings.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48879/trunk/src/VBox/Main/xml/VirtualBox-settings.xsd
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/36521/trunk/src/VBox/Main/xml/Makefile.kup
+END
+ovfreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50196/trunk/src/VBox/Main/xml/ovfreader.cpp
+END

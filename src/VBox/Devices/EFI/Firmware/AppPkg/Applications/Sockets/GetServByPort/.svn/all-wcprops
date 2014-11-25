@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/GetServByPort
+END
+GetServByPort.inf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/GetServByPort/GetServByPort.inf
+END
+GetServByPort.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets/GetServByPort/GetServByPort.c
+END

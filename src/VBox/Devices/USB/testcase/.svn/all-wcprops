@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/USB/testcase
+END
+tstPalmOne.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/USB/testcase/tstPalmOne.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/31888/trunk/src/VBox/Devices/USB/testcase/Makefile.kup
+END
+tstTrekStorGo.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/USB/testcase/tstTrekStorGo.c
+END
+tstOhciRegisterAccess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/39151/trunk/src/VBox/Devices/USB/testcase/tstOhciRegisterAccess.cpp
+END

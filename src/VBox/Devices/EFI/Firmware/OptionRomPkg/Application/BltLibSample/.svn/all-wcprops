@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/Application/BltLibSample
+END
+BltLibSample.inf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/Application/BltLibSample/BltLibSample.inf
+END
+BltLibSample.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/Application/BltLibSample/BltLibSample.c
+END

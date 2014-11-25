@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52978/trunk/src/VBox/Main/webservice/samples/python
+END
+clienttest.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52978/trunk/src/VBox/Main/webservice/samples/python/clienttest.py
+END
+Makefile.glue
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/webservice/samples/python/Makefile.glue
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/webservice/samples/python/Makefile
+END

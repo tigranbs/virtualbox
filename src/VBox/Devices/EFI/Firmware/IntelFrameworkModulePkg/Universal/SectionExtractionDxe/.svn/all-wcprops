@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/SectionExtractionDxe
+END
+SectionExtraction.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/SectionExtractionDxe/SectionExtraction.c
+END
+SectionExtractionDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/SectionExtractionDxe/SectionExtractionDxe.inf
+END

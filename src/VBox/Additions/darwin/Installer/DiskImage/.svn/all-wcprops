@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/DiskImage
+END
+Uninstall.tool
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/DiskImage/Uninstall.tool
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/DatahubStatusCodeHandlerDxe
+END
+DatahubStatusCodeHandlerDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/DatahubStatusCodeHandlerDxe/DatahubStatusCodeHandlerDxe.inf
+END
+DataHubStatusCodeWorker.c
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/DatahubStatusCodeHandlerDxe/DataHubStatusCodeWorker.c
+END
+DatahubStatusCodeHandlerDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/DatahubStatusCodeHandlerDxe/DatahubStatusCodeHandlerDxe.c
+END
+DatahubStatusCodeHandlerDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/DatahubStatusCodeHandlerDxe/DatahubStatusCodeHandlerDxe.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/52520/trunk/src/recompiler/target-i386
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/19297/trunk/src/recompiler/target-i386/Makefile.kup
+END
+svm.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/36125/trunk/src/recompiler/target-i386/svm.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52520/trunk/src/recompiler/target-i386/cpu.h
+END
+op_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/48472/trunk/src/recompiler/target-i386/op_helper.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46121/trunk/src/recompiler/target-i386/translate.c
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/41436/trunk/src/recompiler/target-i386/helper.c
+END
+helper_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/36175/trunk/src/recompiler/target-i386/helper_template.h
+END
+ops_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/39376/trunk/src/recompiler/target-i386/ops_sse.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/37689/trunk/src/recompiler/target-i386/TODO
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/37675/trunk/src/recompiler/target-i386/helper.h
+END
+ops_sse_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/37689/trunk/src/recompiler/target-i386/ops_sse_header.h
+END
+exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/37691/trunk/src/recompiler/target-i386/exec.h
+END

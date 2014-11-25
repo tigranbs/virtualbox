@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include
+END
+gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/gc.h
+END
+opaque.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/opaque.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/misc.h
+END
+pixmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/pixmap.h
+END
+windowstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/windowstr.h
+END
+XIstubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/XIstubs.h
+END
+dixfontstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/dixfontstr.h
+END
+cursorstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/cursorstr.h
+END
+dixevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/dixevents.h
+END
+extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/extension.h
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/os.h
+END
+swaprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/swaprep.h
+END
+swapreq.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/swapreq.h
+END
+region.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/region.h
+END
+property.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/property.h
+END
+extinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/extinit.h
+END
+bstorestr.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/bstorestr.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/resource.h
+END
+servermd.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/servermd.h
+END
+dixstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/dixstruct.h
+END
+validate.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/validate.h
+END
+screenint.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/screenint.h
+END
+propertyst.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/propertyst.h
+END
+gcstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/gcstruct.h
+END
+bstore.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/bstore.h
+END
+closestr.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/closestr.h
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/input.h
+END
+miscstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/miscstruct.h
+END
+exevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/exevents.h
+END
+dixgrabs.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/dixgrabs.h
+END
+site.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/site.h
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/window.h
+END
+scrnintstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/scrnintstr.h
+END
+rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/rgb.h
+END
+dixfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/dixfont.h
+END
+closure.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/closure.h
+END
+colormap.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/colormap.h
+END
+regionstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/regionstr.h
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/cursor.h
+END
+extnsionst.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/extnsionst.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/globals.h
+END
+colormapst.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/colormapst.h
+END
+dix.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/dix.h
+END
+selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/selection.h
+END
+pixmapstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/pixmapstr.h
+END
+inputstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/include/inputstr.h
+END

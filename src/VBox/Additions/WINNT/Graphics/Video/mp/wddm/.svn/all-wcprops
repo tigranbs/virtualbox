@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53126/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm
+END
+VBoxMPVModes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52450/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVModes.h
+END
+VBoxMPCrUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/46757/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPCrUtil.cpp
+END
+VBoxMPVbva.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52226/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVbva.h
+END
+VBoxMPCr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51330/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPCr.cpp
+END
+VBoxMPCm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48070/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPCm.h
+END
+VBoxMPVhwa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/51260/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVhwa.cpp
+END
+VBoxMPRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/37127/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPRegistry.cpp
+END
+VBoxMPTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52136/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPTypes.h
+END
+VBoxMPCr.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/50940/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPCr.h
+END
+VBoxMPVhwa.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVhwa.h
+END
+VBoxMPWddm.rc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPWddm.rc
+END
+VBoxVideoWddm.inf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxVideoWddm.inf
+END
+VBoxMPVidPn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52631/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVidPn.cpp
+END
+VBoxMPW8.rc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/42145/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPW8.rc
+END
+VBoxVideoW8.inf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/42120/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxVideoW8.inf
+END
+VBoxMPVidPn.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52631/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVidPn.h
+END
+VBoxMPVdma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52329/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVdma.cpp
+END
+VBoxMPShgsmi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50859/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPShgsmi.cpp
+END
+VBoxMPMisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53008/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPMisc.cpp
+END
+VBoxMPWddm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53126/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPWddm.cpp
+END
+VBoxMPVdma.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52329/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVdma.h
+END
+VBoxMPVModes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52450/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVModes.cpp
+END
+VBoxMPVbva.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52808/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPVbva.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/36867/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/Makefile.kup
+END
+VBoxMPShgsmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50859/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPShgsmi.h
+END
+VBoxMPCm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48070/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPCm.cpp
+END
+VBoxMPMisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52350/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPMisc.h
+END
+VBoxMPWddm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52350/trunk/src/VBox/Additions/WINNT/Graphics/Video/mp/wddm/VBoxMPWddm.h
+END

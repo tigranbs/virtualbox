@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/tui
+END
+menu_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/tui/menu_ui.c
+END
+login_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/tui/login_ui.c
+END
+settings_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/hci/tui/settings_ui.c
+END

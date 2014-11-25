@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/51833/trunk/src/libs/xpcom18a4/nsprpub
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/configure.in
+END
+makefile.win
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/makefile.win
+END
+gmakefile.win
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/gmakefile.win
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/Makefile.in
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C/Types.h
+END
+CpuArch.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C/CpuArch.h
+END
+7zVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C/7zVersion.h
+END
+LzFind.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C/LzFind.h
+END
+LzHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C/LzHash.h
+END
+LzmaDec.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C/LzmaDec.c
+END
+LzmaDec.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C/LzmaDec.h
+END
+LzFind.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/Sdk/C/LzFind.c
+END

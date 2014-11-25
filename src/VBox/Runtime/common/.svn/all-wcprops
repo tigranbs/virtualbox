@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/53177/trunk/src/VBox/Runtime/common
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/5430/trunk/src/VBox/Runtime/common/Makefile.kup
+END

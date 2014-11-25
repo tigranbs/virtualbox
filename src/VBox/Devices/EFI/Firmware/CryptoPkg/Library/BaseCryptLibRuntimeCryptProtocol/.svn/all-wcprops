@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLibRuntimeCryptProtocol
+END
+BaseCryptLibRuntimeCryptProtocol.inf
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLibRuntimeCryptProtocol/BaseCryptLibRuntimeCryptProtocol.inf
+END
+RuntimeDxeIpfCryptLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/CryptoPkg/Library/BaseCryptLibRuntimeCryptProtocol/RuntimeDxeIpfCryptLib.c
+END

@@ -1,0 +1,623 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Main/include
+END
+Wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50416/trunk/src/VBox/Main/include/Wrapper.h
+END
+VirtualBoxClientImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52442/trunk/src/VBox/Main/include/VirtualBoxClientImpl.h
+END
+PerformanceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/PerformanceImpl.h
+END
+ParallelPortImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/49871/trunk/src/VBox/Main/include/ParallelPortImpl.h
+END
+ConsoleImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Main/include/ConsoleImpl.h
+END
+SharedFolderImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/50919/trunk/src/VBox/Main/include/SharedFolderImpl.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/6851/trunk/src/VBox/Main/include/Makefile.kup
+END
+DisplayImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53053/trunk/src/VBox/Main/include/DisplayImpl.h
+END
+EmulatedUSBImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50580/trunk/src/VBox/Main/include/EmulatedUSBImpl.h
+END
+BIOSSettingsImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/49871/trunk/src/VBox/Main/include/BIOSSettingsImpl.h
+END
+AudioSnifferInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/AudioSnifferInterface.h
+END
+VFSExplorerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50174/trunk/src/VBox/Main/include/VFSExplorerImpl.h
+END
+netif.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/50196/trunk/src/VBox/Main/include/netif.h
+END
+SerialPortImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49644/trunk/src/VBox/Main/include/SerialPortImpl.h
+END
+NATNetworkServiceRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/46970/trunk/src/VBox/Main/include/NATNetworkServiceRunner.h
+END
+GuestDnDPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51556/trunk/src/VBox/Main/include/GuestDnDPrivate.h
+END
+ApplianceImplPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50215/trunk/src/VBox/Main/include/ApplianceImplPrivate.h
+END
+HostHardwareLinux.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/HostHardwareLinux.h
+END
+NetworkAdapterImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/49951/trunk/src/VBox/Main/include/NetworkAdapterImpl.h
+END
+GuestSessionImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51321/trunk/src/VBox/Main/include/GuestSessionImpl.h
+END
+SnapshotImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/50504/trunk/src/VBox/Main/include/SnapshotImpl.h
+END
+KeyboardImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52924/trunk/src/VBox/Main/include/KeyboardImpl.h
+END
+AudioAdapterImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/49874/trunk/src/VBox/Main/include/AudioAdapterImpl.h
+END
+objectslist.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52317/trunk/src/VBox/Main/include/objectslist.h
+END
+AdditionsFacilityImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/50370/trunk/src/VBox/Main/include/AdditionsFacilityImpl.h
+END
+BandwidthControlImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49644/trunk/src/VBox/Main/include/BandwidthControlImpl.h
+END
+MediumLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/Main/include/MediumLock.h
+END
+UsbWebcamInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/49120/trunk/src/VBox/Main/include/UsbWebcamInterface.h
+END
+MachineDebuggerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/include/MachineDebuggerImpl.h
+END
+VMMDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/47190/trunk/src/VBox/Main/include/VMMDev.h
+END
+AutoStateDep.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51498/trunk/src/VBox/Main/include/AutoStateDep.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/32324/trunk/src/VBox/Main/include/vector.h
+END
+UsbCardReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/41363/trunk/src/VBox/Main/include/UsbCardReader.h
+END
+GuestProcessImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51321/trunk/src/VBox/Main/include/GuestProcessImpl.h
+END
+GuestImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52082/trunk/src/VBox/Main/include/GuestImpl.h
+END
+GuestFileImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51321/trunk/src/VBox/Main/include/GuestFileImpl.h
+END
+VRDEServerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49644/trunk/src/VBox/Main/include/VRDEServerImpl.h
+END
+MouseImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52934/trunk/src/VBox/Main/include/MouseImpl.h
+END
+ovfreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50196/trunk/src/VBox/Main/include/ovfreader.h
+END
+ApplianceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50832/trunk/src/VBox/Main/include/ApplianceImpl.h
+END
+ClientToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/48431/trunk/src/VBox/Main/include/ClientToken.h
+END
+SystemPropertiesImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52596/trunk/src/VBox/Main/include/SystemPropertiesImpl.h
+END
+USBDeviceFiltersImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49951/trunk/src/VBox/Main/include/USBDeviceFiltersImpl.h
+END
+ConsoleVRDPServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52923/trunk/src/VBox/Main/include/ConsoleVRDPServer.h
+END
+HostVideoInputDeviceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/49132/trunk/src/VBox/Main/include/HostVideoInputDeviceImpl.h
+END
+DisplayUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/include/DisplayUtils.h
+END
+MachineImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Main/include/MachineImpl.h
+END
+Logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/47525/trunk/src/VBox/Main/include/Logging.h
+END
+PCIDeviceAttachmentImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50922/trunk/src/VBox/Main/include/PCIDeviceAttachmentImpl.h
+END
+QMTranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52901/trunk/src/VBox/Main/include/QMTranslator.h
+END
+DHCPServerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/50174/trunk/src/VBox/Main/include/DHCPServerImpl.h
+END
+ProgressProxyImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/ProgressProxyImpl.h
+END
+HGCMObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/HGCMObjects.h
+END
+GuestCtrlImplPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50618/trunk/src/VBox/Main/include/GuestCtrlImplPrivate.h
+END
+HostNetworkInterfaceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50174/trunk/src/VBox/Main/include/HostNetworkInterfaceImpl.h
+END
+NATEngineImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/49874/trunk/src/VBox/Main/include/NATEngineImpl.h
+END
+HostPower.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50220/trunk/src/VBox/Main/include/HostPower.h
+END
+StorageControllerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/49644/trunk/src/VBox/Main/include/StorageControllerImpl.h
+END
+VirtualBoxBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51903/trunk/src/VBox/Main/include/VirtualBoxBase.h
+END
+GuestDirectoryImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51556/trunk/src/VBox/Main/include/GuestDirectoryImpl.h
+END
+HostImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52159/trunk/src/VBox/Main/include/HostImpl.h
+END
+Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/49074/trunk/src/VBox/Main/include/Global.h
+END
+Performance.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/48955/trunk/src/VBox/Main/include/Performance.h
+END
+HGCMThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/HGCMThread.h
+END
+GuestDnDTargetImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51556/trunk/src/VBox/Main/include/GuestDnDTargetImpl.h
+END
+VirtualBoxErrorInfoImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47391/trunk/src/VBox/Main/include/VirtualBoxErrorInfoImpl.h
+END
+MachineImplCloneVM.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/38119/trunk/src/VBox/Main/include/MachineImplCloneVM.h
+END
+MediumAttachmentImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49871/trunk/src/VBox/Main/include/MediumAttachmentImpl.h
+END
+RemoteUSBBackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/RemoteUSBBackend.h
+END
+GuestOSTypeImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/49644/trunk/src/VBox/Main/include/GuestOSTypeImpl.h
+END
+NATNetworkImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/50174/trunk/src/VBox/Main/include/NATNetworkImpl.h
+END
+HGCM.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/HGCM.h
+END
+USBControllerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/49871/trunk/src/VBox/Main/include/USBControllerImpl.h
+END
+GuestDnDSourceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51556/trunk/src/VBox/Main/include/GuestDnDSourceImpl.h
+END
+VirtualBoxImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Main/include/VirtualBoxImpl.h
+END
+Nvram.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44591/trunk/src/VBox/Main/include/Nvram.h
+END
+ProgressImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51687/trunk/src/VBox/Main/include/ProgressImpl.h
+END
+HostUSBDeviceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53297/trunk/src/VBox/Main/include/HostUSBDeviceImpl.h
+END
+Matching.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/Matching.h
+END
+USBDeviceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53297/trunk/src/VBox/Main/include/USBDeviceImpl.h
+END
+AutoCaller.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52489/trunk/src/VBox/Main/include/AutoCaller.h
+END
+AutostartDb.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/42178/trunk/src/VBox/Main/include/AutostartDb.h
+END
+ClientWatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/48431/trunk/src/VBox/Main/include/ClientWatcher.h
+END
+USBGetDevices.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/USBGetDevices.h
+END
+ExtPackUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/include/ExtPackUtil.h
+END
+USBDeviceFilterImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51498/trunk/src/VBox/Main/include/USBDeviceFilterImpl.h
+END
+MediumImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Main/include/MediumImpl.h
+END
+TokenImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/48955/trunk/src/VBox/Main/include/TokenImpl.h
+END
+BandwidthGroupImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/49644/trunk/src/VBox/Main/include/BandwidthGroupImpl.h
+END
+EventImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52720/trunk/src/VBox/Main/include/EventImpl.h
+END
+HashedPw.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/40066/trunk/src/VBox/Main/include/HashedPw.h
+END
+NetworkServiceRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49517/trunk/src/VBox/Main/include/NetworkServiceRunner.h
+END
+SessionImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Main/include/SessionImpl.h
+END
+PCIRawDevImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/42551/trunk/src/VBox/Main/include/PCIRawDevImpl.h
+END
+ObjectState.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51903/trunk/src/VBox/Main/include/ObjectState.h
+END
+RemoteUSBDeviceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/53297/trunk/src/VBox/Main/include/RemoteUSBDeviceImpl.h
+END
+vbox-libhal.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/include/vbox-libhal.h
+END
+GuestFsObjInfoImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51321/trunk/src/VBox/Main/include/GuestFsObjInfoImpl.h
+END
+MediumFormatImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/45518/trunk/src/VBox/Main/include/MediumFormatImpl.h
+END
+ExtPackManagerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52596/trunk/src/VBox/Main/include/ExtPackManagerImpl.h
+END
+USBProxyService.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Main/include/USBProxyService.h
+END
+ClientTokenHolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48431/trunk/src/VBox/Main/include/ClientTokenHolder.h
+END
+BusAssignmentManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/include/BusAssignmentManager.h
+END

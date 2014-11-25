@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/50791/trunk/src/VBox/Runtime/common/path
+END
+RTPathStripFilename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathStripFilename.cpp
+END
+RTPathAbsEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathAbsEx.cpp
+END
+RTPathAppendEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathAppendEx.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/21673/trunk/src/VBox/Runtime/common/path/Makefile.kup
+END
+RTPathParse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathParse.cpp
+END
+RTPathAbsExDup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathAbsExDup.cpp
+END
+RTPathAbsDup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathAbsDup.cpp
+END
+RTPathChangeToUnixSlashes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Runtime/common/path/RTPathChangeToUnixSlashes.cpp
+END
+RTPathCopyComponents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/common/path/RTPathCopyComponents.cpp
+END
+RTPathParsedReassemble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/46049/trunk/src/VBox/Runtime/common/path/RTPathParsedReassemble.cpp
+END
+rtPathVolumeSpecLen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/rtPathVolumeSpecLen.cpp
+END
+RTPathStripExt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50791/trunk/src/VBox/Runtime/common/path/RTPathStripExt.cpp
+END
+RTPathStripTrailingSlash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathStripTrailingSlash.cpp
+END
+RTPathTraverseList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/path/RTPathTraverseList.cpp
+END
+RTPathHasPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathHasPath.cpp
+END
+RTPathSplitA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/45394/trunk/src/VBox/Runtime/common/path/RTPathSplitA.cpp
+END
+RTPathHasExt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/49039/trunk/src/VBox/Runtime/common/path/RTPathHasExt.cpp
+END
+RTPathSplitReassemble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathSplitReassemble.cpp
+END
+RTPathCountComponents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/common/path/RTPathCountComponents.cpp
+END
+RTPathJoin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/33450/trunk/src/VBox/Runtime/common/path/RTPathJoin.cpp
+END
+RTPathParse.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/46179/trunk/src/VBox/Runtime/common/path/RTPathParse.cpp.h
+END
+RTPathRmCmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/45046/trunk/src/VBox/Runtime/common/path/RTPathRmCmd.cpp
+END
+comparepaths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/comparepaths.cpp
+END
+RTPathAppend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathAppend.cpp
+END
+RTPathStartsWithRoot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/33245/trunk/src/VBox/Runtime/common/path/RTPathStartsWithRoot.cpp
+END
+RTPathFilename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathFilename.cpp
+END
+RTPathChangeToDosSlashes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/34205/trunk/src/VBox/Runtime/common/path/RTPathChangeToDosSlashes.cpp
+END
+RTPathParseSimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathParseSimple.cpp
+END
+RTPathSplit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathSplit.cpp
+END
+rtpath-expand-template.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/45395/trunk/src/VBox/Runtime/common/path/rtpath-expand-template.cpp.h
+END
+RTPathRealDup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/path/RTPathRealDup.cpp
+END
+RTPathJoinEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/34214/trunk/src/VBox/Runtime/common/path/RTPathJoinEx.cpp
+END
+rtPathRootSpecLen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/45389/trunk/src/VBox/Runtime/common/path/rtPathRootSpecLen.cpp
+END
+RTPathCalcRelative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/46187/trunk/src/VBox/Runtime/common/path/RTPathCalcRelative.cpp
+END
+RTPathJoinA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/33450/trunk/src/VBox/Runtime/common/path/RTPathJoinA.cpp
+END
+RTPathExt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/49039/trunk/src/VBox/Runtime/common/path/RTPathExt.cpp
+END

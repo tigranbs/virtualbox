@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44863/trunk/src/VBox/HostServices/GuestControl/testcase
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/HostServices/GuestControl/testcase/Makefile.kmk
+END
+tstGuestControlSvc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/44863/trunk/src/VBox/HostServices/GuestControl/testcase/tstGuestControlSvc.cpp
+END

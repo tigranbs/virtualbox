@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg
+END
+SecurityPkg.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/SecurityPkg.dsc
+END
+SecurityPkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/SecurityPkg.dec
+END

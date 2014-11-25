@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/50726/trunk/src/VBox/Additions/solaris/Mouse
+END
+deps.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/41725/trunk/src/VBox/Additions/solaris/Mouse/deps.asm
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/42368/trunk/src/VBox/Additions/solaris/Mouse/Makefile.kmk
+END
+vboxms.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48943/trunk/src/VBox/Additions/solaris/Mouse/vboxms.c
+END
+vboxms.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/42425/trunk/src/VBox/Additions/solaris/Mouse/vboxms.conf
+END
+vboxmslnk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/43112/trunk/src/VBox/Additions/solaris/Mouse/vboxmslnk.xml
+END
+vboxmslnk.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50726/trunk/src/VBox/Additions/solaris/Mouse/vboxmslnk.c
+END

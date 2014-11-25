@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52552/trunk/src/VBox/Additions/common/crOpenGL
+END
+NULLfuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/NULLfuncs.py
+END
+fakedri_glxfuncsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/fakedri_glxfuncsList.h
+END
+getprocaddress.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/51200/trunk/src/VBox/Additions/common/crOpenGL/getprocaddress.py
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52552/trunk/src/VBox/Additions/common/crOpenGL/load.c
+END
+glx_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/common/crOpenGL/glx_proto.h
+END
+stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51559/trunk/src/VBox/Additions/common/crOpenGL/stub.h
+END
+VBoxCROGL.rc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/Additions/common/crOpenGL/VBoxCROGL.rc
+END
+COPYRIGHT.LLNL
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/COPYRIGHT.LLNL
+END
+DD_glh.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Additions/common/crOpenGL/DD_glh.py
+END
+fakedri_glfuncsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/fakedri_glfuncsList.h
+END
+vboxdri_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Additions/common/crOpenGL/vboxdri_drv.c
+END
+dri_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/dri_drv.c
+END
+Linux_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/Linux_exports.py
+END
+windows_getprocaddress.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51200/trunk/src/VBox/Additions/common/crOpenGL/windows_getprocaddress.py
+END
+glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/49308/trunk/src/VBox/Additions/common/crOpenGL/glx.c
+END
+stub_common.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/stub_common.py
+END
+cr_gl.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Additions/common/crOpenGL/cr_gl.py
+END
+dri_glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/dri_glx.h
+END
+dri_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/dri_drv.h
+END
+defs64.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48999/trunk/src/VBox/Additions/common/crOpenGL/defs64.py
+END
+SunOS_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/18160/trunk/src/VBox/Additions/common/crOpenGL/SunOS_exports.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Additions/common/crOpenGL/LICENSE
+END
+OSF1_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/OSF1_exports.py
+END
+entrypoints.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/18539/trunk/src/VBox/Additions/common/crOpenGL/entrypoints.py
+END
+Linux_i386_glxapi_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/Linux_i386_glxapi_exports.py
+END
+icd_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51559/trunk/src/VBox/Additions/common/crOpenGL/icd_drv.c
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52038/trunk/src/VBox/Additions/common/crOpenGL/Makefile.kmk
+END
+SunOS_i386_glxapi_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/SunOS_i386_glxapi_exports.py
+END
+Darwin_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/Darwin_exports.py
+END
+IRIX64_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/IRIX64_exports.py
+END
+icd_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/common/crOpenGL/icd_drv.h
+END
+fakedri_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50323/trunk/src/VBox/Additions/common/crOpenGL/fakedri_drv.c
+END
+glx_c_exports.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/common/crOpenGL/glx_c_exports.c
+END
+DD_glc.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Additions/common/crOpenGL/DD_glc.py
+END
+alias_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/alias_exports.py
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51559/trunk/src/VBox/Additions/common/crOpenGL/context.c
+END
+windows_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/30457/trunk/src/VBox/Additions/common/crOpenGL/windows_exports.py
+END
+fakedri_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/fakedri_drv.h
+END
+defs.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48999/trunk/src/VBox/Additions/common/crOpenGL/defs.py
+END
+wgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51559/trunk/src/VBox/Additions/common/crOpenGL/wgl.c
+END
+tsfuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/tsfuncs.py
+END
+COPYRIGHT.REDHAT
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/COPYRIGHT.REDHAT
+END
+windows_i386_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/30457/trunk/src/VBox/Additions/common/crOpenGL/windows_i386_exports.py
+END
+xfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Additions/common/crOpenGL/xfont.c
+END
+VBoxICDList.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/common/crOpenGL/VBoxICDList.h
+END
+Linux_i386_exports_dri.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/30457/trunk/src/VBox/Additions/common/crOpenGL/Linux_i386_exports_dri.py
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Additions/common/crOpenGL/utils.c
+END
+Linux_i386_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/30457/trunk/src/VBox/Additions/common/crOpenGL/Linux_i386_exports.py
+END
+FreeBSD_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/FreeBSD_exports.py
+END
+SunOS_i386_exports_dri.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/SunOS_i386_exports_dri.py
+END
+drirenderbuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/27866/trunk/src/VBox/Additions/common/crOpenGL/drirenderbuffer.c
+END
+SunOS_i386_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/SunOS_i386_exports.py
+END
+dri_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Additions/common/crOpenGL/dri_util.c
+END
+AIX_exports.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/AIX_exports.py
+END
+stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/45132/trunk/src/VBox/Additions/common/crOpenGL/stub.c
+END

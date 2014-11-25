@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/configure.ac
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/Makefile.am
+END
+miniunz.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/miniunz.c
+END
+iowin32.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/iowin32.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/Makefile
+END
+make_vms.com
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/make_vms.com
+END
+iowin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/iowin32.h
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/ioapi.c
+END
+MiniZip64_info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/MiniZip64_info.txt
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/zip.c
+END
+minizip.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/minizip.pc.in
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/unzip.c
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/ioapi.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/crypt.h
+END
+mztools.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/mztools.c
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/zip.h
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/unzip.h
+END
+mztools.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/mztools.h
+END
+MiniZip64_Changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/MiniZip64_Changes.txt
+END
+minizip.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/minizip/minizip.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Application/Ping6
+END
+Ping6.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Application/Ping6/Ping6.c
+END
+Ping6Strings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Application/Ping6/Ping6Strings.uni
+END
+Ping6.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Application/Ping6/Ping6.h
+END
+Ping6.inf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/Application/Ping6/Ping6.inf
+END

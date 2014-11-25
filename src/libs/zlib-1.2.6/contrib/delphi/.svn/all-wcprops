@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/delphi
+END
+ZLibConst.pas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/delphi/ZLibConst.pas
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/delphi/readme.txt
+END
+zlibd32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/delphi/zlibd32.mak
+END
+ZLib.pas
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/delphi/ZLib.pas
+END

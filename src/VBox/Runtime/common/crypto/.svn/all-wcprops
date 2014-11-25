@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/53033/trunk/src/VBox/Runtime/common/crypto
+END
+x509-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/x509-internal.h
+END
+tsp-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/tsp-internal.h
+END
+rsa-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/rsa-init.cpp
+END
+pkix-util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/pkix-util.cpp
+END
+spc-asn1-decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52533/trunk/src/VBox/Runtime/common/crypto/spc-asn1-decoder.cpp
+END
+pkcs7-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/pkcs7-init.cpp
+END
+taf-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/taf-template.h
+END
+rsa-sanity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/rsa-sanity.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/Makefile.kup
+END
+x509-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52537/trunk/src/VBox/Runtime/common/crypto/x509-core.cpp
+END
+pkcs7-sanity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/pkcs7-sanity.cpp
+END
+tsp-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/tsp-core.cpp
+END
+pkix-signature-rsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52537/trunk/src/VBox/Runtime/common/crypto/pkix-signature-rsa.cpp
+END
+iprt-openssl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/iprt-openssl.cpp
+END
+RTCrStoreCertAddFromFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/RTCrStoreCertAddFromFile.cpp
+END
+spc-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51862/trunk/src/VBox/Runtime/common/crypto/spc-template.h
+END
+rsa-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/rsa-internal.h
+END
+pkcs7-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/pkcs7-internal.h
+END
+x509-verify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/x509-verify.cpp
+END
+x509-asn1-decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52533/trunk/src/VBox/Runtime/common/crypto/x509-asn1-decoder.cpp
+END
+tsp-asn1-decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/tsp-asn1-decoder.cpp
+END
+rsa-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/rsa-core.cpp
+END
+taf-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/taf-init.cpp
+END
+pkix-verify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/51776/trunk/src/VBox/Runtime/common/crypto/pkix-verify.cpp
+END
+pkcs7-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/pkcs7-core.cpp
+END
+pkix-signature-builtin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/pkix-signature-builtin.cpp
+END
+taf-sanity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/taf-sanity.cpp
+END
+x509-file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/x509-file.cpp
+END
+x509-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52521/trunk/src/VBox/Runtime/common/crypto/x509-template.h
+END
+tsp-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/tsp-template.h
+END
+spc-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/spc-init.cpp
+END
+rsa-asn1-decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/rsa-asn1-decoder.cpp
+END
+pkcs7-verify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/pkcs7-verify.cpp
+END
+taf-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/taf-internal.h
+END
+spc-sanity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51862/trunk/src/VBox/Runtime/common/crypto/spc-sanity.cpp
+END
+pkcs7-asn1-decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/pkcs7-asn1-decoder.cpp
+END
+store.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51779/trunk/src/VBox/Runtime/common/crypto/store.cpp
+END
+store-inmem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/53033/trunk/src/VBox/Runtime/common/crypto/store-inmem.cpp
+END
+pkix-signature-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/pkix-signature-core.cpp
+END
+taf-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/taf-core.cpp
+END
+x509-certpaths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/x509-certpaths.cpp
+END
+rsa-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/rsa-template.h
+END
+spc-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/spc-internal.h
+END
+digest-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/digest-core.cpp
+END
+pkcs7-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/pkcs7-template.h
+END
+x509-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/x509-init.cpp
+END
+tsp-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/tsp-init.cpp
+END
+x509-sanity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/x509-sanity.cpp
+END
+spc-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51862/trunk/src/VBox/Runtime/common/crypto/spc-core.cpp
+END
+store-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/store-internal.h
+END
+tsp-sanity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/crypto/tsp-sanity.cpp
+END
+taf-asn1-decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/taf-asn1-decoder.cpp
+END
+pemfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51782/trunk/src/VBox/Runtime/common/crypto/pemfile.cpp
+END
+digest-builtin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/51856/trunk/src/VBox/Runtime/common/crypto/digest-builtin.cpp
+END
+pkix-signature-builtin.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/crypto/pkix-signature-builtin.h
+END

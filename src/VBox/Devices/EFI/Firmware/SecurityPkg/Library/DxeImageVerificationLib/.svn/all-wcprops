@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/DxeImageVerificationLib
+END
+DxeImageVerificationLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/DxeImageVerificationLib/DxeImageVerificationLib.c
+END
+DxeImageVerificationLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/DxeImageVerificationLib/DxeImageVerificationLib.h
+END
+DxeImageVerificationLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/DxeImageVerificationLib/DxeImageVerificationLib.inf
+END

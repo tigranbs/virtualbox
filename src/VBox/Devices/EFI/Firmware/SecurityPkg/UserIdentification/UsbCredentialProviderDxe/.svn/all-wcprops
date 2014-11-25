@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UsbCredentialProviderDxe
+END
+UsbCredentialProviderStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UsbCredentialProviderDxe/UsbCredentialProviderStrings.uni
+END
+UsbCredentialProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UsbCredentialProviderDxe/UsbCredentialProvider.h
+END
+UsbCredentialProviderDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UsbCredentialProviderDxe/UsbCredentialProviderDxe.inf
+END
+UsbCredentialProvider.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UsbCredentialProviderDxe/UsbCredentialProvider.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53318/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6
+END
+VBoxNetAdp-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53134/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6/VBoxNetAdp-win.cpp
+END
+VBoxNetAdp-win.rc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52630/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6/VBoxNetAdp-win.rc
+END
+VBoxNetLwf.inf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/53318/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6/VBoxNetLwf.inf
+END
+VBoxNetLwf-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52630/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6/VBoxNetLwf-win.cpp
+END
+VBoxNetAdp-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53134/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6/VBoxNetAdp-win.h
+END
+VBoxNetAdp6.inf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53124/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6/VBoxNetAdp6.inf
+END
+VBoxNetLwf-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52630/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6/VBoxNetLwf-win.h
+END
+VBoxNetCmn-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52630/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/ndis6/VBoxNetCmn-win.h
+END

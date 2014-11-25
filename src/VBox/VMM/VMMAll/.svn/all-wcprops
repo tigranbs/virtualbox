@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/53325/trunk/src/VBox/VMM/VMMAll
+END
+VMMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/49486/trunk/src/VBox/VMM/VMMAll/VMMAll.cpp
+END
+MMAllPagePool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMAll/MMAllPagePool.cpp
+END
+CPUMStack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMAll/CPUMStack.cpp
+END
+DBGFAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/47683/trunk/src/VBox/VMM/VMMAll/DBGFAll.cpp
+END
+IOMAllMMIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52984/trunk/src/VBox/VMM/VMMAll/IOMAllMMIO.cpp
+END
+PGMAllGst.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMAll/PGMAllGst.h
+END
+CPUMAllMsrs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52770/trunk/src/VBox/VMM/VMMAll/CPUMAllMsrs.cpp
+END
+GIMAllHv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52671/trunk/src/VBox/VMM/VMMAll/GIMAllHv.cpp
+END
+IEMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/53188/trunk/src/VBox/VMM/VMMAll/IEMAll.cpp
+END
+GIMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52768/trunk/src/VBox/VMM/VMMAll/GIMAll.cpp
+END
+PDMAllCritSect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/50000/trunk/src/VBox/VMM/VMMAll/PDMAllCritSect.cpp
+END
+MMAllHyper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/51271/trunk/src/VBox/VMM/VMMAll/MMAllHyper.cpp
+END
+PGMAllHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/47786/trunk/src/VBox/VMM/VMMAll/PGMAllHandler.cpp
+END
+PGMAllMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/45786/trunk/src/VBox/VMM/VMMAll/PGMAllMap.cpp
+END
+TRPMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/49623/trunk/src/VBox/VMM/VMMAll/TRPMAll.cpp
+END
+CSAMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/45620/trunk/src/VBox/VMM/VMMAll/CSAMAll.cpp
+END
+IOMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/45311/trunk/src/VBox/VMM/VMMAll/IOMAll.cpp
+END
+TMAllReal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMAll/TMAllReal.cpp
+END
+IEMAllCImpl.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53181/trunk/src/VBox/VMM/VMMAll/IEMAllCImpl.cpp.h
+END
+PGMAllBth.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/46420/trunk/src/VBox/VMM/VMMAll/PGMAllBth.h
+END
+TMAllVirtual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/46420/trunk/src/VBox/VMM/VMMAll/TMAllVirtual.cpp
+END
+TMAllCpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53325/trunk/src/VBox/VMM/VMMAll/TMAllCpu.cpp
+END
+PDMAllCritSectRw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/50001/trunk/src/VBox/VMM/VMMAll/PDMAllCritSectRw.cpp
+END
+IEMAllAImpl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/48127/trunk/src/VBox/VMM/VMMAll/IEMAllAImpl.asm
+END
+PDMAllCritSectBoth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/45299/trunk/src/VBox/VMM/VMMAll/PDMAllCritSectBoth.cpp
+END
+EMAllA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMAll/EMAllA.asm
+END
+IEMAllAImplC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/48173/trunk/src/VBox/VMM/VMMAll/IEMAllAImplC.cpp
+END
+SELMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/52363/trunk/src/VBox/VMM/VMMAll/SELMAll.cpp
+END
+PATMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/47427/trunk/src/VBox/VMM/VMMAll/PATMAll.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/VMM/VMMAll/Makefile.kup
+END
+EMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/53101/trunk/src/VBox/VMM/VMMAll/EMAll.cpp
+END
+HMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/52419/trunk/src/VBox/VMM/VMMAll/HMAll.cpp
+END
+MMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/49893/trunk/src/VBox/VMM/VMMAll/MMAll.cpp
+END
+PGMAllShw.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/45798/trunk/src/VBox/VMM/VMMAll/PGMAllShw.h
+END
+PGMAllPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/50819/trunk/src/VBox/VMM/VMMAll/PGMAllPool.cpp
+END
+PDMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52670/trunk/src/VBox/VMM/VMMAll/PDMAll.cpp
+END
+TMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/50387/trunk/src/VBox/VMM/VMMAll/TMAll.cpp
+END
+VMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMAll/VMAll.cpp
+END
+PGMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/49486/trunk/src/VBox/VMM/VMMAll/PGMAll.cpp
+END
+REMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/46420/trunk/src/VBox/VMM/VMMAll/REMAll.cpp
+END
+PDMAllQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/50917/trunk/src/VBox/VMM/VMMAll/PDMAllQueue.cpp
+END
+IEMAllInstructions.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53247/trunk/src/VBox/VMM/VMMAll/IEMAllInstructions.cpp.h
+END
+CPUMAllRegs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52770/trunk/src/VBox/VMM/VMMAll/CPUMAllRegs.cpp
+END
+FTMAll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/VMM/VMMAll/FTMAll.cpp
+END
+PGMAllPhys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52318/trunk/src/VBox/VMM/VMMAll/PGMAllPhys.cpp
+END
+PDMAllNetShaper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48936/trunk/src/VBox/VMM/VMMAll/PDMAllNetShaper.cpp
+END
+IEMAllCImplStrInstr.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52456/trunk/src/VBox/VMM/VMMAll/IEMAllCImplStrInstr.cpp.h
+END
+VMMAllA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/VMM/VMMAll/VMMAllA.asm
+END

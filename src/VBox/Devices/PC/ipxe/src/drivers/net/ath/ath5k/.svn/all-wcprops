@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k
+END
+ath5k_gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_gpio.c
+END
+ath5k_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_phy.c
+END
+eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/eeprom.h
+END
+ath5k_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_dma.c
+END
+ath5k_attach.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_attach.c
+END
+rfbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/rfbuffer.h
+END
+ath5k_desc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_desc.c
+END
+rfgain.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/rfgain.h
+END
+ath5k.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k.c
+END
+ath5k_reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_reset.c
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/base.h
+END
+ath5k_rfkill.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_rfkill.c
+END
+ath5k.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k.h
+END
+ath5k_caps.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_caps.c
+END
+reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/reg.h
+END
+desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/desc.h
+END
+ath5k_pcu.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_pcu.c
+END
+ath5k_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_eeprom.c
+END
+ath5k_qcu.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_qcu.c
+END
+ath5k_initvals.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath5k/ath5k_initvals.c
+END

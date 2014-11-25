@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi
+END
+PiBootMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiBootMode.h
+END
+PiHob.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiHob.h
+END
+PiMultiPhase.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiMultiPhase.h
+END
+PiFirmwareFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiFirmwareFile.h
+END
+PiDependency.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiDependency.h
+END
+PiS3BootScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiS3BootScript.h
+END
+PiStatusCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiStatusCode.h
+END
+PiDxeCis.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiDxeCis.h
+END
+PiFirmwareVolume.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Pi/PiFirmwareVolume.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe
+END
+CirrusLogic5430.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/CirrusLogic5430.h
+END
+DriverSupportedEfiVersion.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/DriverSupportedEfiVersion.c
+END
+CirrusLogic5430Dxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/CirrusLogic5430Dxe.inf
+END
+CirrusLogic5430UgaDraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/CirrusLogic5430UgaDraw.c
+END
+CirrusLogic5430I2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/CirrusLogic5430I2c.c
+END
+CirrusLogic5430.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/CirrusLogic5430.c
+END
+CirrusLogic5430GraphicsOutput.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/CirrusLogic5430GraphicsOutput.c
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/ComponentName.c
+END
+CirrusLogic5430I2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/CirrusLogic5430I2c.h
+END
+Edid.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/CirrusLogic5430Dxe/Edid.c
+END

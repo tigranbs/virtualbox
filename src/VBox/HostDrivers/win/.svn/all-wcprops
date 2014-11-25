@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/53317/trunk/src/VBox/HostDrivers/win
+END
+load.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/43137/trunk/src/VBox/HostDrivers/win/load.cmd
+END
+loadall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53317/trunk/src/VBox/HostDrivers/win/loadall.sh
+END
+VBoxDbgLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/49138/trunk/src/VBox/HostDrivers/win/VBoxDbgLog.h
+END
+load.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53316/trunk/src/VBox/HostDrivers/win/load.sh
+END
+loadall.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/43137/trunk/src/VBox/HostDrivers/win/loadall.cmd
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/42154/trunk/src/VBox/HostDrivers/win/Makefile.kmk
+END

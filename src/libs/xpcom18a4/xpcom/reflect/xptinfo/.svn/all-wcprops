@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/39926/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/Makefile.in
+END

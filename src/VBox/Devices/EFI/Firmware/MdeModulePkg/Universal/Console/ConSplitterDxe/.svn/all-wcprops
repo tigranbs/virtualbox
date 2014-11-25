@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Console/ConSplitterDxe
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Console/ConSplitterDxe/ComponentName.c
+END
+ConSplitter.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Console/ConSplitterDxe/ConSplitter.c
+END
+ConSplitterGraphics.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Console/ConSplitterDxe/ConSplitterGraphics.c
+END
+ConSplitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Console/ConSplitterDxe/ConSplitter.h
+END
+ConSplitterDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Console/ConSplitterDxe/ConSplitterDxe.inf
+END

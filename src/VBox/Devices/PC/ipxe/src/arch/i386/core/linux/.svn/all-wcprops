@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/core/linux
+END
+linux_syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/core/linux/linux_syscall.S
+END
+linuxprefix.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/core/linux/linuxprefix.S
+END

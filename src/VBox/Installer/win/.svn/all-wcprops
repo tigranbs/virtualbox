@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/53318/trunk/src/VBox/Installer/win
+END
+VBoxMergeUSB.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52828/trunk/src/VBox/Installer/win/VBoxMergeUSB.wxi
+END
+VBoxMergeCOM32On64.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51127/trunk/src/VBox/Installer/win/VBoxMergeCOM32On64.wxi
+END
+VirtualBox.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53156/trunk/src/VBox/Installer/win/VirtualBox.wxs
+END
+VBoxMergePython.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51225/trunk/src/VBox/Installer/win/VBoxMergePython.wxs
+END
+dep.sed
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37289/trunk/src/VBox/Installer/win/dep.sed
+END
+VBoxMergeNetFltCA.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51225/trunk/src/VBox/Installer/win/VBoxMergeNetFltCA.wxi
+END
+VBoxMergeUSB.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51225/trunk/src/VBox/Installer/win/VBoxMergeUSB.wxs
+END
+VBoxMergeCOM32On64Seq.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/51127/trunk/src/VBox/Installer/win/VBoxMergeCOM32On64Seq.wxi
+END
+VBoxMergeCOM32On64.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51127/trunk/src/VBox/Installer/win/VBoxMergeCOM32On64.wxs
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52910/trunk/src/VBox/Installer/win/Makefile.kmk
+END
+VBoxMergeNetAdp.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53114/trunk/src/VBox/Installer/win/VBoxMergeNetAdp.wxi
+END
+VBoxMergeApp.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52828/trunk/src/VBox/Installer/win/VBoxMergeApp.wxi
+END
+VBoxMergeNetAdp.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51225/trunk/src/VBox/Installer/win/VBoxMergeNetAdp.wxs
+END
+VBoxMergePythonCA.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51225/trunk/src/VBox/Installer/win/VBoxMergePythonCA.wxi
+END
+VBoxMergeAppSeq.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51043/trunk/src/VBox/Installer/win/VBoxMergeAppSeq.wxi
+END
+VBoxMergePythonSeq.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51225/trunk/src/VBox/Installer/win/VBoxMergePythonSeq.wxi
+END
+VBoxMergeApp.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51225/trunk/src/VBox/Installer/win/VBoxMergeApp.wxs
+END
+VBoxMergeNetFlt.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53114/trunk/src/VBox/Installer/win/VBoxMergeNetFlt.wxi
+END
+VBoxMergeUSBCA.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51127/trunk/src/VBox/Installer/win/VBoxMergeUSBCA.wxi
+END
+VBoxMergeCOM32On64CA.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51127/trunk/src/VBox/Installer/win/VBoxMergeCOM32On64CA.wxi
+END
+VBoxMergeUSBSeq.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51127/trunk/src/VBox/Installer/win/VBoxMergeUSBSeq.wxi
+END
+VBoxMergeNetFltSeq.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/53090/trunk/src/VBox/Installer/win/VBoxMergeNetFltSeq.wxi
+END
+VBoxMergeNetFlt.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51225/trunk/src/VBox/Installer/win/VBoxMergeNetFlt.wxs
+END
+VirtualBox_TypeLib.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48323/trunk/src/VBox/Installer/win/VirtualBox_TypeLib.xsl
+END
+VBoxKey.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52637/trunk/src/VBox/Installer/win/VBoxKey.wxi
+END
+Properties.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52828/trunk/src/VBox/Installer/win/Properties.wxi
+END
+VBoxMergeNetAdpCA.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52824/trunk/src/VBox/Installer/win/VBoxMergeNetAdpCA.wxi
+END
+UserInterface.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/53090/trunk/src/VBox/Installer/win/UserInterface.wxi
+END
+VBoxMergePython.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51127/trunk/src/VBox/Installer/win/VBoxMergePython.wxi
+END
+VBoxMergeAppCA.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51127/trunk/src/VBox/Installer/win/VBoxMergeAppCA.wxi
+END
+VBoxMergeNetAdpSeq.wxi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/53090/trunk/src/VBox/Installer/win/VBoxMergeNetAdpSeq.wxi
+END

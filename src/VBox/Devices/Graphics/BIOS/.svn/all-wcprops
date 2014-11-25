@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/53100/trunk/src/VBox/Devices/Graphics/BIOS
+END
+vbe.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53100/trunk/src/VBox/Devices/Graphics/BIOS/vbe.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/README
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49116/trunk/src/VBox/Devices/Graphics/BIOS/Makefile.kmk
+END
+vgatables.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vgatables.h
+END
+vbetables-gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vbetables-gen.c
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/BUGS
+END
+VBoxVgaBiosAlternative.md5sum
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51255/trunk/src/VBox/Devices/Graphics/BIOS/VBoxVgaBiosAlternative.md5sum
+END
+vbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vbe.h
+END
+vgadefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vgadefs.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/TODO
+END
+VBoxVgaBiosAlternative.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51255/trunk/src/VBox/Devices/Graphics/BIOS/VBoxVgaBiosAlternative.asm
+END
+vbe_display_api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vbe_display_api.txt
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/COPYING
+END
+vberom.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53100/trunk/src/VBox/Devices/Graphics/BIOS/vberom.asm
+END
+vgarom.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vgarom.asm
+END
+vgabios.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/53099/trunk/src/VBox/Devices/Graphics/BIOS/vgabios.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/makefile
+END
+vgafonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vgafonts.h
+END
+vgabios.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vgabios.h
+END
+ose_logo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/ose_logo.bmp
+END
+inlines.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Graphics/BIOS/inlines.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/ChangeLog
+END
+vgadefs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/vgadefs.inc
+END
+Notes
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/43609/trunk/src/VBox/Devices/Graphics/BIOS/Notes
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/inputproto-1.9.99.902/X11/extensions
+END
+XI.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/inputproto-1.9.99.902/X11/extensions/XI.h
+END
+XI2.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/inputproto-1.9.99.902/X11/extensions/XI2.h
+END
+XIproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/inputproto-1.9.99.902/X11/extensions/XIproto.h
+END
+XI2proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/inputproto-1.9.99.902/X11/extensions/XI2proto.h
+END

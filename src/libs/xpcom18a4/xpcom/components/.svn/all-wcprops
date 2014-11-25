@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51167/trunk/src/libs/xpcom18a4/xpcom/components
+END
+nsStaticComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsStaticComponent.h
+END
+nsComponentManagerUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsComponentManagerUtils.h
+END
+nsIComponentLoaderManager.idl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIComponentLoaderManager.idl
+END
+nsIModule.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIModule.idl
+END
+nsIComponentRegistrar.idl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIComponentRegistrar.idl
+END
+nsServiceManagerObsolete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsServiceManagerObsolete.cpp
+END
+nsIComponentLoader.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIComponentLoader.idl
+END
+nsIComponentManagerObsolete.idl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIComponentManagerObsolete.idl
+END
+nsIServiceManager.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIServiceManager.idl
+END
+nsComponentManagerObsolete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsComponentManagerObsolete.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/.cvsignore
+END
+nsIComponentManager.idl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIComponentManager.idl
+END
+nsComponentManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47778/trunk/src/libs/xpcom18a4/xpcom/components/nsComponentManager.cpp
+END
+nsINativeComponentLoader.idl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsINativeComponentLoader.idl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/Makefile.in
+END
+xcDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/xpcom/components/xcDll.cpp
+END
+nsNativeComponentLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsNativeComponentLoader.h
+END
+nsIFactory.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIFactory.idl
+END
+nsCategoryManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsCategoryManager.cpp
+END
+nsIClassInfo.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIClassInfo.idl
+END
+nsObsoleteModuleLoading.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsObsoleteModuleLoading.h
+END
+nsModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsModule.h
+END
+nsIServiceManagerUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/51167/trunk/src/libs/xpcom18a4/xpcom/components/nsIServiceManagerUtils.h
+END
+nsIComponentManagerUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIComponentManagerUtils.h
+END
+nsCategoryManagerUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsCategoryManagerUtils.h
+END
+nsComponentManagerObsolete.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsComponentManagerObsolete.h
+END
+nsNativeComponentLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48282/trunk/src/libs/xpcom18a4/xpcom/components/nsNativeComponentLoader.cpp
+END
+nsStaticComponentLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/3175/trunk/src/libs/xpcom18a4/xpcom/components/nsStaticComponentLoader.cpp
+END
+nsComponentManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsComponentManager.h
+END
+nsIServiceManagerObsolete.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsIServiceManagerObsolete.h
+END
+nsICategoryManager.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsICategoryManager.idl
+END
+xcDll.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/xcDll.h
+END
+nsCategoryManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/components/nsCategoryManager.h
+END

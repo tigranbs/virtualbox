@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/readme.txt
+END
+read.adb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/read.adb
+END
+mtest.adb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/mtest.adb
+END
+zlib-streams.adb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/zlib-streams.adb
+END
+buffer_demo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/buffer_demo.adb
+END
+zlib-streams.ads
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/zlib-streams.ads
+END
+test.adb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/test.adb
+END
+zlib-thin.adb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/zlib-thin.adb
+END
+zlib.adb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/zlib.adb
+END
+zlib-thin.ads
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/zlib-thin.ads
+END
+zlib.ads
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/zlib.ads
+END
+zlib.gpr
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/ada/zlib.gpr
+END

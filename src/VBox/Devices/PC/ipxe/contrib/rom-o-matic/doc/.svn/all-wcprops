@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc
+END
+CRYPTO_80211_WEP.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/CRYPTO_80211_WEP.html
+END
+IWMGMT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IWMGMT_CMD.html
+END
+COMPRESERVE.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/COMPRESERVE.html
+END
+NMB_RESOLVER.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/NMB_RESOLVER.html
+END
+COMSPEED.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/COMSPEED.html
+END
+CONSOLE_PC_BIOS.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/CONSOLE_PC_BIOS.html
+END
+COMCONSOLE.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/COMCONSOLE.html
+END
+DHCP_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/DHCP_CMD.html
+END
+CRYPTO_80211_WPA2.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/CRYPTO_80211_WPA2.html
+END
+IMAGE_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IMAGE_CMD.html
+END
+IMAGE_SCRIPT.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IMAGE_SCRIPT.html
+END
+IFMGMT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IFMGMT_CMD.html
+END
+COMPARITY.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/COMPARITY.html
+END
+IMAGE_ELF.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IMAGE_ELF.html
+END
+IMAGE_NBI.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IMAGE_NBI.html
+END
+ROUTE_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/ROUTE_CMD.html
+END
+CRYPTO_80211_WPA.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/CRYPTO_80211_WPA.html
+END
+COMSTOP.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/COMSTOP.html
+END
+NVO_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/NVO_CMD.html
+END
+DOWNLOAD_PROTO_TFTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_TFTP.html
+END
+SANBOOT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/SANBOOT_CMD.html
+END
+CONFIG_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/CONFIG_CMD.html
+END
+DOWNLOAD_PROTO_HTTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_HTTP.html
+END
+IMAGE_PXE.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IMAGE_PXE.html
+END
+CONSOLE_SERIAL.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/CONSOLE_SERIAL.html
+END
+DOWNLOAD_PROTO_FTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/DOWNLOAD_PROTO_FTP.html
+END
+DNS_RESOLVER.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/DNS_RESOLVER.html
+END
+COMDATA.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/COMDATA.html
+END
+BANNER_TIMEOUT.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/BANNER_TIMEOUT.html
+END
+AUTOBOOT_CMD.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/AUTOBOOT_CMD.html
+END
+IMAGE_MULTIBOOT.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IMAGE_MULTIBOOT.html
+END
+IMAGE_BZIMAGE.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/rom-o-matic/doc/IMAGE_BZIMAGE.html
+END

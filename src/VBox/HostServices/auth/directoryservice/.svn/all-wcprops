@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/35944/trunk/src/VBox/HostServices/auth/directoryservice
+END
+directoryservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/35944/trunk/src/VBox/HostServices/auth/directoryservice/directoryservice.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33185/trunk/src/VBox/HostServices/auth/directoryservice/Makefile.kup
+END

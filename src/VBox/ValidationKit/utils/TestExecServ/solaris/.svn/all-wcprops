@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/solaris
+END
+vboxtxs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/solaris/vboxtxs.xml
+END
+vboxtxs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/solaris/vboxtxs.sh
+END
+vboxtxs-sol10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/solaris/vboxtxs-sol10.xml
+END

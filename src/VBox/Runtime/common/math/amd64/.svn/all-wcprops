@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/5424/trunk/src/VBox/Runtime/common/math/amd64
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/5424/trunk/src/VBox/Runtime/common/math/amd64/Makefile.kup
+END

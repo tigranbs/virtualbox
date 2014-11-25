@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/Library/SerialIoLib
+END
+SerialIoLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/Library/SerialIoLib/SerialIoLib.inf
+END
+SerialPortLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/Library/SerialIoLib/SerialPortLib.c
+END

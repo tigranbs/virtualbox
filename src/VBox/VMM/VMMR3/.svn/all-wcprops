@@ -1,0 +1,533 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/53326/trunk/src/VBox/VMM/VMMR3
+END
+EM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/51987/trunk/src/VBox/VMM/VMMR3/EM.cpp
+END
+PDMAsyncCompletionFileFailsafe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/PDMAsyncCompletionFileFailsafe.cpp
+END
+DBGFOS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44399/trunk/src/VBox/VMM/VMMR3/DBGFOS.cpp
+END
+MM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52764/trunk/src/VBox/VMM/VMMR3/MM.cpp
+END
+DBGFCpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/46219/trunk/src/VBox/VMM/VMMR3/DBGFCpu.cpp
+END
+PGMPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52811/trunk/src/VBox/VMM/VMMR3/PGMPool.cpp
+END
+PATMA.mac
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/PATMA.mac
+END
+PGMHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/46493/trunk/src/VBox/VMM/VMMR3/PGMHandler.cpp
+END
+PGMMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/45739/trunk/src/VBox/VMM/VMMR3/PGMMap.cpp
+END
+PDMCritSect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/46493/trunk/src/VBox/VMM/VMMR3/PDMCritSect.cpp
+END
+MMHyper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/51271/trunk/src/VBox/VMM/VMMR3/MMHyper.cpp
+END
+TRPM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/51726/trunk/src/VBox/VMM/VMMR3/TRPM.cpp
+END
+VMMTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50115/trunk/src/VBox/VMM/VMMR3/VMMTests.cpp
+END
+IOM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/45808/trunk/src/VBox/VMM/VMMR3/IOM.cpp
+END
+PDMQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/46493/trunk/src/VBox/VMM/VMMR3/PDMQueue.cpp
+END
+EMHM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/47807/trunk/src/VBox/VMM/VMMR3/EMHM.cpp
+END
+PGMBth.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/46420/trunk/src/VBox/VMM/VMMR3/PGMBth.h
+END
+DBGFDisas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/49379/trunk/src/VBox/VMM/VMMR3/DBGFDisas.cpp
+END
+PGMPhys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52692/trunk/src/VBox/VMM/VMMR3/PGMPhys.cpp
+END
+VMEmt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/51052/trunk/src/VBox/VMM/VMMR3/VMEmt.cpp
+END
+PDMNetShaper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/VMM/VMMR3/PDMNetShaper.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/35406/trunk/src/VBox/VMM/VMMR3/Makefile.kup
+END
+PDMDriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48980/trunk/src/VBox/VMM/VMMR3/PDMDriver.cpp
+END
+DBGFAddr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/46155/trunk/src/VBox/VMM/VMMR3/DBGFAddr.cpp
+END
+PDMBlkCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/49134/trunk/src/VBox/VMM/VMMR3/PDMBlkCache.cpp
+END
+VMM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/53300/trunk/src/VBox/VMM/VMMR3/VMM.cpp
+END
+DBGFMem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/DBGFMem.cpp
+END
+SSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/51598/trunk/src/VBox/VMM/VMMR3/SSM.cpp
+END
+DBGFLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/46326/trunk/src/VBox/VMM/VMMR3/DBGFLog.cpp
+END
+PGMSharedPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/PGMSharedPage.cpp
+END
+PDMAsyncCompletionFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/46493/trunk/src/VBox/VMM/VMMR3/PDMAsyncCompletionFile.cpp
+END
+PDMAsyncCompletion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/46493/trunk/src/VBox/VMM/VMMR3/PDMAsyncCompletion.cpp
+END
+PDMThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/VMM/VMMR3/PDMThread.cpp
+END
+VMMSwitcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/48221/trunk/src/VBox/VMM/VMMR3/VMMSwitcher.cpp
+END
+DBGFAddrSpace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/50407/trunk/src/VBox/VMM/VMMR3/DBGFAddrSpace.cpp
+END
+VMMGuruMeditation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/45693/trunk/src/VBox/VMM/VMMR3/VMMGuruMeditation.cpp
+END
+VMMR3.def
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/51290/trunk/src/VBox/VMM/VMMR3/VMMR3.def
+END
+PDMAsyncCompletionFileNormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/45678/trunk/src/VBox/VMM/VMMR3/PDMAsyncCompletionFileNormal.cpp
+END
+CPUMDbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/45793/trunk/src/VBox/VMM/VMMR3/CPUMDbg.cpp
+END
+PDMLdr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/52213/trunk/src/VBox/VMM/VMMR3/PDMLdr.cpp
+END
+VM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52699/trunk/src/VBox/VMM/VMMR3/VM.cpp
+END
+PDMDevHlp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52670/trunk/src/VBox/VMM/VMMR3/PDMDevHlp.cpp
+END
+PATMR3Dbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/46177/trunk/src/VBox/VMM/VMMR3/PATMR3Dbg.cpp
+END
+DBGFCoreWrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51720/trunk/src/VBox/VMM/VMMR3/DBGFCoreWrite.cpp
+END
+PDMDevMiscHlp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/46420/trunk/src/VBox/VMM/VMMR3/PDMDevMiscHlp.cpp
+END
+PATM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52771/trunk/src/VBox/VMM/VMMR3/PATM.cpp
+END
+PGMPhysRWTmpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/PGMPhysRWTmpl.h
+END
+DBGF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/46420/trunk/src/VBox/VMM/VMMR3/DBGF.cpp
+END
+CPUM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/53202/trunk/src/VBox/VMM/VMMR3/CPUM.cpp
+END
+STAM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52862/trunk/src/VBox/VMM/VMMR3/STAM.cpp
+END
+PGMGst.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/45808/trunk/src/VBox/VMM/VMMR3/PGMGst.h
+END
+MMUkHeap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/MMUkHeap.cpp
+END
+DBGFModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/VMM/VMMR3/DBGFModule.cpp
+END
+PATMGuest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/PATMGuest.cpp
+END
+GIMHv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52768/trunk/src/VBox/VMM/VMMR3/GIMHv.cpp
+END
+EMRaw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/47823/trunk/src/VBox/VMM/VMMR3/EMRaw.cpp
+END
+GIM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/52767/trunk/src/VBox/VMM/VMMR3/GIM.cpp
+END
+IEMR3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/48266/trunk/src/VBox/VMM/VMMR3/IEMR3.cpp
+END
+GMM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/43045/trunk/src/VBox/VMM/VMMR3/GMM.cpp
+END
+PGM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/49893/trunk/src/VBox/VMM/VMMR3/PGM.cpp
+END
+GIMMinimal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52707/trunk/src/VBox/VMM/VMMR3/GIMMinimal.cpp
+END
+PATMSSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52771/trunk/src/VBox/VMM/VMMR3/PATMSSM.cpp
+END
+PATMPatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/PATMPatch.h
+END
+DBGFR3Trace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/47238/trunk/src/VBox/VMM/VMMR3/DBGFR3Trace.cpp
+END
+VMReq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/VMReq.cpp
+END
+PDMUsb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/53210/trunk/src/VBox/VMM/VMMR3/PDMUsb.cpp
+END
+PDMDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/51897/trunk/src/VBox/VMM/VMMR3/PDMDevice.cpp
+END
+PATMA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/45276/trunk/src/VBox/VMM/VMMR3/PATMA.asm
+END
+DBGFReg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/48898/trunk/src/VBox/VMM/VMMR3/DBGFReg.cpp
+END
+MMPagePool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52809/trunk/src/VBox/VMM/VMMR3/MMPagePool.cpp
+END
+PGMDbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/47786/trunk/src/VBox/VMM/VMMR3/PGMDbg.cpp
+END
+SELM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/46420/trunk/src/VBox/VMM/VMMR3/SELM.cpp
+END
+HM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52766/trunk/src/VBox/VMM/VMMR3/HM.cpp
+END
+PGMSavedState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52693/trunk/src/VBox/VMM/VMMR3/PGMSavedState.cpp
+END
+MMHeap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMR3/MMHeap.cpp
+END
+PGMShw.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/45808/trunk/src/VBox/VMM/VMMR3/PGMShw.h
+END
+CFGM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/46793/trunk/src/VBox/VMM/VMMR3/CFGM.cpp
+END
+DBGFInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44399/trunk/src/VBox/VMM/VMMR3/DBGFInfo.cpp
+END
+CPUMR3Db.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/51641/trunk/src/VBox/VMM/VMMR3/CPUMR3Db.cpp
+END
+PDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/52670/trunk/src/VBox/VMM/VMMR3/PDM.cpp
+END
+TM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/53326/trunk/src/VBox/VMM/VMMR3/TM.cpp
+END
+PATMPatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/46150/trunk/src/VBox/VMM/VMMR3/PATMPatch.cpp
+END
+CSAM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52771/trunk/src/VBox/VMM/VMMR3/CSAM.cpp
+END
+EMR3Dbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/46424/trunk/src/VBox/VMM/VMMR3/EMR3Dbg.cpp
+END
+DBGFBp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/47714/trunk/src/VBox/VMM/VMMR3/DBGFBp.cpp
+END
+FTM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/47786/trunk/src/VBox/VMM/VMMR3/FTM.cpp
+END
+DBGFStack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48729/trunk/src/VBox/VMM/VMMR3/DBGFStack.cpp
+END
+CPUMR3CpuId.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52106/trunk/src/VBox/VMM/VMMR3/CPUMR3CpuId.cpp
+END

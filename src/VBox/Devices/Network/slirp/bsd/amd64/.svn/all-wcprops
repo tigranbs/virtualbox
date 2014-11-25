@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/43464/trunk/src/VBox/Devices/Network/slirp/bsd/amd64
+END
+in_cksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/43464/trunk/src/VBox/Devices/Network/slirp/bsd/amd64/in_cksum.c
+END

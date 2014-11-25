@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Acpi/BootScriptExecutorDxe/IA32
+END
+SetIdtEntry.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Acpi/BootScriptExecutorDxe/IA32/SetIdtEntry.c
+END
+S3Asm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Acpi/BootScriptExecutorDxe/IA32/S3Asm.asm
+END
+S3Asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/Acpi/BootScriptExecutorDxe/IA32/S3Asm.S
+END

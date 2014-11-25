@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53082/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/tools
+END
+VBoxNetAdpUninstall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52592/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/tools/VBoxNetAdpUninstall.cpp
+END
+VBoxNetFltUninstall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/51908/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/tools/VBoxNetFltUninstall.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/36184/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/tools/Makefile.kup
+END
+VBoxNetAdpInstall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53082/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/tools/VBoxNetAdpInstall.cpp
+END
+VBoxNetFltInstall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/tools/VBoxNetFltInstall.cpp
+END

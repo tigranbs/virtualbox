@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Bin
+END
+ResetVector.x64.raw
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.x64.raw
+END
+ResetVector.inf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.inf
+END
+ResetVector.ia32.port80.raw
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.ia32.port80.raw
+END
+ResetVector.ia32.serial.raw
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.ia32.serial.raw
+END
+ResetVector.x64.port80.raw
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.x64.port80.raw
+END
+ResetVector.ia32.raw
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.ia32.raw
+END
+ResetVector.x64.serial.raw
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Bin/ResetVector.x64.serial.raw
+END

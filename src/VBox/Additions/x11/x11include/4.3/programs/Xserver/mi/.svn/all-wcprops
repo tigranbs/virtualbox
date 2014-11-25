@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/mi
+END
+mibstore.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/mi/mibstore.h
+END
+mi.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/mi/mi.h
+END
+micmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/mi/micmap.h
+END
+mipointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/mi/mipointer.h
+END
+micoord.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/mi/micoord.h
+END
+migc.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/mi/migc.h
+END
+mibank.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/mi/mibank.h
+END

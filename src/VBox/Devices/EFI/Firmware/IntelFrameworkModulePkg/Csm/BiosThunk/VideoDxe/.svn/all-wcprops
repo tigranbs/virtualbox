@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/BiosThunk/VideoDxe
+END
+BiosVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/BiosThunk/VideoDxe/BiosVideo.h
+END
+VesaBiosExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/BiosThunk/VideoDxe/VesaBiosExtensions.h
+END
+VideoDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/BiosThunk/VideoDxe/VideoDxe.inf
+END
+BiosVideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/BiosThunk/VideoDxe/BiosVideo.c
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Csm/BiosThunk/VideoDxe/ComponentName.c
+END

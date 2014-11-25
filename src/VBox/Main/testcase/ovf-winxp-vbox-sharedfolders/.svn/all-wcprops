@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/50351/trunk/src/VBox/Main/testcase/ovf-winxp-vbox-sharedfolders
+END
+winxp.ovf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50351/trunk/src/VBox/Main/testcase/ovf-winxp-vbox-sharedfolders/winxp.ovf
+END

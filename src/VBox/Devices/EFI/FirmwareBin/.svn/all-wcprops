@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48975/trunk/src/VBox/Devices/EFI/FirmwareBin
+END
+VBoxEFI32.fd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48975/trunk/src/VBox/Devices/EFI/FirmwareBin/VBoxEFI32.fd
+END
+VBoxEFI64.fd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48975/trunk/src/VBox/Devices/EFI/FirmwareBin/VBoxEFI64.fd
+END

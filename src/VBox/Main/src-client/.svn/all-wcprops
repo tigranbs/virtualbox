@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/53330/trunk/src/VBox/Main/src-client
+END
+GuestCtrlImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52085/trunk/src/VBox/Main/src-client/GuestCtrlImpl.cpp
+END
+DrvAudioVRDE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51096/trunk/src/VBox/Main/src-client/DrvAudioVRDE.cpp
+END
+VideoRec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52901/trunk/src/VBox/Main/src-client/VideoRec.cpp
+END
+SessionImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Main/src-client/SessionImpl.cpp
+END
+PCIRawDevImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/src-client/PCIRawDevImpl.cpp
+END
+UsbCardReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/src-client/UsbCardReader.cpp
+END
+ConsoleImpl2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53330/trunk/src/VBox/Main/src-client/ConsoleImpl2.cpp
+END
+RemoteUSBDeviceImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53297/trunk/src/VBox/Main/src-client/RemoteUSBDeviceImpl.cpp
+END
+GuestProcessImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52934/trunk/src/VBox/Main/src-client/GuestProcessImpl.cpp
+END
+GuestImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52085/trunk/src/VBox/Main/src-client/GuestImpl.cpp
+END
+GuestFileImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52934/trunk/src/VBox/Main/src-client/GuestFileImpl.cpp
+END
+GuestFsObjInfoImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50528/trunk/src/VBox/Main/src-client/GuestFsObjInfoImpl.cpp
+END
+MouseImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52934/trunk/src/VBox/Main/src-client/MouseImpl.cpp
+END
+EbmlWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52901/trunk/src/VBox/Main/src-client/EbmlWriter.cpp
+END
+ClientTokenHolder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48431/trunk/src/VBox/Main/src-client/ClientTokenHolder.cpp
+END
+BusAssignmentManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/src-client/BusAssignmentManager.cpp
+END
+VMMDevInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52934/trunk/src/VBox/Main/src-client/VMMDevInterface.cpp
+END
+VirtualBoxClientImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52442/trunk/src/VBox/Main/src-client/VirtualBoxClientImpl.cpp
+END
+VBoxDriversRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50686/trunk/src/VBox/Main/src-client/VBoxDriversRegister.cpp
+END
+GuestSessionImplTasks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52082/trunk/src/VBox/Main/src-client/GuestSessionImplTasks.cpp
+END
+ConsoleImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/53066/trunk/src/VBox/Main/src-client/ConsoleImpl.cpp
+END
+ConsoleVRDPServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52978/trunk/src/VBox/Main/src-client/ConsoleVRDPServer.cpp
+END
+DisplayImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Main/src-client/DisplayImpl.cpp
+END
+HGCMObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/35374/trunk/src/VBox/Main/src-client/HGCMObjects.cpp
+END
+ConsoleImplTeleporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/src-client/ConsoleImplTeleporter.cpp
+END
+EmulatedUSBImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53062/trunk/src/VBox/Main/src-client/EmulatedUSBImpl.cpp
+END
+GuestDirectoryImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53127/trunk/src/VBox/Main/src-client/GuestDirectoryImpl.cpp
+END
+AudioSnifferInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/src-client/AudioSnifferInterface.cpp
+END
+VideoRec.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52312/trunk/src/VBox/Main/src-client/VideoRec.h
+END
+DisplaySourceBitmapImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/51436/trunk/src/VBox/Main/src-client/DisplaySourceBitmapImpl.cpp
+END
+HGCMThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-client/HGCMThread.cpp
+END
+GuestDnDTargetImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51799/trunk/src/VBox/Main/src-client/GuestDnDTargetImpl.cpp
+END
+GuestCtrlPrivate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52981/trunk/src/VBox/Main/src-client/GuestCtrlPrivate.cpp
+END
+GuestDnDPrivate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52978/trunk/src/VBox/Main/src-client/GuestDnDPrivate.cpp
+END
+DisplayImplLegacy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52769/trunk/src/VBox/Main/src-client/DisplayImplLegacy.cpp
+END
+RemoteUSBBackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/src-client/RemoteUSBBackend.cpp
+END
+GuestSessionImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/53128/trunk/src/VBox/Main/src-client/GuestSessionImpl.cpp
+END
+HGCM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-client/HGCM.cpp
+END
+GuestDnDSourceImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51799/trunk/src/VBox/Main/src-client/GuestDnDSourceImpl.cpp
+END
+EbmlWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52901/trunk/src/VBox/Main/src-client/EbmlWriter.h
+END
+KeyboardImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52934/trunk/src/VBox/Main/src-client/KeyboardImpl.cpp
+END
+Nvram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/src-client/Nvram.cpp
+END
+AdditionsFacilityImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50370/trunk/src/VBox/Main/src-client/AdditionsFacilityImpl.cpp
+END
+UsbWebcamInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51612/trunk/src/VBox/Main/src-client/UsbWebcamInterface.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/src-client/Makefile.kup
+END
+USBDeviceImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53297/trunk/src/VBox/Main/src-client/USBDeviceImpl.cpp
+END
+MachineDebuggerImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-client/MachineDebuggerImpl.cpp
+END

@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/RDP/client
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/README
+END
+xkeymap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/38836/trunk/src/VBox/RDP/client/xkeymap.c
+END
+xclip.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40651/trunk/src/VBox/RDP/client/xclip.c
+END
+xwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/xwin.c
+END
+tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/tcp.c
+END
+parallel.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/parallel.c
+END
+scard.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/scard.c
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/install-sh
+END
+orders.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/orders.c
+END
+rdpsnd_dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd_dsp.c
+END
+xproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/xproto.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/configure
+END
+ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/ssl.c
+END
+scard.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/scard.h
+END
+licence.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/licence.c
+END
+orders.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/orders.h
+END
+rdpsnd_dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd_dsp.h
+END
+ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/ssl.h
+END
+printercache.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/printercache.c
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/types.h
+END
+seamless.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/seamless.c
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/constants.h
+END
+seamless.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/seamless.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/configure.ac
+END
+secure.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/secure.c
+END
+rdesktop.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/38836/trunk/src/VBox/RDP/client/rdesktop.c
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/bootstrap
+END
+ewmhints.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/ewmhints.c
+END
+rdesktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdesktop.h
+END
+rdesktop.spec
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdesktop.spec
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/cache.c
+END
+rdpdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/38904/trunk/src/VBox/RDP/client/rdpdr.c
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/bitmap.c
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/RDP/client/Makefile.kmk
+END
+parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/parse.h
+END
+mcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/mcs.c
+END
+printer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/printer.c
+END
+rdpsnd_alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd_alsa.c
+END
+iso.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/iso.c
+END
+pstcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/pstcache.c
+END
+rdpsnd_sgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd_sgi.c
+END
+cliprdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/cliprdr.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/RDP/client/Makefile.in
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/proto.h
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/config.guess
+END
+rdp5.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdp5.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/config.sub
+END
+rdpsnd_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd_oss.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/serial.c
+END
+rdpsnd_sun.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd_sun.c
+END
+proto.head
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/proto.head
+END
+rdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/45164/trunk/src/VBox/RDP/client/rdp.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/COPYING
+END
+rdpsnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd.c
+END
+disk.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/disk.c
+END
+channels.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/channels.c
+END
+rdpsnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd.h
+END
+disk.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/disk.h
+END
+mppc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/mppc.c
+END
+rdpsnd_libao.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/rdpsnd_libao.c
+END
+scancodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/scancodes.h
+END
+proto.tail
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/proto.tail
+END
+lspci.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/lspci.c
+END

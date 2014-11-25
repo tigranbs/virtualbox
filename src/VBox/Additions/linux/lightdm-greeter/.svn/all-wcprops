@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48941/trunk/src/VBox/Additions/linux/lightdm-greeter
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48941/trunk/src/VBox/Additions/linux/lightdm-greeter/Makefile.kmk
+END
+banner-dummy.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/45170/trunk/src/VBox/Additions/linux/lightdm-greeter/banner-dummy.png
+END
+vbox-greeter.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/45170/trunk/src/VBox/Additions/linux/lightdm-greeter/vbox-greeter.desktop
+END
+vbox-greeter.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/45170/trunk/src/VBox/Additions/linux/lightdm-greeter/vbox-greeter.ui
+END
+vbox-greeter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48652/trunk/src/VBox/Additions/linux/lightdm-greeter/vbox-greeter.cpp
+END

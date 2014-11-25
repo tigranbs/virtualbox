@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53270/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxAppleSim
+END
+Console.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxAppleSim/Console.c
+END
+VBoxAppleSim.inf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxAppleSim/VBoxAppleSim.inf
+END
+Cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxAppleSim/Cpu.c
+END
+ConsoleControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxAppleSim/ConsoleControl.h
+END
+VBoxAppleSim.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53270/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxAppleSim/VBoxAppleSim.c
+END

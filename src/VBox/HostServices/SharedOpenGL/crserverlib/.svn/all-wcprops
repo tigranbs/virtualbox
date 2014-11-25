@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/53262/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib
+END
+server_clear.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50095/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_clear.c
+END
+server_getshaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52807/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_getshaders.c
+END
+server_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_stream.c
+END
+server_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_texture.c
+END
+server_readpixels.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_readpixels.c
+END
+server_bufferobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/44388/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_bufferobject.c
+END
+server_retval.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52260/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_retval.py
+END
+server_getteximage.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_getteximage.c
+END
+server_dispatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/50443/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_dispatch.py
+END
+server_muralfbo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52486/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_muralfbo.cpp
+END
+server_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52429/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_window.c
+END
+server_rpw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50277/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_rpw.cpp
+END
+server_occlude.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_occlude.c
+END
+server_viewport.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/40691/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_viewport.c
+END
+server_winpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/27889/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_winpos.c
+END
+server_getpointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_getpointer.c
+END
+server_framebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/46173/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_framebuffer.c
+END
+server_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53233/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_main.c
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server.h
+END
+server_get.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_get.py
+END
+server_clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_clip.c
+END
+server_papi.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_papi.c
+END
+server_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53088/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_misc.c
+END
+server_lists.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52641/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_lists.c
+END
+server_projmatrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/40691/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_projmatrix.c
+END
+server_simpleget.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/50441/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_simpleget.py
+END
+server_special
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/51200/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_special
+END
+server_glsl.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_glsl.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/Makefile.kup
+END
+server_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53233/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_config.c
+END
+server_boundsinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/40691/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_boundsinfo.c
+END
+server_getstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_getstring.c
+END
+crserverlib.def
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/39288/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/crserverlib.def
+END
+server_writeback.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/39288/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_writeback.c
+END
+get_sizes.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48290/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/get_sizes.py
+END
+server_getmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_getmap.c
+END
+server_dispatch_header.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/43888/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_dispatch_header.py
+END
+server_gentextures.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/31808/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_gentextures.c
+END
+server_getpixelmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/27983/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_getpixelmap.c
+END
+server_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50277/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/server_context.c
+END

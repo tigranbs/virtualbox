@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe
+END
+PxeBcSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcSupport.c
+END
+PxeBcSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcSupport.h
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/ComponentName.c
+END
+UefiPxeBcDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/UefiPxeBcDxe.inf
+END
+PxeBcMtftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcMtftp.c
+END
+PxeBcDriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcDriver.c
+END
+PxeBcMtftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcMtftp.h
+END
+PxeBcDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcDriver.h
+END
+PxeBcImpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcImpl.c
+END
+PxeBcDhcp4.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcDhcp4.c
+END
+PxeBcBoot.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcBoot.c
+END
+PxeBcDhcp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcDhcp6.c
+END
+PxeBcImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcImpl.h
+END
+PxeBcDhcp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcDhcp4.h
+END
+PxeBcBoot.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcBoot.h
+END
+PxeBcDhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/NetworkPkg/UefiPxeBcDxe/PxeBcDhcp6.h
+END

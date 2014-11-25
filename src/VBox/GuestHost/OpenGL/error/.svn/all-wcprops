@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/37392/trunk/src/VBox/GuestHost/OpenGL/error
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/error/Makefile.kup
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/37392/trunk/src/VBox/GuestHost/OpenGL/error/error.py
+END
+errorspu.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/GuestHost/OpenGL/error/errorspu.rc
+END
+errorspu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/error/errorspu_init.c
+END
+error.def
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/error/error.def
+END

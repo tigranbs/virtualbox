@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/50474/trunk/src/VBox/Devices/Network/lwip-new/src/core
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/init.c
+END
+timers.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/50212/trunk/src/VBox/Devices/Network/lwip-new/src/core/timers.c
+END
+netif.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50185/trunk/src/VBox/Devices/Network/lwip-new/src/core/netif.c
+END
+inet_chksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/inet_chksum.c
+END
+tcp_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/tcp_in.c
+END
+tcp_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/50192/trunk/src/VBox/Devices/Network/lwip-new/src/core/tcp_out.c
+END
+sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/sys.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/mem.c
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/dhcp.c
+END
+dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/dns.c
+END
+tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50170/trunk/src/VBox/Devices/Network/lwip-new/src/core/tcp.c
+END
+udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50007/trunk/src/VBox/Devices/Network/lwip-new/src/core/udp.c
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/raw.c
+END
+pbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/pbuf.c
+END
+stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50208/trunk/src/VBox/Devices/Network/lwip-new/src/core/stats.c
+END
+memp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/50172/trunk/src/VBox/Devices/Network/lwip-new/src/core/memp.c
+END
+def.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/def.c
+END

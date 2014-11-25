@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/52838/trunk/src/VBox/Debugger
+END
+DBGCFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44399/trunk/src/VBox/Debugger/DBGCFunctions.cpp
+END
+VBoxDbgBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Debugger/VBoxDbgBase.h
+END
+DBGPlugInWinNt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/46128/trunk/src/VBox/Debugger/DBGPlugInWinNt.cpp
+END
+DBGPlugInLinux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/50665/trunk/src/VBox/Debugger/DBGPlugInLinux.cpp
+END
+VBoxDbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Debugger/VBoxDbg.cpp
+END
+DBGPlugIns.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/49044/trunk/src/VBox/Debugger/DBGPlugIns.h
+END
+VBoxDbgGui.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Debugger/VBoxDbgGui.h
+END
+DBGCEval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44399/trunk/src/VBox/Debugger/DBGCEval.cpp
+END
+VBoxDbgStatsQt4.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Debugger/VBoxDbgStatsQt4.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/49060/trunk/src/VBox/Debugger/Makefile.kmk
+END
+DBGConsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/46156/trunk/src/VBox/Debugger/DBGConsole.cpp
+END
+DBGPlugInCommonELF.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Debugger/DBGPlugInCommonELF.h
+END
+DBGPlugInDarwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52838/trunk/src/VBox/Debugger/DBGPlugInDarwin.cpp
+END
+DBGCCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/51957/trunk/src/VBox/Debugger/DBGCCommands.cpp
+END
+DBGCOps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/46156/trunk/src/VBox/Debugger/DBGCOps.cpp
+END
+VBoxDbgConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52003/trunk/src/VBox/Debugger/VBoxDbgConsole.h
+END
+VBoxDbgBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/48946/trunk/src/VBox/Debugger/VBoxDbgBase.cpp
+END
+DBGCGdbRemoteStub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/35628/trunk/src/VBox/Debugger/DBGCGdbRemoteStub.cpp
+END
+DBGCCmdHlp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48898/trunk/src/VBox/Debugger/DBGCCmdHlp.cpp
+END
+DBGPlugInCommonELFTmpl.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Debugger/DBGPlugInCommonELFTmpl.cpp.h
+END
+DBGPlugInOS2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/48946/trunk/src/VBox/Debugger/DBGPlugInOS2.cpp
+END
+DBGCBuiltInSymbols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/37423/trunk/src/VBox/Debugger/DBGCBuiltInSymbols.cpp
+END
+VBoxDbgGui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Debugger/VBoxDbgGui.cpp
+END
+DBGCCmdWorkers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/35673/trunk/src/VBox/Debugger/DBGCCmdWorkers.cpp
+END
+DBGCInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/47569/trunk/src/VBox/Debugger/DBGCInternal.h
+END
+DBGCEmulateCodeView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/49500/trunk/src/VBox/Debugger/DBGCEmulateCodeView.cpp
+END
+VBoxDbgStatsQt4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/48564/trunk/src/VBox/Debugger/VBoxDbgStatsQt4.cpp
+END
+DBGCTcp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44399/trunk/src/VBox/Debugger/DBGCTcp.cpp
+END
+DBGPlugInSolaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52837/trunk/src/VBox/Debugger/DBGPlugInSolaris.cpp
+END
+DBGPlugInCommonELF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48946/trunk/src/VBox/Debugger/DBGPlugInCommonELF.cpp
+END
+VBoxDbgConsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52003/trunk/src/VBox/Debugger/VBoxDbgConsole.cpp
+END
+DBGPlugInDiggers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49044/trunk/src/VBox/Debugger/DBGPlugInDiggers.cpp
+END
+VBoxDbgDisas.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/31531/trunk/src/VBox/Debugger/VBoxDbgDisas.h
+END

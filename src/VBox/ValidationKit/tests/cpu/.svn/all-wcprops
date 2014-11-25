@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/cpu
+END
+tdCpuPae1.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/cpu/tdCpuPae1.py
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/cpu/Makefile.kmk
+END

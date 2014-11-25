@@ -1,0 +1,86 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Additions/common
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-14T16:25:32.795199Z
+53333
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+VBoxVideo
+dir
+
+VBoxGuest
+dir
+
+crOpenGL
+dir
+
+testcase
+dir
+
+VBoxGuestLib
+dir
+
+pam
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:43:21.472657Z
+b93d01dc6d12339d0531e1b5a5e63a98
+2014-05-22T11:35:05.286444Z
+51346
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1201
+
+VBoxControl
+dir
+
+VBoxService
+dir
+

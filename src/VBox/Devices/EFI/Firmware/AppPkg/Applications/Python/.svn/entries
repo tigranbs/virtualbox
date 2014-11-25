@@ -1,0 +1,80 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Python
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+PythonCore.inf
+file
+
+
+
+
+2014-11-25T14:40:29.580657Z
+ff693d999e279e7acf64c660d7ea0a2d
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8597
+
+PyMod-2.7.1
+dir
+
+PyMod-2.7.2
+dir
+
+Ia32
+dir
+
+Ipf
+dir
+
+X64
+dir
+
+Efi
+dir
+

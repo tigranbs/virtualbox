@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/vbox/!svn/ver/53174/trunk/tools
+END
+Makefile-ose.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/44528/trunk/tools/Makefile-ose.kmk
+END
+CommonFetch.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/44528/trunk/tools/CommonFetch.kmk
+END
+pylintrc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/vbox/!svn/ver/50702/trunk/tools/pylintrc
+END

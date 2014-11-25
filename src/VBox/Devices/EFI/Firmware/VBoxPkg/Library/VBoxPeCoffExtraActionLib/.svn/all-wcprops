@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/49571/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxPeCoffExtraActionLib
+END
+VBoxPeCoffExtraActionLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48727/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxPeCoffExtraActionLib/VBoxPeCoffExtraActionLib.c
+END
+VBoxPeCoffExtraActionLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/49571/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxPeCoffExtraActionLib/VBoxPeCoffExtraActionLib.inf
+END

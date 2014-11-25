@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/Parallel
+END
+DrvHostParallel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/Parallel/DrvHostParallel.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/3649/trunk/src/VBox/Devices/Parallel/Makefile.kup
+END
+DevParallel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/Parallel/DevParallel.cpp
+END

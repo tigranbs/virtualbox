@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51167/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/.cvsignore
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/README
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/Makefile.in
+END
+porting.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/porting.html
+END
+status.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/status.html
+END

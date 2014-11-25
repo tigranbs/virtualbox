@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/53222/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine
+END
+wined3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53222/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/wined3d.h
+END
+rpcfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/rpcfc.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/exception.h
+END
+irot.idl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/irot.idl
+END
+mscvpdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/mscvpdb.h
+END
+dcetypes.idl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/dcetypes.idl
+END
+epm.idl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/epm.idl
+END
+itss.idl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/itss.idl
+END
+wgl_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/wgl_driver.h
+END
+library.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/library.h
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/server.h
+END
+wpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/wpp.h
+END
+winnet16.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/winnet16.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/list.h
+END
+gdi_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/gdi_driver.h
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/test.h
+END
+svcctl.idl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/svcctl.idl
+END
+strmbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/strmbase.h
+END
+rbtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/rbtree.h
+END
+server_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/server_protocol.h
+END
+wingdi16.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/wingdi16.h
+END
+wgl.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/wgl.h
+END
+winedxgi.idl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/winedxgi.idl
+END
+winbase16.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/winbase16.h
+END
+wine_common_ver.rc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/wine_common_ver.rc
+END
+winuser16.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/winuser16.h
+END
+winaspi.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/winaspi.h
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/wglext.h
+END
+dplaysp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/dplaysp.h
+END
+windef16.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/windef16.h
+END
+port.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/port.h
+END
+mmsystem16.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/mmsystem16.h
+END
+unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/unicode.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/wine/debug.h
+END

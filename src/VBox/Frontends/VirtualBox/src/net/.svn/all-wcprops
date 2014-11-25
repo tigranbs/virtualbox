@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/net
+END
+UINetworkCustomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkCustomer.h
+END
+UINetworkManagerIndicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkManagerIndicator.cpp
+END
+UIUpdateManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UIUpdateManager.h
+END
+UINetworkManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkManager.cpp
+END
+UIUpdateDefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UIUpdateDefs.cpp
+END
+UINetworkManagerIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkManagerIndicator.h
+END
+UINetworkManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkManager.h
+END
+UIUpdateDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UIUpdateDefs.h
+END
+UIDownloaderExtensionPack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/net/UIDownloaderExtensionPack.cpp
+END
+UIDownloaderUserManual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UIDownloaderUserManual.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39282/trunk/src/VBox/Frontends/VirtualBox/src/net/Makefile.kup
+END
+UIDownloaderAdditions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UIDownloaderAdditions.cpp
+END
+UIDownloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UIDownloader.cpp
+END
+UIDownloaderExtensionPack.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UIDownloaderExtensionPack.h
+END
+UINetworkDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkDefs.h
+END
+UIDownloaderUserManual.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UIDownloaderUserManual.h
+END
+UIDownloaderAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UIDownloaderAdditions.h
+END
+UINetworkRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkRequest.cpp
+END
+UIDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UIDownloader.h
+END
+UINetworkManagerDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkManagerDialog.cpp
+END
+UINetworkReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkReply.cpp
+END
+UINetworkRequestWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkRequestWidget.cpp
+END
+UINetworkRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkRequest.h
+END
+UINetworkManagerDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkManagerDialog.h
+END
+UINetworkReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkReply.h
+END
+UINetworkCustomer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkCustomer.cpp
+END
+UINetworkRequestWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/net/UINetworkRequestWidget.h
+END
+UIUpdateManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/net/UIUpdateManager.cpp
+END

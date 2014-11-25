@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/transitions
+END
+libpm.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/transitions/libpm.S
+END
+librm.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/transitions/librm.S
+END
+liba20.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/transitions/liba20.S
+END
+librm_mgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/transitions/librm_mgmt.c
+END
+libkir.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/transitions/libkir.S
+END

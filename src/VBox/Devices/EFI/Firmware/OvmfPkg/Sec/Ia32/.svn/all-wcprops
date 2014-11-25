@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Sec/Ia32
+END
+SecEntry.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Sec/Ia32/SecEntry.asm
+END
+SecEntry.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Sec/Ia32/SecEntry.S
+END

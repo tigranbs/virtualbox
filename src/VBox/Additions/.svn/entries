@@ -1,0 +1,89 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Additions
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-19T11:03:07.443993Z
+53349
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:44:14.128657Z
+18399346dc48688d1b72cb00efbe8c72
+2014-05-22T11:35:05.286444Z
+51346
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14044
+
+WINNT
+dir
+
+linux
+dir
+
+haiku
+dir
+
+os2
+dir
+
+darwin
+dir
+
+common
+dir
+
+x11
+dir
+
+freebsd
+dir
+
+solaris
+dir
+

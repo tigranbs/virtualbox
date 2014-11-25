@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditions_mpkg
+END
+Welcome.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditions_mpkg/Welcome.rtf
+END
+Conclusion.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditions_mpkg/Conclusion.rtf
+END
+Localizable.strings
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditions_mpkg/Localizable.strings
+END
+distribution.dist
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditions_mpkg/distribution.dist
+END

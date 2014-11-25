@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/interface/smbios
+END
+smbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/interface/smbios/smbios.c
+END
+smbios_settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/interface/smbios/smbios_settings.c
+END

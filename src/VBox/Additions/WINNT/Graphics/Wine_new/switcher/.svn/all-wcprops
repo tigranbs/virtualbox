@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/46593/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher
+END
+sw_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/46593/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/sw_common.c
+END
+sw_d3d9xpdm.def
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/sw_d3d9xpdm.def
+END
+d3d8.rc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/d3d8.rc
+END
+d3d9.rc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/d3d9.rc
+END
+d3d8_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/d3d8_main.c
+END
+d3d9_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/d3d9_main.c
+END
+sw_d3d8.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/sw_d3d8.def
+END
+sw_d3d9.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/sw_d3d9.def
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/Makefile.kup
+END
+switcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/switcher/switcher.h
+END

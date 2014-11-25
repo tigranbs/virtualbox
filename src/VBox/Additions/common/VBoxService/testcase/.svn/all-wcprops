@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/VBoxService/testcase
+END
+tstUserInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/VBoxService/testcase/tstUserInfo.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/42239/trunk/src/VBox/Additions/common/VBoxService/testcase/Makefile.kmk
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/linux
+END
+linux_entropy.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/linux/linux_entropy.h
+END
+linux_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/linux/linux_timer.h
+END
+linux_uaccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/linux/linux_uaccess.h
+END
+linux_smbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/linux/linux_smbios.h
+END
+linux_umalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/linux/linux_umalloc.h
+END
+linux_nap.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/linux/linux_nap.h
+END
+linux_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/linux/linux_time.h
+END

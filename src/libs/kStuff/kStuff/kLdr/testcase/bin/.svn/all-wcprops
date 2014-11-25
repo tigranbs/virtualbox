@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/kstuff-mirror/!svn/ver/2/trunk/kLdr/testcase/bin
+END
+tst-3.rel.darwin.x86
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/kstuff-mirror/!svn/ver/2/trunk/kLdr/testcase/bin/tst-3.rel.darwin.x86
+END
+tst-3.dll.win.x86
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kstuff-mirror/!svn/ver/2/trunk/kLdr/testcase/bin/tst-3.dll.win.x86
+END

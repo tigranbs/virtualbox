@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/46649/trunk/src/VBox/Frontends/VBoxBalloonCtrl
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Frontends/VBoxBalloonCtrl/Makefile.kmk
+END
+VBoxWatchdog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/46649/trunk/src/VBox/Frontends/VBoxBalloonCtrl/VBoxWatchdog.cpp
+END
+VBoxModAPIMonitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/43738/trunk/src/VBox/Frontends/VBoxBalloonCtrl/VBoxModAPIMonitor.cpp
+END
+VBoxWatchdogUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/41422/trunk/src/VBox/Frontends/VBoxBalloonCtrl/VBoxWatchdogUtils.cpp
+END
+VBoxWatchdogInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/43738/trunk/src/VBox/Frontends/VBoxBalloonCtrl/VBoxWatchdogInternal.h
+END
+VBoxModBallooning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44875/trunk/src/VBox/Frontends/VBoxBalloonCtrl/VBoxModBallooning.cpp
+END

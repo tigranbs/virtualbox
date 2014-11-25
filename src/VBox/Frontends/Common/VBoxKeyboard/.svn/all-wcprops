@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/53037/trunk/src/VBox/Frontends/Common/VBoxKeyboard
+END
+xkbtoscan.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52048/trunk/src/VBox/Frontends/Common/VBoxKeyboard/xkbtoscan.h
+END
+keyboard-layouts.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53037/trunk/src/VBox/Frontends/Common/VBoxKeyboard/keyboard-layouts.h
+END
+keyboard-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44789/trunk/src/VBox/Frontends/Common/VBoxKeyboard/keyboard-types.h
+END
+COPYING.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/29654/trunk/src/VBox/Frontends/Common/VBoxKeyboard/COPYING.LIB
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Frontends/Common/VBoxKeyboard/Makefile
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Frontends/Common/VBoxKeyboard/Makefile.kmk
+END
+keyboard-tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/40392/trunk/src/VBox/Frontends/Common/VBoxKeyboard/keyboard-tables.h
+END
+keyboard-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/53037/trunk/src/VBox/Frontends/Common/VBoxKeyboard/keyboard-list.h
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44797/trunk/src/VBox/Frontends/Common/VBoxKeyboard/keyboard.c
+END

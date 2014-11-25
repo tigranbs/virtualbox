@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/44529/trunk/src/libs/kStuff/iprt
+END
+kHlpAssert-iprt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44529/trunk/src/libs/kStuff/iprt/kHlpAssert-iprt.cpp
+END
+kRdrFile-iprt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44529/trunk/src/libs/kStuff/iprt/kRdrFile-iprt.cpp
+END
+kHlpString-iprt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44529/trunk/src/libs/kStuff/iprt/kHlpString-iprt.cpp
+END
+kHlpEnv-iprt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44529/trunk/src/libs/kStuff/iprt/kHlpEnv-iprt.cpp
+END
+kHlpAlloc-iprt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44529/trunk/src/libs/kStuff/iprt/kHlpAlloc-iprt.cpp
+END
+kHlpPage-iprt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44529/trunk/src/libs/kStuff/iprt/kHlpPage-iprt.cpp
+END

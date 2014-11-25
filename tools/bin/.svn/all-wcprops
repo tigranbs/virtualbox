@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/vbox/!svn/ver/53174/trunk/tools/bin
+END
+gen-slickedit-workspace.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/48961/trunk/tools/bin/gen-slickedit-workspace.cmd
+END
+gen-slickedit-workspace.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53174/trunk/tools/bin/gen-slickedit-workspace.sh
+END
+retry.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/45594/trunk/tools/bin/retry.cmd
+END

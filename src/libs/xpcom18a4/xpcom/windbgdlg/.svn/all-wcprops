@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/windbgdlg
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/windbgdlg/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/windbgdlg/Makefile.in
+END
+windbgdlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/windbgdlg/windbgdlg.cpp
+END

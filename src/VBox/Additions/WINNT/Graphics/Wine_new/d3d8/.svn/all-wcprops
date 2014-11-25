@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51270/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/Makefile.kup
+END
+swapchain.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/swapchain.c
+END
+d3d8.def
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/47647/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/d3d8.def
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/device.c
+END
+texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/texture.c
+END
+d3d8_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/d3d8_private.h
+END
+directx.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/directx.c
+END
+vertexdeclaration.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/vertexdeclaration.c
+END
+d3d8_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/d3d8_main.c
+END
+shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/shader.c
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/version.rc
+END
+volume.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/volume.c
+END
+surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51270/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/surface.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48345/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/d3d8/buffer.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/48942/trunk/src/VBox/Additions/os2/VBoxSF
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Additions/os2/VBoxSF/Makefile.kmk
+END
+VBoxSF.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/4377/trunk/src/VBox/Additions/os2/VBoxSF/VBoxSF.def
+END
+VBoxSFA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Additions/os2/VBoxSF/VBoxSFA.asm
+END
+VBoxSF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48942/trunk/src/VBox/Additions/os2/VBoxSF/VBoxSF.cpp
+END
+VBoxSFFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48942/trunk/src/VBox/Additions/os2/VBoxSF/VBoxSFFile.cpp
+END
+VBoxSFFind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48942/trunk/src/VBox/Additions/os2/VBoxSF/VBoxSFFind.cpp
+END
+VBoxSFInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/3655/trunk/src/VBox/Additions/os2/VBoxSF/VBoxSFInternal.h
+END
+VBoxSFInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48942/trunk/src/VBox/Additions/os2/VBoxSF/VBoxSFInit.cpp
+END

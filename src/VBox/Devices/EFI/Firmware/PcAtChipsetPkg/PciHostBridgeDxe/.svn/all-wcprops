@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53252/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/PciHostBridgeDxe
+END
+PciHostBridgeDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/PciHostBridgeDxe/PciHostBridgeDxe.inf
+END
+PciRootBridgeIo.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/53252/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/PciHostBridgeDxe/PciRootBridgeIo.c
+END
+PciHostBridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/PciHostBridgeDxe/PciHostBridge.c
+END
+PciHostBridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/PciHostBridgeDxe/PciHostBridge.h
+END

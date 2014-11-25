@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/tests
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/tests/Makefile.in
+END
+TestXPTCInvoke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/tests/TestXPTCInvoke.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/tests/.cvsignore
+END

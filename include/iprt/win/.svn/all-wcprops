@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vbox/!svn/ver/47236/trunk/include/iprt/win
+END
+lazy-dbghelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/47236/trunk/include/iprt/win/lazy-dbghelp.h
+END

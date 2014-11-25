@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib
+END
+BaseTscTimerLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib/BaseTscTimerLib.inf
+END
+PeiTscTimerLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib/PeiTscTimerLib.inf
+END
+BaseTscTimerLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib/BaseTscTimerLib.c
+END
+DxeTscTimerLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib/DxeTscTimerLib.inf
+END
+PeiTscTimerLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib/PeiTscTimerLib.c
+END
+DxeTscTimerLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib/DxeTscTimerLib.c
+END
+TscTimerLibInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib/TscTimerLibInternal.h
+END
+TscTimerLibShare.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Library/TscTimerLib/TscTimerLibShare.c
+END

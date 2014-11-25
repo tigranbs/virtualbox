@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vbox/!svn/ver/53353/trunk/doc/manual/en_US
+END
+user_Technical.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/50582/trunk/doc/manual/en_US/user_Technical.xml
+END
+user_ThirdParty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/48627/trunk/doc/manual/en_US/user_ThirdParty.xml
+END
+user_PrivacyPolicy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44122/trunk/doc/manual/en_US/user_PrivacyPolicy.xml
+END
+user_Installation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/53353/trunk/doc/manual/en_US/user_Installation.xml
+END
+user_Frontends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51568/trunk/doc/manual/en_US/user_Frontends.xml
+END
+user_Glossary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/50041/trunk/doc/manual/en_US/user_Glossary.xml
+END
+user_Storage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51240/trunk/doc/manual/en_US/user_Storage.xml
+END
+user_Security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53023/trunk/doc/manual/en_US/user_Security.xml
+END
+UserManual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/35277/trunk/doc/manual/en_US/UserManual.xml
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/31735/trunk/doc/manual/en_US/Makefile.kup
+END
+user_BasicConcepts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51261/trunk/doc/manual/en_US/user_BasicConcepts.xml
+END
+SDKRef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52793/trunk/doc/manual/en_US/SDKRef.xml
+END
+user_Introduction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51554/trunk/doc/manual/en_US/user_Introduction.xml
+END
+user_GuestAdditions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51263/trunk/doc/manual/en_US/user_GuestAdditions.xml
+END
+user_Networking.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/48923/trunk/doc/manual/en_US/user_Networking.xml
+END
+user_ChangeLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/34803/trunk/doc/manual/en_US/user_ChangeLog.xml
+END
+user_AdvancedTopics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52435/trunk/doc/manual/en_US/user_AdvancedTopics.xml
+END
+user_Troubleshooting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51964/trunk/doc/manual/en_US/user_Troubleshooting.xml
+END
+user_VBoxManage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52501/trunk/doc/manual/en_US/user_VBoxManage.xml
+END
+user_KnownIssues.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53130/trunk/doc/manual/en_US/user_KnownIssues.xml
+END
+user_VirtualBoxAPI.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/31735/trunk/doc/manual/en_US/user_VirtualBoxAPI.xml
+END

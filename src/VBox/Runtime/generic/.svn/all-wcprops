@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/53294/trunk/src/VBox/Runtime/generic
+END
+uuid-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/uuid-generic.cpp
+END
+RTFileReadAllEx-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTFileReadAllEx-generic.cpp
+END
+RTMpGetMaxFrequency-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpGetMaxFrequency-generic.cpp
+END
+mppresent-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/mppresent-generic.cpp
+END
+RTFileReadAllByHandleEx-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTFileReadAllByHandleEx-generic.cpp
+END
+RTMpGetCurFrequency-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpGetCurFrequency-generic.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Runtime/generic/Makefile.kup
+END
+RTRandAdvCreateSystemFaster-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTRandAdvCreateSystemFaster-generic.cpp
+END
+errvars-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/37233/trunk/src/VBox/Runtime/generic/errvars-generic.cpp
+END
+RTMpGetDescription-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50641/trunk/src/VBox/Runtime/generic/RTMpGetDescription-generic.cpp
+END
+sched-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/sched-generic.cpp
+END
+env-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/50644/trunk/src/VBox/Runtime/generic/env-generic.cpp
+END
+createtemp-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/45375/trunk/src/VBox/Runtime/generic/createtemp-generic.cpp
+END
+strcache-stubs-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/46211/trunk/src/VBox/Runtime/generic/strcache-stubs-generic.cpp
+END
+RTMpGetSet-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpGetSet-generic.cpp
+END
+RTSystemQueryOSInfo-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTSystemQueryOSInfo-generic.cpp
+END
+memsafer-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52050/trunk/src/VBox/Runtime/generic/memsafer-generic.cpp
+END
+RTMpGetOnlineCount-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpGetOnlineCount-generic.cpp
+END
+RTLogWriteUser-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTLogWriteUser-generic.cpp
+END
+RTMpGetDescription-generic-stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/50641/trunk/src/VBox/Runtime/generic/RTMpGetDescription-generic-stub.cpp
+END
+tls-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/tls-generic.cpp
+END
+RTEnvDupEx-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/generic/RTEnvDupEx-generic.cpp
+END
+RTSemEventMultiWait-2-ex-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTSemEventMultiWait-2-ex-generic.cpp
+END
+semxroads-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/semxroads-generic.cpp
+END
+RTLogWriteStdOut-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTLogWriteStdOut-generic.cpp
+END
+RTFileQuerySize-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTFileQuerySize-generic.cpp
+END
+RTMpCpuId-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpCpuId-generic.cpp
+END
+RTSemEventWaitNoResume-2-ex-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTSemEventWaitNoResume-2-ex-generic.cpp
+END
+RTTimerLRCreate-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTTimerLRCreate-generic.cpp
+END
+semrw-lockless-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/45309/trunk/src/VBox/Runtime/generic/semrw-lockless-generic.cpp
+END
+RTProcessQueryUsernameA-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTProcessQueryUsernameA-generic.cpp
+END
+RTMpGetMaxCpuId-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpGetMaxCpuId-generic.cpp
+END
+timer-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/timer-generic.cpp
+END
+RTFileReadAllByHandle-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTFileReadAllByHandle-generic.cpp
+END
+RTDirCreateUniqueNumbered-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/39612/trunk/src/VBox/Runtime/generic/RTDirCreateUniqueNumbered-generic.cpp
+END
+RTThreadGetAffinity-stub-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/37154/trunk/src/VBox/Runtime/generic/RTThreadGetAffinity-stub-generic.cpp
+END
+RTDirExists-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTDirExists-generic.cpp
+END
+RTThreadGetNativeState-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/generic/RTThreadGetNativeState-generic.cpp
+END
+RTFileExists-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTFileExists-generic.cpp
+END
+RTSemMutexRequest-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTSemMutexRequest-generic.cpp
+END
+RTDirQueryInfo-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTDirQueryInfo-generic.cpp
+END
+RTLogWriteStdErr-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTLogWriteStdErr-generic.cpp
+END
+RTPathAbs-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52944/trunk/src/VBox/Runtime/generic/RTPathAbs-generic.cpp
+END
+RTMpIsCpuOnline-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpIsCpuOnline-generic.cpp
+END
+RTSemEventMultiWait-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTSemEventMultiWait-generic.cpp
+END
+RTSemMutexRequestDebug-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTSemMutexRequestDebug-generic.cpp
+END
+RTThreadSetAffinity-stub-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/37154/trunk/src/VBox/Runtime/generic/RTThreadSetAffinity-stub-generic.cpp
+END
+RTPathGetCurrentDrive-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52944/trunk/src/VBox/Runtime/generic/RTPathGetCurrentDrive-generic.cpp
+END
+RTMpCpuIdFromSetIndex-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpCpuIdFromSetIndex-generic.cpp
+END
+RTRandAdvCreateSystemTruer-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTRandAdvCreateSystemTruer-generic.cpp
+END
+RTTimeLocalExplode-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/generic/RTTimeLocalExplode-generic.cpp
+END
+cdrom-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/45110/trunk/src/VBox/Runtime/generic/cdrom-generic.cpp
+END
+RTMpGetCoreCount-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/46639/trunk/src/VBox/Runtime/generic/RTMpGetCoreCount-generic.cpp
+END
+mempool-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/mempool-generic.cpp
+END
+RTTimerCreate-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53294/trunk/src/VBox/Runtime/generic/RTTimerCreate-generic.cpp
+END
+RTFileReadAllFree-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTFileReadAllFree-generic.cpp
+END
+RTMpCpuIdToSetIndex-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpCpuIdToSetIndex-generic.cpp
+END
+timerlr-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/timerlr-generic.cpp
+END
+RTLogWriteStdOut-stub-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTLogWriteStdOut-stub-generic.cpp
+END
+RTLogDefaultInit-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTLogDefaultInit-generic.cpp
+END
+spinlock-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/generic/spinlock-generic.cpp
+END
+RTSemEventMultiWaitNoResume-2-ex-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTSemEventMultiWaitNoResume-2-ex-generic.cpp
+END
+semfastmutex-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/semfastmutex-generic.cpp
+END
+RTSystemShutdown-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/39721/trunk/src/VBox/Runtime/generic/RTSystemShutdown-generic.cpp
+END
+critsectrw-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/46495/trunk/src/VBox/Runtime/generic/critsectrw-generic.cpp
+END
+pathhost-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/pathhost-generic.cpp
+END
+semrw-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/semrw-generic.cpp
+END
+RTThreadSetAffinityToCpu-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/37154/trunk/src/VBox/Runtime/generic/RTThreadSetAffinityToCpu-generic.cpp
+END
+RTUuidCreate-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTUuidCreate-generic.cpp
+END
+RTAssertShouldPanic-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTAssertShouldPanic-generic.cpp
+END
+RTSystemQueryDmiString-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/generic/RTSystemQueryDmiString-generic.cpp
+END
+RTProcIsRunningByName-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTProcIsRunningByName-generic.cpp
+END
+RTPathIsSame-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTPathIsSame-generic.cpp
+END
+fs-stubs-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/fs-stubs-generic.cpp
+END
+RTLogWriteDebugger-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTLogWriteDebugger-generic.cpp
+END
+RTMpGetOnlineCoreCount-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/46639/trunk/src/VBox/Runtime/generic/RTMpGetOnlineCoreCount-generic.cpp
+END
+RTFileReadAll-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTFileReadAll-generic.cpp
+END
+RTFileMove-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTFileMove-generic.cpp
+END
+RTMpGetArraySize-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/generic/RTMpGetArraySize-generic.cpp
+END
+RTFileCopy-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/49034/trunk/src/VBox/Runtime/generic/RTFileCopy-generic.cpp
+END
+critsect-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51940/trunk/src/VBox/Runtime/generic/critsect-generic.cpp
+END
+RTSemEventWait-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/generic/RTSemEventWait-generic.cpp
+END
+utf16locale-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/utf16locale-generic.cpp
+END
+RTMpIsCpuPossible-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpIsCpuPossible-generic.cpp
+END
+RTSemEventWait-2-ex-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTSemEventWait-2-ex-generic.cpp
+END
+RTMpGetCount-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpGetCount-generic.cpp
+END
+RTPathGetCurrentOnDrive-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52944/trunk/src/VBox/Runtime/generic/RTPathGetCurrentOnDrive-generic.cpp
+END
+RTLogWriteStdErr-stub-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTLogWriteStdErr-stub-generic.cpp
+END
+RTDirSetTimes-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTDirSetTimes-generic.cpp
+END
+RTMpGetOnlineSet-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/generic/RTMpGetOnlineSet-generic.cpp
+END
+RTTimeLocalNow-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/generic/RTTimeLocalNow-generic.cpp
+END
+RTTimeLocalDeltaNano-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/generic/RTTimeLocalDeltaNano-generic.cpp
+END
+RTProcDaemonize-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/47093/trunk/src/VBox/Runtime/generic/RTProcDaemonize-generic.cpp
+END

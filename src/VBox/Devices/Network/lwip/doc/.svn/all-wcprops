@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/doc
+END
+snmp_agent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/doc/snmp_agent.txt
+END
+sys_arch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/doc/sys_arch.txt
+END
+savannah.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/doc/savannah.txt
+END
+contrib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/doc/contrib.txt
+END
+rawapi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/doc/rawapi.txt
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/doc/FILES
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/vms
+END
+readme.vms
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/vms/readme.vms
+END
+build_libxml.com
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/vms/build_libxml.com
+END
+config.vms
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/vms/config.vms
+END
+diffs.vms
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/vms/diffs.vms
+END

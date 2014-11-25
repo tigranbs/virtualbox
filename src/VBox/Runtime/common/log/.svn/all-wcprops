@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/53177/trunk/src/VBox/Runtime/common/log
+END
+tracebuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/42430/trunk/src/VBox/Runtime/common/log/tracebuf.cpp
+END
+logcom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/log/logcom.cpp
+END
+log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53177/trunk/src/VBox/Runtime/common/log/log.cpp
+END
+tracedefault.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39327/trunk/src/VBox/Runtime/common/log/tracedefault.cpp
+END
+logrel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/log/logrel.cpp
+END
+logellipsis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/log/logellipsis.cpp
+END
+logrelellipsis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/log/logrelellipsis.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/5430/trunk/src/VBox/Runtime/common/log/Makefile.kup
+END
+logformat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/log/logformat.cpp
+END

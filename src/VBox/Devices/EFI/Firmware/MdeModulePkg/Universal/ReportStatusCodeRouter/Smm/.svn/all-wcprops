@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/ReportStatusCodeRouter/Smm
+END
+ReportStatusCodeRouterSmm.inf
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/ReportStatusCodeRouter/Smm/ReportStatusCodeRouterSmm.inf
+END
+ReportStatusCodeRouterSmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/ReportStatusCodeRouter/Smm/ReportStatusCodeRouterSmm.c
+END
+ReportStatusCodeRouterSmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal/ReportStatusCodeRouter/Smm/ReportStatusCodeRouterSmm.h
+END

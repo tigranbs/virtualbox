@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48953/trunk/src/VBox/HostServices/SharedFolders/testcase
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/46032/trunk/src/VBox/HostServices/SharedFolders/testcase/Makefile.kmk
+END
+tstSharedFolderService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48953/trunk/src/VBox/HostServices/SharedFolders/testcase/tstSharedFolderService.cpp
+END
+tstSharedFolderService.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/39540/trunk/src/VBox/HostServices/SharedFolders/testcase/tstSharedFolderService.h
+END
+tstShflCase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/38737/trunk/src/VBox/HostServices/SharedFolders/testcase/tstShflCase.cpp
+END
+tstShflSizes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostServices/SharedFolders/testcase/tstShflSizes.cpp
+END

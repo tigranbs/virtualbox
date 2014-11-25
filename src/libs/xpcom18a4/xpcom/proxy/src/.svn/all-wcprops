@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/xpcom/proxy/src
+END
+nsIProxyCreateInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/src/nsIProxyCreateInstance.h
+END
+nsProxyEventClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/src/nsProxyEventClass.cpp
+END
+nsProxyEventObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/src/nsProxyEventObject.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/src/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/src/Makefile.in
+END
+nsProxyRelease.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/src/nsProxyRelease.cpp
+END
+nsProxyEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/xpcom/proxy/src/nsProxyEvent.cpp
+END
+nsProxyEventPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/src/nsProxyEventPrivate.h
+END
+nsProxyObjectManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/src/nsProxyObjectManager.cpp
+END

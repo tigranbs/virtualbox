@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/53015/trunk/src/VBox/Runtime/common/asn1
+END
+asn1-ut-null.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-null.cpp
+END
+asn1-ut-integer-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-integer-template.h
+END
+asn1-default-allocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51915/trunk/src/VBox/Runtime/common/asn1/asn1-default-allocator.cpp
+END
+asn1-ut-time-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-time-template.h
+END
+asn1-ut-dyntype-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52563/trunk/src/VBox/Runtime/common/asn1/asn1-ut-dyntype-decode.cpp
+END
+asn1-dump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52600/trunk/src/VBox/Runtime/common/asn1/asn1-dump.cpp
+END
+asn1-ut-octetstring-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52563/trunk/src/VBox/Runtime/common/asn1/asn1-ut-octetstring-decode.cpp
+END
+asn1-ut-bitstring-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-bitstring-decode.cpp
+END
+asn1-ut-string-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52563/trunk/src/VBox/Runtime/common/asn1/asn1-ut-string-decode.cpp
+END
+asn1-cursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52607/trunk/src/VBox/Runtime/common/asn1/asn1-cursor.cpp
+END
+asn1-ut-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-core.cpp
+END
+asn1-ut-null-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52563/trunk/src/VBox/Runtime/common/asn1/asn1-ut-null-decode.cpp
+END
+asn1-ut-time.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-time.cpp
+END
+asn1-ut-boolean-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52563/trunk/src/VBox/Runtime/common/asn1/asn1-ut-boolean-decode.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/Makefile.kup
+END
+asn1-ut-octetstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-octetstring.cpp
+END
+asn1-ut-bitstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-bitstring.cpp
+END
+asn1-ut-string-template2.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-string-template2.h
+END
+asn1-encode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-encode.cpp
+END
+asn1-ut-objid-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52563/trunk/src/VBox/Runtime/common/asn1/asn1-ut-objid-decode.cpp
+END
+asn1-ut-core-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52563/trunk/src/VBox/Runtime/common/asn1/asn1-ut-core-decode.cpp
+END
+asn1-efence-allocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/53010/trunk/src/VBox/Runtime/common/asn1/asn1-efence-allocator.cpp
+END
+asn1-ut-integer-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52563/trunk/src/VBox/Runtime/common/asn1/asn1-ut-integer-decode.cpp
+END
+asn1-basics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-basics.cpp
+END
+asn1-ut-boolean.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-boolean.cpp
+END
+asn1-ut-time-decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52608/trunk/src/VBox/Runtime/common/asn1/asn1-ut-time-decode.cpp
+END
+asn1-ut-octetstring-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-octetstring-template.h
+END
+asn1-ut-bitstring-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-bitstring-template.h
+END
+asn1-ut-string-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-string-template.h
+END
+asn1-ut-objid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52536/trunk/src/VBox/Runtime/common/asn1/asn1-ut-objid.cpp
+END
+asn1-ut-dyntype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-dyntype.cpp
+END
+asn1-ut-integer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-integer.cpp
+END
+asn1-ut-boolean-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-boolean-template.h
+END
+asn1-ut-time-template2.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-time-template2.h
+END
+asn1-ut-objid-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-objid-template.h
+END
+asn1-ut-core-template.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/asn1/asn1-ut-core-template.h
+END
+asn1-ut-string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53015/trunk/src/VBox/Runtime/common/asn1/asn1-ut-string.cpp
+END

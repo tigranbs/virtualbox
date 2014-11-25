@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/37549/trunk/src/VBox/Resources/darwin
+END
+virtualbox-ova.icns
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/34275/trunk/src/VBox/Resources/darwin/virtualbox-ova.icns
+END
+virtualbox-ovf.icns
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/34275/trunk/src/VBox/Resources/darwin/virtualbox-ovf.icns
+END
+virtualbox-vbox-extpack.icns
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/34275/trunk/src/VBox/Resources/darwin/virtualbox-vbox-extpack.icns
+END
+virtualbox-vbox.icns
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/34275/trunk/src/VBox/Resources/darwin/virtualbox-vbox.icns
+END
+virtualbox-hdd.icns
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/37549/trunk/src/VBox/Resources/darwin/virtualbox-hdd.icns
+END
+virtualbox-vhd.icns
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/37549/trunk/src/VBox/Resources/darwin/virtualbox-vhd.icns
+END
+virtualbox-vmdk.icns
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/37549/trunk/src/VBox/Resources/darwin/virtualbox-vmdk.icns
+END
+virtualbox-vdi.icns
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/37549/trunk/src/VBox/Resources/darwin/virtualbox-vdi.icns
+END

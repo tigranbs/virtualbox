@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/41247/trunk/src/VBox/VMM/dtrace/lib/x86
+END
+vbox-arch-types.d
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/41247/trunk/src/VBox/VMM/dtrace/lib/x86/vbox-arch-types.d
+END

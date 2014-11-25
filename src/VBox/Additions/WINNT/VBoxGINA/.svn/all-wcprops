@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50323/trunk/src/VBox/Additions/WINNT/VBoxGINA
+END
+VBoxGINA.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/40214/trunk/src/VBox/Additions/WINNT/VBoxGINA/VBoxGINA.h
+END
+Dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/30852/trunk/src/VBox/Additions/WINNT/VBoxGINA/Dialog.h
+END
+Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/40214/trunk/src/VBox/Additions/WINNT/VBoxGINA/Helper.h
+END
+VBoxGINA.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/40768/trunk/src/VBox/Additions/WINNT/VBoxGINA/VBoxGINA.def
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Additions/WINNT/VBoxGINA/Makefile.kmk
+END
+VBoxGINA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/46593/trunk/src/VBox/Additions/WINNT/VBoxGINA/VBoxGINA.cpp
+END
+Dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50323/trunk/src/VBox/Additions/WINNT/VBoxGINA/Dialog.cpp
+END
+Helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50323/trunk/src/VBox/Additions/WINNT/VBoxGINA/Helper.cpp
+END
+VBoxGINA.rc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Additions/WINNT/VBoxGINA/VBoxGINA.rc
+END

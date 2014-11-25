@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf
+END
+igbvf_mbx.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf_mbx.c
+END
+igbvf_mbx.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf_mbx.h
+END
+igbvf_vf.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf_vf.c
+END
+igbvf_osdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf_osdep.h
+END
+igbvf_vf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf_vf.h
+END
+igbvf_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf_defines.h
+END
+igbvf_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf_main.c
+END
+igbvf.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf.h
+END
+igbvf_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/igbvf/igbvf_regs.h
+END

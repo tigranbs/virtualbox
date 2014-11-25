@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/41725/trunk/src/VBox/Additions/common/VBoxGuest/solaris
+END
+deps.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/41725/trunk/src/VBox/Additions/common/VBoxGuest/solaris/deps.asm
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53336/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg
+END
+VBoxPkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/53336/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxPkg.dec
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Makefile.kup
+END

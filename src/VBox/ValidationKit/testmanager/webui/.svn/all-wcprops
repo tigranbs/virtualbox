@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/53284/trunk/src/VBox/ValidationKit/testmanager/webui
+END
+wuihlpgraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuihlpgraph.py
+END
+wuihlpform.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuihlpform.py
+END
+wuiadminbuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminbuild.py
+END
+wuibase.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuibase.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/__init__.py
+END
+wuireport.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuireport.py
+END
+wuiadminschedgroup.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminschedgroup.py
+END
+wuivcshistory.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuivcshistory.py
+END
+wuihlpgraphsimple.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuihlpgraphsimple.py
+END
+wuiadmintestcase.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadmintestcase.py
+END
+template-details.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/template-details.html
+END
+wuiadmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadmin.py
+END
+wuiadminbuildsource.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminbuildsource.py
+END
+template-tooltip.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/template-tooltip.html
+END
+template-graphwiz.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/template-graphwiz.html
+END
+wuihlpgraphbase.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuihlpgraphbase.py
+END
+wuiadminbuildblacklist.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminbuildblacklist.py
+END
+wuiadminuseraccount.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminuseraccount.py
+END
+wuicontentbase.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuicontentbase.py
+END
+wuiadmintestgroup.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadmintestgroup.py
+END
+wuiadminbuildcategory.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminbuildcategory.py
+END
+wuiadminfailurereason.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminfailurereason.py
+END
+wuitestresult.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53039/trunk/src/VBox/ValidationKit/testmanager/webui/wuitestresult.py
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/Makefile.kmk
+END
+wuimain.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuimain.py
+END
+wuihlpgraphgooglechart.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuihlpgraphgooglechart.py
+END
+wuifailurecategory.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuifailurecategory.py
+END
+wuigraphwiz.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuigraphwiz.py
+END
+wuihlpgraphmatplotlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuihlpgraphmatplotlib.py
+END
+wuiadminsystemlog.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminsystemlog.py
+END
+wuiadmintestbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53284/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadmintestbox.py
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/template.html
+END
+wuilogviewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuilogviewer.py
+END
+wuiadminglobalrsrc.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/webui/wuiadminglobalrsrc.py
+END

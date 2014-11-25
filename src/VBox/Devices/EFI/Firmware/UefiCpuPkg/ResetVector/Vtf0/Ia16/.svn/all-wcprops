@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Ia16
+END
+ResetVectorVtf0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Ia16/ResetVectorVtf0.asm
+END
+Real16ToFlat32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Ia16/Real16ToFlat32.asm
+END
+Init16.asm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/ResetVector/Vtf0/Ia16/Init16.asm
+END

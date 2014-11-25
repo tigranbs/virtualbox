@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testanalysis
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testanalysis/Makefile.kmk
+END
+diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testanalysis/diff.py
+END
+reporting.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testanalysis/reporting.py
+END
+tst-a1.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testanalysis/tst-a1.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testanalysis/__init__.py
+END
+reader.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testanalysis/reader.py
+END

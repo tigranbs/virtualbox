@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/win
+END
+vboxtxs-nat.reg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/win/vboxtxs-nat.reg
+END
+vboxtxs.reg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/win/vboxtxs.reg
+END
+vboxtxs-nat.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/win/vboxtxs-nat.cmd
+END
+vboxtxs.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/win/vboxtxs.cmd
+END

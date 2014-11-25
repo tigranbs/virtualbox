@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Mouse/common
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/37163/trunk/src/VBox/Additions/WINNT/Mouse/common/Makefile.kup
+END
+VBoxMouseLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Mouse/common/VBoxMouseLog.h
+END

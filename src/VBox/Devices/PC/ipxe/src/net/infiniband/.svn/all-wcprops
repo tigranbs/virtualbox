@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband
+END
+ib_mi.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_mi.c
+END
+ib_pathrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_pathrec.c
+END
+ib_mcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_mcast.c
+END
+ib_packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_packet.c
+END
+ib_cm.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_cm.c
+END
+ib_sma.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_sma.c
+END
+ib_smc.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_smc.c
+END
+ib_cmrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_cmrc.c
+END
+ib_srp.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/net/infiniband/ib_srp.c
+END

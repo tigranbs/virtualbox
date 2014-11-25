@@ -1,0 +1,138 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Core/Pei
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+PeiMain.inf
+file
+
+
+
+
+2014-11-25T14:40:59.604657Z
+f043c44e2ddeb0c57df72833c21848b7
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3864
+
+FwVol
+dir
+
+Security
+dir
+
+Memory
+dir
+
+Hob
+dir
+
+BootMode
+dir
+
+PeiMain.h
+file
+
+
+
+
+2014-11-25T14:40:59.608657Z
+145ed3b8e4ffb33ad312caa70c5da2c4
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+54299
+
+PciCfg2
+dir
+
+StatusCode
+dir
+
+Dependency
+dir
+
+CpuIo
+dir
+
+Reset
+dir
+
+PeiMain
+dir
+
+Image
+dir
+
+Dispatcher
+dir
+
+Ppi
+dir
+

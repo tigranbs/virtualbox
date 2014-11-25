@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53112/trunk/src/VBox/Main/src-server/solaris
+END
+USBProxyServiceSolaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53112/trunk/src/VBox/Main/src-server/solaris/USBProxyServiceSolaris.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/src-server/solaris/Makefile.kup
+END
+DynLoadLibSolaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48955/trunk/src/VBox/Main/src-server/solaris/DynLoadLibSolaris.cpp
+END
+PerformanceSolaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48020/trunk/src/VBox/Main/src-server/solaris/PerformanceSolaris.cpp
+END
+NetIf-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-server/solaris/NetIf-solaris.cpp
+END
+DynLoadLibSolaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/src-server/solaris/DynLoadLibSolaris.h
+END

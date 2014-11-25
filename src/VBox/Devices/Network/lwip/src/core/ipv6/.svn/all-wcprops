@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/ipv6
+END
+icmp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/ipv6/icmp6.c
+END
+ip6.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/ipv6/ip6.c
+END
+ip6_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/ipv6/ip6_addr.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/ipv6/README
+END

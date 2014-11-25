@@ -1,0 +1,46 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-11-20T09:20:38.259708Z
+49571
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+VBoxPeCoffLib
+dir
+
+VBoxPeCoffExtraActionLib
+dir
+
+VBoxDebugAgentLib
+dir
+
+VBoxDebugLib
+dir
+
+AcpiTimerLib
+dir
+
+VBoxOemHookStatusCodeLib
+dir
+

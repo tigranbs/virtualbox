@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/SerializeVariablesLib
+END
+SerializeVariablesLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/SerializeVariablesLib/SerializeVariablesLib.c
+END
+SerializeVariablesLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/SerializeVariablesLib/SerializeVariablesLib.h
+END
+SerializeVariablesLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/SerializeVariablesLib/SerializeVariablesLib.inf
+END

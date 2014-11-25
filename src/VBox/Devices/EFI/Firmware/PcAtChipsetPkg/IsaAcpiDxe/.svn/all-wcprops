@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/IsaAcpiDxe
+END
+IsaAcpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/IsaAcpiDxe/IsaAcpi.c
+END
+PcatIsaAcpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/IsaAcpiDxe/PcatIsaAcpi.c
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/IsaAcpiDxe/ComponentName.c
+END
+IsaAcpi.inf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/IsaAcpiDxe/IsaAcpi.inf
+END
+PcatIsaAcpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/IsaAcpiDxe/PcatIsaAcpi.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/serial.h
+END
+entropy.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/entropy.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/timer.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/ioapi.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/console.h
+END
+sanboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/sanboot.h
+END
+umalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/umalloc.h
+END
+general.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/general.h
+END
+nap.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/nap.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/local/time.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48953/trunk/src/VBox/HostServices/SharedClipboard/testcase
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/HostServices/SharedClipboard/testcase/Makefile.kmk
+END
+tstClipboardServiceHost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48953/trunk/src/VBox/HostServices/SharedClipboard/testcase/tstClipboardServiceHost.cpp
+END

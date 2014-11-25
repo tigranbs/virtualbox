@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/52547/trunk/src/VBox/Devices/Samples
+END
+DrvStorageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52547/trunk/src/VBox/Devices/Samples/DrvStorageFilter.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Devices/Samples/Makefile.kmk
+END
+VBoxSampleDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/45025/trunk/src/VBox/Devices/Samples/VBoxSampleDevice.cpp
+END

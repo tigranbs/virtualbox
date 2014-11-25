@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53262/trunk/src/VBox/HostServices/SharedOpenGL
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/HostServices/SharedOpenGL/LICENSE
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53145/trunk/src/VBox/HostServices/SharedOpenGL/Makefile.kmk
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win
+END
+virtualbox-vhd.ico
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win/virtualbox-vhd.ico
+END
+virtualbox-vmdk.ico
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win/virtualbox-vmdk.ico
+END
+virtualbox-vdi.ico
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win/virtualbox-vdi.ico
+END
+virtualbox-ova.ico
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win/virtualbox-ova.ico
+END
+virtualbox-ovf.ico
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win/virtualbox-ovf.ico
+END
+virtualbox-vbox-extpack.ico
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win/virtualbox-vbox-extpack.ico
+END
+virtualbox-vbox.ico
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win/virtualbox-vbox.ico
+END
+virtualbox-hdd.ico
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/38863/trunk/src/VBox/Resources/win/virtualbox-hdd.ico
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/README
+END
+generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/generator.py
+END
+libxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/libxml.py
+END
+libxml2-python-api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/libxml2-python-api.xml
+END
+libxml2-py.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/libxml2-py.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/Makefile.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/TODO
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/types.c
+END
+libxml_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/libxml_wrap.h
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/setup.py
+END
+libxml.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/libxml.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/Makefile.am
+END
+drv_libxml2.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/drv_libxml2.py
+END
+setup.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/python/setup.py.in
+END

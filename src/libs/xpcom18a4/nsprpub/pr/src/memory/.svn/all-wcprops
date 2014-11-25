@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/memory
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/memory/.cvsignore
+END
+prseg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/memory/prseg.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/memory/Makefile.in
+END
+prgcleak.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/memory/prgcleak.c
+END
+prshm.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/memory/prshm.c
+END
+prshma.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/memory/prshma.c
+END

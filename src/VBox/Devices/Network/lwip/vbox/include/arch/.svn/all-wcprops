@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/21292/trunk/src/VBox/Devices/Network/lwip/vbox/include/arch
+END
+epstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/21292/trunk/src/VBox/Devices/Network/lwip/vbox/include/arch/epstruct.h
+END
+sys_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/vbox/include/arch/sys_arch.h
+END
+perf.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/vbox/include/arch/perf.h
+END
+cc.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/vbox/include/arch/cc.h
+END
+bpstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/21292/trunk/src/VBox/Devices/Network/lwip/vbox/include/arch/bpstruct.h
+END

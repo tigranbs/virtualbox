@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath
+END
+ath_hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath_hw.c
+END
+ath_regd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath_regd.c
+END
+regd_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/regd_common.h
+END
+ath_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath_main.c
+END
+ath.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath.h
+END
+reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/reg.h
+END
+ath_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/ath_key.c
+END
+regd.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/ath/regd.h
+END

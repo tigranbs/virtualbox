@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/46896/trunk/src/VBox/Additions/WINNT/Graphics/Video/common/xpdm
+END
+VBoxVideoIOCTL.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/46896/trunk/src/VBox/Additions/WINNT/Graphics/Video/common/xpdm/VBoxVideoIOCTL.h
+END
+VBoxVideoPortAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Video/common/xpdm/VBoxVideoPortAPI.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/36867/trunk/src/VBox/Additions/WINNT/Graphics/Video/common/xpdm/Makefile.kup
+END

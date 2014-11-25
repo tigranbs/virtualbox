@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Include/Guid
+END
+DebugAgentGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Include/Guid/DebugAgentGuid.h
+END

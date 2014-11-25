@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kstuff-mirror/!svn/ver/29/trunk/kCpu
+END
+kCpuGetArchAndCpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kstuff-mirror/!svn/ver/29/trunk/kCpu/kCpuGetArchAndCpu.c
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kstuff-mirror/!svn/ver/29/trunk/kCpu/Makefile.kmk
+END
+kCpuCompare.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kstuff-mirror/!svn/ver/29/trunk/kCpu/kCpuCompare.c
+END

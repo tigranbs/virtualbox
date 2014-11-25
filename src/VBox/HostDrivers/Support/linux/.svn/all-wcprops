@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53339/trunk/src/VBox/HostDrivers/Support/linux
+END
+SUPDrv-linux.mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/linux/SUPDrv-linux.mod.c
+END
+SUPDrv-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/53339/trunk/src/VBox/HostDrivers/Support/linux/SUPDrv-linux.c
+END
+SUPR0IdcClient-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/linux/SUPR0IdcClient-linux.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/325/trunk/src/VBox/HostDrivers/Support/linux/Makefile.kup
+END
+SUPLib-linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/linux/SUPLib-linux.cpp
+END
+files_vboxdrv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47199/trunk/src/VBox/HostDrivers/Support/linux/files_vboxdrv
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/50008/trunk/src/VBox/HostDrivers/Support/linux/Makefile
+END

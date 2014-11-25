@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/generic
+END
+semspinmutex-r3-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/generic/semspinmutex-r3-generic.cpp
+END
+allocex-r3-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/46743/trunk/src/VBox/Runtime/r3/generic/allocex-r3-generic.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/21534/trunk/src/VBox/Runtime/r3/generic/Makefile.kup
+END

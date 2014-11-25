@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk
+END
+mountmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/mountmgr.h
+END
+usb100.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/usb100.h
+END
+usb200.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/usb200.h
+END
+winddiui.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/winddiui.h
+END
+imm.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/imm.h
+END
+usbdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/usbdlib.h
+END
+wdm.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/wdm.h
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/usb.h
+END
+ntddcdvd.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/ntddcdvd.h
+END
+winsplp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/winsplp.h
+END
+ntddtape.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/ntddtape.h
+END
+ntddser.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/ntddser.h
+END
+compstui.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/compstui.h
+END
+ntddk.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/ntddk.h
+END
+hidsdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/ddk/hidsdi.h
+END

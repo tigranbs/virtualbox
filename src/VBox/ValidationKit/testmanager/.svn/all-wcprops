@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53284/trunk/src/VBox/ValidationKit/testmanager
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/__init__.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/readme.txt
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/config.py
+END
+apache-template-2.2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/apache-template-2.2.conf
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/Makefile.kmk
+END
+apache-template-2.4.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/apache-template-2.4.conf
+END

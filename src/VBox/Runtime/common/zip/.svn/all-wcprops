@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/51739/trunk/src/VBox/Runtime/common/zip
+END
+pkzipvfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51739/trunk/src/VBox/Runtime/common/zip/pkzipvfs.cpp
+END
+pkzip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51739/trunk/src/VBox/Runtime/common/zip/pkzip.cpp
+END
+zip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51696/trunk/src/VBox/Runtime/common/zip/zip.cpp
+END
+tarvfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/50201/trunk/src/VBox/Runtime/common/zip/tarvfs.cpp
+END
+tar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/50206/trunk/src/VBox/Runtime/common/zip/tar.cpp
+END
+gzipvfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50146/trunk/src/VBox/Runtime/common/zip/gzipvfs.cpp
+END
+unzipcmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51713/trunk/src/VBox/Runtime/common/zip/unzipcmd.cpp
+END
+xarvfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49028/trunk/src/VBox/Runtime/common/zip/xarvfs.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/33941/trunk/src/VBox/Runtime/common/zip/Makefile.kup
+END
+tarcmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51683/trunk/src/VBox/Runtime/common/zip/tarcmd.cpp
+END
+tar.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/34179/trunk/src/VBox/Runtime/common/zip/tar.h
+END

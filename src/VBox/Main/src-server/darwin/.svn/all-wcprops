@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/53122/trunk/src/VBox/Main/src-server/darwin
+END
+USBProxyServiceDarwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/49963/trunk/src/VBox/Main/src-server/darwin/USBProxyServiceDarwin.cpp
+END
+iokit.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/src-server/darwin/iokit.h
+END
+PerformanceDarwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/46328/trunk/src/VBox/Main/src-server/darwin/PerformanceDarwin.cpp
+END
+NetIf-darwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/49674/trunk/src/VBox/Main/src-server/darwin/NetIf-darwin.cpp
+END
+HostDnsServiceDarwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/53122/trunk/src/VBox/Main/src-server/darwin/HostDnsServiceDarwin.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/35368/trunk/src/VBox/Main/src-server/darwin/Makefile.kup
+END
+HostPowerDarwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48955/trunk/src/VBox/Main/src-server/darwin/HostPowerDarwin.cpp
+END
+iokit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52743/trunk/src/VBox/Main/src-server/darwin/iokit.cpp
+END

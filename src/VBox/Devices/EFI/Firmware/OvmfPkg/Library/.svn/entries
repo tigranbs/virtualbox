@@ -1,0 +1,49 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-07-25T15:15:18.210751Z
+52193
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+ResetSystemLib
+dir
+
+EmuVariableFvbLib
+dir
+
+AcpiTimerLib
+dir
+
+PlatformBdsLib
+dir
+
+PlatformFvbLibNull
+dir
+
+NvVarsFileLib
+dir
+
+SerializeVariablesLib
+dir
+

@@ -1,0 +1,322 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-06T12:57:32.821527Z
+53252
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+BaseS3SmbusLib
+dir
+
+DxeSmbusLib
+dir
+
+PeiPciSegmentLibPciCfg2
+dir
+
+PeiSmbusLibSmbus2Ppi
+dir
+
+BaseSynchronizationLib
+dir
+
+BasePcdLibNull
+dir
+
+BasePeCoffLib
+dir
+
+BaseCacheMaintenanceLib
+dir
+
+BasePalLibNull
+dir
+
+PeiIoLibCpuIo
+dir
+
+BasePciLibCf8
+dir
+
+BaseS3IoLib
+dir
+
+SmmServicesTableLib
+dir
+
+UefiDriverEntryPoint
+dir
+
+DxeHobLib
+dir
+
+BaseLib
+dir
+
+PeiDxePostCodeLibReportStatusCode
+dir
+
+BaseSerialPortLibNull
+dir
+
+BasePciLibPciExpress
+dir
+
+PeiExtractGuidedSectionLib
+dir
+
+PeiResourcePublicationLib
+dir
+
+UefiApplicationEntryPoint
+dir
+
+DxeExtractGuidedSectionLib
+dir
+
+SecPeiDxeTimerLibCpu
+dir
+
+DxePalLibEsal
+dir
+
+UefiDebugLibStdErr
+dir
+
+SmmIoLibSmmCpuIo2
+dir
+
+DxeTimerLibEsal
+dir
+
+BaseMemoryLibOptDxe
+dir
+
+UefiMemoryAllocationLib
+dir
+
+BasePeCoffGetEntryPointLib
+dir
+
+PeiServicesTablePointerLib
+dir
+
+BasePeCoffExtraActionLibNull
+dir
+
+DxeServicesTableLib
+dir
+
+SmmPciLibPciRootBridgeIo
+dir
+
+PeimEntryPoint
+dir
+
+UefiDevicePathLibDevicePathProtocol
+dir
+
+PeiPcdLib
+dir
+
+DxePciSegmentLibEsal
+dir
+
+UefiRuntimeServicesTableLib
+dir
+
+PeiPalLib
+dir
+
+BaseS3PciLib
+dir
+
+UefiPciSegmentLibPciRootBridgeIo
+dir
+
+UefiMemoryLib
+dir
+
+BaseCpuLib
+dir
+
+BasePostCodeLibDebug
+dir
+
+SmmPeriodicSmiLib
+dir
+
+BaseMemoryLibOptPei
+dir
+
+UefiDevicePathLib
+dir
+
+BaseMemoryLibMmx
+dir
+
+BasePerformanceLibNull
+dir
+
+SmmLibNull
+dir
+
+UefiDebugLibConOut
+dir
+
+UefiBootServicesTableLib
+dir
+
+DxeIoLibCpuIo2
+dir
+
+PeiCoreEntryPoint
+dir
+
+UefiRuntimeLib
+dir
+
+BaseMemoryLibSse2
+dir
+
+BaseDebugPrintErrorLevelLib
+dir
+
+BaseReportStatusCodeLibNull
+dir
+
+BaseMemoryLibRepStr
+dir
+
+DxeRuntimeExtendedSalLib
+dir
+
+PeiMemoryLib
+dir
+
+DxePcdLib
+dir
+
+BasePciCf8Lib
+dir
+
+PeiPciLibPciCfg2
+dir
+
+DxeIoLibEsal
+dir
+
+BasePciExpressLib
+dir
+
+PeiServicesLib
+dir
+
+DxeServicesLib
+dir
+
+BaseIoLibIntrinsic
+dir
+
+BaseDebugLibSerialPort
+dir
+
+BasePostCodeLibPort80
+dir
+
+UefiLib
+dir
+
+UefiSalLib
+dir
+
+UefiPciLibPciRootBridgeIo
+dir
+
+DxeRuntimePciExpressLib
+dir
+
+PeiServicesTablePointerLibIdt
+dir
+
+SmmMemoryAllocationLib
+dir
+
+DxeCoreEntryPoint
+dir
+
+DxeExtendedSalLib
+dir
+
+BaseTimerLibNullTemplate
+dir
+
+UefiUsbLib
+dir
+
+BaseMemoryLib
+dir
+
+PeiHobLib
+dir
+
+BaseUefiDecompressLib
+dir
+
+UefiScsiLib
+dir
+
+BaseDebugLibNull
+dir
+
+BaseExtractGuidedSectionLib
+dir
+
+PeiMemoryAllocationLib
+dir
+
+PeiServicesTablePointerLibKr7
+dir
+
+BaseS3StallLib
+dir
+
+DxePciLibEsal
+dir
+
+DxeCoreHobLib
+dir
+
+BaseS3BootScriptLibNull
+dir
+
+DxeSalLibEsal
+dir
+
+UefiPalLib
+dir
+
+BasePrintLib
+dir
+

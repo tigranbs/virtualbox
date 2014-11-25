@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kbuild-mirror/!svn/ver/2695/trunk/kBuild/tools
+END
+GCC64.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2541/trunk/kBuild/tools/GCC64.kmk
+END
+ALP.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/ALP.kmk
+END
+GXX3PLAIN.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2545/trunk/kBuild/tools/GXX3PLAIN.kmk
+END
+YACC.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/YACC.kmk
+END
+GXX64.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2541/trunk/kBuild/tools/GXX64.kmk
+END
+MSLINK510.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/MSLINK510.kmk
+END
+MASM510.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/MASM510.kmk
+END
+VCC80.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2557/trunk/kBuild/tools/VCC80.kmk
+END
+MASM610.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/MASM610.kmk
+END
+MASM710.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/MASM710.kmk
+END
+GCC4MACHO.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2547/trunk/kBuild/tools/GCC4MACHO.kmk
+END
+VCC80X86.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kbuild-mirror/!svn/ver/2557/trunk/kBuild/tools/VCC80X86.kmk
+END
+GCC.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kbuild-mirror/!svn/ver/2545/trunk/kBuild/tools/GCC.kmk
+END
+XGCCAMD64LINUX.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/XGCCAMD64LINUX.kmk
+END
+GCC32.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2541/trunk/kBuild/tools/GCC32.kmk
+END
+GXX4MACHO.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2547/trunk/kBuild/tools/GXX4MACHO.kmk
+END
+VCC100X86.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2625/trunk/kBuild/tools/VCC100X86.kmk
+END
+WATCOMC11C.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/WATCOMC11C.kmk
+END
+TARBZ2.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/TARBZ2.kmk
+END
+LLVMGCC42MACHO.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2547/trunk/kBuild/tools/LLVMGCC42MACHO.kmk
+END
+GXX.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kbuild-mirror/!svn/ver/2545/trunk/kBuild/tools/GXX.kmk
+END
+WGET.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/WGET.kmk
+END
+YASM.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2694/trunk/kBuild/tools/YASM.kmk
+END
+BISON.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/BISON.kmk
+END
+GCC42MACHO.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2547/trunk/kBuild/tools/GCC42MACHO.kmk
+END
+GXX32.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2541/trunk/kBuild/tools/GXX32.kmk
+END
+OPENWATCOM.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2663/trunk/kBuild/tools/OPENWATCOM.kmk
+END
+GCC3.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2541/trunk/kBuild/tools/GCC3.kmk
+END
+VCC80AMD64.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2557/trunk/kBuild/tools/VCC80AMD64.kmk
+END
+LLVMGXX42MACHO.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2547/trunk/kBuild/tools/LLVMGXX42MACHO.kmk
+END
+JWASM.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2578/trunk/kBuild/tools/JWASM.kmk
+END
+GCC3OMF.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2545/trunk/kBuild/tools/GCC3OMF.kmk
+END
+MINGWW64.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kbuild-mirror/!svn/ver/2695/trunk/kBuild/tools/MINGWW64.kmk
+END
+VCC70.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2557/trunk/kBuild/tools/VCC70.kmk
+END
+WATCOMC11C-WL.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/WATCOMC11C-WL.kmk
+END
+MASM600.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/MASM600.kmk
+END
+StandardDTrace.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2567/trunk/kBuild/tools/StandardDTrace.kmk
+END
+GXX42MACHO.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2547/trunk/kBuild/tools/GXX42MACHO.kmk
+END
+MINGW32.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2487/trunk/kBuild/tools/MINGW32.kmk
+END
+TAR.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/TAR.kmk
+END
+WATCOMC11C-16.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/WATCOMC11C-16.kmk
+END
+MASM6PLUS.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/MASM6PLUS.kmk
+END
+TARGZ.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/TARGZ.kmk
+END
+VCC100AMD64.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kbuild-mirror/!svn/ver/2625/trunk/kBuild/tools/VCC100AMD64.kmk
+END
+GXX3.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2541/trunk/kBuild/tools/GXX3.kmk
+END
+GXX3OMF.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2545/trunk/kBuild/tools/GXX3OMF.kmk
+END
+OPENWATCOM-WL.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2663/trunk/kBuild/tools/OPENWATCOM-WL.kmk
+END
+VCC100.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kbuild-mirror/!svn/ver/2677/trunk/kBuild/tools/VCC100.kmk
+END
+NASM.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/NASM.kmk
+END
+FLEX.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/FLEX.kmk
+END
+OPENWATCOM-16.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2572/trunk/kBuild/tools/OPENWATCOM-16.kmk
+END
+ZIP.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/ZIP.kmk
+END
+GCC3PLAIN.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2545/trunk/kBuild/tools/GCC3PLAIN.kmk
+END
+VAC308.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/tools/VAC308.kmk
+END

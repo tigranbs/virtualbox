@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52413/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/Makefile.in
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/39635/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/Makefile.kup
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/.cvsignore
+END

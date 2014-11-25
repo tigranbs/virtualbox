@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53234/trunk/src/VBox/HostServices/SharedOpenGL/render
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/render/Makefile.kup
+END
+renderspu_agl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51442/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu_agl.c
+END
+renderspu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53169/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu_init.c
+END
+render.def
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/render/render.def
+END
+renderspu_cocoa.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51442/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu_cocoa.c
+END
+renderspu.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52560/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu.h
+END
+renderspu_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48791/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu_config.c
+END
+renderspu_cocoa_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/51442/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu_cocoa_helper.h
+END
+renderspu_wgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51442/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu_wgl.c
+END
+renderspu_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53234/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu_glx.c
+END
+renderspu_cocoa_helper.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52625/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu_cocoa_helper.m
+END
+renderspu.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52641/trunk/src/VBox/HostServices/SharedOpenGL/render/renderspu.c
+END

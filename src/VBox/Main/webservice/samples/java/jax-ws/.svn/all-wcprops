@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/webservice/samples/java/jax-ws
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/webservice/samples/java/jax-ws/Makefile
+END
+clienttest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Main/webservice/samples/java/jax-ws/clienttest.java
+END
+metrictest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Main/webservice/samples/java/jax-ws/metrictest.java
+END
+Makefile.glue
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/webservice/samples/java/jax-ws/Makefile.glue
+END

@@ -1,0 +1,28 @@
+K 10
+svn:ignore
+V 382
+AutoConfig.kmk
+builddir
+configure.log
+env.sh
+build-stamp
+configure-stamp
+modules-stamp
+files
+modules
+vboxdrv.init
+vboxweb-service.init
+vboxballoonctrl-service.init
+vboxautostart-service.init
+preinst
+prerm
+postinst
+virtualbox-ose
+virtualbox-ose-dbg
+virtualbox-ose.substvars
+virtualbox-ose.sharedmimeinfo
+virtualbox-ose-dbg.substvars
+virtualbox-*.debhelper
+virtualbox-*.debhelper.log
+
+END

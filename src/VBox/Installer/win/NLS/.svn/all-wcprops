@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/53140/trunk/src/VBox/Installer/win/NLS
+END
+zh_TW.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53139/trunk/src/VBox/Installer/win/NLS/zh_TW.wxl
+END
+fr_FR.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53133/trunk/src/VBox/Installer/win/NLS/fr_FR.wxl
+END
+de_DE.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53140/trunk/src/VBox/Installer/win/NLS/de_DE.wxl
+END
+fa_IR.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53139/trunk/src/VBox/Installer/win/NLS/fa_IR.wxl
+END
+it_IT.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53139/trunk/src/VBox/Installer/win/NLS/it_IT.wxl
+END
+en_US.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53133/trunk/src/VBox/Installer/win/NLS/en_US.wxl
+END
+tr_TR.wxl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53139/trunk/src/VBox/Installer/win/NLS/tr_TR.wxl
+END

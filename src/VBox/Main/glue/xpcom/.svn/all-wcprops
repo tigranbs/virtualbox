@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/44776/trunk/src/VBox/Main/glue/xpcom
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/glue/xpcom/Makefile.kup
+END
+helpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44776/trunk/src/VBox/Main/glue/xpcom/helpers.cpp
+END

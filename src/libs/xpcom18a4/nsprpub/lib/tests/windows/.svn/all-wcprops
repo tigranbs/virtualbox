@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/windows
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/windows/makefile
+END
+winevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/windows/winevent.c
+END
+readme.1st
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/tests/windows/readme.1st
+END

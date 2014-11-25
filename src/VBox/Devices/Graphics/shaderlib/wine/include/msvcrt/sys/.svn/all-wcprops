@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/msvcrt/sys
+END
+utime.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/msvcrt/sys/utime.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/msvcrt/sys/types.h
+END
+locking.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/msvcrt/sys/locking.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/msvcrt/sys/unistd.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/msvcrt/sys/stat.h
+END
+timeb.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/msvcrt/sys/timeb.h
+END

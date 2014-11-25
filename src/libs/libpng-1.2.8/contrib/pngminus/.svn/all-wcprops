@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus
+END
+makefile.std
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/makefile.std
+END
+png2pnm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/png2pnm.bat
+END
+pnm2png.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/pnm2png.bat
+END
+pngminus.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/pngminus.sh
+END
+png2pnm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/png2pnm.sh
+END
+pnm2png.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/pnm2png.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/README
+END
+makevms.com
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/makevms.com
+END
+png2pnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/png2pnm.c
+END
+pnm2png.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/pnm2png.c
+END
+makefile.tc3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/makefile.tc3
+END
+pngminus.bat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/pngminus/pngminus.bat
+END

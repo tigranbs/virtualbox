@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52413/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/src
+END
+ipcDConnectService.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52046/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/src/Makefile.in
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/39635/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/src/Makefile.kup
+END
+ipcDConnectService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52413/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.cpp
+END

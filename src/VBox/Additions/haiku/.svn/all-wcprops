@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/52956/trunk/src/VBox/Additions/haiku
+END
+load.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/43367/trunk/src/VBox/Additions/haiku/load.sh
+END
+unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/43367/trunk/src/VBox/Additions/haiku/unload.sh
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/43363/trunk/src/VBox/Additions/haiku/Makefile.kmk
+END

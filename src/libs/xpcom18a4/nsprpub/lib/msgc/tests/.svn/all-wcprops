@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/tests
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/tests/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/tests/Makefile.in
+END
+thrashgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/tests/thrashgc.c
+END
+gc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/tests/gc1.c
+END

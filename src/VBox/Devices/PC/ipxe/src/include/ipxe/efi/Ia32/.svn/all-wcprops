@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Ia32
+END
+ProcessorBind.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/include/ipxe/efi/Ia32/ProcessorBind.h
+END

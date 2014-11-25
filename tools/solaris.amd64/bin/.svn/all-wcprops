@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/43612/trunk/tools/solaris.amd64/bin
+END
+iasl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/35780/trunk/tools/solaris.amd64/bin/iasl
+END
+yasm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/30909/trunk/tools/solaris.amd64/bin/yasm
+END

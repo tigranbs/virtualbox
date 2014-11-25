@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53358/trunk/src/VBox/HostDrivers/Support/testcase
+END
+tstGetPagingMode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/testcase/tstGetPagingMode.cpp
+END
+tstSupSem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/45182/trunk/src/VBox/HostDrivers/Support/testcase/tstSupSem.cpp
+END
+tstPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/testcase/tstPage.cpp
+END
+tstSupLoadModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/testcase/tstSupLoadModule.cpp
+END
+tstGIP-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53358/trunk/src/VBox/HostDrivers/Support/testcase/tstGIP-2.cpp
+END
+tstNtQueryStuff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/testcase/tstNtQueryStuff.cpp
+END
+SUPLoggerCtl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/testcase/SUPLoggerCtl.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/51906/trunk/src/VBox/HostDrivers/Support/testcase/Makefile.kmk
+END
+tstPin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/testcase/tstPin.cpp
+END
+tstInt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/testcase/tstInt.cpp
+END
+tstSupSem-Zombie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/testcase/tstSupSem-Zombie.cpp
+END
+tstContiguous.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/testcase/tstContiguous.cpp
+END
+tstLow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/testcase/tstLow.cpp
+END
+tstInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/Support/testcase/tstInit.cpp
+END
+SUPInstall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52000/trunk/src/VBox/HostDrivers/Support/testcase/SUPInstall.cpp
+END
+SUPUninstall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/39091/trunk/src/VBox/HostDrivers/Support/testcase/SUPUninstall.cpp
+END

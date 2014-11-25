@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53336/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/53335/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/ComponentName.c
+END
+Edid.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/Edid.c
+END
+VBoxVgaDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53336/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/VBoxVgaDxe.inf
+END
+VBoxVgaUgaDraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/VBoxVgaUgaDraw.c
+END
+VBoxVgaI2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/VBoxVgaI2c.c
+END
+DriverSupportedEfiVersion.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/DriverSupportedEfiVersion.c
+END
+VBoxVga.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53336/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/VBoxVga.c
+END
+VBoxVgaGraphicsOutput.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/53263/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/VBoxVgaGraphicsOutput.c
+END
+VBoxVgaI2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/VBoxVgaI2c.h
+END
+VBoxVga.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVgaDxe/VBoxVga.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/snippets
+END
+alloc-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/snippets/alloc-1.c
+END
+time-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/snippets/time-1.c
+END

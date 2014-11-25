@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/52610/trunk/src/VBox/Devices/Misc
+END
+VirtualKD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52610/trunk/src/VBox/Devices/Misc/VirtualKD.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52473/trunk/src/VBox/Devices/Misc/Makefile.kup
+END

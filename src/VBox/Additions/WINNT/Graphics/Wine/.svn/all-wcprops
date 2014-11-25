@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46783/trunk/src/VBox/Additions/WINNT/Graphics/Wine
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/43488/trunk/src/VBox/Additions/WINNT/Graphics/Wine/Makefile.kmk
+END

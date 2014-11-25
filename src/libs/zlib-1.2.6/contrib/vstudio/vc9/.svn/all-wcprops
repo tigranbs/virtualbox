@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9
+END
+testzlibdll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/testzlibdll.vcproj
+END
+zlibstat.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/zlibstat.vcproj
+END
+minizip.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/minizip.vcproj
+END
+testzlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/testzlib.vcproj
+END
+zlib.rc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/zlib.rc
+END
+zlibvc.sln
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/zlibvc.sln
+END
+zlibvc.def
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/zlibvc.def
+END
+miniunz.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/miniunz.vcproj
+END
+zlibvc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/vstudio/vc9/zlibvc.vcproj
+END

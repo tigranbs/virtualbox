@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/unittests
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/unittests/Makefile.kmk
+END
+tdUnitTest1.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/unittests/tdUnitTest1.py
+END

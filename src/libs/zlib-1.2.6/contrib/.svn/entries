@@ -1,0 +1,122 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/libs/zlib-1.2.6/contrib
+http://www.virtualbox.org/svn/vbox
+
+
+
+2012-03-05T13:39:00.980834Z
+40354
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+minizip
+dir
+
+iostream
+dir
+
+asm686
+dir
+
+ada
+dir
+
+infback9
+dir
+
+README.contrib
+file
+
+
+
+
+2014-11-25T14:39:27.348657Z
+fe1aa939bc61cde4afc0d1ea23b01ed5
+2012-03-05T13:39:00.980834Z
+40354
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3120
+
+vstudio
+dir
+
+masmx64
+dir
+
+inflate86
+dir
+
+puff
+dir
+
+testzlib
+dir
+
+masmx86
+dir
+
+pascal
+dir
+
+gcc_gvmat64
+dir
+
+iostream2
+dir
+
+delphi
+dir
+
+blast
+dir
+
+iostream3
+dir
+
+dotzlib
+dir
+
+untgz
+dir
+
+amd64
+dir
+

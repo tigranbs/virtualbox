@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52109/trunk/src/VBox/Additions/x11/Installer
+END
+x11config15sol.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50345/trunk/src/VBox/Additions/x11/Installer/x11config15sol.pl
+END
+solaris_xorg.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/16995/trunk/src/VBox/Additions/x11/Installer/solaris_xorg.conf
+END
+x11config15.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/32388/trunk/src/VBox/Additions/x11/Installer/x11config15.pl
+END
+x11config15suse.pl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/32388/trunk/src/VBox/Additions/x11/Installer/x11config15suse.pl
+END
+linux_xorg_suse11.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Additions/x11/Installer/linux_xorg_suse11.conf
+END
+vboxvideo.ids
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/16995/trunk/src/VBox/Additions/x11/Installer/vboxvideo.ids
+END
+vboxclient.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/19197/trunk/src/VBox/Additions/x11/Installer/vboxclient.desktop
+END
+x11restore.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/x11/Installer/x11restore.pl
+END
+x11config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/50312/trunk/src/VBox/Additions/x11/Installer/x11config.sh
+END
+x11config.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/32388/trunk/src/VBox/Additions/x11/Installer/x11config.pl
+END
+solaris_xorg_modeless.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/18089/trunk/src/VBox/Additions/x11/Installer/solaris_xorg_modeless.conf
+END
+98vboxadd-xclient
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52109/trunk/src/VBox/Additions/x11/Installer/98vboxadd-xclient
+END

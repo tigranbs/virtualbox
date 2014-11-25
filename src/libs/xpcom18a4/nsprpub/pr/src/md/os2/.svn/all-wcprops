@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/13908/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2
+END
+os2misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/5058/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2misc.c
+END
+os2inrval.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2inrval.c
+END
+objs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/objs.mk
+END
+os2sock.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/4634/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2sock.c
+END
+os2thred.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2thred.c
+END
+os2poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6881/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2poll.c
+END
+os2io.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/3368/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2io.c
+END
+os2vacpp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2vacpp.asm
+END
+os2cv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/3366/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2cv.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/.cvsignore
+END
+os2emx.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2emx.s
+END
+os2_errors.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2_errors.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/Makefile.in
+END
+os2vaclegacy.s
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/2988/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2vaclegacy.s
+END
+os2sem.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2sem.c
+END
+os2rng.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/13908/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2rng.c
+END
+os2gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/md/os2/os2gc.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/51294/trunk/src/VBox/Installer/linux/scripts
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51294/trunk/src/VBox/Installer/linux/scripts/install.sh
+END
+VBoxHeadlessXOrg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48954/trunk/src/VBox/Installer/linux/scripts/VBoxHeadlessXOrg.sh
+END
+check_module_dependencies.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48954/trunk/src/VBox/Installer/linux/scripts/check_module_dependencies.sh
+END

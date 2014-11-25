@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/48940/trunk/src/VBox/Additions/haiku/SharedFolders
+END
+kernel_cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48940/trunk/src/VBox/Additions/haiku/SharedFolders/kernel_cpp.h
+END
+vboxsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/43415/trunk/src/VBox/Additions/haiku/SharedFolders/vboxsf.c
+END
+vboxsf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/43404/trunk/src/VBox/Additions/haiku/SharedFolders/vboxsf.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/43363/trunk/src/VBox/Additions/haiku/SharedFolders/Makefile.kmk
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48940/trunk/src/VBox/Additions/haiku/SharedFolders/lock.h
+END
+vnode_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/43404/trunk/src/VBox/Additions/haiku/SharedFolders/vnode_cache.cpp
+END
+OpenHashTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48940/trunk/src/VBox/Additions/haiku/SharedFolders/OpenHashTable.h
+END

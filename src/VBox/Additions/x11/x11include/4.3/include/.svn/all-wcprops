@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include
+END
+Xalloca.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/include/Xalloca.h
+END
+Xarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/include/Xarch.h
+END
+Xfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/include/Xfuncs.h
+END

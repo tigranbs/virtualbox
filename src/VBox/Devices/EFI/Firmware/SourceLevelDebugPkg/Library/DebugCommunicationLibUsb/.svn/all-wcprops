@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugCommunicationLibUsb
+END
+DebugCommunicationLibUsb.inf
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugCommunicationLibUsb/DebugCommunicationLibUsb.inf
+END
+DebugCommunicationLibUsb.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugCommunicationLibUsb/DebugCommunicationLibUsb.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/linux
+END
+VBoxNetFlt-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/linux/VBoxNetFlt-linux.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/14430/trunk/src/VBox/HostDrivers/VBoxNetFlt/linux/Makefile.kup
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48901/trunk/src/VBox/HostDrivers/VBoxNetFlt/linux/Makefile
+END
+files_vboxnetflt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/VBoxNetFlt/linux/files_vboxnetflt
+END

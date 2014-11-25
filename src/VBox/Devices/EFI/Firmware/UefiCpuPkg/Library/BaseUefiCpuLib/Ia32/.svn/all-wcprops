@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/Library/BaseUefiCpuLib/Ia32
+END
+InitializeFpu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/Library/BaseUefiCpuLib/Ia32/InitializeFpu.asm
+END
+InitializeFpu.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/UefiCpuPkg/Library/BaseUefiCpuLib/Ia32/InitializeFpu.S
+END

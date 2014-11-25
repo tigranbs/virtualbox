@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40431/trunk/src/VBox/Additions/common/crOpenGL/array
+END
+arrayspu.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/40431/trunk/src/VBox/Additions/common/crOpenGL/array/arrayspu.c
+END
+arrayspu.rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/Additions/common/crOpenGL/array/arrayspu.rc
+END
+arrayspu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/40431/trunk/src/VBox/Additions/common/crOpenGL/array/arrayspu_init.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/18882/trunk/src/VBox/Additions/common/crOpenGL/array/Makefile.kup
+END
+arrayspu.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/array/arrayspu.h
+END
+arrayspu_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/array/arrayspu_config.c
+END
+arrayspu.def
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/array/arrayspu.def
+END

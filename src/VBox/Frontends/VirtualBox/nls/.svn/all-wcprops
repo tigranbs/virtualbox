@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls
+END
+qt_pt.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_pt.ts
+END
+VirtualBox_ca_VA.ts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_ca_VA.ts
+END
+qt_bg.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52915/trunk/src/VBox/Frontends/VirtualBox/nls/qt_bg.ts
+END
+VirtualBox_fa_IR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_fa_IR.ts
+END
+VirtualBox_ca.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_ca.ts
+END
+VirtualBox_da.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_da.ts
+END
+VirtualBox_sr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_sr.ts
+END
+ApprovedLanguages.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/49736/trunk/src/VBox/Frontends/VirtualBox/nls/ApprovedLanguages.kmk
+END
+VirtualBox_tr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_tr.ts
+END
+VirtualBox_de.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_de.ts
+END
+VirtualBox_sv.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_sv.ts
+END
+VirtualBox_gl_ES.ts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_gl_ES.ts
+END
+qt_cs.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48587/trunk/src/VBox/Frontends/VirtualBox/nls/qt_cs.ts
+END
+VirtualBox_ja.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_ja.ts
+END
+qt_es.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_es.ts
+END
+qt_ko.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_ko.ts
+END
+VirtualBox_fi.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_fi.ts
+END
+qt_ca_VA.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_ca_VA.ts
+END
+qt_sk.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_sk.ts
+END
+qt_iw.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_iw.ts
+END
+qt_uk.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_uk.ts
+END
+qt_ro.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_ro.ts
+END
+qt_fa_IR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_fa_IR.ts
+END
+VirtualBox_pt_BR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_pt_BR.ts
+END
+VirtualBox_eu.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_eu.ts
+END
+VirtualBox_hu.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_hu.ts
+END
+qt_gl_ES.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_gl_ES.ts
+END
+VirtualBox_ru.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_ru.ts
+END
+qt_en.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/25114/trunk/src/VBox/Frontends/VirtualBox/nls/qt_en.ts
+END
+qt_ar.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_ar.ts
+END
+VirtualBox_km_KH.ts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_km_KH.ts
+END
+qt_pt_BR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_pt_BR.ts
+END
+qt_fr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_fr.ts
+END
+VirtualBox_id.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_id.ts
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/16174/trunk/src/VBox/Frontends/VirtualBox/nls/Makefile.kup
+END
+qt_ca.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_ca.ts
+END
+qt_da.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_da.ts
+END
+VirtualBox_nl.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_nl.ts
+END
+qt_sr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_sr.ts
+END
+qt_tr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_tr.ts
+END
+VirtualBox_pl.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_pl.ts
+END
+VirtualBox_it.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_it.ts
+END
+qt_de.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_de.ts
+END
+qt_sv.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_sv.ts
+END
+qt_km_KH.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52915/trunk/src/VBox/Frontends/VirtualBox/nls/qt_km_KH.ts
+END
+qt_ja.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_ja.ts
+END
+VirtualBox_lt.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_lt.ts
+END
+qt_fi.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_fi.ts
+END
+VirtualBox_pt.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_pt.ts
+END
+VirtualBox_bg.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_bg.ts
+END
+VirtualBox_zh_TW.ts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_zh_TW.ts
+END
+qt_eu.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_eu.ts
+END
+qt_hu.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_hu.ts
+END
+VirtualBox_zh_CN.ts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_zh_CN.ts
+END
+VirtualBox_cs.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_cs.ts
+END
+VirtualBox_es.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_es.ts
+END
+VirtualBox_ko.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_ko.ts
+END
+qt_ru.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_ru.ts
+END
+VirtualBox_sk.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_sk.ts
+END
+VirtualBox_uk.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_uk.ts
+END
+VirtualBox_ro.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_ro.ts
+END
+VirtualBox_xx_YY.ts
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_xx_YY.ts
+END
+qt_zh_TW.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48625/trunk/src/VBox/Frontends/VirtualBox/nls/qt_zh_TW.ts
+END
+qt_id.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_id.ts
+END
+qt_el.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_el.ts
+END
+qt_zh_CN.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_zh_CN.ts
+END
+qt_nl.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_nl.ts
+END
+qt_pl.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_pl.ts
+END
+qt_it.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48773/trunk/src/VBox/Frontends/VirtualBox/nls/qt_it.ts
+END
+VirtualBox_en.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48632/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_en.ts
+END
+qt_lt.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_lt.ts
+END
+qt_xx_YY.ts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48576/trunk/src/VBox/Frontends/VirtualBox/nls/qt_xx_YY.ts
+END
+VirtualBox_fr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52917/trunk/src/VBox/Frontends/VirtualBox/nls/VirtualBox_fr.ts
+END

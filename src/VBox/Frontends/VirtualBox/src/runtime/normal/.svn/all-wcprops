@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal
+END
+UIMachineWindowNormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/UIMachineWindowNormal.h
+END
+UIMachineLogicNormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/53065/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/UIMachineLogicNormal.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/26933/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/Makefile.kup
+END
+UIKeyboardHandlerNormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52129/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/UIKeyboardHandlerNormal.h
+END
+UIMachineViewNormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/UIMachineViewNormal.h
+END
+UIMachineLogicNormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/52694/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/UIMachineLogicNormal.h
+END
+UIMachineWindowNormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/53320/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/UIMachineWindowNormal.cpp
+END
+UIKeyboardHandlerNormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/UIKeyboardHandlerNormal.cpp
+END
+UIMachineViewNormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/normal/UIMachineViewNormal.cpp
+END

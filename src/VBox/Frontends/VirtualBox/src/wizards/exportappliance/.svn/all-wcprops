@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52816/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance
+END
+UIWizardExportAppPageExpert.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageExpert.h
+END
+UIWizardExportApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52816/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportApp.cpp
+END
+UIWizardExportAppPageBasic1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageBasic1.cpp
+END
+UIWizardExportAppPageBasic2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageBasic2.cpp
+END
+UIWizardExportAppPageBasic3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageBasic3.cpp
+END
+UIWizardExportAppPageBasic4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageBasic4.cpp
+END
+UIWizardExportApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportApp.h
+END
+UIWizardExportAppPageBasic1.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageBasic1.h
+END
+UIWizardExportAppPageExpert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageExpert.cpp
+END
+UIWizardExportAppPageBasic2.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageBasic2.h
+END
+UIWizardExportAppDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppDefs.h
+END
+UIWizardExportAppPageBasic3.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageBasic3.h
+END
+UIWizardExportAppPageBasic4.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/UIWizardExportAppPageBasic4.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/33417/trunk/src/VBox/Frontends/VirtualBox/src/wizards/exportappliance/Makefile.kup
+END

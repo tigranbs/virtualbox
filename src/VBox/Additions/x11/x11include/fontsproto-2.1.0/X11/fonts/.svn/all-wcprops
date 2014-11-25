@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/fontsproto-2.1.0/X11/fonts
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/fontsproto-2.1.0/X11/fonts/font.h
+END
+fsmasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/fontsproto-2.1.0/X11/fonts/fsmasks.h
+END
+FS.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/fontsproto-2.1.0/X11/fonts/FS.h
+END
+fontproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/fontsproto-2.1.0/X11/fonts/fontproto.h
+END
+fontstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/fontsproto-2.1.0/X11/fonts/fontstruct.h
+END
+FSproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/fontsproto-2.1.0/X11/fonts/FSproto.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellNetwork1CommandsLib
+END
+UefiShellNetwork1CommandsLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellNetwork1CommandsLib/UefiShellNetwork1CommandsLib.h
+END
+Ping.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellNetwork1CommandsLib/Ping.c
+END
+UefiShellNetwork1CommandsLib.uni
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellNetwork1CommandsLib/UefiShellNetwork1CommandsLib.uni
+END
+UefiShellNetwork1CommandsLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellNetwork1CommandsLib/UefiShellNetwork1CommandsLib.inf
+END
+Ifconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellNetwork1CommandsLib/Ifconfig.c
+END
+UefiShellNetwork1CommandsLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellNetwork1CommandsLib/UefiShellNetwork1CommandsLib.c
+END

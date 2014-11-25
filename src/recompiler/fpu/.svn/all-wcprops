@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/37689/trunk/src/recompiler/fpu
+END
+softfloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37689/trunk/src/recompiler/fpu/softfloat.c
+END
+softfloat-native.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/37689/trunk/src/recompiler/fpu/softfloat-native.c
+END
+softfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/37689/trunk/src/recompiler/fpu/softfloat.h
+END
+softfloat-macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/36175/trunk/src/recompiler/fpu/softfloat-macros.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/21302/trunk/src/recompiler/fpu/Makefile.kup
+END
+softfloat-native.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/37689/trunk/src/recompiler/fpu/softfloat-native.h
+END
+softfloat-specialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/37689/trunk/src/recompiler/fpu/softfloat-specialize.h
+END

@@ -1,0 +1,89 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Frontends
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-21T14:20:48.960134Z
+53373
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+VBoxHeadless
+dir
+
+VBoxManage
+dir
+
+Common
+dir
+
+VBoxBalloonCtrl
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:42:46.680657Z
+b7ea0b1d61e4b0fb3ef3da9b828740b0
+2013-02-07T11:35:37.349466Z
+44580
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1550
+
+VirtualBox
+dir
+
+VBoxSDL
+dir
+
+VBoxAutostart
+dir
+
+VBoxFB
+dir
+
+VBoxShell
+dir
+

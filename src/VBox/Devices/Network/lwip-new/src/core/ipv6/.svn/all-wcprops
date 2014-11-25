@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50366/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6
+END
+mld6.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/50189/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/mld6.c
+END
+dhcp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/dhcp6.c
+END
+inet6.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/inet6.c
+END
+nd6.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/50189/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/nd6.c
+END
+ip6_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/ip6_addr.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/README
+END
+ip6_frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/50023/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/ip6_frag.c
+END
+icmp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50366/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/icmp6.c
+END
+ip6.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/50185/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/ip6.c
+END
+ethip6.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/core/ipv6/ethip6.c
+END

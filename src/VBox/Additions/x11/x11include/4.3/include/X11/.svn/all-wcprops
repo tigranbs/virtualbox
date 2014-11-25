@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11
+END
+Xprotostr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/Xprotostr.h
+END
+X.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/X.h
+END
+Xfuncproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/Xfuncproto.h
+END
+Xmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/Xmd.h
+END
+Xdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/Xdefs.h
+END
+Xosdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/17236/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/Xosdefs.h
+END
+Xproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/Xproto.h
+END

@@ -1,0 +1,17 @@
+openSUSE123     = OPENSUSE_12_3
+openSUSE114     = OPENSUSE_11_4
+openSUSE113     = OPENSUSE_11_3
+sles11.0        = SLES_11_0
+sles10.1        = SLES_10_1
+mdv2011.0       = MANDRIVA_2011_0
+fedora18        = FEDORA_18
+fedora17        = FEDORA_17
+fedora16        = FEDORA_16
+fedora15        = FEDORA_15
+el7             = EL_7
+el6             = EL_6
+el5             = EL_5
+centos6         = CENTOS_6
+centos5         = CENTOS_5
+ol6             = ORACLE_6
+ol5             = ORACLE_5

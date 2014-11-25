@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 42
+wine_x11drv*
+wine_ttydrv*
+common
+FetchDir
+
+END

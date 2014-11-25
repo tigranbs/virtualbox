@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/53348/trunk/src/VBox/Devices/Graphics
+END
+DevVGA-SVGA.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA.h
+END
+DevVGA-SVGA3d-ogl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53348/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA3d-ogl.cpp
+END
+DevVGA.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53205/trunk/src/VBox/Devices/Graphics/DevVGA.h
+END
+DevVGA_VDMA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52504/trunk/src/VBox/Devices/Graphics/DevVGA_VDMA.cpp
+END
+DevVGA-SVGA3d-cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA3d-cocoa.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Devices/Graphics/Makefile.kup
+END
+DevVGA_VBVA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53078/trunk/src/VBox/Devices/Graphics/DevVGA_VBVA.cpp
+END
+DevVGA-SVGA3d-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53348/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA3d-win.cpp
+END
+DevVGA-SVGA3d-cocoa.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA3d-cocoa.m
+END
+DevVGASavedState.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/DevVGASavedState.h
+END
+DevVGA-SVGA3d-shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA3d-shared.cpp
+END
+DevVGA-SVGA3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA3d.h
+END
+DevVGAModes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Graphics/DevVGAModes.h
+END
+DevVGA-SVGA3d-shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA3d-shared.h
+END
+DevVGA-SVGA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/DevVGA-SVGA.cpp
+END
+DevVGA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53240/trunk/src/VBox/Devices/Graphics/DevVGA.cpp
+END
+DevVGATmpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49887/trunk/src/VBox/Devices/Graphics/DevVGATmpl.h
+END

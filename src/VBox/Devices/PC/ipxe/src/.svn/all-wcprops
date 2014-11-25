@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/53362/trunk/src/VBox/Devices/PC/ipxe/src
+END
+doxygen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/doxygen.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/Makefile
+END
+Makefile.housekeeping
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/Makefile.housekeeping
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Main/idl
+END
+VirtualBox.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/47649/trunk/src/VBox/Main/idl/VirtualBox.dtd
+END
+midl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/50855/trunk/src/VBox/Main/idl/midl.xsl
+END
+xpidl_iid.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50122/trunk/src/VBox/Main/idl/xpidl_iid.xsl
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/6851/trunk/src/VBox/Main/idl/Makefile.kup
+END
+apiwrap-server.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52248/trunk/src/VBox/Main/idl/apiwrap-server.xsl
+END
+docstrip.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/idl/docstrip.xsl
+END
+VirtualBox.xidl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/53354/trunk/src/VBox/Main/idl/VirtualBox.xidl
+END
+typemap-shared.inc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/45483/trunk/src/VBox/Main/idl/typemap-shared.inc.xsl
+END
+doxygen.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/51502/trunk/src/VBox/Main/idl/doxygen.xsl
+END
+comimpl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/52719/trunk/src/VBox/Main/idl/comimpl.xsl
+END
+xpidl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/50183/trunk/src/VBox/Main/idl/xpidl.xsl
+END

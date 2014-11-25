@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmCorePerformanceLib
+END
+SmmCorePerformanceLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmCorePerformanceLib/SmmCorePerformanceLib.inf
+END
+SmmCorePerformanceLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmCorePerformanceLib/SmmCorePerformanceLib.c
+END
+SmmCorePerformanceLibInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmCorePerformanceLib/SmmCorePerformanceLibInternal.h
+END

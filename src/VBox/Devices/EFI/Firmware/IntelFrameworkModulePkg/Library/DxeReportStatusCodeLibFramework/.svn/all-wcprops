@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/DxeReportStatusCodeLibFramework
+END
+DxeReportStatusCodeLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/DxeReportStatusCodeLibFramework/DxeReportStatusCodeLib.inf
+END
+ReportStatusCodeLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/DxeReportStatusCodeLibFramework/ReportStatusCodeLib.c
+END

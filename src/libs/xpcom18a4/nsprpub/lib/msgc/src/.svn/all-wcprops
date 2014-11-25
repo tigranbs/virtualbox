@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src
+END
+macgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/macgc.c
+END
+prmsgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/prmsgc.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/.cvsignore
+END
+win32gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/win32gc.c
+END
+os2gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/os2gc.c
+END
+unixgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/unixgc.c
+END
+win16gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/win16gc.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/Makefile.in
+END
+prgcapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/msgc/src/prgcapi.c
+END

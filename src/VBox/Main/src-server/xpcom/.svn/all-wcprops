@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/51498/trunk/src/VBox/Main/src-server/xpcom
+END
+server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51498/trunk/src/VBox/Main/src-server/xpcom/server.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/src-server/xpcom/Makefile.kup
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50369/trunk/src/VBox/Main/src-server/xpcom/server.h
+END
+server_module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50369/trunk/src/VBox/Main/src-server/xpcom/server_module.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/PlatformFvbLibNull
+END
+PlatformFvbLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/PlatformFvbLibNull/PlatformFvbLibNull.inf
+END
+PlatformFvbLibNull.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/PlatformFvbLibNull/PlatformFvbLibNull.c
+END

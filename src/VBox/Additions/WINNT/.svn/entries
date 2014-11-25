@@ -1,0 +1,95 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Additions/WINNT
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-19T11:03:07.443993Z
+53349
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+VBoxMMR
+dir
+
+Installer
+dir
+
+VBoxGINA
+dir
+
+VBoxTray
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:43:18.604657Z
+b14d9983833b6be3d0c602f41258895d
+2012-05-29T11:43:27.164053Z
+41477
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1426
+
+VBoxHook
+dir
+
+Graphics
+dir
+
+tools
+dir
+
+VBoxCredProv
+dir
+
+include
+dir
+
+SharedFolders
+dir
+
+Mouse
+dir
+

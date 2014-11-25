@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/53336/trunk/src/VBox/Devices/EFI
+END
+DevEFI.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/52069/trunk/src/VBox/Devices/EFI/DevEFI.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/23119/trunk/src/VBox/Devices/EFI/Makefile.kup
+END
+DevSmc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/52508/trunk/src/VBox/Devices/EFI/DevSmc.cpp
+END
+VBoxSmcUtil-darwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/48435/trunk/src/VBox/Devices/EFI/VBoxSmcUtil-darwin.cpp
+END
+DevEFI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/53268/trunk/src/VBox/Devices/EFI/DevEFI.cpp
+END

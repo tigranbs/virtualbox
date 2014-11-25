@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51167/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/public
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/public/.cvsignore
+END
+xptcall.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/51167/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/public/xptcall.h
+END
+xptcstubsdecl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/public/xptcstubsdecl.inc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/public/Makefile.in
+END
+genstubs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/public/genstubs.pl
+END
+xptcstubsdef.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/public/xptcstubsdef.inc
+END

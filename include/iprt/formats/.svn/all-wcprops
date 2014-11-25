@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/formats
+END
+mach-o.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/48933/trunk/include/iprt/formats/mach-o.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/46407/trunk/include/iprt/formats/Makefile.kup
+END
+codeview.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/45999/trunk/include/iprt/formats/codeview.h
+END
+xar.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/48841/trunk/include/iprt/formats/xar.h
+END
+pe.mac
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/47037/trunk/include/iprt/formats/pe.mac
+END
+mz.mac
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/47037/trunk/include/iprt/formats/mz.mac
+END
+hfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/46412/trunk/include/iprt/formats/hfs.h
+END
+asn1.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/formats/asn1.h
+END

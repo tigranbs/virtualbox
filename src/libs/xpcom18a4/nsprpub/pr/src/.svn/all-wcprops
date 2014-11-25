@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51833/trunk/src/libs/xpcom18a4/nsprpub/pr/src
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/.cvsignore
+END
+nspr.def
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/nspr.def
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/Makefile.in
+END
+prvrsion.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/prvrsion.c
+END
+os2extra.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/os2extra.def
+END
+nspr.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/nspr.rc
+END
+nspr_symvec.opt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/src/nspr_symvec.opt
+END

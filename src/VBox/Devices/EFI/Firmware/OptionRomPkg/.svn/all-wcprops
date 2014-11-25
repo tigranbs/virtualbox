@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/ReadMe.txt
+END
+OptionRomPkg.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/OptionRomPkg.dsc
+END
+OptionRomPkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/OptionRomPkg.dec
+END

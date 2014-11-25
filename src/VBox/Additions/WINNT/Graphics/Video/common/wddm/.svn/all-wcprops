@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/49591/trunk/src/VBox/Additions/WINNT/Graphics/Video/common/wddm
+END
+VBoxMPIf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/49591/trunk/src/VBox/Additions/WINNT/Graphics/Video/common/wddm/VBoxMPIf.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/36867/trunk/src/VBox/Additions/WINNT/Graphics/Video/common/wddm/Makefile.kup
+END

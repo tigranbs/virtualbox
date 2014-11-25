@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellInstall1CommandsLib
+END
+UefiShellInstall1CommandsLib.uni
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellInstall1CommandsLib/UefiShellInstall1CommandsLib.uni
+END
+UefiShellInstall1CommandsLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellInstall1CommandsLib/UefiShellInstall1CommandsLib.inf
+END
+Bcfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellInstall1CommandsLib/Bcfg.c
+END
+UefiShellInstall1CommandsLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellInstall1CommandsLib/UefiShellInstall1CommandsLib.c
+END
+UefiShellInstall1CommandsLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/ShellPkg/Library/UefiShellInstall1CommandsLib/UefiShellInstall1CommandsLib.h
+END

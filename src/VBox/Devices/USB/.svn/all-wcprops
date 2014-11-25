@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/53260/trunk/src/VBox/Devices/USB
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/31888/trunk/src/VBox/Devices/USB/Makefile.kup
+END
+USBProxyDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50245/trunk/src/VBox/Devices/USB/USBProxyDevice.cpp
+END
+VUSBSniffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53168/trunk/src/VBox/Devices/USB/VUSBSniffer.cpp
+END
+DrvVUSBRootHub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53163/trunk/src/VBox/Devices/USB/DrvVUSBRootHub.cpp
+END
+VUSBReadAhead.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52254/trunk/src/VBox/Devices/USB/VUSBReadAhead.cpp
+END
+VUSBDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53210/trunk/src/VBox/Devices/USB/VUSBDevice.cpp
+END
+USBProxyDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50234/trunk/src/VBox/Devices/USB/USBProxyDevice.h
+END
+VUSBSniffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53014/trunk/src/VBox/Devices/USB/VUSBSniffer.h
+END
+DevOHCI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53210/trunk/src/VBox/Devices/USB/DevOHCI.cpp
+END
+VUSBInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53211/trunk/src/VBox/Devices/USB/VUSBInternal.h
+END
+USBProxyDevice-stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50228/trunk/src/VBox/Devices/USB/USBProxyDevice-stub.cpp
+END
+VUSBUrb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53162/trunk/src/VBox/Devices/USB/VUSBUrb.cpp
+END

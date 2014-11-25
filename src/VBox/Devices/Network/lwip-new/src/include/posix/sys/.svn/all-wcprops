@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/include/posix/sys
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/src/include/posix/sys/socket.h
+END

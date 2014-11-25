@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/firstrun
+END
+UIWizardFirstRunPageBasic.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/firstrun/UIWizardFirstRunPageBasic.h
+END
+UIWizardFirstRun.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/firstrun/UIWizardFirstRun.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/34548/trunk/src/VBox/Frontends/VirtualBox/src/wizards/firstrun/Makefile.kup
+END
+UIWizardFirstRunPageBasic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/firstrun/UIWizardFirstRunPageBasic.cpp
+END
+UIWizardFirstRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/firstrun/UIWizardFirstRun.cpp
+END

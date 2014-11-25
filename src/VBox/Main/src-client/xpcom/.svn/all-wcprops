@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52442/trunk/src/VBox/Main/src-client/xpcom
+END
+module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52442/trunk/src/VBox/Main/src-client/xpcom/module.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/src-client/xpcom/Makefile.kup
+END

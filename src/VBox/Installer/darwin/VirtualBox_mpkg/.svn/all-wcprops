@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51142/trunk/src/VBox/Installer/darwin/VirtualBox_mpkg
+END
+Welcome.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/42744/trunk/src/VBox/Installer/darwin/VirtualBox_mpkg/Welcome.rtf
+END
+Conclusion.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/42744/trunk/src/VBox/Installer/darwin/VirtualBox_mpkg/Conclusion.rtf
+END
+Localizable.strings
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/50588/trunk/src/VBox/Installer/darwin/VirtualBox_mpkg/Localizable.strings
+END
+Welcome.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/31655/trunk/src/VBox/Installer/darwin/VirtualBox_mpkg/Welcome.html
+END
+Conclusion.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/31655/trunk/src/VBox/Installer/darwin/VirtualBox_mpkg/Conclusion.html
+END
+background.tif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/31655/trunk/src/VBox/Installer/darwin/VirtualBox_mpkg/background.tif
+END
+distribution.dist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51142/trunk/src/VBox/Installer/darwin/VirtualBox_mpkg/distribution.dist
+END

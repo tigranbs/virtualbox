@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/FatBinPkg
+END
+FatBinPkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/FatBinPkg/FatBinPkg.dec
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/FatBinPkg/License.txt
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/FatBinPkg/ReadMe.txt
+END

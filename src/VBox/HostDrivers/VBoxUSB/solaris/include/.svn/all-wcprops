@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/HostDrivers/VBoxUSB/solaris/include
+END
+usbai_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/HostDrivers/VBoxUSB/solaris/include/usbai_private.h
+END

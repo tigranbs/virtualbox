@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/53243/trunk/src/VBox/Main/glue
+END
+EventQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/47852/trunk/src/VBox/Main/glue/EventQueue.cpp
+END
+errorprint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/glue/errorprint.cpp
+END
+string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/52554/trunk/src/VBox/Main/glue/string.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/6286/trunk/src/VBox/Main/glue/Makefile.kup
+END
+initterm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50117/trunk/src/VBox/Main/glue/initterm.cpp
+END
+NativeEventQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47801/trunk/src/VBox/Main/glue/NativeEventQueue.cpp
+END
+com.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/50249/trunk/src/VBox/Main/glue/com.cpp
+END
+vboxapi.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/51415/trunk/src/VBox/Main/glue/vboxapi.py
+END
+constants-python.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47125/trunk/src/VBox/Main/glue/constants-python.xsl
+END
+glue-java.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53243/trunk/src/VBox/Main/glue/glue-java.xsl
+END
+AutoLock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/45127/trunk/src/VBox/Main/glue/AutoLock.cpp
+END
+ErrorInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/46372/trunk/src/VBox/Main/glue/ErrorInfo.cpp
+END

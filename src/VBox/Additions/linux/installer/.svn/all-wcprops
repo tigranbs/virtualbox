@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/51193/trunk/src/VBox/Additions/linux/installer
+END
+vboxadd-x11.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/50733/trunk/src/VBox/Additions/linux/installer/vboxadd-x11.sh
+END
+vboxadd-service.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/linux/installer/vboxadd-service.sh
+END
+vboxadd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51193/trunk/src/VBox/Additions/linux/installer/vboxadd.sh
+END
+deffiles
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44080/trunk/src/VBox/Additions/linux/installer/deffiles
+END
+module-autologon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/48941/trunk/src/VBox/Additions/linux/installer/module-autologon.sh
+END
+autorun.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/36759/trunk/src/VBox/Additions/linux/installer/autorun.sh
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/40045/trunk/src/libs/xpcom18a4/xpcom/typelib/xpt/tools
+END
+xpt_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/40045/trunk/src/libs/xpcom18a4/xpcom/typelib/xpt/tools/xpt_dump.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/typelib/xpt/tools/Makefile.in
+END
+xpt_link.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/40045/trunk/src/libs/xpcom18a4/xpcom/typelib/xpt/tools/xpt_link.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/typelib/xpt/tools/.cvsignore
+END

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/46783/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d
+END
+wined3dwddm.def
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/wined3dwddm.def
+END
+shader_sm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/shader_sm1.c
+END
+ati_fragment_shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/ati_fragment_shader.c
+END
+resource.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/42285/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/resource.c
+END
+shader_sm4.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/shader_sm4.c
+END
+basetexture.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/41109/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/basetexture.c
+END
+wined3d_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/44306/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/wined3d_private.h
+END
+clipper.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/clipper.c
+END
+vboxext.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/vboxext.c
+END
+cubetexture.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/40481/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/cubetexture.c
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44306/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/device.c
+END
+vboxsharedrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/vboxsharedrc.h
+END
+wined3d_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/44306/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/wined3d_main.c
+END
+vboxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/vboxext.h
+END
+gl_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/gl_compat.c
+END
+query.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/41950/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/query.c
+END
+wined3d.spec
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/23571/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/wined3d.spec
+END
+shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/43339/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/shader.c
+END
+swapchain_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/38565/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/swapchain_base.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/43398/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/buffer.c
+END
+view.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/view.c
+END
+surface_gdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/40388/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/surface_gdi.c
+END
+state.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/38438/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/state.c
+END
+arb_program_shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/38565/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/arb_program_shader.c
+END
+surface_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/39602/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/surface_base.c
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/42499/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/context.c
+END
+wined3d_gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/46783/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/wined3d_gl.h
+END
+drawprim.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/39130/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/drawprim.c
+END
+glsl_shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/44306/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/glsl_shader.c
+END
+surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/43705/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/surface.c
+END
+volumetexture.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/43334/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/volumetexture.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/Makefile.kup
+END
+stateblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/stateblock.c
+END
+palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/38982/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/palette.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/utils.c
+END
+texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/42255/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/texture.c
+END
+swapchain_gdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/swapchain_gdi.c
+END
+directx.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/46593/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/directx.c
+END
+volume.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/43334/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/volume.c
+END
+wined3d.def
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/23571/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/wined3d.def
+END
+swapchain.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/44306/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/swapchain.c
+END
+nvidia_texture_shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/nvidia_texture_shader.c
+END
+wined3d_private_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/wined3d_private_types.h
+END
+vertexdeclaration.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/wined3d/vertexdeclaration.c
+END

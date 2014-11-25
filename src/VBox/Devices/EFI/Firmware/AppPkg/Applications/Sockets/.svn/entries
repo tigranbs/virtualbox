@@ -1,0 +1,150 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/AppPkg/Applications/Sockets
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+GetHostByName
+dir
+
+RecvDgram
+dir
+
+GetServByName
+dir
+
+ReadMe.txt
+file
+
+
+
+
+2014-11-25T14:40:30.232657Z
+f952aa5e851942ae05065503cbf35421
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+502
+
+GetNetByAddr
+dir
+
+GetHostByDns
+dir
+
+GetServByPort
+dir
+
+RawIp4Rx
+dir
+
+RawIp4Tx
+dir
+
+GetNetByName
+dir
+
+Sockets.inc
+file
+
+
+
+
+2014-11-25T14:40:30.228657Z
+0b60b2a02788e81031e32309f620976c
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1290
+
+OobRx
+dir
+
+SetHostName
+dir
+
+DataSource
+dir
+
+OobTx
+dir
+
+DataSink
+dir
+
+SetSockOpt
+dir
+
+GetHostByAddr
+dir
+
+TftpServer
+dir
+
+WebServer
+dir
+

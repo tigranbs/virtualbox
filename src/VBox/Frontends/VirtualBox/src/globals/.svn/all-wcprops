@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53328/trunk/src/VBox/Frontends/VirtualBox/src/globals
+END
+UIMainEventListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIMainEventListener.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/32265/trunk/src/VBox/Frontends/VirtualBox/src/globals/Makefile.kup
+END
+UIAnimationFramework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIAnimationFramework.cpp
+END
+VBoxGlobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/53012/trunk/src/VBox/Frontends/VirtualBox/src/globals/VBoxGlobal.cpp
+END
+UIThreadPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48911/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIThreadPool.h
+END
+UIActionPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53305/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIActionPool.cpp
+END
+UIImageTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIImageTools.h
+END
+UIPopupCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIPopupCenter.h
+END
+UIShortcutPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIShortcutPool.h
+END
+UIModalWindowManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIModalWindowManager.cpp
+END
+UIDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52957/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIDefs.h
+END
+COMDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/COMDefs.h
+END
+UIIconPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51406/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIIconPool.h
+END
+UIMessageCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53328/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIMessageCenter.h
+END
+VBoxVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/VBoxVersion.h
+END
+UIThreadPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIThreadPool.cpp
+END
+UIMainEventListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIMainEventListener.h
+END
+UIAnimationFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIAnimationFramework.h
+END
+UIImageTools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIImageTools.cpp
+END
+UIPopupCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIPopupCenter.cpp
+END
+UIShortcutPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIShortcutPool.cpp
+END
+VBoxUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/VBoxUtils.h
+END
+VBoxGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52991/trunk/src/VBox/Frontends/VirtualBox/src/globals/VBoxGlobal.h
+END
+UIActionPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52589/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIActionPool.h
+END
+QIWithRetranslateUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/QIWithRetranslateUI.h
+END
+UIDefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIDefs.cpp
+END
+COMDefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/globals/COMDefs.cpp
+END
+UIIconPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/53012/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIIconPool.cpp
+END
+UIModalWindowManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIModalWindowManager.h
+END
+UIMessageCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53328/trunk/src/VBox/Frontends/VirtualBox/src/globals/UIMessageCenter.cpp
+END
+COMWrappers.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52894/trunk/src/VBox/Frontends/VirtualBox/src/globals/COMWrappers.xsl
+END
+CIShared.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/globals/CIShared.h
+END

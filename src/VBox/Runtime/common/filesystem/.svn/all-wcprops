@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/filesystem
+END
+filesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/filesystem/filesystem.cpp
+END
+filesystemext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/46186/trunk/src/VBox/Runtime/common/filesystem/filesystemext.cpp
+END

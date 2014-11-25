@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/BaseUefiTianoCustomDecompressLib
+END
+BaseUefiTianoCustomDecompressLibInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/BaseUefiTianoCustomDecompressLib/BaseUefiTianoCustomDecompressLibInternals.h
+END
+BaseUefiTianoCustomDecompressLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/BaseUefiTianoCustomDecompressLib/BaseUefiTianoCustomDecompressLib.inf
+END
+BaseUefiTianoCustomDecompressLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/BaseUefiTianoCustomDecompressLib/BaseUefiTianoCustomDecompressLib.c
+END

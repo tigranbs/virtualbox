@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 763
+/branches/VBox-4.0/doc/manual/en_US/user_Glossary.xml:71214
+/branches/VBox-4.2/doc/manual/en_US/user_Glossary.xml:91503-91504,91506-91508,91510,91514-91515,91521
+/branches/VBox-4.3/doc/manual/en_US/user_Glossary.xml:91223
+/branches/VBox-4.3/trunk/doc/manual/en_US/user_Glossary.xml:91223
+/branches/dsen/gui/doc/manual/en_US/user_Glossary.xml:79076-79078,79089,79109-79110,79112-79113,79127-79130,79134,79141,79151,79155,79157-79159,79193,79197
+/branches/dsen/gui2/doc/manual/en_US/user_Glossary.xml:79224,79228,79233,79235,79258,79262-79263,79273,79341,79345,79354,79357,79387-79388,79559-79569,79572-79573,79578,79581-79582,79590-79591,79598-79599,79602-79603,79605-79606,79632,79635,79637,79644
+/branches/dsen/gui3/doc/manual/en_US/user_Glossary.xml:79645-79692
+END

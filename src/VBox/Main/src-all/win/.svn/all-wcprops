@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52418/trunk/src/VBox/Main/src-all/win
+END
+VBoxProxyStub.def
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49908/trunk/src/VBox/Main/src-all/win/VBoxProxyStub.def
+END
+VirtualBox_rgs.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/src-all/win/VirtualBox_rgs.xsl
+END
+comregister.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52418/trunk/src/VBox/Main/src-all/win/comregister.cmd
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/public
+END
+ipcILockService.idl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/public/ipcILockService.idl
+END
+ipcLockCID.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/public/ipcLockCID.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/public/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/lock/public/Makefile.in
+END

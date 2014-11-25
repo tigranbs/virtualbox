@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/renderproto-0.11/X11/extensions
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/renderproto-0.11/X11/extensions/render.h
+END
+renderproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/renderproto-0.11/X11/extensions/renderproto.h
+END

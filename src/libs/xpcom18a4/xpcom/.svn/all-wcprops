@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/51167/trunk/src/libs/xpcom18a4/xpcom
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/Makefile.in
+END
+xpcom-config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/xpcom-config.h.in
+END
+xpcom-private.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/xpcom-private.h.in
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/.cvsignore
+END

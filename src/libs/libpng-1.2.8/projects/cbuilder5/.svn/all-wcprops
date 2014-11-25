@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5
+END
+libpng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5/libpng.cpp
+END
+libpng.bpr
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5/libpng.bpr
+END
+libpngstat.bpf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5/libpngstat.bpf
+END
+libpng.bpf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5/libpng.bpf
+END
+libpng.bpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5/libpng.bpg
+END
+libpng.readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5/libpng.readme.txt
+END
+libpngstat.bpr
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5/libpngstat.bpr
+END
+zlib.readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects/cbuilder5/zlib.readme.txt
+END

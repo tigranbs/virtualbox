@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50517/trunk/src/VBox/Devices/Network/lwip-new
+END
+UPGRADING
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/UPGRADING
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/FILES
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/50211/trunk/src/VBox/Devices/Network/lwip-new/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47886/trunk/src/VBox/Devices/Network/lwip-new/README
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/50104/trunk/src/VBox/Devices/Network/lwip-new/Makefile.kmk
+END

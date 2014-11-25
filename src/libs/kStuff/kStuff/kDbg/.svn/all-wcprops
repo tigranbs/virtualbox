@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg
+END
+kDbgLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgLine.cpp
+END
+kDbgHlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgHlp.h
+END
+kDbgSpace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgSpace.cpp
+END
+kDbgHlpCrt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgHlpCrt.cpp
+END
+kDbgInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgInternal.h
+END
+kDbgModLdr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgModLdr.cpp
+END
+kDbgModWinDbgHelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgModWinDbgHelp.cpp
+END
+kDbgModPE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgModPE.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/Makefile.kmk
+END
+kDbgDump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgDump.cpp
+END
+kDbgModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgModule.cpp
+END
+kDbgSymbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/kstuff-mirror/!svn/ver/29/trunk/kDbg/kDbgSymbol.cpp
+END

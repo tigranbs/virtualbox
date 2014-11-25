@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/common/sort
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/27345/trunk/src/VBox/Runtime/common/sort/Makefile.kup
+END
+RTSortIsSorted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/common/sort/RTSortIsSorted.cpp
+END
+shellsort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/common/sort/shellsort.cpp
+END
+RTSortApvIsSorted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Runtime/common/sort/RTSortApvIsSorted.cpp
+END

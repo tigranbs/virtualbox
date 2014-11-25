@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/htdocs/js
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/htdocs/js/Makefile.kup
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/htdocs/js/common.js
+END
+graphwiz.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/htdocs/js/graphwiz.js
+END

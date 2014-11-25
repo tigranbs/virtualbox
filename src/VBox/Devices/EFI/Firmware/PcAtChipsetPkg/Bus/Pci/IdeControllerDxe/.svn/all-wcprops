@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/48730/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/Bus/Pci/IdeControllerDxe
+END
+ComponentName.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/Bus/Pci/IdeControllerDxe/ComponentName.c
+END
+IdeController.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48730/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/Bus/Pci/IdeControllerDxe/IdeController.c
+END
+IdeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/Bus/Pci/IdeControllerDxe/IdeController.h
+END
+IdeControllerDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PcAtChipsetPkg/Bus/Pci/IdeControllerDxe/IdeControllerDxe.inf
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/49626/trunk/include/VBox/RemoteDesktop
+END
+VRDETSMF.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/43348/trunk/include/VBox/RemoteDesktop/VRDETSMF.h
+END
+VRDESCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/41363/trunk/include/VBox/RemoteDesktop/VRDESCard.h
+END
+VRDEVideoIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48934/trunk/include/VBox/RemoteDesktop/VRDEVideoIn.h
+END
+VRDEMousePtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40625/trunk/include/VBox/RemoteDesktop/VRDEMousePtr.h
+END
+VRDEOrders.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/33021/trunk/include/VBox/RemoteDesktop/VRDEOrders.h
+END
+VRDE.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/RemoteDesktop/VRDE.h
+END
+VRDEInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49626/trunk/include/VBox/RemoteDesktop/VRDEInput.h
+END
+VRDEImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/47157/trunk/include/VBox/RemoteDesktop/VRDEImage.h
+END

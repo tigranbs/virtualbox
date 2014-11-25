@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/vbox/!svn/ver/53353/trunk/doc/manual
+END
+string.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/31735/trunk/doc/manual/string.xsl
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/51387/trunk/doc/manual/Makefile.kmk
+END
+common-formatcfg.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/31972/trunk/doc/manual/common-formatcfg.xsl
+END
+docbook2latex.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/49487/trunk/doc/manual/docbook2latex.xsl
+END
+docbook-htmlhelp-formatcfg.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/31972/trunk/doc/manual/docbook-htmlhelp-formatcfg.xsl
+END
+user_ChangeLogImpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51476/trunk/doc/manual/user_ChangeLogImpl.xml
+END
+titlepage-htmlhelp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/31972/trunk/doc/manual/titlepage-htmlhelp.xml
+END
+xidl2docbook.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/46213/trunk/doc/manual/xidl2docbook.xsl
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/solaris
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/43879/trunk/src/VBox/Runtime/r3/solaris/Makefile.kup
+END
+RTSystemQueryDmiString-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/29560/trunk/src/VBox/Runtime/r3/solaris/RTSystemQueryDmiString-solaris.cpp
+END
+systemmem-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/43880/trunk/src/VBox/Runtime/r3/solaris/systemmem-solaris.cpp
+END
+coredumper-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/solaris/coredumper-solaris.cpp
+END
+RTSystemShutdown-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/solaris/RTSystemShutdown-solaris.cpp
+END
+fileaio-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/45678/trunk/src/VBox/Runtime/r3/solaris/fileaio-solaris.cpp
+END
+coredumper-solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r3/solaris/coredumper-solaris.h
+END
+mp-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/solaris/mp-solaris.cpp
+END
+rtProcInitExePath-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r3/solaris/rtProcInitExePath-solaris.cpp
+END
+thread-affinity-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/37156/trunk/src/VBox/Runtime/r3/solaris/thread-affinity-solaris.cpp
+END

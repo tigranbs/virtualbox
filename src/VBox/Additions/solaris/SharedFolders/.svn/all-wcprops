@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51729/trunk/src/VBox/Additions/solaris/SharedFolders
+END
+vboxfs_vnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/46239/trunk/src/VBox/Additions/solaris/SharedFolders/vboxfs_vnode.h
+END
+deps.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/41725/trunk/src/VBox/Additions/solaris/SharedFolders/deps.asm
+END
+vboxfs_mount.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48943/trunk/src/VBox/Additions/solaris/SharedFolders/vboxfs_mount.c
+END
+vboxfs_vfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/51709/trunk/src/VBox/Additions/solaris/SharedFolders/vboxfs_vfs.h
+END
+vboxfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/33994/trunk/src/VBox/Additions/solaris/SharedFolders/vboxfs.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/42239/trunk/src/VBox/Additions/solaris/SharedFolders/Makefile.kmk
+END
+vboxfs_prov.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51729/trunk/src/VBox/Additions/solaris/SharedFolders/vboxfs_prov.c
+END
+vboxfs_prov.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51709/trunk/src/VBox/Additions/solaris/SharedFolders/vboxfs_prov.h
+END
+vboxfs_vnode.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51729/trunk/src/VBox/Additions/solaris/SharedFolders/vboxfs_vnode.c
+END
+vboxfs_vfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/51729/trunk/src/VBox/Additions/solaris/SharedFolders/vboxfs_vfs.c
+END

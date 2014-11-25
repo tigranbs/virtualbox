@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/bus
+END
+xf86Pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/bus/xf86Pci.h
+END
+Pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/17236/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/bus/Pci.h
+END

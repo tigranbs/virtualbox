@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/debug
+END
+functions.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/debug/functions.pgsql
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/debug/Makefile.kmk
+END
+cgiprofiling.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/debug/cgiprofiling.py
+END
+add_testbox.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/debug/add_testbox.pgsql
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/debug/__init__.py
+END

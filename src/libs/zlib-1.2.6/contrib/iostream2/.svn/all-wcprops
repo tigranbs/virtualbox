@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/iostream2
+END
+zstream_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/iostream2/zstream_test.cpp
+END
+zstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/iostream2/zstream.h
+END

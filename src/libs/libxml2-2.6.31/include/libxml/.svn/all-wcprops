@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/45449/trunk/src/libs/libxml2-2.6.31/include/libxml
+END
+xmlexports.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/45146/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlexports.h
+END
+encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/encoding.h
+END
+xmlmemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39924/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlmemory.h
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/threads.h
+END
+SAX.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/SAX.h
+END
+xmlautomata.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlautomata.h
+END
+valid.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/valid.h
+END
+uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/uri.h
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/tree.h
+END
+schematron.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/schematron.h
+END
+schemasInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/schemasInternals.h
+END
+xmlschemas.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlschemas.h
+END
+xpathInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xpathInternals.h
+END
+c14n.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/c14n.h
+END
+xmlmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlmodule.h
+END
+xmlunicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlunicode.h
+END
+chvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/chvalid.h
+END
+xmlerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlerror.h
+END
+xinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xinclude.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/list.h
+END
+xmlregexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlregexp.h
+END
+parserInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/45449/trunk/src/libs/libxml2-2.6.31/include/libxml/parserInternals.h
+END
+pattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/pattern.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/Makefile.am
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/globals.h
+END
+xmlreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlreader.h
+END
+DOCBparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/DOCBparser.h
+END
+HTMLtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/HTMLtree.h
+END
+entities.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/entities.h
+END
+xpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/42884/trunk/src/libs/libxml2-2.6.31/include/libxml/xpath.h
+END
+xlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xlink.h
+END
+xmlstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlstring.h
+END
+xmlIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlIO.h
+END
+xmlversion-default.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/39954/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlversion-default.h
+END
+xmlschemastypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlschemastypes.h
+END
+nanohttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/nanohttp.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/45449/trunk/src/libs/libxml2-2.6.31/include/libxml/parser.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/Makefile.in
+END
+xmlwriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlwriter.h
+END
+relaxng.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/relaxng.h
+END
+nanoftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/nanoftp.h
+END
+xmlversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/39924/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlversion.h
+END
+debugXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/debugXML.h
+END
+xpointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xpointer.h
+END
+catalog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/catalog.h
+END
+xmlversion.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlversion.h.in
+END
+SAX2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/SAX2.h
+END
+xmlsave.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/xmlsave.h
+END
+HTMLparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/HTMLparser.h
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/dict.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/libxml/hash.h
+END

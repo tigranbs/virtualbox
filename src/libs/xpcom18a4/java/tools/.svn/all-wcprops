@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/46478/trunk/src/libs/xpcom18a4/java/tools
+END
+genjifaces.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/46478/trunk/src/libs/xpcom18a4/java/tools/genjifaces.xsl
+END
+gen-nsError.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/29095/trunk/src/libs/xpcom18a4/java/tools/gen-nsError.pl
+END

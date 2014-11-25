@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/52413/trunk/src/libs/xpcom18a4
+END
+xpcom-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom-config.h
+END
+xpcom-namespace-cleanup.map
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44529/trunk/src/libs/xpcom18a4/xpcom-namespace-cleanup.map
+END
+nsBuildID.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsBuildID.h
+END
+xpcom-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/46043/trunk/src/libs/xpcom18a4/xpcom-private.h
+END
+Config.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/49829/trunk/src/libs/xpcom18a4/Config.kmk
+END
+dependentLibs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/16442/trunk/src/libs/xpcom18a4/dependentLibs.h
+END
+vboxdeps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/11863/trunk/src/libs/xpcom18a4/vboxdeps.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/51166/trunk/src/libs/xpcom18a4/Makefile.kmk
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/43419/trunk/src/VBox/Additions/haiku/VBoxMouse
+END
+VBoxMouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/43419/trunk/src/VBox/Additions/haiku/VBoxMouse/VBoxMouse.cpp
+END
+VBoxMouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/43405/trunk/src/VBox/Additions/haiku/VBoxMouse/VBoxMouse.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/43363/trunk/src/VBox/Additions/haiku/VBoxMouse/Makefile.kmk
+END
+VBoxMouseFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/43405/trunk/src/VBox/Additions/haiku/VBoxMouse/VBoxMouseFilter.cpp
+END
+VBoxMouseFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/43405/trunk/src/VBox/Additions/haiku/VBoxMouse/VBoxMouseFilter.h
+END

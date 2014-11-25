@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/50710/trunk/src/libs/xpcom18a4/python/src
+END
+VariantUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48708/trunk/src/libs/xpcom18a4/python/src/VariantUtils.cpp
+END
+PyGWeakReference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyGWeakReference.cpp
+END
+PyIVariant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyIVariant.cpp
+END
+PyIInterfaceInfoManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyIInterfaceInfoManager.cpp
+END
+PyGBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/50710/trunk/src/libs/xpcom18a4/python/src/PyGBase.cpp
+END
+PyGInputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyGInputStream.cpp
+END
+PyIInputStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyIInputStream.cpp
+END
+PyGStub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/21178/trunk/src/libs/xpcom18a4/python/src/PyGStub.cpp
+END
+PyIInterfaceInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyIInterfaceInfo.cpp
+END
+Pyxpt_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/Pyxpt_info.cpp
+END
+PyIEnumerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyIEnumerator.cpp
+END
+PyIClassInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyIClassInfo.cpp
+END
+PyXPCOM.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50362/trunk/src/libs/xpcom18a4/python/src/PyXPCOM.h
+END
+PyGModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyGModule.cpp
+END
+TypeObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/33977/trunk/src/libs/xpcom18a4/python/src/TypeObject.cpp
+END
+ErrorUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39535/trunk/src/libs/xpcom18a4/python/src/ErrorUtils.cpp
+END
+PyIComponentManagerObsolete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyIComponentManagerObsolete.cpp
+END
+PyISimpleEnumerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyISimpleEnumerator.cpp
+END
+PyIID.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50710/trunk/src/libs/xpcom18a4/python/src/PyIID.cpp
+END
+PyXPCOM_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyXPCOM_std.h
+END
+PyIComponentManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/PyIComponentManager.cpp
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/src/readme.html
+END
+dllmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/21178/trunk/src/libs/xpcom18a4/python/src/dllmain.cpp
+END
+PyISupports.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/50710/trunk/src/libs/xpcom18a4/python/src/PyISupports.cpp
+END

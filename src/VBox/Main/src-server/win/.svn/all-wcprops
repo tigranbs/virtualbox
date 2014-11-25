@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/53318/trunk/src/VBox/Main/src-server/win
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/src-server/win/Makefile.kup
+END
+VBoxSVC.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/35368/trunk/src/VBox/Main/src-server/win/VBoxSVC.rc
+END
+PerformanceWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-server/win/PerformanceWin.cpp
+END
+svchlp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/src-server/win/svchlp.cpp
+END
+NetIf-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/53318/trunk/src/VBox/Main/src-server/win/NetIf-win.cpp
+END
+svcmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52489/trunk/src/VBox/Main/src-server/win/svcmain.cpp
+END
+HostDnsServiceWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53242/trunk/src/VBox/Main/src-server/win/HostDnsServiceWin.cpp
+END
+VBoxComEvents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/35368/trunk/src/VBox/Main/src-server/win/VBoxComEvents.cpp
+END
+svchlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/src-server/win/svchlp.h
+END
+USBProxyServiceWindows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51743/trunk/src/VBox/Main/src-server/win/USBProxyServiceWindows.cpp
+END
+VBoxComEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/35368/trunk/src/VBox/Main/src-server/win/VBoxComEvents.h
+END
+HostPowerWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51441/trunk/src/VBox/Main/src-server/win/HostPowerWin.cpp
+END

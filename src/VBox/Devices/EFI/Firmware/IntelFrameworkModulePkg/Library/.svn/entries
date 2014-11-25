@@ -1,0 +1,58 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-29T22:26:06.033696Z
+48762
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+DxeReportStatusCodeLibFramework
+dir
+
+SmmRuntimeDxeReportStatusCodeLibFramework
+dir
+
+PeiRecoveryLib
+dir
+
+DxeCapsuleLib
+dir
+
+BaseUefiTianoCustomDecompressLib
+dir
+
+PeiDxeDebugLibReportStatusCode
+dir
+
+LzmaCustomDecompressLib
+dir
+
+PeiS3Lib
+dir
+
+GenericBdsLib
+dir
+
+PlatformBdsLibNull
+dir
+

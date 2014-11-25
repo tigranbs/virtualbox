@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51270/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/vbox/libWineStub
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/vbox/libWineStub/debug.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/46521/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new/vbox/libWineStub/Makefile.kup
+END

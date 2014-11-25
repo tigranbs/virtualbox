@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge
+END
+vxge_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge_main.h
+END
+vxge_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge_config.h
+END
+vxge_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge_version.h
+END
+vxge_traffic.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge_traffic.c
+END
+vxge.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge.c
+END
+vxge_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge_reg.h
+END
+vxge_traffic.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge_traffic.h
+END
+vxge_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge_main.c
+END
+vxge_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/drivers/net/vxge/vxge_config.c
+END

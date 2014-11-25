@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/50349/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev
+END
+VBoxUsbCmn.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbCmn.h
+END
+VBoxUsbPnP.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbPnP.h
+END
+VBoxUsbDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/49137/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbDev.h
+END
+VBoxUsbRt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50349/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbRt.cpp
+END
+VBoxUsbPwr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbPwr.cpp
+END
+VBoxUSB.inf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUSB.inf
+END
+VBoxUsbRt.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbRt.h
+END
+VBoxUsbPnP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbPnP.cpp
+END
+VBoxUsbPwr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbPwr.h
+END
+VBoxUsbDev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbDev.cpp
+END
+VBoxUsbDev.rc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/VBoxUsbDev.rc
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/dev/Makefile.kup
+END

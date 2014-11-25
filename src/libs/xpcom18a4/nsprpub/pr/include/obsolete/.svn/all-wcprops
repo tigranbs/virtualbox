@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/16398/trunk/src/libs/xpcom18a4/nsprpub/pr/include/obsolete
+END
+probslet.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/obsolete/probslet.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/obsolete/Makefile.in
+END
+pralarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/obsolete/pralarm.h
+END
+protypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/16398/trunk/src/libs/xpcom18a4/nsprpub/pr/include/obsolete/protypes.h
+END
+prsem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/obsolete/prsem.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/obsolete/.cvsignore
+END

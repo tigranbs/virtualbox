@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/43129/trunk/src/VBox/Additions/WINNT/Installer/ISO
+END
+AUTORUN.INF
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/31661/trunk/src/VBox/Additions/WINNT/Installer/ISO/AUTORUN.INF
+END
+ReadmeDrivers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/43129/trunk/src/VBox/Additions/WINNT/Installer/ISO/ReadmeDrivers.txt
+END

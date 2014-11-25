@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/blast
+END
+blast.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/blast/blast.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/blast/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/blast/README
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/blast/test.txt
+END
+blast.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/blast/blast.c
+END
+test.pk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/blast/test.pk
+END

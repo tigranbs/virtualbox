@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/WINNT/Mouse/NT4
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/42154/trunk/src/VBox/Additions/WINNT/Mouse/NT4/Makefile.kmk
+END
+VBoxPS2NT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/42154/trunk/src/VBox/Additions/WINNT/Mouse/NT4/VBoxPS2NT.cpp
+END
+VBoxPS2NT.rc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/WINNT/Mouse/NT4/VBoxPS2NT.rc
+END

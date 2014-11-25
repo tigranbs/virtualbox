@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51890/trunk/src/VBox/HostDrivers/Support/win/Certificates
+END
+SpcRoot-MicrosoftRootAuthority-00c1008b3c3c8811d13ef663ecdf40.taf
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/SpcRoot-MicrosoftRootAuthority-00c1008b3c3c8811d13ef663ecdf40.taf
+END
+SpcRoot-MicrosoftRootCertificateAuthority-79ad16a14aa0a5ad4c7358f407132e65.taf
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/SpcRoot-MicrosoftRootCertificateAuthority-79ad16a14aa0a5ad4c7358f407132e65.taf
+END
+Timestamp-CopyrightC1997MicrosoftCorp-01.taf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/Timestamp-CopyrightC1997MicrosoftCorp-01.taf
+END
+Trusted-OracleCorporationVirtualBox-51ca009816fdbd80f120e015ee75823e.cer
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/Trusted-OracleCorporationVirtualBox-51ca009816fdbd80f120e015ee75823e.cer
+END
+Trusted-OracleCorporationVirtualBox-51ca009816fdbd80f120e015ee75823e.taf
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/Trusted-OracleCorporationVirtualBox-51ca009816fdbd80f120e015ee75823e.taf
+END
+SpcRoot-MicrosoftRootCertificateAuthority2011-3f8bc8b5fc9fb29643b569d66c42e144.taf
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/SpcRoot-MicrosoftRootCertificateAuthority2011-3f8bc8b5fc9fb29643b569d66c42e144.taf
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/Makefile.kup
+END
+NtRoot-MicrosoftCodeVerificationRoot-729404101f3e0ca347837fca175a8438.taf
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/NtRoot-MicrosoftCodeVerificationRoot-729404101f3e0ca347837fca175a8438.taf
+END
+SpcRoot-MicrosoftAuthenticodeTmRootAuthority-01.taf
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/SpcRoot-MicrosoftAuthenticodeTmRootAuthority-01.taf
+END
+SpcRoot-MicrosoftDigitalMediaAuthority2005-6eff330eb6e7569740680870104baaba.taf
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/SpcRoot-MicrosoftDigitalMediaAuthority2005-6eff330eb6e7569740680870104baaba.taf
+END
+SpcRoot-MicrosoftRootCertificateAuthority2010-28cc3a25bfba44ac449a9b586b4339aa.taf
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/HostDrivers/Support/win/Certificates/SpcRoot-MicrosoftRootCertificateAuthority2010-28cc3a25bfba44ac449a9b586b4339aa.taf
+END

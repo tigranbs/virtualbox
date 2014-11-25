@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr
+END
+DeviceManager.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.c
+END
+DriverHealthVfr.Vfr
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DriverHealthVfr.Vfr
+END
+DeviceManagerStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerStrings.uni
+END
+DeviceManagerVfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+END
+DeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+END
+DeviceManagerVfr.Vfr
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.Vfr
+END

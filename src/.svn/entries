@@ -1,0 +1,77 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-21T14:20:48.960134Z
+53373
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+VBox
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:44:14.156657Z
+22ed47ed3a9229f247105afe89e0eca4
+2014-09-26T14:25:07.244774Z
+52869
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1380
+
+recompiler
+dir
+
+apps
+dir
+
+libs
+dir
+
+bldprogs
+dir
+

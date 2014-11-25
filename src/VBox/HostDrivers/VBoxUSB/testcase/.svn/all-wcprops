@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/VBoxUSB/testcase
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/31896/trunk/src/VBox/HostDrivers/VBoxUSB/testcase/Makefile.kup
+END
+tstUSBFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/VBoxUSB/testcase/tstUSBFilter.cpp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/platform/x11
+END
+XKeyboard-new.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/platform/x11/XKeyboard-new.cpp
+END
+UIDesktopServices_x11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/platform/x11/UIDesktopServices_x11.cpp
+END
+VBoxX11Helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/platform/x11/VBoxX11Helper.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/34401/trunk/src/VBox/Frontends/VirtualBox/src/platform/x11/Makefile.kup
+END
+VBoxX11Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/platform/x11/VBoxX11Helper.h
+END
+XKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/platform/x11/XKeyboard.h
+END

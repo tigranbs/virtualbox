@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vbox/!svn/ver/52580/trunk/include/iprt/cpp
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/48833/trunk/include/iprt/cpp/utils.h
+END
+xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/49028/trunk/include/iprt/cpp/xml.h
+END
+autores.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/36529/trunk/include/iprt/cpp/autores.h
+END
+ministring.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/52580/trunk/include/iprt/cpp/ministring.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/36645/trunk/include/iprt/cpp/Makefile.kup
+END
+meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/36539/trunk/include/iprt/cpp/meta.h
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/36573/trunk/include/iprt/cpp/lock.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/49052/trunk/include/iprt/cpp/list.h
+END
+mtlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/45520/trunk/include/iprt/cpp/mtlist.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/36527/trunk/include/iprt/cpp/exception.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/39658/trunk/include/iprt/cpp/mem.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53237/trunk/src/VBox/Frontends/VirtualBox/src/wizards
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/33417/trunk/src/VBox/Frontends/VirtualBox/src/wizards/Makefile.kup
+END
+UIWizardPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/UIWizardPage.cpp
+END
+UIWizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/53237/trunk/src/VBox/Frontends/VirtualBox/src/wizards/UIWizard.cpp
+END
+UIWizardPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/UIWizardPage.h
+END
+UIWizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/UIWizard.h
+END

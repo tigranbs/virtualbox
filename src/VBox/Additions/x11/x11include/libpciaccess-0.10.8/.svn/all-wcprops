@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/22659/trunk/src/VBox/Additions/x11/x11include/libpciaccess-0.10.8
+END
+pciaccess_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/22659/trunk/src/VBox/Additions/x11/x11include/libpciaccess-0.10.8/pciaccess_private.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22659/trunk/src/VBox/Additions/x11/x11include/libpciaccess-0.10.8/config.h.in
+END
+pci_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22659/trunk/src/VBox/Additions/x11/x11include/libpciaccess-0.10.8/pci_tools.h
+END
+linux_devmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/22659/trunk/src/VBox/Additions/x11/x11include/libpciaccess-0.10.8/linux_devmem.h
+END
+pciaccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22659/trunk/src/VBox/Additions/x11/x11include/libpciaccess-0.10.8/pciaccess.h
+END

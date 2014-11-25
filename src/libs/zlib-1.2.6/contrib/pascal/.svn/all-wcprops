@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/pascal
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/pascal/readme.txt
+END
+example.pas
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/pascal/example.pas
+END
+zlibd32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/pascal/zlibd32.mak
+END
+zlibpas.pas
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/pascal/zlibpas.pas
+END

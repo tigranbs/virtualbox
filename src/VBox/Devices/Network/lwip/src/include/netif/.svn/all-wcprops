@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/include/netif
+END
+etharp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/include/netif/etharp.h
+END
+slipif.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/include/netif/slipif.h
+END
+loopif.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/include/netif/loopif.h
+END

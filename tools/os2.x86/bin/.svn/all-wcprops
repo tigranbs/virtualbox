@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/43612/trunk/tools/os2.x86/bin
+END
+iasl.exe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/1/trunk/tools/os2.x86/bin/iasl.exe
+END
+libxslt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/3147/trunk/tools/os2.x86/bin/libxslt.dll
+END
+xsltproc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/3147/trunk/tools/os2.x86/bin/xsltproc.exe
+END
+libexslt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/3147/trunk/tools/os2.x86/bin/libexslt.dll
+END
+as86.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/33390/trunk/tools/os2.x86/bin/as86.exe
+END
+libxml2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/3147/trunk/tools/os2.x86/bin/libxml2.dll
+END

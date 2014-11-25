@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PeiDebugPrintHobLib
+END
+PeiDebugPrintHobLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PeiDebugPrintHobLib/PeiDebugPrintHobLib.inf
+END
+PeiDebugPrintHobLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/PeiDebugPrintHobLib/PeiDebugPrintHobLib.c
+END

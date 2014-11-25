@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Bare
+END
+kHlpBareHeap.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Bare/kHlpBareHeap.c
+END
+kHlpBareProcess.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Bare/kHlpBareProcess.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/kstuff-mirror/!svn/ver/24/trunk/kHlp/Bare/Makefile.kup
+END
+kHlpBareAssert.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Bare/kHlpBareAssert.c
+END
+kHlpSys-darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Bare/kHlpSys-darwin.c
+END
+kHlpBareThread.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Bare/kHlpBareThread.c
+END
+kHlpBareEnv.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Bare/kHlpBareEnv.c
+END
+kHlpBare-gcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/Bare/kHlpBare-gcc.c
+END

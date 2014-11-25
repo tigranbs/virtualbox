@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/51963/trunk/src/VBox/Additions/freebsd/vboxvfs
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/Additions/freebsd/vboxvfs/Makefile.kmk
+END
+vboxvfs_vfsops.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/51963/trunk/src/VBox/Additions/freebsd/vboxvfs/vboxvfs_vfsops.c
+END
+vboxvfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/31012/trunk/src/VBox/Additions/freebsd/vboxvfs/vboxvfs.h
+END
+vboxvfs_vnops.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48939/trunk/src/VBox/Additions/freebsd/vboxvfs/vboxvfs_vnops.c
+END

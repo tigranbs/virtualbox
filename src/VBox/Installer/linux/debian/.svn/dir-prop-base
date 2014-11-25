@@ -1,0 +1,29 @@
+K 10
+svn:ignore
+V 368
+AutoConfig.kmk
+builddir
+configure.log
+env.sh
+build-stamp
+configure-stamp
+modules-stamp
+changelog
+files
+modules
+preinst
+prerm
+postinst
+vboxdrv.init
+vboxweb-service.init
+vboxballoonctrl-service.init
+vboxautostart-service.init
+virtualbox-?.?
+virtualbox-?.?-dbg
+virtualbox-*.substvars
+virtualbox-*.debhelper
+virtualbox-*.debhelper.log
+virtualbox-*.sharedmimeinfo
+wine.x86
+
+END

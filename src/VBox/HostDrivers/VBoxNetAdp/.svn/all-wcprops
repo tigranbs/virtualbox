@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetAdp
+END
+VBoxNetAdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetAdp/VBoxNetAdp.c
+END
+VBoxNetAdpInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/VBoxNetAdp/VBoxNetAdpInternal.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/HostDrivers/VBoxNetAdp/Makefile.kmk
+END

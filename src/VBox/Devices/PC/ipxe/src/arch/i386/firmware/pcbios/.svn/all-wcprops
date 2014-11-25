@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52228/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/firmware/pcbios
+END
+bios_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52228/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/firmware/pcbios/bios_console.c
+END
+e820mangler.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/firmware/pcbios/e820mangler.S
+END
+fakee820.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/firmware/pcbios/fakee820.c
+END
+hidemem.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/firmware/pcbios/hidemem.c
+END
+basemem.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/firmware/pcbios/basemem.c
+END
+pnpbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/firmware/pcbios/pnpbios.c
+END
+memmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/arch/i386/firmware/pcbios/memmap.c
+END

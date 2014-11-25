@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/common
+END
+tmTransaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/common/tmTransaction.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/common/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/common/Makefile.in
+END
+tmVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/common/tmVector.cpp
+END
+tmTransaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/common/tmTransaction.cpp
+END
+tmUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/common/tmUtils.h
+END
+tmVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/common/tmVector.h
+END

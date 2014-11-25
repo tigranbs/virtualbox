@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/50710/trunk/src/libs/xpcom18a4/python/server
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/server/__init__.py
+END
+policy.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/server/policy.py
+END
+enumerator.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/server/enumerator.py
+END
+module.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/server/module.py
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/server/.cvsignore
+END
+loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/50710/trunk/src/libs/xpcom18a4/python/server/loader.py
+END
+factory.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/server/factory.py
+END

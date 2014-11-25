@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pkg/solaris/SUNWpr
+END
+pkginfo.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pkg/solaris/SUNWpr/pkginfo.tmpl
+END
+prototype_sparc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pkg/solaris/SUNWpr/prototype_sparc
+END
+prototype_i386
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pkg/solaris/SUNWpr/prototype_i386
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pkg/solaris/SUNWpr/depend
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pkg/solaris/SUNWpr/Makefile.in
+END
+prototype_com
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pkg/solaris/SUNWpr/prototype_com
+END

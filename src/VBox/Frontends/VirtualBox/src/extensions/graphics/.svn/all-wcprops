@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/graphics
+END
+QIGraphicsWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/extensions/graphics/QIGraphicsWidget.h
+END
+QIGraphicsWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/extensions/graphics/QIGraphicsWidget.cpp
+END

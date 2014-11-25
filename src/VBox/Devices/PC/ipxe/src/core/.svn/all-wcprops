@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core
+END
+pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/pcmcia.c
+END
+edd.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/edd.c
+END
+null_sanboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/null_sanboot.c
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/interface.c
+END
+serial_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/serial_console.c
+END
+open.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/open.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/getopt.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/console.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/string.c
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/malloc.c
+END
+resolv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/resolv.c
+END
+stringextra.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/stringextra.c
+END
+acpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/acpi.c
+END
+process.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/process.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/serial.c
+END
+refcnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/refcnt.c
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/image.c
+END
+linebuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/linebuf.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/debug.c
+END
+strtoull.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/strtoull.c
+END
+getkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/getkey.c
+END
+null_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/null_time.c
+END
+cwuri.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/cwuri.c
+END
+debug_md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/debug_md5.c
+END
+parseopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/parseopt.c
+END
+downloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/downloader.c
+END
+uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/uri.c
+END
+i82365.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/i82365.c
+END
+nvo.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/nvo.c
+END
+xfer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/xfer.c
+END
+lineconsole.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/lineconsole.c
+END
+job.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/job.c
+END
+hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/hw.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/random.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/main.c
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/base64.c
+END
+ansiesc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/ansiesc.c
+END
+asprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/asprintf.c
+END
+blockdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/blockdev.c
+END
+cpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/cpio.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/misc.c
+END
+gdbserial.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/gdbserial.c
+END
+fnrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/fnrec.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/init.c
+END
+uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/uuid.c
+END
+basename.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/basename.c
+END
+base16.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/base16.c
+END
+pc_kbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/pc_kbd.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/time.c
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/device.c
+END
+settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/settings.c
+END
+bitops.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/bitops.c
+END
+xferbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/xferbuf.c
+END
+assert.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/assert.c
+END
+monojob.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/monojob.c
+END
+iobuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/iobuf.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/menu.c
+END
+gdbudp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/gdbudp.c
+END
+null_nap.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/null_nap.c
+END
+vsprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/vsprintf.c
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/bitmap.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/timer.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/log.c
+END
+ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/ctype.c
+END
+exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/exec.c
+END
+errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/errno.c
+END
+posix_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/posix_io.c
+END
+gdbstub.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/core/gdbstub.c
+END

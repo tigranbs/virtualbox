@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/46264/trunk/src/VBox/HostDrivers/VBoxUSB/win/Install
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/31896/trunk/src/VBox/HostDrivers/VBoxUSB/win/Install/Makefile.kup
+END
+USBInstall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/46264/trunk/src/VBox/HostDrivers/VBoxUSB/win/Install/USBInstall.cpp
+END
+USBUninstall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/46264/trunk/src/VBox/HostDrivers/VBoxUSB/win/Install/USBUninstall.cpp
+END

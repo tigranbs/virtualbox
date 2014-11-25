@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc
+END
+ipv6.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/ipv6.txt
+END
+keymapping.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/keymapping.txt
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/HACKING
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/TODO
+END
+keymap-names.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/keymap-names.txt
+END
+patches.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/patches.txt
+END
+redirection.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/redirection.txt
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/ChangeLog
+END
+licensing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/licensing.txt
+END
+rdesktop.1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/37224/trunk/src/VBox/RDP/client/doc/rdesktop.1
+END

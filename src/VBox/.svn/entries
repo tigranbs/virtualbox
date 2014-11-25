@@ -1,0 +1,119 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-21T14:20:48.960134Z
+53373
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:44:14.140657Z
+b3f93a994dfa955ed4811b2b16fed160
+2014-06-30T08:24:47.587197Z
+51758
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3673
+
+VMM
+dir
+
+Frontends
+dir
+
+ValidationKit
+dir
+
+Storage
+dir
+
+Resources
+dir
+
+HostDrivers
+dir
+
+Disassembler
+dir
+
+Additions
+dir
+
+HostServices
+dir
+
+ExtPacks
+dir
+
+Devices
+dir
+
+Runtime
+dir
+
+Main
+dir
+
+Debugger
+dir
+
+RDP
+dir
+
+GuestHost
+dir
+
+ImageMounter
+dir
+
+NetworkServices
+dir
+
+Installer
+dir
+

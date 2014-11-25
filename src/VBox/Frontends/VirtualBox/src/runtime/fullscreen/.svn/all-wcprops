@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/53068/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen
+END
+UIMachineLogicFullscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52752/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/UIMachineLogicFullscreen.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/26933/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/Makefile.kup
+END
+UIMachineWindowFullscreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/53068/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/UIMachineWindowFullscreen.cpp
+END
+UIKeyboardHandlerFullscreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/UIKeyboardHandlerFullscreen.cpp
+END
+UIMachineViewFullscreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/UIMachineViewFullscreen.cpp
+END
+UIMachineWindowFullscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/52729/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/UIMachineWindowFullscreen.h
+END
+UIMachineLogicFullscreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/53065/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/UIMachineLogicFullscreen.cpp
+END
+UIKeyboardHandlerFullscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/52129/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/UIKeyboardHandlerFullscreen.h
+END
+UIMachineViewFullscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/fullscreen/UIMachineViewFullscreen.h
+END

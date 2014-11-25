@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52338/trunk/src/VBox/Runtime/common/math
+END
+remainderl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/math/remainderl.asm
+END
+bignum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52335/trunk/src/VBox/Runtime/common/math/bignum.cpp
+END
+floorf.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/floorf.asm
+END
+fabsl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/fabsl.asm
+END
+ldexpl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/50661/trunk/src/VBox/Runtime/common/math/ldexpl.asm
+END
+ceill.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/ceill.asm
+END
+RTUInt128MulByU64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52335/trunk/src/VBox/Runtime/common/math/RTUInt128MulByU64.asm
+END
+lrint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/math/lrint.asm
+END
+trunc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/trunc.asm
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/5424/trunk/src/VBox/Runtime/common/math/Makefile.kup
+END
+floorl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/floorl.asm
+END
+logl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/logl.asm
+END
+lrintf.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/math/lrintf.asm
+END
+tanl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/tanl.asm
+END
+cosl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/cosl.asm
+END
+truncf.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/truncf.asm
+END
+llrint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/math/llrint.asm
+END
+lrintl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/lrintl.asm
+END
+sinl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/sinl.asm
+END
+remainder.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/math/remainder.asm
+END
+truncl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/truncl.asm
+END
+llrintf.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/math/llrintf.asm
+END
+fabs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/fabs.asm
+END
+remainderf.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/math/remainderf.asm
+END
+bignum-amd64-x86.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52338/trunk/src/VBox/Runtime/common/math/bignum-amd64-x86.asm
+END
+llrintl.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/llrintl.asm
+END
+floor.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/floor.asm
+END
+fabsf.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46548/trunk/src/VBox/Runtime/common/math/fabsf.asm
+END

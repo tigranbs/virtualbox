@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon
+END
+DebugAgent.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/DebugAgent.c
+END
+DebugTimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/DebugTimer.c
+END
+DebugMp.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/DebugMp.h
+END
+DebugAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/DebugAgent.h
+END
+DebugTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/DebugTimer.h
+END
+DebugMp.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/DebugMp.c
+END

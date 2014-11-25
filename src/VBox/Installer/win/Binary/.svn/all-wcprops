@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/42297/trunk/src/VBox/Installer/win/Binary
+END
+Banner.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/35167/trunk/src/VBox/Installer/win/Binary/Banner.jpg
+END
+info.ico
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/42297/trunk/src/VBox/Installer/win/Binary/info.ico
+END
+Remove.ico
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/31929/trunk/src/VBox/Installer/win/Binary/Remove.ico
+END
+Repair.ico
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/31929/trunk/src/VBox/Installer/win/Binary/Repair.ico
+END
+Exclamation.ico
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/42297/trunk/src/VBox/Installer/win/Binary/Exclamation.ico
+END
+Up.ico
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/31929/trunk/src/VBox/Installer/win/Binary/Up.ico
+END
+Dialog.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/35167/trunk/src/VBox/Installer/win/Binary/Dialog.jpg
+END
+New.ico
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/31929/trunk/src/VBox/Installer/win/Binary/New.ico
+END

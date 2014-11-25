@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/defaults
+END
+linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/defaults/linux.h
+END
+pcbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/defaults/pcbios.h
+END
+efi.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/config/defaults/efi.h
+END

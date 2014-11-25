@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe
+END
+UserProfileManager.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileManager.c
+END
+UserProfileManagerStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileManagerStrings.uni
+END
+UserProfileManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileManager.h
+END
+ModifyIdentityPolicy.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/ModifyIdentityPolicy.c
+END
+UserProfileDelete.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileDelete.c
+END
+UserProfileManagerVfr.Vfr
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileManagerVfr.Vfr
+END
+UserProfileManagerDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileManagerDxe.inf
+END
+UserProfileModify.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileModify.c
+END
+UserProfileAdd.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileAdd.c
+END
+ModifyAccessPolicy.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/ModifyAccessPolicy.c
+END
+UserProfileManagerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserProfileManagerDxe/UserProfileManagerData.h
+END

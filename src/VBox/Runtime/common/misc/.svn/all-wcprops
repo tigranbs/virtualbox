@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/53074/trunk/src/VBox/Runtime/common/misc
+END
+handle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Runtime/common/misc/handle.cpp
+END
+RTFileOpenV.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/RTFileOpenV.cpp
+END
+uri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/50508/trunk/src/VBox/Runtime/common/misc/uri.cpp
+END
+RTAssertMsg2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/RTAssertMsg2.cpp
+END
+setjmp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/misc/setjmp.asm
+END
+getopt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/49326/trunk/src/VBox/Runtime/common/misc/getopt.cpp
+END
+handletable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/45187/trunk/src/VBox/Runtime/common/misc/handletable.cpp
+END
+RTAssertMsg1Weak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/RTAssertMsg1Weak.cpp
+END
+RTAssertMsg2AddWeakV.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/RTAssertMsg2AddWeakV.cpp
+END
+term.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/term.cpp
+END
+RTAssertMsg2Weak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/misc/RTAssertMsg2Weak.cpp
+END
+sg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/common/misc/sg.cpp
+END
+RTAssertMsg2Add.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/misc/RTAssertMsg2Add.cpp
+END
+RTFileModeToFlags.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48820/trunk/src/VBox/Runtime/common/misc/RTFileModeToFlags.cpp
+END
+handletablesimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/handletablesimple.cpp
+END
+http.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53074/trunk/src/VBox/Runtime/common/misc/http.cpp
+END
+RTAssertMsg2AddWeak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/misc/RTAssertMsg2AddWeak.cpp
+END
+cidr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/misc/cidr.cpp
+END
+buildconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/buildconfig.cpp
+END
+s3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53074/trunk/src/VBox/Runtime/common/misc/s3.cpp
+END
+req.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/48484/trunk/src/VBox/Runtime/common/misc/req.cpp
+END
+sanity-c.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/misc/sanity-c.c
+END
+sanity-cpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/misc/sanity-cpp.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/5416/trunk/src/VBox/Runtime/common/misc/Makefile.kup
+END
+reqqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48484/trunk/src/VBox/Runtime/common/misc/reqqueue.cpp
+END
+lockvalidator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/45110/trunk/src/VBox/Runtime/common/misc/lockvalidator.cpp
+END
+RTAssertMsg2WeakV.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/RTAssertMsg2WeakV.cpp
+END
+RTMemWipeThoroughly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/30827/trunk/src/VBox/Runtime/common/misc/RTMemWipeThoroughly.cpp
+END
+assert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/misc/assert.cpp
+END
+thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52457/trunk/src/VBox/Runtime/common/misc/thread.cpp
+END
+handletable.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/45187/trunk/src/VBox/Runtime/common/misc/handletable.h
+END
+semspingpong.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/misc/semspingpong.cpp
+END
+sanity.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/sanity.h
+END
+circbuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/39350/trunk/src/VBox/Runtime/common/misc/circbuf.cpp
+END
+RTFileOpenF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/RTFileOpenF.cpp
+END
+zero.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51872/trunk/src/VBox/Runtime/common/misc/zero.asm
+END
+aiomgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46246/trunk/src/VBox/Runtime/common/misc/aiomgr.cpp
+END
+reqpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/misc/reqpool.cpp
+END
+handletablectx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/handletablectx.cpp
+END
+getoptargv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/getoptargv.cpp
+END
+once.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51941/trunk/src/VBox/Runtime/common/misc/once.cpp
+END
+message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/misc/message.cpp
+END

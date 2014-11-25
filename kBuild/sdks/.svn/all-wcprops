@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/kbuild-mirror/!svn/ver/2607/trunk/kBuild/sdks
+END
+WINDDK80.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2607/trunk/kBuild/sdks/WINDDK80.kmk
+END
+MACOSX104INCS.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/MACOSX104INCS.kmk
+END
+MACOSX105INCS.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/MACOSX105INCS.kmk
+END
+WINDDKW2K.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WINDDKW2K.kmk
+END
+WIN32SDK.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WIN32SDK.kmk
+END
+W2K3DDKAMD64.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/W2K3DDKAMD64.kmk
+END
+WIN32SDK2002.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WIN32SDK2002.kmk
+END
+WIN64SDK.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WIN64SDK.kmk
+END
+DXSDKAMD64.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/DXSDKAMD64.kmk
+END
+ReorderCompilerIncs.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/kbuild-mirror/!svn/ver/2603/trunk/kBuild/sdks/ReorderCompilerIncs.kmk
+END
+WINDDKWNET.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WINDDKWNET.kmk
+END
+MACOSX104.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/MACOSX104.kmk
+END
+WINDDK.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WINDDK.kmk
+END
+MACOSX105.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/MACOSX105.kmk
+END
+WINDDK71WNET.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kbuild-mirror/!svn/ver/2602/trunk/kBuild/sdks/WINDDK71WNET.kmk
+END
+WINDDK71.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2602/trunk/kBuild/sdks/WINDDK71.kmk
+END
+NT4DDK.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/NT4DDK.kmk
+END
+WINDDKWLH.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WINDDKWLH.kmk
+END
+WINPSDKINCS.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WINPSDKINCS.kmk
+END
+WINDDK71WLH.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2602/trunk/kBuild/sdks/WINDDK71WLH.kmk
+END
+WINPSDK71INCS.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kbuild-mirror/!svn/ver/2602/trunk/kBuild/sdks/WINPSDK71INCS.kmk
+END
+W32API.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/W32API.kmk
+END
+WINDDK80W8.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2607/trunk/kBuild/sdks/WINDDK80W8.kmk
+END
+LIBSDL.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kbuild-mirror/!svn/ver/2566/trunk/kBuild/sdks/LIBSDL.kmk
+END
+W2K3DDK.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/W2K3DDK.kmk
+END
+DXSDK.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/DXSDK.kmk
+END
+WINPSDK.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kbuild-mirror/!svn/ver/2602/trunk/kBuild/sdks/WINPSDK.kmk
+END
+WINDDKWXP.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/WINDDKWXP.kmk
+END
+W2K3DDKX86.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/W2K3DDKX86.kmk
+END
+DXSDKX86.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/DXSDKX86.kmk
+END
+OS2DDKBASE32.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kbuild-mirror/!svn/ver/2413/trunk/kBuild/sdks/OS2DDKBASE32.kmk
+END
+WINPSDK71.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/kbuild-mirror/!svn/ver/2602/trunk/kBuild/sdks/WINPSDK71.kmk
+END
+WINDDK71WXP.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kbuild-mirror/!svn/ver/2602/trunk/kBuild/sdks/WINDDK71WXP.kmk
+END

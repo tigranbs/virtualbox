@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50550/trunk/src/VBox/Devices/Graphics/HGSMI
+END
+HGSMIHost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/50550/trunk/src/VBox/Devices/Graphics/HGSMI/HGSMIHost.cpp
+END
+SHGSMIHost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Devices/Graphics/HGSMI/SHGSMIHost.cpp
+END
+HGSMIHost.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/50550/trunk/src/VBox/Devices/Graphics/HGSMI/HGSMIHost.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/22621/trunk/src/VBox/Devices/Graphics/HGSMI/Makefile.kup
+END
+SHGSMIHost.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Devices/Graphics/HGSMI/SHGSMIHost.h
+END

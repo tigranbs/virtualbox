@@ -1,0 +1,77 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Additions/WINNT/Graphics/Wine_new
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-08-08T18:34:02.645328Z
+52329
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+d3d8
+dir
+
+d3d9
+dir
+
+switcher
+dir
+
+wined3d
+dir
+
+vbox
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:43:17.124657Z
+b9cc47d3789d51ae1e71079d7f49ec19
+2014-05-20T19:12:20.286343Z
+51313
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10558
+

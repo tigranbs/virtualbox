@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/CRT
+END
+kHlpCRTString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/CRT/kHlpCRTString.cpp
+END
+kHlpCRTEnv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/CRT/kHlpCRTEnv.cpp
+END
+kHlpCRTAlloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/kstuff-mirror/!svn/ver/29/trunk/kHlp/CRT/kHlpCRTAlloc.cpp
+END

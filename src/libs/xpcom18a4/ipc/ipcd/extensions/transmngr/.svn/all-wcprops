@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/extensions/transmngr/Makefile.in
+END

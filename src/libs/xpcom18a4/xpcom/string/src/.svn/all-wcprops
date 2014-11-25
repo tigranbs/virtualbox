@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/xpcom/string/src
+END
+nsPrintfCString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsPrintfCString.cpp
+END
+nsStringComparator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsStringComparator.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/Makefile.in
+END
+nsTPromiseFlatString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTPromiseFlatString.cpp
+END
+nsTObsoleteAStringThunk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTObsoleteAStringThunk.cpp
+END
+nsStringObsolete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/xpcom/string/src/nsStringObsolete.cpp
+END
+nsTSubstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTSubstring.cpp
+END
+nsString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsString.cpp
+END
+nsDependentSubstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsDependentSubstring.cpp
+END
+nsAString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsAString.cpp
+END
+nsPromiseFlatString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsPromiseFlatString.cpp
+END
+nsObsoleteAStringThunk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsObsoleteAStringThunk.cpp
+END
+nsTSubstringTuple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTSubstringTuple.cpp
+END
+nsSubstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/xpcom/string/src/nsSubstring.cpp
+END
+nsReadableUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/13888/trunk/src/libs/xpcom18a4/xpcom/string/src/nsReadableUtils.cpp
+END
+nsTStringComparator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTStringComparator.cpp
+END
+nsTStringObsolete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTStringObsolete.cpp
+END
+nsSubstringTuple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsSubstringTuple.cpp
+END
+nsTString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTString.cpp
+END
+nsTDependentSubstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTDependentSubstring.cpp
+END
+nsTAString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/nsTAString.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/string/src/.cvsignore
+END

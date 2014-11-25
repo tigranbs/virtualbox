@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52860/trunk/src/VBox/Additions/WINNT/VBoxMMR
+END
+logging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44864/trunk/src/VBox/Additions/WINNT/VBoxMMR/logging.cpp
+END
+VBoxMMRHook.def
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44864/trunk/src/VBox/Additions/WINNT/VBoxMMR/VBoxMMRHook.def
+END
+startmmr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44864/trunk/src/VBox/Additions/WINNT/VBoxMMR/startmmr.cpp
+END
+tsmfhook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52860/trunk/src/VBox/Additions/WINNT/VBoxMMR/tsmfhook.cpp
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/44864/trunk/src/VBox/Additions/WINNT/VBoxMMR/logging.h
+END
+VBoxMMR.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44864/trunk/src/VBox/Additions/WINNT/VBoxMMR/VBoxMMR.rc
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/50766/trunk/src/VBox/Additions/WINNT/VBoxMMR/Makefile.kmk
+END
+VBoxMMRHook.rc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44881/trunk/src/VBox/Additions/WINNT/VBoxMMR/VBoxMMRHook.rc
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44864/trunk/src/VBox/Additions/WINNT/VBoxMMR/stdafx.h
+END
+tsmf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44864/trunk/src/VBox/Additions/WINNT/VBoxMMR/tsmf.h
+END
+tsmfhook.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/48944/trunk/src/VBox/Additions/WINNT/VBoxMMR/tsmfhook.h
+END
+dllmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48944/trunk/src/VBox/Additions/WINNT/VBoxMMR/dllmain.cpp
+END

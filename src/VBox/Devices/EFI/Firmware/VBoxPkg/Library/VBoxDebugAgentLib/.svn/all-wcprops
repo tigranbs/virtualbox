@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/49571/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxDebugAgentLib
+END
+VBoxDebugAgentLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/49571/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxDebugAgentLib/VBoxDebugAgentLib.inf
+END
+VBoxDebugAgentLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48727/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/Library/VBoxDebugAgentLib/VBoxDebugAgentLib.c
+END

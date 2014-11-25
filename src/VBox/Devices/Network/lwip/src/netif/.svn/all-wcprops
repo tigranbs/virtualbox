@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/netif
+END
+ethernetif.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/netif/ethernetif.c
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/netif/FILES
+END
+etharp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/netif/etharp.c
+END
+slipif.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/netif/slipif.c
+END
+loopif.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/netif/loopif.c
+END

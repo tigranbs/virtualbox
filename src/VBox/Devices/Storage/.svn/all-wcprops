@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/53343/trunk/src/VBox/Devices/Storage
+END
+DrvMediaISO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/Devices/Storage/DrvMediaISO.cpp
+END
+DrvBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53148/trunk/src/VBox/Devices/Storage/DrvBlock.cpp
+END
+DevBusLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/53341/trunk/src/VBox/Devices/Storage/DevBusLogic.cpp
+END
+ide.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/38894/trunk/src/VBox/Devices/Storage/ide.h
+END
+DrvRawImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/Devices/Storage/DrvRawImage.cpp
+END
+DrvSCSIHost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51520/trunk/src/VBox/Devices/Storage/DrvSCSIHost.cpp
+END
+DrvSCSI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51342/trunk/src/VBox/Devices/Storage/DrvSCSI.cpp
+END
+DrvHostFloppy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/Storage/DrvHostFloppy.cpp
+END
+DrvHostBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52505/trunk/src/VBox/Devices/Storage/DrvHostBase.cpp
+END
+DrvVD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/53148/trunk/src/VBox/Devices/Storage/DrvVD.cpp
+END
+DevLsiLogicSCSI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53343/trunk/src/VBox/Devices/Storage/DevLsiLogicSCSI.cpp
+END
+Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Devices/Storage/Debug.cpp
+END
+ATAPIPassthrough.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51382/trunk/src/VBox/Devices/Storage/ATAPIPassthrough.cpp
+END
+DrvHostDVD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46035/trunk/src/VBox/Devices/Storage/DrvHostDVD.cpp
+END
+PIIX3ATABmDma.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Storage/PIIX3ATABmDma.h
+END
+DrvHostBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Storage/DrvHostBase.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Devices/Storage/Makefile.kup
+END
+DevLsiLogicSCSI.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/45970/trunk/src/VBox/Devices/Storage/DevLsiLogicSCSI.h
+END
+DevFdc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52714/trunk/src/VBox/Devices/Storage/DevFdc.cpp
+END
+ATAPIPassthrough.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47791/trunk/src/VBox/Devices/Storage/ATAPIPassthrough.h
+END
+UsbMsd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53210/trunk/src/VBox/Devices/Storage/UsbMsd.cpp
+END
+VBoxSCSI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44533/trunk/src/VBox/Devices/Storage/VBoxSCSI.cpp
+END
+swab.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Storage/swab.h
+END
+DevAHCI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53147/trunk/src/VBox/Devices/Storage/DevAHCI.cpp
+END
+DevATA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51381/trunk/src/VBox/Devices/Storage/DevATA.cpp
+END
+DrvDiskIntegrity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51749/trunk/src/VBox/Devices/Storage/DrvDiskIntegrity.cpp
+END
+VBoxSCSI.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44597/trunk/src/VBox/Devices/Storage/VBoxSCSI.h
+END

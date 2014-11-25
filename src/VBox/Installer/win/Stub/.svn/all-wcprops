@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/51845/trunk/src/VBox/Installer/win/Stub
+END
+VBoxStub.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Installer/win/Stub/VBoxStub.h
+END
+VBoxStubCertUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48954/trunk/src/VBox/Installer/win/Stub/VBoxStubCertUtil.cpp
+END
+VBoxStub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51173/trunk/src/VBox/Installer/win/Stub/VBoxStub.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/45320/trunk/src/VBox/Installer/win/Stub/resource.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51845/trunk/src/VBox/Installer/win/Stub/Makefile.kmk
+END
+VBoxStubCertUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48954/trunk/src/VBox/Installer/win/Stub/VBoxStubCertUtil.h
+END
+VBoxStub.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/37987/trunk/src/VBox/Installer/win/Stub/VBoxStub.rc
+END
+VBoxStub.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/37987/trunk/src/VBox/Installer/win/Stub/VBoxStub.manifest
+END

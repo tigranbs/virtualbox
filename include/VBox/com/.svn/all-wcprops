@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vbox/!svn/ver/52554/trunk/include/VBox/com
+END
+Guid.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/51689/trunk/include/VBox/com/Guid.h
+END
+MultiResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/45125/trunk/include/VBox/com/MultiResult.h
+END
+NativeEventQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/46649/trunk/include/VBox/com/NativeEventQueue.h
+END
+VirtualBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/45125/trunk/include/VBox/com/VirtualBox.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/45125/trunk/include/VBox/com/assert.h
+END
+ErrorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/49675/trunk/include/VBox/com/ErrorInfo.h
+END
+ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/47369/trunk/include/VBox/com/ptr.h
+END
+errorprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/45125/trunk/include/VBox/com/errorprint.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52554/trunk/include/VBox/com/string.h
+END
+listeners.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/45125/trunk/include/VBox/com/listeners.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/45520/trunk/include/VBox/com/list.h
+END
+mtlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/45520/trunk/include/VBox/com/mtlist.h
+END
+com.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/45125/trunk/include/VBox/com/com.h
+END
+array.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/50416/trunk/include/VBox/com/array.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/50120/trunk/include/VBox/com/defs.h
+END
+AutoLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/45126/trunk/include/VBox/com/AutoLock.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/34071/trunk/include/VBox/com/Makefile.kup
+END
+EventQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/47853/trunk/include/VBox/com/EventQueue.h
+END

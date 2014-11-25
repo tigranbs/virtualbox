@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/53282/trunk/src/VBox/Installer/linux
+END
+runasroot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/36785/trunk/src/VBox/Installer/linux/runasroot.sh
+END
+vboxdrv.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44772/trunk/src/VBox/Installer/linux/vboxdrv.sh.in
+END
+distributions_deb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/45931/trunk/src/VBox/Installer/linux/distributions_deb
+END
+vboxdrv-pardus.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/21215/trunk/src/VBox/Installer/linux/vboxdrv-pardus.py
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/51294/trunk/src/VBox/Installer/linux/install.sh
+END
+distributions_rpm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52167/trunk/src/VBox/Installer/linux/distributions_rpm
+END
+routines.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Installer/linux/routines.sh
+END
+deffiles
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51294/trunk/src/VBox/Installer/linux/deffiles
+END
+sh-utils.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/36779/trunk/src/VBox/Installer/linux/sh-utils.sh
+END
+vboxballoonctrl-service.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48954/trunk/src/VBox/Installer/linux/vboxballoonctrl-service.sh
+END
+uninstall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51294/trunk/src/VBox/Installer/linux/uninstall.sh
+END
+vboxweb-service.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/48954/trunk/src/VBox/Installer/linux/vboxweb-service.sh
+END
+Makefile.include.header
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39325/trunk/src/VBox/Installer/linux/Makefile.include.header
+END
+VBox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48787/trunk/src/VBox/Installer/linux/VBox.sh
+END
+run-inst.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/50925/trunk/src/VBox/Installer/linux/run-inst.sh
+END
+VBoxCreateUSBNode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Installer/linux/VBoxCreateUSBNode.sh
+END
+vboxautostart-service.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48954/trunk/src/VBox/Installer/linux/vboxautostart-service.sh
+END
+Makefile.include.footer
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/39400/trunk/src/VBox/Installer/linux/Makefile.include.footer
+END
+installer-common.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48810/trunk/src/VBox/Installer/linux/installer-common.sh
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/53282/trunk/src/VBox/Installer/linux/Makefile.kmk
+END
+VBoxSysInfo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Installer/linux/VBoxSysInfo.sh
+END

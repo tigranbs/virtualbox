@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/selftest
+END
+st1-load.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/selftest/st1-load.pgsql
+END
+st1-unload.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/selftest/st1-unload.pgsql
+END

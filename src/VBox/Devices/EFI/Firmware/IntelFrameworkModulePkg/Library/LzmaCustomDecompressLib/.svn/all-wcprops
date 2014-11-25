@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib
+END
+LzmaDecompressLibInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/LzmaDecompressLibInternal.h
+END
+UefiLzma.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/UefiLzma.h
+END
+LzmaCustomDecompressLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/LzmaCustomDecompressLib.inf
+END
+GuidedSectionExtraction.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/GuidedSectionExtraction.c
+END
+LzmaDecompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/LzmaDecompress.c
+END
+LZMA-SDK-README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/LzmaCustomDecompressLib/LZMA-SDK-README.txt
+END

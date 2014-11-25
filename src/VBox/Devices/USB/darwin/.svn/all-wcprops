@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52254/trunk/src/VBox/Devices/USB/darwin
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/31888/trunk/src/VBox/Devices/USB/darwin/Makefile.kup
+END
+USBProxyDevice-darwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52254/trunk/src/VBox/Devices/USB/darwin/USBProxyDevice-darwin.cpp
+END

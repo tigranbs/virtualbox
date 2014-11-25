@@ -1,0 +1,175 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/Python
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+PatchPcdValue
+dir
+
+TargetTool
+dir
+
+Table
+dir
+
+Eot
+dir
+
+GNUmakefile
+file
+
+
+
+
+2014-11-25T14:40:35.128657Z
+c9c990ee83a5e23fd82404d2bdce150f
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+618
+
+GenPatchPcdTable
+dir
+
+Common
+dir
+
+Ecc
+dir
+
+Workspace
+dir
+
+sitecustomize.py
+file
+
+
+
+
+2014-11-25T14:40:35.128657Z
+056d980d8b48216240fd03bde034b00a
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+683
+
+build
+dir
+
+AutoGen
+dir
+
+GenFds
+dir
+
+UPT
+dir
+
+CommonDataClass
+dir
+
+Trim
+dir
+
+BPDG
+dir
+
+Makefile
+file
+
+
+
+
+2014-11-25T14:40:35.128657Z
+cf5b1304dc7335c0708225e229ac3553
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5926
+

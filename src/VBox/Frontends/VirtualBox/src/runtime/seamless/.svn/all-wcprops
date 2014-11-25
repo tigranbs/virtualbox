@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53076/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless
+END
+UIMachineWindowSeamless.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/53068/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/UIMachineWindowSeamless.cpp
+END
+UIKeyboardHandlerSeamless.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/UIKeyboardHandlerSeamless.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/27016/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/Makefile.kup
+END
+UIMachineViewSeamless.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/53076/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/UIMachineViewSeamless.cpp
+END
+UIMachineWindowSeamless.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52891/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/UIMachineWindowSeamless.h
+END
+UIMachineLogicSeamless.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/53065/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/UIMachineLogicSeamless.cpp
+END
+UIKeyboardHandlerSeamless.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52130/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/UIKeyboardHandlerSeamless.h
+END
+UIMachineViewSeamless.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/UIMachineViewSeamless.h
+END
+UIMachineLogicSeamless.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52705/trunk/src/VBox/Frontends/VirtualBox/src/runtime/seamless/UIMachineLogicSeamless.h
+END

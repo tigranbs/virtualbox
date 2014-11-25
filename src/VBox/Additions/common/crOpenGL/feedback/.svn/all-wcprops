@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/feedback
+END
+feedbackspu.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/19099/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedbackspu.h
+END
+feedbackspu_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedbackspu_config.c
+END
+feedback_special
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedback_special
+END
+feedback_state_special
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/42499/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedback_state_special
+END
+feedbackspu_proto.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedbackspu_proto.py
+END
+feedback_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedback_context.c
+END
+feedback_funcs.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedback_funcs.py
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/feedback/Makefile.kup
+END
+feedback.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedback.py
+END
+feedback_state.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/42499/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedback_state.py
+END
+feedbackspu.rc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/35319/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedbackspu.rc
+END
+select_special
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/feedback/select_special
+END
+feedbackspu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/40431/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedbackspu_init.c
+END
+feedback.def
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/17543/trunk/src/VBox/Additions/common/crOpenGL/feedback/feedback.def
+END

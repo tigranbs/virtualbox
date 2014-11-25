@@ -1,0 +1,6 @@
+K 10
+svn:ignore
+V 29
+Makefile
+xptcstubs_asm_mips.s
+END

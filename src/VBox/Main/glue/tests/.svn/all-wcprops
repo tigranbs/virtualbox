@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/Main/glue/tests
+END
+TestVBoxNATEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/45186/trunk/src/VBox/Main/glue/tests/TestVBoxNATEngine.java
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/Main/glue/tests/Makefile
+END
+TestVBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/46478/trunk/src/VBox/Main/glue/tests/TestVBox.java
+END

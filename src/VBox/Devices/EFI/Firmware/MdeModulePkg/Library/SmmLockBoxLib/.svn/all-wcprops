@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmLockBoxLib
+END
+SmmLockBoxPeiLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmLockBoxLib/SmmLockBoxPeiLib.inf
+END
+SmmLockBoxDxeLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmLockBoxLib/SmmLockBoxDxeLib.inf
+END
+SmmLockBoxSmmLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmLockBoxLib/SmmLockBoxSmmLib.c
+END
+SmmLockBoxPeiLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmLockBoxLib/SmmLockBoxPeiLib.c
+END
+SmmLockBoxLibPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmLockBoxLib/SmmLockBoxLibPrivate.h
+END
+SmmLockBoxDxeLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmLockBoxLib/SmmLockBoxDxeLib.c
+END
+SmmLockBoxSmmLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Library/SmmLockBoxLib/SmmLockBoxSmmLib.inf
+END

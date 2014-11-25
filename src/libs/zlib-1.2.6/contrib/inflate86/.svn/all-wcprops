@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/inflate86
+END
+inffas86.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/inflate86/inffas86.c
+END
+inffast.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/inflate86/inffast.S
+END

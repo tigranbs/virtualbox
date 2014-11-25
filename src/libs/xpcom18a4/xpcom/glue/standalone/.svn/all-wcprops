@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/33977/trunk/src/libs/xpcom18a4/xpcom/glue/standalone
+END
+nsGREDirServiceProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/33977/trunk/src/libs/xpcom18a4/xpcom/glue/standalone/nsGREDirServiceProvider.cpp
+END
+nsXPCOMGlue.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/glue/standalone/nsXPCOMGlue.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/glue/standalone/.cvsignore
+END
+nsGREDirServiceProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/glue/standalone/nsGREDirServiceProvider.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/glue/standalone/Makefile.in
+END
+nsXPCOMGlue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/6068/trunk/src/libs/xpcom18a4/xpcom/glue/standalone/nsXPCOMGlue.cpp
+END

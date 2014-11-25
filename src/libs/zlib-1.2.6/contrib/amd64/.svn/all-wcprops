@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/amd64
+END
+amd64-match.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/amd64/amd64-match.S
+END

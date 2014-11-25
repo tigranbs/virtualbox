@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/45449/trunk/src/libs/libxml2-2.6.31/include
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/Makefile.am
+END
+vboxconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/39924/trunk/src/libs/libxml2-2.6.31/include/vboxconfig.h
+END
+win32config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/win32config.h
+END
+win32xmlversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/39954/trunk/src/libs/libxml2-2.6.31/include/win32xmlversion.h
+END
+wsockcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/wsockcompat.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/include/Makefile.in
+END

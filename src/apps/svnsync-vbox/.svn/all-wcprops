@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/48293/trunk/src/apps/svnsync-vbox
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/48253/trunk/src/apps/svnsync-vbox/main.c
+END
+svn_private_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/29684/trunk/src/apps/svnsync-vbox/svn_private_config.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/apps/svnsync-vbox/Makefile
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/41477/trunk/src/apps/svnsync-vbox/Makefile.kmk
+END

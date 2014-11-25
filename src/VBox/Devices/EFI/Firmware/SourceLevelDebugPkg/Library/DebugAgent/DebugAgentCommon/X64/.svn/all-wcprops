@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/X64
+END
+ArchReadGroupRegister.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/X64/ArchReadGroupRegister.c
+END
+AsmFuncs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/X64/AsmFuncs.asm
+END
+AsmFuncs.S
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/X64/AsmFuncs.S
+END
+ArchDebugSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/X64/ArchDebugSupport.c
+END
+ArchDebugSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/X64/ArchDebugSupport.h
+END
+ArchRegisters.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/X64/ArchRegisters.h
+END
+DebugException.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SourceLevelDebugPkg/Library/DebugAgent/DebugAgentCommon/X64/DebugException.h
+END

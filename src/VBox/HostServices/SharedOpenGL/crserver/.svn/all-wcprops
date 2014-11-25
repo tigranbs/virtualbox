@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/53103/trunk/src/VBox/HostServices/SharedOpenGL/crserver
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/crserver/main.c
+END
+crservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53103/trunk/src/VBox/HostServices/SharedOpenGL/crserver/crservice.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/HostServices/SharedOpenGL/crserver/Makefile.kup
+END

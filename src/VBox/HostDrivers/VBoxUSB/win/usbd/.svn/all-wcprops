@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/VBoxUSB/win/usbd
+END
+usbd.def
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/VBoxUSB/win/usbd/usbd.def
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/31896/trunk/src/VBox/HostDrivers/VBoxUSB/win/usbd/Makefile.kup
+END

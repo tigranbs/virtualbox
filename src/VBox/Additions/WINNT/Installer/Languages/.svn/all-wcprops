@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50419/trunk/src/VBox/Additions/WINNT/Installer/Languages
+END
+French.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50419/trunk/src/VBox/Additions/WINNT/Installer/Languages/French.nsh
+END
+English.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/50401/trunk/src/VBox/Additions/WINNT/Installer/Languages/English.nsh
+END
+German.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50401/trunk/src/VBox/Additions/WINNT/Installer/Languages/German.nsh
+END

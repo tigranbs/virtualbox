@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32
+END
+InterlockedIncrement.asm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/InterlockedIncrement.asm
+END
+InterlockedCompareExchange64.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/InterlockedCompareExchange64.c
+END
+InterlockedDecrement.asm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/InterlockedDecrement.asm
+END
+InterlockedIncrement.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/InterlockedIncrement.c
+END
+InterlockedDecrement.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/InterlockedDecrement.c
+END
+GccInline.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/GccInline.c
+END
+InterlockedCompareExchange32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/InterlockedCompareExchange32.asm
+END
+InterlockedCompareExchange32.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/InterlockedCompareExchange32.c
+END
+InterlockedCompareExchange64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseSynchronizationLib/Ia32/InterlockedCompareExchange64.asm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/DxeDeferImageLoadLib
+END
+DxeDeferImageLoadLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/DxeDeferImageLoadLib/DxeDeferImageLoadLib.h
+END
+DxeDeferImageLoadLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/DxeDeferImageLoadLib/DxeDeferImageLoadLib.inf
+END
+DxeDeferImageLoadLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/Library/DxeDeferImageLoadLib/DxeDeferImageLoadLib.c
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/gl.h
+END
+vms_x_fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/vms_x_fix.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/glext.h
+END
+gl_mangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/gl_mangle.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/glu.h
+END
+osmesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/osmesa.h
+END
+glu_mangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/glu_mangle.h
+END
+glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/glx.h
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/wglext.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/glxext.h
+END
+wmesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/wmesa.h
+END
+glx_mangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/49358/trunk/src/VBox/Additions/x11/x11include/MesaLib-8.0.4-GL/GL/glx_mangle.h
+END

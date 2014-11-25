@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/ipc/ipcd/util/src
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/util/src/.cvsignore
+END
+ipcMessageWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/31259/trunk/src/libs/xpcom18a4/ipc/ipcd/util/src/ipcMessageWriter.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/util/src/Makefile.in
+END
+ipcMessageReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/ipc/ipcd/util/src/ipcMessageReader.cpp
+END

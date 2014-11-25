@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions
+END
+mitmiscproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/mitmiscproto.h
+END
+dbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/dbe.h
+END
+ge.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/ge.h
+END
+xtestproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/xtestproto.h
+END
+xtestext1proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/xtestext1proto.h
+END
+multibufconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/multibufconst.h
+END
+syncproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/syncproto.h
+END
+securproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/securproto.h
+END
+EVIproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/EVIproto.h
+END
+shapeconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/shapeconst.h
+END
+lbxproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/lbxproto.h
+END
+dpmsconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/dpmsconst.h
+END
+cupproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/cupproto.h
+END
+agproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/agproto.h
+END
+multibufproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/multibufproto.h
+END
+shmproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/shmproto.h
+END
+mitmiscconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/mitmiscconst.h
+END
+dbeproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/dbeproto.h
+END
+xtestconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/xtestconst.h
+END
+geproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/geproto.h
+END
+xtestext1const.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/xtestext1const.h
+END
+secur.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/secur.h
+END
+EVI.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/EVI.h
+END
+syncconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/syncconst.h
+END
+shapeproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/shapeproto.h
+END
+lbx.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/lbx.h
+END
+dpmsproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/dpmsproto.h
+END
+cup.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/cup.h
+END
+ag.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/ag.h
+END
+shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/22660/trunk/src/VBox/Additions/x11/x11include/xextproto-7.1.1/X11/extensions/shm.h
+END

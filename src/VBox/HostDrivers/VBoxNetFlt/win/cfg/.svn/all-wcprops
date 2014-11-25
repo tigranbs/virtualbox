@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53318/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/cfg
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/36184/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/cfg/Makefile.kup
+END
+VBoxNetCfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/53318/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/cfg/VBoxNetCfg.cpp
+END

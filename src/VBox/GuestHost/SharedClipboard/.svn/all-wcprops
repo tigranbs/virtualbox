@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/48598/trunk/src/VBox/GuestHost/SharedClipboard
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/GuestHost/SharedClipboard/Makefile.kmk
+END
+x11-clipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48598/trunk/src/VBox/GuestHost/SharedClipboard/x11-clipboard.cpp
+END
+clipboard-helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/46422/trunk/src/VBox/GuestHost/SharedClipboard/clipboard-helper.cpp
+END

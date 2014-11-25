@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53269/trunk/src/VBox/HostDrivers/Support/solaris
+END
+SUPLib-solaris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/solaris/SUPLib-solaris.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/5330/trunk/src/VBox/HostDrivers/Support/solaris/Makefile.kup
+END
+SUPDrv-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/53269/trunk/src/VBox/HostDrivers/Support/solaris/SUPDrv-solaris.c
+END
+vboxdrv.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44211/trunk/src/VBox/HostDrivers/Support/solaris/vboxdrv.conf
+END
+SUPR0IdcClient-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/solaris/SUPR0IdcClient-solaris.c
+END
+load.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48952/trunk/src/VBox/HostDrivers/Support/solaris/load.sh
+END

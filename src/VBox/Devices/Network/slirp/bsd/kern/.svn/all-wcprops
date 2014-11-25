@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53308/trunk/src/VBox/Devices/Network/slirp/bsd/kern
+END
+kern_mbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/39101/trunk/src/VBox/Devices/Network/slirp/bsd/kern/kern_mbuf.c
+END
+uipc_mbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/53308/trunk/src/VBox/Devices/Network/slirp/bsd/kern/uipc_mbuf.c
+END
+subr_sbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/30045/trunk/src/VBox/Devices/Network/slirp/bsd/kern/subr_sbuf.c
+END
+uipc_mbuf2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/39101/trunk/src/VBox/Devices/Network/slirp/bsd/kern/uipc_mbuf2.c
+END

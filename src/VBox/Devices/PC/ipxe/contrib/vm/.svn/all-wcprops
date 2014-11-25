@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/vm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/vm/Makefile
+END
+bochs-writable-ROM-patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/vm/bochs-writable-ROM-patch
+END
+serial-console.1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/vm/serial-console.1
+END
+serial-console
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/vm/serial-console
+END
+bochsrc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/vm/bochsrc.txt
+END
+cow
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/contrib/vm/cow
+END

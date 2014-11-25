@@ -1,0 +1,89 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/HostServices
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-11-07T13:06:25.399226Z
+53262
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+GuestProperties
+dir
+
+DragAndDrop
+dir
+
+SharedFolders
+dir
+
+HostChannel
+dir
+
+SharedClipboard
+dir
+
+GuestControl
+dir
+
+SharedOpenGL
+dir
+
+testcase
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:39:51.528657Z
+87b579892a3ed42bd2963e5cfaedb022
+2012-11-15T10:51:48.660602Z
+43873
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1634
+
+auth
+dir
+

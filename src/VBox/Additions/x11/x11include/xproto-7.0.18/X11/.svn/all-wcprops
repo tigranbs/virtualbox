@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11
+END
+Xfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xfuncs.h
+END
+Xfuncproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xfuncproto.h
+END
+X.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/X.h
+END
+Sunkeysym.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Sunkeysym.h
+END
+Xos.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xos.h
+END
+Xdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xdefs.h
+END
+HPkeysym.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/HPkeysym.h
+END
+Xosdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xosdefs.h
+END
+keysym.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/keysym.h
+END
+Xthreads.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xthreads.h
+END
+Xwindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xwindows.h
+END
+Xalloca.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xalloca.h
+END
+Xprotostr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xprotostr.h
+END
+Xmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xmd.h
+END
+Xatom.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xatom.h
+END
+Xos_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xos_r.h
+END
+Xproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xproto.h
+END
+XF86keysym.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/XF86keysym.h
+END
+DECkeysym.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/DECkeysym.h
+END
+do-not-use-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/do-not-use-config.h
+END
+Xpoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xpoll.h
+END
+keysymdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/keysymdef.h
+END
+ap_keysym.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/ap_keysym.h
+END
+XWDFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/XWDFile.h
+END
+Xarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xarch.h
+END
+Xw32defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xw32defs.h
+END
+Xwinsock.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/32163/trunk/src/VBox/Additions/x11/x11include/xproto-7.0.18/X11/Xwinsock.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/xf1bpp
+END
+xf1bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/xf1bpp/xf1bpp.h
+END
+mfbmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/xf1bpp/mfbmap.h
+END
+mfbunmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/xf1bpp/mfbunmap.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Wine/vbox
+END
+VBoxDbgGl.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Wine/vbox/VBoxDbgGl.h
+END
+VBoxWineEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Wine/vbox/VBoxWineEx.h
+END
+VBoxDbgGl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Additions/WINNT/Graphics/Wine/vbox/VBoxDbgGl.c
+END

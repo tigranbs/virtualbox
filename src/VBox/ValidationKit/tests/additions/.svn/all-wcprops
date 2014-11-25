@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/additions
+END
+tdAddBasic1.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/additions/tdAddBasic1.py
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/additions/Makefile.kmk
+END
+tdAddGuestCtrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/tests/additions/tdAddGuestCtrl.py
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13
+END
+sis_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/sis_drm.h
+END
+nouveau_drmif.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_drmif.h
+END
+xf86drmMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/xf86drmMode.h
+END
+nouveau_class.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_class.h
+END
+savage_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/savage_drm.h
+END
+mm.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/mm.h
+END
+nouveau_channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_channel.h
+END
+nouveau_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_private.h
+END
+intel_bufmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/intel_bufmgr.h
+END
+intel_bufmgr_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/intel_bufmgr_priv.h
+END
+nouveau_pushbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_pushbuf.h
+END
+radeon_bo_gem.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/radeon_bo_gem.h
+END
+nouveau_notifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_notifier.h
+END
+drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/drm.h
+END
+nouveau_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_drm.h
+END
+mach64_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/mach64_drm.h
+END
+drm_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/drm_mode.h
+END
+libdrm_lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/libdrm_lists.h
+END
+nouveau_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_resource.h
+END
+i915_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/i915_drm.h
+END
+intel_chipset.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/intel_chipset.h
+END
+radeon_track.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/radeon_track.h
+END
+radeon_cs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/radeon_cs.h
+END
+drm_sarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/drm_sarea.h
+END
+r128_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/r128_drm.h
+END
+xf86drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/xf86drm.h
+END
+nouveau_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_device.h
+END
+nouveau_bo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_bo.h
+END
+via_3d_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/via_3d_reg.h
+END
+nouveau_grobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/nouveau_grobj.h
+END
+mga_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/mga_drm.h
+END
+radeon_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/radeon_drm.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/config.h.in
+END
+r300_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/r300_reg.h
+END
+via_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/via_drm.h
+END
+drmtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/drmtest.h
+END
+radeon_cs_gem.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/radeon_cs_gem.h
+END
+radeon_bo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/radeon_bo.h
+END
+xgi_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/libdrm-2.4.13/xgi_drm.h
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/53278/trunk/src/VBox/Runtime/r3
+END
+isofs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r3/isofs.cpp
+END
+tcp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/tcp.cpp
+END
+allocex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/46739/trunk/src/VBox/Runtime/r3/allocex.cpp
+END
+alloc-ef.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/53278/trunk/src/VBox/Runtime/r3/alloc-ef.h
+END
+socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/50457/trunk/src/VBox/Runtime/r3/socket.cpp
+END
+udp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/udp.cpp
+END
+testi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r3/testi.cpp
+END
+alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/alloc.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Runtime/r3/Makefile.kup
+END
+stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/r3/stream.cpp
+END
+path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/path.cpp
+END
+allocex.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/46739/trunk/src/VBox/Runtime/r3/allocex.h
+END
+dir2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/dir2.cpp
+END
+xml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/49028/trunk/src/VBox/Runtime/r3/xml.cpp
+END
+alloc-ef-cpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/alloc-ef-cpp.cpp
+END
+init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/init.cpp
+END
+poll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/44487/trunk/src/VBox/Runtime/r3/poll.cpp
+END
+fileio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/49037/trunk/src/VBox/Runtime/r3/fileio.cpp
+END
+fs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/fs.cpp
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/47596/trunk/src/VBox/Runtime/r3/init.h
+END
+dir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/dir.cpp
+END
+process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r3/process.cpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/52380/trunk/src/VBox/Runtime/r3/test.cpp
+END
+memsafer-r3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/52964/trunk/src/VBox/Runtime/r3/memsafer-r3.cpp
+END
+alloc-ef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53278/trunk/src/VBox/Runtime/r3/alloc-ef.cpp
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/medium
+END
+UIMediumManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/medium/UIMediumManager.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/48906/trunk/src/VBox/Frontends/VirtualBox/src/medium/Makefile.kup
+END
+UIMedium.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/medium/UIMedium.cpp
+END
+UIMediumManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/51001/trunk/src/VBox/Frontends/VirtualBox/src/medium/UIMediumManager.h
+END
+UIMediumDefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/medium/UIMediumDefs.cpp
+END
+UIMediumEnumerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/medium/UIMediumEnumerator.cpp
+END
+UIMedium.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/medium/UIMedium.h
+END
+UIMediumDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/50910/trunk/src/VBox/Frontends/VirtualBox/src/medium/UIMediumDefs.h
+END
+UIMediumEnumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/49659/trunk/src/VBox/Frontends/VirtualBox/src/medium/UIMediumEnumerator.h
+END

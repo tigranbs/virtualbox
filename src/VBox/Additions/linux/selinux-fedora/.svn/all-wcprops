@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/37105/trunk/src/VBox/Additions/linux/selinux-fedora
+END
+vbox_accel.pp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/37104/trunk/src/VBox/Additions/linux/selinux-fedora/vbox_accel.pp
+END
+vbox_x11.if
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/5386/trunk/src/VBox/Additions/linux/selinux-fedora/vbox_x11.if
+END
+vbox_x11.pp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/27867/trunk/src/VBox/Additions/linux/selinux-fedora/vbox_x11.pp
+END
+vbox_accel.te
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/37105/trunk/src/VBox/Additions/linux/selinux-fedora/vbox_accel.te
+END
+vbox_x11.fc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/5386/trunk/src/VBox/Additions/linux/selinux-fedora/vbox_x11.fc
+END
+vbox_x11.te
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Additions/linux/selinux-fedora/vbox_x11.te
+END

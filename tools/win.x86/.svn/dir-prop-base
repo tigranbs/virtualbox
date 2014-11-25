@@ -1,0 +1,31 @@
+K 10
+svn:ignore
+V 200
+autoit
+cabsdk
+ddk
+ddknt4
+ddkwin2k3
+DIFx
+dxsdk
+gnuwin32
+gsoap
+HTML_Help_Workshop
+ifskit
+libsdl
+libxslt
+mingw32
+miktex-portable
+nsis
+python
+qt
+sdk
+selfsign
+vcc
+w32api
+wix
+yasm
+x86_64-unknown-linux-gnu
+
+
+END

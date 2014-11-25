@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/SmbiosPlatformDxe
+END
+SmbiosPlatformDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/SmbiosPlatformDxe/SmbiosPlatformDxe.h
+END
+Xen.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/SmbiosPlatformDxe/Xen.c
+END
+SmbiosPlatformDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/SmbiosPlatformDxe/SmbiosPlatformDxe.inf
+END
+SmbiosPlatformDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/SmbiosPlatformDxe/SmbiosPlatformDxe.c
+END

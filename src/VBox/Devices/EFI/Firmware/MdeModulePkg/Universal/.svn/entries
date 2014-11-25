@@ -1,0 +1,121 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Universal
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+SetupBrowserDxe
+dir
+
+SecurityStubDxe
+dir
+
+MemoryTest
+dir
+
+ReportStatusCodeRouter
+dir
+
+StatusCodeHandler
+dir
+
+PlatformDriOverrideDxe
+dir
+
+Variable
+dir
+
+Network
+dir
+
+LegacyRegion2Dxe
+dir
+
+ResetSystemRuntimeDxe
+dir
+
+SmbiosDxe
+dir
+
+PrintDxe
+dir
+
+DriverSampleDxe
+dir
+
+FaultTolerantWriteDxe
+dir
+
+Metronome
+dir
+
+PCD
+dir
+
+HiiResourcesSampleDxe
+dir
+
+PcatSingleSegmentPciCfg2Pei
+dir
+
+MonotonicCounterRuntimeDxe
+dir
+
+Acpi
+dir
+
+DevicePathDxe
+dir
+
+DebugSupportDxe
+dir
+
+CapsulePei
+dir
+
+Disk
+dir
+
+EbcDxe
+dir
+
+DebugPortDxe
+dir
+
+HiiDatabaseDxe
+dir
+
+CapsuleRuntimeDxe
+dir
+
+LockBox
+dir
+
+WatchdogTimerDxe
+dir
+
+Console
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/linux
+END
+vboxtxs-nat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/linux/vboxtxs-nat.sh
+END
+vboxtxs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/utils/TestExecServ/linux/vboxtxs.sh
+END

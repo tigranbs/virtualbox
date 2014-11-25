@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52193/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/PlatformBdsLib
+END
+BdsPlatform.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52193/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/PlatformBdsLib/BdsPlatform.c
+END
+PlatformBdsLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/PlatformBdsLib/PlatformBdsLib.inf
+END
+PlatformData.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/PlatformBdsLib/PlatformData.c
+END
+BdsPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OvmfPkg/Library/PlatformBdsLib/BdsPlatform.h
+END

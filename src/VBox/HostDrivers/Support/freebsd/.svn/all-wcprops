@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/freebsd
+END
+SUPR0IdcClient-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/freebsd/SUPR0IdcClient-freebsd.c
+END
+SUPLib-freebsd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/freebsd/SUPLib-freebsd.cpp
+END
+SUPDrv-freebsd.def
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/22078/trunk/src/VBox/HostDrivers/Support/freebsd/SUPDrv-freebsd.def
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/22077/trunk/src/VBox/HostDrivers/Support/freebsd/Makefile.kup
+END
+SUPDrv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52576/trunk/src/VBox/HostDrivers/Support/freebsd/SUPDrv-freebsd.c
+END
+files_vboxdrv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/47199/trunk/src/VBox/HostDrivers/Support/freebsd/files_vboxdrv
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/43435/trunk/src/VBox/HostDrivers/Support/freebsd/Makefile
+END

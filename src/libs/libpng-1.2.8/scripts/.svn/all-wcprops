@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts
+END
+makefile.atari
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.atari
+END
+libpng-config-body.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/libpng-config-body.in
+END
+makefile.64sunu
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.64sunu
+END
+libpng.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/libpng.pc.in
+END
+libpng-config-head.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/libpng-config-head.in
+END
+pngw32.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/pngw32.rc
+END
+makefile.mips
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.mips
+END
+makefile.ibmc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.ibmc
+END
+makefile.freebsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.freebsd
+END
+makefile.gcmmx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.gcmmx
+END
+makefile.solaris
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.solaris
+END
+makefile.netbsd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.netbsd
+END
+makefile.aix
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.aix
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.msc
+END
+makefile.bor
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.bor
+END
+makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.sgi
+END
+makefile.hpgcc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.hpgcc
+END
+makefile.hpux
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.hpux
+END
+makefile.sco
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.sco
+END
+makefile.darwin
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.darwin
+END
+makefile.tc3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.tc3
+END
+pngos2.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/pngos2.def
+END
+makefile.vcwin32
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.vcwin32
+END
+makefile.ne12bsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.ne12bsd
+END
+makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.linux
+END
+makefile.32sunu
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.32sunu
+END
+makefile.cygwin
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.cygwin
+END
+pngw32.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/pngw32.def
+END
+makefile.acorn
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.acorn
+END
+makefile.os2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.os2
+END
+makevms.com
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makevms.com
+END
+smakefile.ppc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/smakefile.ppc
+END
+makefile.elf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.elf
+END
+makefile.sunos
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.sunos
+END
+descrip.mms
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/descrip.mms
+END
+makefile.so9
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.so9
+END
+makefile.intel
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.intel
+END
+makefile.amiga
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.amiga
+END
+makefile.dj2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.dj2
+END
+makefile.hp64
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.hp64
+END
+SCOPTIONS.ppc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/SCOPTIONS.ppc
+END
+makefile.sggcc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.sggcc
+END
+makefile.beos
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.beos
+END
+makefile.bc32
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.bc32
+END
+makefile.knr
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.knr
+END
+makefile.openbsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.openbsd
+END
+makefile.std
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.std
+END
+makefile.watcom
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.watcom
+END
+makefile.dec
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.dec
+END
+makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.gcc
+END
+libpng.icc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/libpng.icc
+END
+makefile.vcawin32
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/scripts/makefile.vcawin32
+END

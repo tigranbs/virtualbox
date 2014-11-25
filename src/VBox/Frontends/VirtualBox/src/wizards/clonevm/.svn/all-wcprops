@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm
+END
+UIWizardCloneVMPageBasic3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVMPageBasic3.cpp
+END
+UIWizardCloneVM.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVM.h
+END
+UIWizardCloneVMPageBasic1.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVMPageBasic1.h
+END
+UIWizardCloneVMPageExpert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVMPageExpert.cpp
+END
+UIWizardCloneVMPageBasic2.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVMPageBasic2.h
+END
+UIWizardCloneVMPageBasic3.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVMPageBasic3.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/37468/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/Makefile.kup
+END
+UIWizardCloneVMPageExpert.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVMPageExpert.h
+END
+UIWizardCloneVM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVM.cpp
+END
+UIWizardCloneVMPageBasic1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVMPageBasic1.cpp
+END
+UIWizardCloneVMPageBasic2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/clonevm/UIWizardCloneVMPageBasic2.cpp
+END

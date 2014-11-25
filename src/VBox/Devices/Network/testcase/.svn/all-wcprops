@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51906/trunk/src/VBox/Devices/Network/testcase
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Devices/Network/testcase/Makefile.kup
+END
+tstDevPhy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/31885/trunk/src/VBox/Devices/Network/testcase/tstDevPhy.cpp
+END
+tstIntNet-1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/51906/trunk/src/VBox/Devices/Network/testcase/tstIntNet-1.cpp
+END
+tstIntNetR0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Network/testcase/tstIntNetR0.cpp
+END
+tstDevEEPROM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/31885/trunk/src/VBox/Devices/Network/testcase/tstDevEEPROM.cpp
+END

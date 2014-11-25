@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53372/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale
+END
+UIMachineLogicScale.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52298/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/UIMachineLogicScale.h
+END
+UIMachineWindowScale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/53068/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/UIMachineWindowScale.cpp
+END
+UIKeyboardHandlerScale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/UIKeyboardHandlerScale.cpp
+END
+UIMachineViewScale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/53372/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/UIMachineViewScale.cpp
+END
+UIMachineWindowScale.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/UIMachineWindowScale.h
+END
+UIMachineLogicScale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/53065/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/UIMachineLogicScale.cpp
+END
+UIKeyboardHandlerScale.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52129/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/UIKeyboardHandlerScale.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/31214/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/Makefile.kup
+END
+UIMachineViewScale.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/53372/trunk/src/VBox/Frontends/VirtualBox/src/runtime/scale/UIMachineViewScale.h
+END

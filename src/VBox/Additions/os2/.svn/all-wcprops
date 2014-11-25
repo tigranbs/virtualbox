@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/51898/trunk/src/VBox/Additions/os2
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/46693/trunk/src/VBox/Additions/os2/Makefile.kmk
+END
+Config.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/51898/trunk/src/VBox/Additions/os2/Config.kmk
+END
+VBoxReplaceDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48942/trunk/src/VBox/Additions/os2/VBoxReplaceDll.cpp
+END

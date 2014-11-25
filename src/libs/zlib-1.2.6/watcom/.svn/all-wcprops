@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/watcom
+END
+watcom_l.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/watcom/watcom_l.mak
+END
+watcom_f.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/watcom/watcom_f.mak
+END

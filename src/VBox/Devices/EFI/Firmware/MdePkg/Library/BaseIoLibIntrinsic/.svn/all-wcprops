@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53252/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic
+END
+BaseIoLibIntrinsic.inf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic.inf
+END
+IoLibMmioBuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/IoLibMmioBuffer.c
+END
+IoLibGcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/53252/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/IoLibGcc.c
+END
+IoLibIcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/IoLibIcc.c
+END
+IoLibIpf.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/IoLibIpf.c
+END
+BaseIoLibIntrinsicInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicInternal.h
+END
+IoLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/IoLib.c
+END
+IoLibArm.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/IoLibArm.c
+END
+IoHighLevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/IoHighLevel.c
+END
+IoLibMsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/MdePkg/Library/BaseIoLibIntrinsic/IoLibMsc.c
+END

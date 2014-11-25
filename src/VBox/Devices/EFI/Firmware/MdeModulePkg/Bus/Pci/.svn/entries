@@ -1,0 +1,52 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Bus/Pci
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+EhciDxe
+dir
+
+IdeBusPei
+dir
+
+UhciDxe
+dir
+
+XhciDxe
+dir
+
+IncompatiblePciDeviceSupportDxe
+dir
+
+EhciPei
+dir
+
+PciBusDxe
+dir
+
+UhciPei
+dir
+

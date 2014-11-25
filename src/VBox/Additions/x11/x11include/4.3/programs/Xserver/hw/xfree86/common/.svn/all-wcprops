@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common
+END
+xf86PciInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86PciInfo.h
+END
+xf86Xinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Xinput.h
+END
+xf86Bus.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Bus.h
+END
+xisb.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xisb.h
+END
+xf86xv.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86xv.h
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/compiler.h
+END
+xf86Opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Opt.h
+END
+xf86Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Config.h
+END
+fourcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/fourcc.h
+END
+xf86InPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86InPriv.h
+END
+xf86str.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86str.h
+END
+xf86Privstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Privstr.h
+END
+scoasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/scoasm.h
+END
+xf86Resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Resources.h
+END
+xf86xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86xvmc.h
+END
+xf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86.h
+END
+xf86Priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Priv.h
+END
+xf86cmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86cmap.h
+END
+xf86fbman.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86fbman.h
+END
+xf86ExtInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86ExtInit.h
+END
+xf86Module.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Module.h
+END
+atKeynames.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/atKeynames.h
+END
+xf86pciBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86pciBus.h
+END
+xf86Keymap.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86Keymap.h
+END
+xf86sbusBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/common/xf86sbusBus.h
+END

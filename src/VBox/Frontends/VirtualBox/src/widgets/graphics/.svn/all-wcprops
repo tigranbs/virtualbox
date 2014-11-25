@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics
+END
+UIGraphicsTextPane.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/50912/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsTextPane.h
+END
+UIGraphicsButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsButton.h
+END
+UIGraphicsZoomButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsZoomButton.cpp
+END
+UIGraphicsToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsToolBar.cpp
+END
+UIGraphicsZoomButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsZoomButton.h
+END
+UIGraphicsRotatorButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsRotatorButton.cpp
+END
+UIGraphicsToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsToolBar.h
+END
+UIGraphicsTextPane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsTextPane.cpp
+END
+UIGraphicsButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsButton.cpp
+END
+UIGraphicsRotatorButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/widgets/graphics/UIGraphicsRotatorButton.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostServices/testcase
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/41477/trunk/src/VBox/HostServices/testcase/Makefile.kmk
+END
+tstHGCMSvc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostServices/testcase/tstHGCMSvc.cpp
+END

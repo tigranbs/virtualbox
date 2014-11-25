@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserIdentifyManagerDxe
+END
+UserIdentifyManager.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserIdentifyManagerDxe/UserIdentifyManager.c
+END
+UserIdentifyManagerStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserIdentifyManagerDxe/UserIdentifyManagerStrings.uni
+END
+UserIdentifyManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserIdentifyManagerDxe/UserIdentifyManager.h
+END
+UserIdentifyManagerVfr.Vfr
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserIdentifyManagerDxe/UserIdentifyManagerVfr.Vfr
+END
+UserIdentifyManagerDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserIdentifyManagerDxe/UserIdentifyManagerDxe.inf
+END
+LoadDeferredImage.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserIdentifyManagerDxe/LoadDeferredImage.c
+END
+UserIdentifyManagerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/UserIdentification/UserIdentifyManagerDxe/UserIdentifyManagerData.h
+END

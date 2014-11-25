@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe
+END
+SecureBootConfigNvData.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigNvData.h
+END
+SecureBootConfigStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigStrings.uni
+END
+SecureBootConfigImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigImpl.h
+END
+SecureBootConfig.vfr
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfig.vfr
+END
+SecureBootConfigDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigDxe.inf
+END
+SecureBootConfigDriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigDriver.c
+END
+SecureBootConfigMisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigMisc.c
+END
+SecureBootConfigDevicePath.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigDevicePath.c
+END
+SecureBootConfigFileExplorer.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigFileExplorer.c
+END
+SecureBootConfigImpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/SecurityPkg/VariableAuthenticated/SecureBootConfigDxe/SecureBootConfigImpl.c
+END

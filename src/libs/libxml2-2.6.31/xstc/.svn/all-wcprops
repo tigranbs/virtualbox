@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/xstc
+END
+xstc-to-python.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/xstc/xstc-to-python.xsl
+END
+xstc.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/xstc/xstc.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/xstc/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/39915/trunk/src/libs/libxml2-2.6.31/xstc/Makefile.in
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/VBoxNetAdp/freebsd
+END
+files_vboxnetadp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/36190/trunk/src/VBox/HostDrivers/VBoxNetAdp/freebsd/files_vboxnetadp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/HostDrivers/VBoxNetAdp/freebsd/Makefile
+END
+VBoxNetAdp-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/43439/trunk/src/VBox/HostDrivers/VBoxNetAdp/freebsd/VBoxNetAdp-freebsd.c
+END

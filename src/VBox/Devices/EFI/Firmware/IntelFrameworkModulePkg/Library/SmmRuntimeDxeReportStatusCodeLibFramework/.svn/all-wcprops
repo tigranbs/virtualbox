@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/SmmRuntimeDxeReportStatusCodeLibFramework
+END
+SmmRuntimeDxeSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/SmmRuntimeDxeReportStatusCodeLibFramework/SmmRuntimeDxeSupport.c
+END
+ReportStatusCodeLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/SmmRuntimeDxeReportStatusCodeLibFramework/ReportStatusCodeLib.c
+END
+ReportStatusCodeLibInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/SmmRuntimeDxeReportStatusCodeLibFramework/ReportStatusCodeLibInternal.h
+END
+SmmRuntimeDxeReportStatusCodeLibFramework.inf
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Library/SmmRuntimeDxeReportStatusCodeLibFramework/SmmRuntimeDxeReportStatusCodeLibFramework.inf
+END

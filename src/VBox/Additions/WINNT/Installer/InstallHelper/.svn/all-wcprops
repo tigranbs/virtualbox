@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48030/trunk/src/VBox/Additions/WINNT/Installer/InstallHelper
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/42239/trunk/src/VBox/Additions/WINNT/Installer/InstallHelper/Makefile.kmk
+END
+VBoxGuestInstallHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/48030/trunk/src/VBox/Additions/WINNT/Installer/InstallHelper/VBoxGuestInstallHelper.cpp
+END
+exdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/35351/trunk/src/VBox/Additions/WINNT/Installer/InstallHelper/exdll.h
+END
+VBoxGuestInstallHelper.rc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/34098/trunk/src/VBox/Additions/WINNT/Installer/InstallHelper/VBoxGuestInstallHelper.rc
+END

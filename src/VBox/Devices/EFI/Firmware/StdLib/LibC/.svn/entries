@@ -1,0 +1,104 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/StdLib/LibC
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+gdtoa
+dir
+
+Time
+dir
+
+Locale
+dir
+
+Wchar
+dir
+
+String
+dir
+
+Signal
+dir
+
+StdLib
+dir
+
+Stdio
+dir
+
+LibC.inf
+file
+
+
+
+
+2014-11-25T14:40:28.972657Z
+41ddaf289581d259cc547a2ef6965814
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3043
+
+NetUtil
+dir
+
+Main
+dir
+
+Ctype
+dir
+
+Uefi
+dir
+
+CRT
+dir
+
+Math
+dir
+

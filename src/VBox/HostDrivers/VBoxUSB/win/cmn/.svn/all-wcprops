@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/38356/trunk/src/VBox/HostDrivers/VBoxUSB/win/cmn
+END
+VBoxUsbTool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/38356/trunk/src/VBox/HostDrivers/VBoxUSB/win/cmn/VBoxUsbTool.cpp
+END
+VBoxDrvTool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/38356/trunk/src/VBox/HostDrivers/VBoxUSB/win/cmn/VBoxDrvTool.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/cmn/Makefile.kup
+END
+VBoxUsbTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/37047/trunk/src/VBox/HostDrivers/VBoxUSB/win/cmn/VBoxUsbTool.h
+END
+VBoxDrvTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/37047/trunk/src/VBox/HostDrivers/VBoxUSB/win/cmn/VBoxDrvTool.h
+END
+VBoxUsbIdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/36968/trunk/src/VBox/HostDrivers/VBoxUSB/win/cmn/VBoxUsbIdc.h
+END

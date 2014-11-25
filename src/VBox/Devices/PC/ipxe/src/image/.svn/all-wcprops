@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/image
+END
+segment.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/image/segment.c
+END
+script.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/image/script.c
+END
+efi_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/image/efi_image.c
+END
+elf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/image/elf.c
+END
+embedded.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/image/embedded.c
+END

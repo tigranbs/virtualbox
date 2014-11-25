@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/common/testcase
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/42239/trunk/src/VBox/Additions/common/testcase/Makefile.kmk
+END
+tstPageFusion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/common/testcase/tstPageFusion.cpp
+END

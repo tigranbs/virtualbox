@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52887/trunk/src/VBox/GuestHost/OpenGL/packer
+END
+pack_fog.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_fog.c
+END
+pack_beginend.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_beginend.c
+END
+pack_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/33457/trunk/src/VBox/GuestHost/OpenGL/packer/pack_map.c
+END
+packer_defs.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/packer/packer_defs.py
+END
+pack_swap.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/21310/trunk/src/VBox/GuestHost/OpenGL/packer/pack_swap.py
+END
+pack_materials.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_materials.c
+END
+pack_feedback.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/33457/trunk/src/VBox/GuestHost/OpenGL/packer/pack_feedback.c
+END
+pack_context.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_context.c
+END
+packer_bbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/packer_bbox.py
+END
+pack_shaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_shaders.c
+END
+pack_lights.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_lights.c
+END
+pack_bounds.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/42028/trunk/src/VBox/GuestHost/OpenGL/packer/pack_bounds.c
+END
+pack_swap_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_swap_texture.c
+END
+pack_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/50973/trunk/src/VBox/GuestHost/OpenGL/packer/pack_misc.c
+END
+packer_extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/packer/packer_extensions.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/packer/Makefile.kup
+END
+pack_regcombiner.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_regcombiner.c
+END
+pack_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_texture.c
+END
+pack_visibleregion.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/45132/trunk/src/VBox/GuestHost/OpenGL/packer/pack_visibleregion.c
+END
+pack_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_init.c
+END
+pack_matrices.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_matrices.c
+END
+pack_clipplane.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_clipplane.c
+END
+pack_program.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_program.c
+END
+pack_swap_pixelmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/33457/trunk/src/VBox/GuestHost/OpenGL/packer/pack_swap_pixelmap.c
+END
+pack_pica.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/33457/trunk/src/VBox/GuestHost/OpenGL/packer/pack_pica.c
+END
+packer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/46757/trunk/src/VBox/GuestHost/OpenGL/packer/packer.h
+END
+pack_currenttypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/51313/trunk/src/VBox/GuestHost/OpenGL/packer/pack_currenttypes.py
+END
+packer.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/packer.py
+END
+pack_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52887/trunk/src/VBox/GuestHost/OpenGL/packer/pack_client.c
+END
+pack_pixelmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/27983/trunk/src/VBox/GuestHost/OpenGL/packer/pack_pixelmap.c
+END
+pack_fence.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/33457/trunk/src/VBox/GuestHost/OpenGL/packer/pack_fence.c
+END
+pack_stipple.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_stipple.c
+END
+pack_framebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/GuestHost/OpenGL/packer/pack_framebuffer.c
+END
+packer_special
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/51200/trunk/src/VBox/GuestHost/OpenGL/packer/packer_special
+END
+pack_current.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_current.py
+END
+pack_swap_lists.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50973/trunk/src/VBox/GuestHost/OpenGL/packer/pack_swap_lists.c
+END
+pack_point.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_point.c
+END
+pack_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_error.c
+END
+pack_lists.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52260/trunk/src/VBox/GuestHost/OpenGL/packer/pack_lists.c
+END
+pack_header.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/42028/trunk/src/VBox/GuestHost/OpenGL/packer/pack_header.py
+END
+pack_bbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/packer/pack_bbox.h
+END
+pack_extensions.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/GuestHost/OpenGL/packer/pack_extensions.c
+END
+pack_bufferobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_bufferobject.c
+END
+pack_arrays.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/33475/trunk/src/VBox/GuestHost/OpenGL/packer/pack_arrays.c
+END
+pack_currentheader.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51313/trunk/src/VBox/GuestHost/OpenGL/packer/pack_currentheader.py
+END
+pack_pixels.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/pack_pixels.c
+END
+opcodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52451/trunk/src/VBox/GuestHost/OpenGL/packer/opcodes.py
+END
+pack_swap_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/33457/trunk/src/VBox/GuestHost/OpenGL/packer/pack_swap_map.c
+END
+pack_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/46757/trunk/src/VBox/GuestHost/OpenGL/packer/pack_buffer.c
+END

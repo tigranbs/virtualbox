@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/53265/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser
+END
+UIGChooserHandlerMouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserHandlerMouse.cpp
+END
+UIGChooserItemMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemMachine.h
+END
+UIGChooserHandlerMouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserHandlerMouse.h
+END
+UIGChooserItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItem.cpp
+END
+UIGChooserHandlerKeyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserHandlerKeyboard.cpp
+END
+UIGChooserModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/53265/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserModel.cpp
+END
+UIGChooserItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItem.h
+END
+UIGChooserHandlerKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserHandlerKeyboard.h
+END
+UIGChooserModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserModel.h
+END
+UIGChooserView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserView.cpp
+END
+UIGChooserItemGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/52733/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemGroup.cpp
+END
+UIGChooserView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserView.h
+END
+UIGChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooser.cpp
+END
+UIGChooserItemGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemGroup.h
+END
+UIGChooserItemMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemMachine.cpp
+END
+UIGChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/52727/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooser.h
+END

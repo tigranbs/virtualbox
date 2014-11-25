@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/42428/trunk/src/VBox/Devices/Network/lwip/src/core
+END
+netif.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/netif.c
+END
+inet6.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/inet6.c
+END
+tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/tcp.c
+END
+udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/udp.c
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/raw.c
+END
+tcp_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/tcp_in.c
+END
+pbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/42428/trunk/src/VBox/Devices/Network/lwip/src/core/pbuf.c
+END
+tcp_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/tcp_out.c
+END
+memp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/memp.c
+END
+stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/stats.c
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/dhcp.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/mem.c
+END
+sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/24853/trunk/src/VBox/Devices/Network/lwip/src/core/sys.c
+END
+inet.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/17797/trunk/src/VBox/Devices/Network/lwip/src/core/inet.c
+END

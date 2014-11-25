@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52329/trunk/src/VBox/GuestHost/OpenGL/include/state
+END
+cr_current.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/51313/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_current.h
+END
+cr_framebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/48491/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_framebuffer.h
+END
+cr_feedback.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_feedback.h
+END
+cr_evaluators.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_evaluators.h
+END
+cr_attrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/44326/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_attrib.h
+END
+cr_line.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_line.h
+END
+cr_polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_polygon.h
+END
+cr_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/46037/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_point.h
+END
+cr_stateerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_stateerror.h
+END
+cr_multisample.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_multisample.h
+END
+cr_regcombiner.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_regcombiner.h
+END
+cr_lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_lists.h
+END
+cr_bufferobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48491/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_bufferobject.h
+END
+cr_texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52329/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_texture.h
+END
+cr_limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/40124/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_limits.h
+END
+cr_glsl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/51200/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_glsl.h
+END
+cr_stencil.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44326/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_stencil.h
+END
+cr_hint.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_hint.h
+END
+cr_lighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/29930/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_lighting.h
+END
+cr_statetypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/28534/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_statetypes.h
+END
+cr_program.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_program.h
+END
+cr_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/37613/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_buffer.h
+END
+cr_fog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_fog.h
+END
+cr_transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_transform.h
+END
+cr_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/44106/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_client.h
+END
+cr_occlude.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_occlude.h
+END
+cr_viewport.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_viewport.h
+END
+cr_pixel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/include/state/cr_pixel.h
+END

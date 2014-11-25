@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/53262/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter
+END
+server_presenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/53262/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter/server_presenter.h
+END
+display_composite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/53145/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter/display_composite.cpp
+END
+display_window_rootvr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/53158/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter/display_window_rootvr.cpp
+END
+window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/53262/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter/window.cpp
+END
+display_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/53262/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter/display_window.cpp
+END
+server_presenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/53158/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter/server_presenter.cpp
+END
+display_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/53145/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter/display_base.cpp
+END
+display_vrdp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/53153/trunk/src/VBox/HostServices/SharedOpenGL/crserverlib/presenter/display_vrdp.cpp
+END

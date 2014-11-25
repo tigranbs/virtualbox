@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51559/trunk/src/VBox/GuestHost/OpenGL/glapi_parser
+END
+apiutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/GuestHost/OpenGL/glapi_parser/apiutil.py
+END
+APIspec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/51559/trunk/src/VBox/GuestHost/OpenGL/glapi_parser/APIspec.txt
+END

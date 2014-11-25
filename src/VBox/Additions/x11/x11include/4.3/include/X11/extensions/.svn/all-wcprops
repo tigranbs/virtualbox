@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/26163/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/extensions
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/17236/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/extensions/render.h
+END
+dpms.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/extensions/dpms.h
+END
+renderproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/include/X11/extensions/renderproto.h
+END

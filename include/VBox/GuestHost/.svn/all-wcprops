@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/51211/trunk/include/VBox/GuestHost
+END
+DragAndDrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51211/trunk/include/VBox/GuestHost/DragAndDrop.h
+END
+SharedClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/37434/trunk/include/VBox/GuestHost/SharedClipboard.h
+END
+clipboard-helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/41210/trunk/include/VBox/GuestHost/clipboard-helper.h
+END

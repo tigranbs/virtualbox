@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53241/trunk/src/VBox/Additions/common/VBoxGuest/linux
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/53241/trunk/src/VBox/Additions/common/VBoxGuest/linux/Makefile
+END
+dkms.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/42905/trunk/src/VBox/Additions/common/VBoxGuest/linux/dkms.conf
+END
+files_vboxguest
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/53241/trunk/src/VBox/Additions/common/VBoxGuest/linux/files_vboxguest
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/21118/trunk/src/VBox/Additions/common/VBoxGuest/linux/Makefile.kup
+END

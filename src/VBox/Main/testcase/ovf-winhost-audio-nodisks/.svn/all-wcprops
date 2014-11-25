@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/31882/trunk/src/VBox/Main/testcase/ovf-winhost-audio-nodisks
+END
+WinXP.ovf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/31882/trunk/src/VBox/Main/testcase/ovf-winhost-audio-nodisks/WinXP.ovf
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk
+END
+imm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/imm.h
+END
+usbioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/usbioctl.h
+END
+usbdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/usbdlib.h
+END
+wdm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/wdm.h
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/usb.h
+END
+ntddcdvd.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/ntddcdvd.h
+END
+winsplp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/winsplp.h
+END
+usbiodef.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/usbiodef.h
+END
+ntddtape.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/ntddtape.h
+END
+ntddser.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/ntddser.h
+END
+compstui.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/compstui.h
+END
+ntddk.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/ntddk.h
+END
+hidsdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/hidsdi.h
+END
+mountmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/mountmgr.h
+END
+usb100.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/usb100.h
+END
+usb200.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/usb200.h
+END
+winddiui.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/53206/trunk/src/VBox/Devices/Graphics/shaderlib/wine/include/ddk/winddiui.h
+END

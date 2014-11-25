@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/public
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/public/.cvsignore
+END
+nsIInterfaceInfo.idl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/public/nsIInterfaceInfo.idl
+END
+xptinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/public/xptinfo.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/public/Makefile.in
+END
+nsIXPTLoader.idl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/public/nsIXPTLoader.idl
+END
+nsIInterfaceInfoManager.idl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptinfo/public/nsIInterfaceInfoManager.idl
+END

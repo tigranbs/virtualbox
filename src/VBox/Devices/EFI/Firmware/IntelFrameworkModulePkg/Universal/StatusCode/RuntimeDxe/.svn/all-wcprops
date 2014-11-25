@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/RuntimeDxe
+END
+StatusCodeRuntimeDxe.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/RuntimeDxe/StatusCodeRuntimeDxe.c
+END
+RtMemoryStatusCodeWorker.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/RuntimeDxe/RtMemoryStatusCodeWorker.c
+END
+SerialStatusCodeWorker.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/RuntimeDxe/SerialStatusCodeWorker.c
+END
+StatusCodeRuntimeDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/RuntimeDxe/StatusCodeRuntimeDxe.h
+END
+StatusCodeRuntimeDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/RuntimeDxe/StatusCodeRuntimeDxe.inf
+END
+DataHubStatusCodeWorker.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/StatusCode/RuntimeDxe/DataHubStatusCodeWorker.c
+END

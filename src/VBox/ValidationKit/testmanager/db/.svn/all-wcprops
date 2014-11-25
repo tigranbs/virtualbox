@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db
+END
+TestManagerVBoxPilot-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerVBoxPilot-1.pgsql
+END
+tmdb-r10-testresultvalues-2.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r10-testresultvalues-2.pgsql
+END
+TestManagerDatabaseInit.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabaseInit.pgsql
+END
+TestManagerDatabaseForeignKeyErHacks.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabaseForeignKeyErHacks.pgsql
+END
+tmdb-r13-buildcategories-1-vcsrevisions-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r13-buildcategories-1-vcsrevisions-1.pgsql
+END
+tmdb-r08-testresultvalues-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r08-testresultvalues-1.pgsql
+END
+tmdb-r07-testresults-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r07-testresults-1.pgsql
+END
+tmdb-r06-buildsources-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r06-buildsources-1.pgsql
+END
+gen-sql-comments.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/gen-sql-comments.py
+END
+TestManagerDatabaseMap.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabaseMap.png
+END
+tmdb-r12-testresultvalues-3-testsets-3.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r12-testresultvalues-3-testsets-3.pgsql
+END
+tmdb-r11-testsets-2.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r11-testsets-2.pgsql
+END
+tmdb-r02-testboxes-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r02-testboxes-1.pgsql
+END
+TestManagerDatabaseDefaultUserAccounts.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabaseDefaultUserAccounts.pgsql
+END
+tmdb-r01-builds-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r01-builds-1.pgsql
+END
+TestManagerDatabaseForeignKeyErHacks2.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabaseForeignKeyErHacks2.pgsql
+END
+TestManagerDatabaseComments.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabaseComments.pgsql
+END
+tmdb-r03-teststatus-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r03-teststatus-1.pgsql
+END
+tmdb-r14-testboxes-2.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r14-testboxes-2.pgsql
+END
+tmdb-r09-testsets-1.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r09-testsets-1.pgsql
+END
+tmdb-r04-teststatus-2.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r04-teststatus-2.pgsql
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/Makefile.kmk
+END
+tmdb-r05-teststatus-3.pgsql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/tmdb-r05-teststatus-3.pgsql
+END
+TestManagerDatabase.dmd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabase.dmd
+END

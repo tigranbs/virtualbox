@@ -1,0 +1,23 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 1434
+/branches/VBox-3.0/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemGroup.cpp:58652,70973
+/branches/VBox-3.2/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemGroup.cpp:66309,66318
+/branches/VBox-4.0/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemGroup.cpp:70873
+/branches/VBox-4.1/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemGroup.cpp:74233
+/branches/VBox-4.2/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsSet.cpp:91503-91504,91506-91508,91510,91514-91515,91521
+/branches/VBox-4.3/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsSet.cpp:91223
+/branches/VBox-4.3/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsSet.cpp:91223
+/branches/dsen/gui/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemGroup.cpp:79076-79078,79089,79109-79110,79112-79113,79127-79130,79134,79141,79151,79155,79157-79159,79193,79197
+/branches/dsen/gui2/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsSet.cpp:79562-79569,79572-79573,79578,79581-79582,79590-79591,79598-79599,79602-79603,79605-79606,79632,79635,79637,79644
+/branches/dsen/gui3/src/VBox/Frontends/VirtualBox/src/selector/graphics/details/UIGDetailsSet.cpp:79645-79692
+/trunk/src/VBox/Frontends/VirtualBox/src/selector/graphics/chooser/UIGChooserItemGroup.cpp:79225,79271
+END

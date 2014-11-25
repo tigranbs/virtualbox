@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52822/trunk/src/VBox/Runtime/r0drv/nt
+END
+ntBldSymDb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/50682/trunk/src/VBox/Runtime/r0drv/nt/ntBldSymDb.cpp
+END
+thread2-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/thread2-r0drv-nt.cpp
+END
+alloc-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/alloc-r0drv-nt.cpp
+END
+initterm-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/initterm-r0drv-nt.cpp
+END
+time-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52822/trunk/src/VBox/Runtime/r0drv/nt/time-r0drv-nt.cpp
+END
+semeventmulti-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/semeventmulti-r0drv-nt.cpp
+END
+assert-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r0drv/nt/assert-r0drv-nt.cpp
+END
+symdbdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50685/trunk/src/VBox/Runtime/r0drv/nt/symdbdata.h
+END
+RTLogWriteDebugger-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/RTLogWriteDebugger-r0drv-nt.cpp
+END
+semmutex-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/semmutex-r0drv-nt.cpp
+END
+thread-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/49287/trunk/src/VBox/Runtime/r0drv/nt/thread-r0drv-nt.cpp
+END
+the-nt-kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r0drv/nt/the-nt-kernel.h
+END
+memobj-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/memobj-r0drv-nt.cpp
+END
+symdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/45350/trunk/src/VBox/Runtime/r0drv/nt/symdb.h
+END
+toxic-chkstk-r0drv-nt.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/r0drv/nt/toxic-chkstk-r0drv-nt.asm
+END
+mp-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/r0drv/nt/mp-r0drv-nt.cpp
+END
+RTTimerGetSystemGranularity-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Runtime/r0drv/nt/RTTimerGetSystemGranularity-r0drv-nt.cpp
+END
+process-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/process-r0drv-nt.cpp
+END
+memuserkernel-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r0drv/nt/memuserkernel-r0drv-nt.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/4781/trunk/src/VBox/Runtime/r0drv/nt/Makefile.kup
+END
+timer-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/47637/trunk/src/VBox/Runtime/r0drv/nt/timer-r0drv-nt.cpp
+END
+internal-r0drv-nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/45443/trunk/src/VBox/Runtime/r0drv/nt/internal-r0drv-nt.h
+END
+spinlock-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/r0drv/nt/spinlock-r0drv-nt.cpp
+END
+mpnotification-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r0drv/nt/mpnotification-r0drv-nt.cpp
+END
+semfastmutex-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/semfastmutex-r0drv-nt.cpp
+END
+semevent-r0drv-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/nt/semevent-r0drv-nt.cpp
+END

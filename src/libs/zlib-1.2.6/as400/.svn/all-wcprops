@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/as400
+END
+compile.clp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/as400/compile.clp
+END
+zlib.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/as400/zlib.inc
+END
+bndsrc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/as400/bndsrc
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/as400/readme.txt
+END

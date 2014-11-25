@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vbox/!svn/ver/53210/trunk/include/VBox/vmm
+END
+pdmcritsectrw.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48934/trunk/include/VBox/vmm/pdmcritsectrw.h
+END
+hm_vmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52573/trunk/include/VBox/vmm/hm_vmx.h
+END
+hm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/52419/trunk/include/VBox/vmm/hm.h
+END
+stam.mac
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/stam.mac
+END
+cpum.mac
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/43657/trunk/include/VBox/vmm/cpum.mac
+END
+tm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/51643/trunk/include/VBox/vmm/tm.h
+END
+pdmcritsect.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/45152/trunk/include/VBox/vmm/pdmcritsect.h
+END
+pdmifs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/53208/trunk/include/VBox/vmm/pdmifs.h
+END
+pgm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/49640/trunk/include/VBox/vmm/pgm.h
+END
+csam.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/45528/trunk/include/VBox/vmm/csam.h
+END
+pdmnvram.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/44591/trunk/include/VBox/vmm/pdmnvram.h
+END
+iom.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/50645/trunk/include/VBox/vmm/iom.h
+END
+hm_svm.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/46842/trunk/include/VBox/vmm/hm_svm.h
+END
+pdmnetshaper.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/pdmnetshaper.h
+END
+pdmins.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/pdmins.h
+END
+pdmblkcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/pdmblkcache.h
+END
+ssm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/50575/trunk/include/VBox/vmm/ssm.h
+END
+dbgf.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/48898/trunk/include/VBox/vmm/dbgf.h
+END
+stam.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/46493/trunk/include/VBox/vmm/stam.h
+END
+cpum.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/51797/trunk/include/VBox/vmm/cpum.h
+END
+gvmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/gvmm.h
+END
+pdmasynccompletion.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44358/trunk/include/VBox/vmm/pdmasynccompletion.h
+END
+pdmcardreaderinfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/45033/trunk/include/VBox/vmm/pdmcardreaderinfs.h
+END
+pdmwebcaminfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/47416/trunk/include/VBox/vmm/pdmwebcaminfs.h
+END
+dbgftrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/40405/trunk/include/VBox/vmm/dbgftrace.h
+END
+pdmqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/50917/trunk/include/VBox/vmm/pdmqueue.h
+END
+pdmnetifs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/pdmnetifs.h
+END
+gvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/gvm.h
+END
+pdmusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/53210/trunk/include/VBox/vmm/pdmusb.h
+END
+vm.mac
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/53094/trunk/include/VBox/vmm/vm.mac
+END
+selm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/45705/trunk/include/VBox/vmm/selm.h
+END
+vmcpuset.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/39303/trunk/include/VBox/vmm/vmcpuset.h
+END
+uvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/45189/trunk/include/VBox/vmm/uvm.h
+END
+pdmthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/pdmthread.h
+END
+iem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/51182/trunk/include/VBox/vmm/iem.h
+END
+pdmapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52670/trunk/include/VBox/vmm/pdmapi.h
+END
+gim.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/52760/trunk/include/VBox/vmm/gim.h
+END
+cfgm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/46792/trunk/include/VBox/vmm/cfgm.h
+END
+gmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/gmm.h
+END
+vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/53094/trunk/include/VBox/vmm/vm.h
+END
+dbgfcorefmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/dbgfcorefmt.h
+END
+rem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/rem.h
+END
+cpumctx.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/48371/trunk/include/VBox/vmm/cpumctx.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/Makefile.kup
+END
+pdmnetinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44529/trunk/include/VBox/vmm/pdmnetinline.h
+END
+pdmcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/pdmcommon.h
+END
+trpm.mac
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/trpm.mac
+END
+pdmdrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/53062/trunk/include/VBox/vmm/pdmdrv.h
+END
+cpumctx-v1_6.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/50041/trunk/include/VBox/vmm/cpumctx-v1_6.h
+END
+vmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/50001/trunk/include/VBox/vmm/vmm.h
+END
+em.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/48370/trunk/include/VBox/vmm/em.h
+END
+patm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/47427/trunk/include/VBox/vmm/patm.h
+END
+pdmasynctask.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/pdmasynctask.h
+END
+cpumdis.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/cpumdis.h
+END
+dbgfsel.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/44528/trunk/include/VBox/vmm/dbgfsel.h
+END
+hm_vmx.mac
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/52192/trunk/include/VBox/vmm/hm_vmx.mac
+END
+mm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/51271/trunk/include/VBox/vmm/mm.h
+END
+pdmsrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/35361/trunk/include/VBox/vmm/pdmsrv.h
+END
+vmapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/52419/trunk/include/VBox/vmm/vmapi.h
+END
+pdmpci.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/37799/trunk/include/VBox/vmm/pdmpci.h
+END
+pdmdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52670/trunk/include/VBox/vmm/pdmdev.h
+END
+pdm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/45152/trunk/include/VBox/vmm/pdm.h
+END
+trpm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/45728/trunk/include/VBox/vmm/trpm.h
+END
+ftm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/44529/trunk/include/VBox/vmm/ftm.h
+END

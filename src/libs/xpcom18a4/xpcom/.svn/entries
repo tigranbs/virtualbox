@@ -1,0 +1,224 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/libs/xpcom18a4/xpcom
+http://www.virtualbox.org/svn/vbox
+
+
+
+2014-04-29T13:28:53.838125Z
+51167
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+libxpt
+dir
+
+tests
+dir
+
+doc
+dir
+
+ds
+dir
+
+string
+dir
+
+io
+dir
+
+typelib
+dir
+
+base
+dir
+
+obsolete
+dir
+
+stub
+dir
+
+.cvsignore
+file
+
+
+
+
+2014-11-25T14:39:35.540657Z
+2861ce8d5c0bf1dfaa2348b3d0afb98d
+
+1
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+
+sample
+dir
+
+proxy
+dir
+
+Makefile.in
+file
+
+
+
+
+2014-11-25T14:39:35.540657Z
+f1e7e817e3d50907a0ff8d938be5e5b3
+
+1
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2293
+
+reflect
+dir
+
+xpcom-config.h.in
+file
+
+
+
+
+2014-11-25T14:39:35.540657Z
+e7dd07a5514241e841a996cdc61fda89
+
+1
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1861
+
+components
+dir
+
+MoreFiles
+dir
+
+xpcom-private.h.in
+file
+
+
+
+
+2014-11-25T14:39:35.540657Z
+9d5101adef554de79085889dc6cf586b
+
+1
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+698
+
+threads
+dir
+
+glue
+dir
+
+build
+dir
+
+tools
+dir
+
+windbgdlg
+dir
+

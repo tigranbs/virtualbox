@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52715/trunk/src/VBox/Devices/Storage/VSCSI
+END
+VSCSILunMmc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/Storage/VSCSI/VSCSILunMmc.cpp
+END
+VSCSISense.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/52713/trunk/src/VBox/Devices/Storage/VSCSI/VSCSISense.cpp
+END
+VSCSILun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52715/trunk/src/VBox/Devices/Storage/VSCSI/VSCSILun.cpp
+END
+VSCSIVpdPages.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/38694/trunk/src/VBox/Devices/Storage/VSCSI/VSCSIVpdPages.h
+END
+VSCSIDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/46509/trunk/src/VBox/Devices/Storage/VSCSI/VSCSIDevice.cpp
+END
+VSCSIIoReq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/38878/trunk/src/VBox/Devices/Storage/VSCSI/VSCSIIoReq.cpp
+END
+VSCSIVpdPagePool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/38680/trunk/src/VBox/Devices/Storage/VSCSI/VSCSIVpdPagePool.cpp
+END
+VSCSIInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52713/trunk/src/VBox/Devices/Storage/VSCSI/VSCSIInternal.h
+END
+VSCSIInline.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/28800/trunk/src/VBox/Devices/Storage/VSCSI/VSCSIInline.h
+END
+VSCSILunSbc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/47829/trunk/src/VBox/Devices/Storage/VSCSI/VSCSILunSbc.cpp
+END

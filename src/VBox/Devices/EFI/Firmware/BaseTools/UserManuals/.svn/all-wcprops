@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals
+END
+Fpd2Dsc_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/Fpd2Dsc_Utility_Man_Page.rtf
+END
+BootSectImage_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/BootSectImage_Utility_Man_Page.rtf
+END
+TianoCompress_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/TianoCompress_Utility_Man_Page.rtf
+END
+GenPatchPcdTable_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenPatchPcdTable_Utility_Man_Page.rtf
+END
+VfrCompiler_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/VfrCompiler_Utility_Man_Page.rtf
+END
+GenVtf_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenVtf_Utility_Man_Page.rtf
+END
+SplitFile_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/SplitFile_Utility_Man_Page.rtf
+END
+GenDepex_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenDepex_Utility_Man_Page.rtf
+END
+Build_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/Build_Utility_Man_Page.rtf
+END
+Msa2Inf_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/Msa2Inf_Utility_Man_Page.rtf
+END
+Intel_UEFI_Packaging_Tool_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/Intel_UEFI_Packaging_Tool_Man_Page.rtf
+END
+GenSec_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenSec_Utility_Man_Page.rtf
+END
+GenFv_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenFv_Utility_Man_Page.rtf
+END
+GenPage_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenPage_Utility_Man_Page.rtf
+END
+GenFw_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenFw_Utility_Man_Page.rtf
+END
+GenFds_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenFds_Utility_Man_Page.rtf
+END
+GenCrc32_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenCrc32_Utility_Man_Page.rtf
+END
+GenFfs_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenFfs_Utility_Man_Page.rtf
+END
+EfiLdrImage_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/EfiLdrImage_Utility_Man_Page.rtf
+END
+Trim_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/Trim_Utility_Man_Page.rtf
+END
+VolInfo_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/VolInfo_Utility_Man_Page.rtf
+END
+GenBootSector_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/GenBootSector_Utility_Man_Page.rtf
+END
+UtilityManPage_template.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/UtilityManPage_template.rtf
+END
+LzmaCompress_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/LzmaCompress_Utility_Man_Page.rtf
+END
+EfiRom_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/EfiRom_Utility_Man_Page.rtf
+END
+PatchPcdValue_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/PatchPcdValue_Utility_Man_Page.rtf
+END
+Spd2Dec_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/Spd2Dec_Utility_Man_Page.rtf
+END
+TargetTool_Utility_Man_Page.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/UserManuals/TargetTool_Utility_Man_Page.rtf
+END

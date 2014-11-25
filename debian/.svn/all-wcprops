@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/vbox/!svn/ver/51424/trunk/debian
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vbox/!svn/ver/48977/trunk/debian/changelog
+END
+postinst.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/51424/trunk/debian/postinst.in
+END
+preinst.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/44528/trunk/debian/preinst.in
+END
+prerm.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/vbox/!svn/ver/48810/trunk/debian/prerm.in
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/vbox/!svn/ver/48676/trunk/debian/rules
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/vbox/!svn/ver/43118/trunk/debian/README
+END
+templates
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vbox/!svn/ver/34319/trunk/debian/templates
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/vbox/!svn/ver/47536/trunk/debian/control
+END
+lintian-override.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/47894/trunk/debian/lintian-override.in
+END
+LocalConfig.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/51424/trunk/debian/LocalConfig.kmk
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/vbox/!svn/ver/44969/trunk/debian/dirs
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/vbox/!svn/ver/3848/trunk/debian/compat
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/vbox/!svn/ver/44528/trunk/debian/postrm
+END

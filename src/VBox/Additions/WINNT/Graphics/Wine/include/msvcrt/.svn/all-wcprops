@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/math.h
+END
+crtdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/crtdefs.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/time.h
+END
+locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/locale.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/setjmp.h
+END
+mbctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/mbctype.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/search.h
+END
+crtdbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/crtdbg.h
+END
+float.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/21731/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/float.h
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/unistd.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/fcntl.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/memory.h
+END
+direct.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/direct.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/signal.h
+END
+process.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/process.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/25949/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/stdio.h
+END
+mbstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/mbstring.h
+END
+eh.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/eh.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/limits.h
+END
+share.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/share.h
+END
+wchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/25949/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/wchar.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/19678/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/string.h
+END
+conio.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/conio.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/io.h
+END
+malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/malloc.h
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/stddef.h
+END
+wctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/wctype.h
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/stdlib.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/ctype.h
+END
+dos.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/28475/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/dos.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/33656/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/errno.h
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/16410/trunk/src/VBox/Additions/WINNT/Graphics/Wine/include/msvcrt/dirent.h
+END

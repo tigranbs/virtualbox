@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/vbox/!svn/ver/53353/trunk/doc
+END
+License-gpl-2.0.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/35199/trunk/doc/License-gpl-2.0.html
+END
+VBox-doc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/vbox/!svn/ver/51368/trunk/doc/VBox-doc.c
+END
+VBox-MakefileGuidelines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44529/trunk/doc/VBox-MakefileGuidelines.cpp
+END
+License-gpl-2.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/40383/trunk/doc/License-gpl-2.html
+END
+ReadMe-Solaris.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/49338/trunk/doc/ReadMe-Solaris.txt
+END
+kBuild-tricks.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/47159/trunk/doc/kBuild-tricks.txt
+END
+License-gpl-2.0.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/35199/trunk/doc/License-gpl-2.0.rtf
+END
+VBox-CodingGuidelines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/doc/VBox-CodingGuidelines.cpp
+END
+License-gpl-2.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/40383/trunk/doc/License-gpl-2.rtf
+END
+ReadMe-OS2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/8278/trunk/doc/ReadMe-OS2.txt
+END
+License-gpl-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/35199/trunk/doc/License-gpl-2.0.txt
+END
+License-gpl-2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/40383/trunk/doc/License-gpl-2.txt
+END

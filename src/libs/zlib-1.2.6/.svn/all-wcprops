@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/48286/trunk/src/libs/zlib-1.2.6
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zlib.h
+END
+gzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/gzlib.c
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zutil.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/deflate.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/README
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/crc32.c
+END
+zlib2ansi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zlib2ansi
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zutil.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48282/trunk/src/libs/zlib-1.2.6/Makefile.kmk
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/inftrees.c
+END
+zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zlib.3
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/trees.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/inftrees.h
+END
+INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/INDEX
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/trees.h
+END
+gzguts.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/48286/trunk/src/libs/zlib-1.2.6/gzguts.h
+END
+zconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zconf.h.in
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/inffast.c
+END
+gzwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/gzwrite.c
+END
+treebuild.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/treebuild.xml
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/inffixed.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/ChangeLog
+END
+gzclose.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/gzclose.c
+END
+gzread.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/gzread.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/uncompr.c
+END
+zlib.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zlib.pc.in
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/FAQ
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/inflate.h
+END
+zlib.3.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zlib.3.pdf
+END
+zconf.h.cmakein
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zconf.h.cmakein
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/compress.c
+END
+zlib.map
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/zlib.map
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/Makefile
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/infback.c
+END
+make_vms.com
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/make_vms.com
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/Makefile.in
+END

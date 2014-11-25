@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/UpdateDriverDxe
+END
+ParseUpdateProfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/UpdateDriverDxe/ParseUpdateProfile.c
+END
+FlashUpdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/UpdateDriverDxe/FlashUpdate.c
+END
+UpdateDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/UpdateDriverDxe/UpdateDriver.h
+END
+UpdateStrings.uni
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/UpdateDriverDxe/UpdateStrings.uni
+END
+UpdateDispatcher.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/UpdateDriverDxe/UpdateDispatcher.c
+END
+UpdateDriverDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/IntelFrameworkModulePkg/Universal/FirmwareVolume/UpdateDriverDxe/UpdateDriverDxe.inf
+END

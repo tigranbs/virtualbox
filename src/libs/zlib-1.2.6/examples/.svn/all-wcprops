@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples
+END
+gzjoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/gzjoin.c
+END
+gzlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/gzlog.c
+END
+enough.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/enough.c
+END
+gzlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/gzlog.h
+END
+zpipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/zpipe.c
+END
+gzappend.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/gzappend.c
+END
+README.examples
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/README.examples
+END
+gun.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/gun.c
+END
+zran.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/zran.c
+END
+fitblk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/fitblk.c
+END
+zlib_how.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/examples/zlib_how.html
+END

@@ -1,0 +1,85 @@
+# $Id$
+## @file
+# Sub-Makefile for the vboxvideo DRM module (linux kernel OpenGL module).
+#
+
+#
+# Copyright (C) 2006-2012 Oracle Corporation
+#
+# This file is part of VirtualBox Open Source Edition (OSE), as
+# available from http://www.virtualbox.org. This file is free software;
+# you can redistribute it and/or modify it under the terms of the GNU
+# General Public License (GPL) as published by the Free Software
+# Foundation, in version 2 as it comes in the "COPYING" file of the
+# VirtualBox OSE distribution. VirtualBox OSE is distributed in the
+# hope that it will be useful, but WITHOUT ANY WARRANTY of any kind.
+#
+
+SUB_DEPTH = ../../../../..
+include $(KBUILD_PATH)/subheader.kmk
+
+#
+# Populate FILES_VBOXVIDEO_DRM_NOBIN
+#
+INSTALLS += vboxvideo_drm-mod
+if !defined(VBOX_WITH_GUEST_KMS_DRIVER)
+ include $(PATH_SUB_CURRENT)/files_vboxvideo_drm
+else
+ include $(PATH_SUB_CURRENT)/files_vboxvideo_drv
+endif
+vboxvideo_drm-mod_INST         = $(INST_ADDITIONS)src/vboxvideo/
+vboxvideo_drm-mod_SOURCES      = \
+	$(subst $(DQUOTE),,$(FILES_VBOXVIDEO_DRM_NOBIN))
+vboxvideo_drm-mod_EXEC_SOURCES = \
+	$(subst $(DQUOTE),,$(FILES_VBOXVIDEO_DRM_BIN)) \
+	$(PATH_ROOT)/src/VBox/HostDrivers/linux/do_Module.symvers
+
+
+#
+# The kernel module.
+#
+# Note! Syntax checking only.  Don't bother if drmP.h is missing (introduced
+#       in 2.6.27).  For the mode-setting driver make sure this is supported.
+# Note! The DEBUG_HASH* stuff is for CONFIG_DYNAMIC_DEBUG-enabled kernels.
+#
+if defined(VBOX_WITH_ADDITION_DRIVERS)
+ if !defined(VBOX_WITH_GUEST_KMS_DRIVER)
+  if "$(strip $(foreach inc,$(VBOX_LINUX_INCS),$(wildcard $(inc)/drm/drmP.h)))" != ""
+   SYSMODS += vboxvideo_drm
+  endif
+ else
+  if "$(shell grep -s 'DRIVER_MODESET' $(foreach inc,$(VBOX_LINUX_INCS),$(inc)/drm/drmP.h))" != ""
+   SYSMODS += vboxvideo_drm
+  endif
+ endif
+endif
+
+vboxvideo_drm_TEMPLATE        = VBOXGUESTR0
+vboxvideo_drm_CFLAGS          = -fshort-wchar
+vboxvideo_drm_DEFS            = \
+	MODULE IN_RT_R0 VBOXGUEST VBOX_WITH_HGCM \
+	KBUILD_MODNAME=KBUILD_STR\(vboxvideo\) \
+	KBUILD_BASENAME=KBUILD_STR\(vboxvideo\) \
+	DEBUG_HASH=2 DEBUG_HASH2=3
+if !defined(VBOX_WITH_GUEST_KMS_DRIVER)
+ vboxvideo_drm_SOURCES         = vboxvideo_drm.c
+else
+ vboxvideo_drm_INCS           += \
+   ../../../Runtime/include \
+   ../../../Runtime/r0drv/linux
+ vboxvideo_drm_SOURCES         = \
+   ../../common/VBoxVideo/HGSMIBase.cpp \
+   ../../common/VBoxVideo/Modesetting.cpp \
+   ../../common/VBoxVideo/VBVABase.cpp \
+   ../../../GuestHost/HGSMI/HGSMICommon.cpp \
+   ../../../GuestHost/HGSMI/HGSMIMemAlloc.cpp \
+   ../../../Runtime/common/alloc/heapoffset.cpp \
+ 	vbox_drv.c \
+ 	vbox_fb.c \
+ 	vbox_main.c \
+ 	vbox_mode.c \
+ 	vbox_ttm.c
+endif
+
+include $(FILE_KBUILD_SUB_FOOTER)
+

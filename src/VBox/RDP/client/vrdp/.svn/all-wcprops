@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/50234/trunk/src/VBox/RDP/client/vrdp
+END
+vrdpusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/RDP/client/vrdp/vrdpusb.h
+END
+rdpusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50234/trunk/src/VBox/RDP/client/vrdp/rdpusb.c
+END

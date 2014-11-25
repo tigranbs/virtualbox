@@ -1,0 +1,196 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/BaseTools/Source/C
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-27T11:03:53.188833Z
+48727
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+GenFw
+dir
+
+GenPage
+dir
+
+GenCrc32
+dir
+
+VfrCompile
+dir
+
+GenFfs
+dir
+
+EfiLdrImage
+dir
+
+PyUtility
+dir
+
+VolInfo
+dir
+
+GenBootSector
+dir
+
+Makefile
+file
+
+
+
+
+2014-11-25T14:40:38.396657Z
+3f4650c5b34b7f30386b50f0a2c47fb4
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1894
+
+LzmaCompress
+dir
+
+EfiRom
+dir
+
+Include
+dir
+
+BootSectImage
+dir
+
+TianoCompress
+dir
+
+GnuGenBootSector
+dir
+
+GNUmakefile
+file
+
+
+
+
+2014-11-25T14:40:38.392657Z
+d5a6cff65cc2feb19be7e2d47f281dc2
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2011
+
+Common
+dir
+
+GenVtf
+dir
+
+PyEfiCompressor
+dir
+
+Split
+dir
+
+Makefile.kmk
+file
+
+
+
+
+2014-11-25T14:40:38.392657Z
+6831b9f29ffd936da36a31469e185a37
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2049
+
+Makefiles
+dir
+
+GenSec
+dir
+
+GenFv
+dir
+

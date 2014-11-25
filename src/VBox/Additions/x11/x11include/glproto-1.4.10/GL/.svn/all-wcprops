@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/glproto-1.4.10/GL
+END
+glxmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/glproto-1.4.10/GL/glxmd.h
+END
+glxproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/glproto-1.4.10/GL/glxproto.h
+END
+glxtokens.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/glproto-1.4.10/GL/glxtokens.h
+END
+glxint.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/glproto-1.4.10/GL/glxint.h
+END

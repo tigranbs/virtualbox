@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/randrproto-1.3.0/X11/extensions
+END
+randrproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/randrproto-1.3.0/X11/extensions/randrproto.h
+END
+randr.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/22662/trunk/src/VBox/Additions/x11/x11include/randrproto-1.3.0/X11/extensions/randr.h
+END

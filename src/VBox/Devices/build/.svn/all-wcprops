@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/52506/trunk/src/VBox/Devices/build
+END
+vl_vbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/build/vl_vbox.h
+END
+VBoxDD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/52506/trunk/src/VBox/Devices/build/VBoxDD.cpp
+END
+VBoxDD.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44138/trunk/src/VBox/Devices/build/VBoxDD.d
+END
+VBoxDDUDeps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/47716/trunk/src/VBox/Devices/build/VBoxDDUDeps.cpp
+END
+VBoxDD2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/52506/trunk/src/VBox/Devices/build/VBoxDD2.cpp
+END
+VBoxDDR0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/37228/trunk/src/VBox/Devices/build/VBoxDDR0.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/36646/trunk/src/VBox/Devices/build/Makefile.kup
+END
+VBoxDD2R0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/37228/trunk/src/VBox/Devices/build/VBoxDD2R0.cpp
+END
+VBoxDD.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/52473/trunk/src/VBox/Devices/build/VBoxDD.h
+END
+VBoxDD2.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52506/trunk/src/VBox/Devices/build/VBoxDD2.h
+END

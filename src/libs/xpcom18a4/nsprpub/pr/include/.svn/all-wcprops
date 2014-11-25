@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50011/trunk/src/libs/xpcom18a4/nsprpub/pr/include
+END
+prcountr.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prcountr.h
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/MANIFEST
+END
+prbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prbit.h
+END
+prmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prmem.h
+END
+pripcsem.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/pripcsem.h
+END
+nspr.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/nspr.h
+END
+prvrsion.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prvrsion.h
+END
+prmwait.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prmwait.h
+END
+prlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prlog.h
+END
+gencfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/gencfg.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/.cvsignore
+END
+prshma.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prshma.h
+END
+prmon.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prmon.h
+END
+prcvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prcvar.h
+END
+prnetdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prnetdb.h
+END
+prcmon.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prcmon.h
+END
+prlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prlink.h
+END
+prtrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prtrace.h
+END
+prlong.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prlong.h
+END
+prinet.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prinet.h
+END
+pratom.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/pratom.h
+END
+prrwlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prrwlock.h
+END
+prinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prinit.h
+END
+prtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/21171/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prtypes.h
+END
+prwin16.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prwin16.h
+END
+prolock.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prolock.h
+END
+prio.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prio.h
+END
+prpdce.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prpdce.h
+END
+prclist.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prclist.h
+END
+prsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prsystem.h
+END
+prrng.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prrng.h
+END
+prdtoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prdtoa.h
+END
+prprf.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prprf.h
+END
+prshm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prshm.h
+END
+prlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prlock.h
+END
+prenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prenv.h
+END
+prerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prerr.h
+END
+prerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prerror.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/pr/include/Makefile.in
+END
+prinrval.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prinrval.h
+END
+prproces.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prproces.h
+END
+prtpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prtpool.h
+END
+prtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prtime.h
+END
+prthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/11551/trunk/src/libs/xpcom18a4/nsprpub/pr/include/prthread.h
+END

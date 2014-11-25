@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/52296/trunk/src/VBox/VMM/VMMRC
+END
+VMMRCA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/49893/trunk/src/VBox/VMM/VMMRC/VMMRCA.asm
+END
+VMMRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/49893/trunk/src/VBox/VMM/VMMRC/VMMRC.cpp
+END
+SELMRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/49914/trunk/src/VBox/VMM/VMMRC/SELMRC.cpp
+END
+PDMRCDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/49548/trunk/src/VBox/VMM/VMMRC/PDMRCDevice.cpp
+END
+EMRCA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/EMRCA.asm
+END
+PATMRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/45485/trunk/src/VBox/VMM/VMMRC/PATMRC.cpp
+END
+TRPMRCHandlersA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/47690/trunk/src/VBox/VMM/VMMRC/TRPMRCHandlersA.asm
+END
+VMMRCBuiltin.def
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/VMMRCBuiltin.def
+END
+CPUMRCA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52296/trunk/src/VBox/VMM/VMMRC/CPUMRCA.asm
+END
+TRPMRCHandlers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/49141/trunk/src/VBox/VMM/VMMRC/TRPMRCHandlers.cpp
+END
+CPUMRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/48936/trunk/src/VBox/VMM/VMMRC/CPUMRC.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/35335/trunk/src/VBox/VMM/VMMRC/Makefile.kup
+END
+PGMRCGst.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/PGMRCGst.h
+END
+MMRamRCA.asm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/MMRamRCA.asm
+END
+MMRamRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/MMRamRC.cpp
+END
+PGMRCShw.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/PGMRCShw.h
+END
+VMMRC.def
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/45787/trunk/src/VBox/VMM/VMMRC/VMMRC.def
+END
+VMMRCDeps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/VMMRCDeps.cpp
+END
+VMMRC.mac
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/VMMRC.mac
+END
+VMMRC0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/VMMRC0.asm
+END
+VMMRC99.asm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/VMMRC99.asm
+END
+TRPMRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/TRPMRC.cpp
+END
+PGMRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/PGMRC.cpp
+END
+CSAMRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/45620/trunk/src/VBox/VMM/VMMRC/CSAMRC.cpp
+END
+IOMRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/45305/trunk/src/VBox/VMM/VMMRC/IOMRC.cpp
+END
+PGMRCBth.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/VMM/VMMRC/PGMRCBth.h
+END

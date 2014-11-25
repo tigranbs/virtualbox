@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/tests/dynamic
+END
+win32.order
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/tests/dynamic/win32.order
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/tests/dynamic/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/tests/dynamic/Makefile.in
+END
+TestDynamic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/tests/dynamic/TestDynamic.cpp
+END

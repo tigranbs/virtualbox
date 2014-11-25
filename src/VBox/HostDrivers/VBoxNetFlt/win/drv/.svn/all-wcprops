@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv
+END
+VBoxNetFltRt-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFltRt-win.h
+END
+VBoxNetFltM.inf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/36184/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFltM.inf
+END
+VBoxNetFltM-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFltM-win.cpp
+END
+VBoxNetAdp.inf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51866/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetAdp.inf
+END
+VBoxNetFlt.inf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/36184/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFlt.inf
+END
+VBoxNetFltP-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFltP-win.cpp
+END
+VBoxNetFlt-win.rc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/36184/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFlt-win.rc
+END
+VBoxNetFltM-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFltM-win.h
+END
+VBoxNetFltCmn-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/38738/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFltCmn-win.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/36184/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/Makefile.kup
+END
+VBoxNetFltP-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/36184/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFltP-win.h
+END
+VBoxNetFltRt-win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/drv/VBoxNetFltRt-win.cpp
+END

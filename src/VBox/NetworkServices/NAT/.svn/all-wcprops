@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/53368/trunk/src/VBox/NetworkServices/NAT
+END
+rtmon_bsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51574/trunk/src/VBox/NetworkServices/NAT/rtmon_bsd.c
+END
+winpoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/48001/trunk/src/VBox/NetworkServices/NAT/winpoll.h
+END
+RTWinPoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52285/trunk/src/VBox/NetworkServices/NAT/RTWinPoll.cpp
+END
+pxdns.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51597/trunk/src/VBox/NetworkServices/NAT/pxdns.c
+END
+proxy_dhcp6ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51574/trunk/src/VBox/NetworkServices/NAT/proxy_dhcp6ds.c
+END
+pxudp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52257/trunk/src/VBox/NetworkServices/NAT/pxudp.c
+END
+rtmon_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/48956/trunk/src/VBox/NetworkServices/NAT/rtmon_win.c
+END
+pxremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51574/trunk/src/VBox/NetworkServices/NAT/pxremap.c
+END
+proxy_pollmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51597/trunk/src/VBox/NetworkServices/NAT/proxy_pollmgr.c
+END
+rtmon_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51574/trunk/src/VBox/NetworkServices/NAT/rtmon_linux.c
+END
+pxremap.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/48001/trunk/src/VBox/NetworkServices/NAT/pxremap.h
+END
+proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52930/trunk/src/VBox/NetworkServices/NAT/proxy.c
+END
+tftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/48001/trunk/src/VBox/NetworkServices/NAT/tftp.h
+END
+pxping_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/53368/trunk/src/VBox/NetworkServices/NAT/pxping_win.c
+END
+proxy_pollmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48956/trunk/src/VBox/NetworkServices/NAT/proxy_pollmgr.h
+END
+VBoxNetNATHardened.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/47881/trunk/src/VBox/NetworkServices/NAT/VBoxNetNATHardened.cpp
+END
+proxy_rtadvd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51653/trunk/src/VBox/NetworkServices/NAT/proxy_rtadvd.c
+END
+fwudp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51597/trunk/src/VBox/NetworkServices/NAT/fwudp.c
+END
+portfwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51574/trunk/src/VBox/NetworkServices/NAT/portfwd.c
+END
+lwipopts.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52001/trunk/src/VBox/NetworkServices/NAT/lwipopts.h
+END
+proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51573/trunk/src/VBox/NetworkServices/NAT/proxy.h
+END
+RTWinSocketPair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48956/trunk/src/VBox/NetworkServices/NAT/RTWinSocketPair.cpp
+END
+portfwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49252/trunk/src/VBox/NetworkServices/NAT/portfwd.h
+END
+pxtcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52650/trunk/src/VBox/NetworkServices/NAT/pxtcp.c
+END
+pxtcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/48001/trunk/src/VBox/NetworkServices/NAT/pxtcp.h
+END
+pxping.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51703/trunk/src/VBox/NetworkServices/NAT/pxping.c
+END
+dhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/48001/trunk/src/VBox/NetworkServices/NAT/dhcp6.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/51895/trunk/src/VBox/NetworkServices/NAT/Makefile.kmk
+END
+proxy_tftpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/51582/trunk/src/VBox/NetworkServices/NAT/proxy_tftpd.c
+END
+winutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52286/trunk/src/VBox/NetworkServices/NAT/winutils.h
+END
+fwtcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/51597/trunk/src/VBox/NetworkServices/NAT/fwtcp.c
+END
+VBoxNetLwipNAT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/50494/trunk/src/VBox/NetworkServices/NAT/VBoxNetLwipNAT.cpp
+END

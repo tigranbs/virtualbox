@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/dvm
+END
+dvmvfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/41549/trunk/src/VBox/Runtime/common/dvm/dvmvfs.cpp
+END
+dvm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/dvm/dvm.cpp
+END
+dvmmbr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/dvm/dvmmbr.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/36868/trunk/src/VBox/Runtime/common/dvm/Makefile.kup
+END
+dvmbsdlabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/dvm/dvmbsdlabel.cpp
+END
+dvmgpt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/dvm/dvmgpt.cpp
+END

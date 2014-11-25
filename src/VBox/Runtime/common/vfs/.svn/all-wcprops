@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/51651/trunk/src/VBox/Runtime/common/vfs
+END
+vfschain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51651/trunk/src/VBox/Runtime/common/vfs/vfschain.cpp
+END
+vfsiosmisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/34967/trunk/src/VBox/Runtime/common/vfs/vfsiosmisc.cpp
+END
+vfsmemory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40292/trunk/src/VBox/Runtime/common/vfs/vfsmemory.cpp
+END
+vfsbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48175/trunk/src/VBox/Runtime/common/vfs/vfsbase.cpp
+END
+vfsstdfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/vfs/vfsstdfile.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/33820/trunk/src/VBox/Runtime/common/vfs/Makefile.kup
+END
+vfsmisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/common/vfs/vfsmisc.cpp
+END

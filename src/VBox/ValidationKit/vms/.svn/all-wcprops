@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/vms
+END
+xppro.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/vms/xppro.txt
+END
+nt4sp1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/vms/nt4sp1.txt
+END
+sol11u1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/vms/sol11u1.txt
+END

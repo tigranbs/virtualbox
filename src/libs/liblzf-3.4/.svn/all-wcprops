@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/vbox/!svn/ver/48282/trunk/src/libs/liblzf-3.4
+END
+lzf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/lzf.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/Makefile.in
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/LICENSE
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/README
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/48282/trunk/src/libs/liblzf-3.4/Makefile.kmk
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/config.h.in
+END
+lzfP.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/lzfP.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/crc32.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/configure.ac
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/Changes
+END
+lzf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/lzf.c
+END
+lzf_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/23582/trunk/src/libs/liblzf-3.4/lzf_c.c
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/install-sh
+END
+lzf_d.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/17027/trunk/src/libs/liblzf-3.4/lzf_d.c
+END

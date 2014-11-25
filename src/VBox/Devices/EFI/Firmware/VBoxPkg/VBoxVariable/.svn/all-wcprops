@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVariable
+END
+EmuVariable.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVariable/EmuVariable.c
+END
+VBoxVariableRuntimeDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVariable/VBoxVariableRuntimeDxe.inf
+END
+InitVariable.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48947/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVariable/InitVariable.c
+END
+Variable.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/VBoxPkg/VBoxVariable/Variable.h
+END

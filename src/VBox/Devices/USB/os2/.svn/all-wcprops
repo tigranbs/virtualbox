@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/USB/os2
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/31888/trunk/src/VBox/Devices/USB/os2/Makefile.kup
+END
+USBProxyDevice-os2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/USB/os2/USBProxyDevice-os2.cpp
+END

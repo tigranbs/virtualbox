@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/prstreams/tests/testprstrm
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/prstreams/tests/testprstrm/Makefile.in
+END
+testprstrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/prstreams/tests/testprstrm/testprstrm.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/nsprpub/lib/prstreams/tests/testprstrm/.cvsignore
+END

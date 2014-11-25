@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/53260/trunk/src/VBox/Devices/USB/usbip
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53260/trunk/src/VBox/Devices/USB/usbip/Makefile.kup
+END
+USBProxyDevice-usbip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/53260/trunk/src/VBox/Devices/USB/usbip/USBProxyDevice-usbip.cpp
+END

@@ -1,0 +1,132 @@
+10
+
+dir
+53373
+http://www.virtualbox.org/svn/vbox/trunk/src/VBox/Devices/EFI/Firmware/MdeModulePkg/Core/Dxe
+http://www.virtualbox.org/svn/vbox
+
+
+
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cfe28804-0f27-0410-a406-dd0f0b0b656f
+
+Library
+dir
+
+DxeMain
+dir
+
+SectionExtraction
+dir
+
+Dispatcher
+dir
+
+FwVolBlock
+dir
+
+Hand
+dir
+
+Misc
+dir
+
+DxeMain.h
+file
+
+
+
+
+2014-11-25T14:40:59.256657Z
+3567cfa108324ed22bacca216c91ddf7
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+85997
+
+FwVol
+dir
+
+Gcd
+dir
+
+Mem
+dir
+
+DxeMain.inf
+file
+
+
+
+
+2014-11-25T14:40:59.252657Z
+3471bcf5fb4b8380e7fae8f5468be08e
+2013-09-25T08:26:15.875313Z
+48674
+vboxsync
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5774
+
+Event
+dir
+
+Image
+dir
+

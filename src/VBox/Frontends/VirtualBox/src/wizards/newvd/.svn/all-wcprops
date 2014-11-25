@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd
+END
+UIWizardNewVDPageBasic3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVDPageBasic3.cpp
+END
+UIWizardNewVD.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVD.h
+END
+UIWizardNewVDPageBasic1.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVDPageBasic1.h
+END
+UIWizardNewVDPageExpert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVDPageExpert.cpp
+END
+UIWizardNewVDPageBasic2.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVDPageBasic2.h
+END
+UIWizardNewVDPageBasic3.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVDPageBasic3.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/40870/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/Makefile.kup
+END
+UIWizardNewVDPageExpert.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/52721/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVDPageExpert.h
+END
+UIWizardNewVD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVD.cpp
+END
+UIWizardNewVDPageBasic1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVDPageBasic1.cpp
+END
+UIWizardNewVDPageBasic2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vbox/!svn/ver/52730/trunk/src/VBox/Frontends/VirtualBox/src/wizards/newvd/UIWizardNewVDPageBasic2.cpp
+END

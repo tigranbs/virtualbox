@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/17574/trunk/src/VBox/Additions/x11/x11include/fixesproto-4.0/X11/extensions
+END
+xfixesproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/17574/trunk/src/VBox/Additions/x11/x11include/fixesproto-4.0/X11/extensions/xfixesproto.h
+END
+xfixeswire.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/17574/trunk/src/VBox/Additions/x11/x11include/fixesproto-4.0/X11/extensions/xfixeswire.h
+END

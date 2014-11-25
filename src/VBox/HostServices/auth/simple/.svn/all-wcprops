@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/35943/trunk/src/VBox/HostServices/auth/simple
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/33185/trunk/src/VBox/HostServices/auth/simple/Makefile.kup
+END
+VBoxAuthSimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/35943/trunk/src/VBox/HostServices/auth/simple/VBoxAuthSimple.cpp
+END

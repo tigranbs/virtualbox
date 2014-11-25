@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/UndiRuntimeDxe
+END
+E100b.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/UndiRuntimeDxe/E100b.c
+END
+Undi32.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/UndiRuntimeDxe/Undi32.h
+END
+E100b.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/UndiRuntimeDxe/E100b.h
+END
+UndiRuntimeDxe.inf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/UndiRuntimeDxe/UndiRuntimeDxe.inf
+END
+Decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/UndiRuntimeDxe/Decode.c
+END
+Init.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/OptionRomPkg/UndiRuntimeDxe/Init.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Include/Guid
+END
+TscFrequency.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Include/Guid/TscFrequency.h
+END
+PerformancePkgTokenSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vbox/!svn/ver/48674/trunk/src/VBox/Devices/EFI/Firmware/PerformancePkg/Include/Guid/PerformancePkgTokenSpace.h
+END

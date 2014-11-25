@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/51386/trunk/src/VBox/Installer/freebsd
+END
+pkg_plist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/44580/trunk/src/VBox/Installer/freebsd/pkg_plist
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/51386/trunk/src/VBox/Installer/freebsd/Makefile.kmk
+END
+postdeinstall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Installer/freebsd/postdeinstall.sh
+END
+pkg-descr
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/23629/trunk/src/VBox/Installer/freebsd/pkg-descr
+END
+pkg-comment
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/23629/trunk/src/VBox/Installer/freebsd/pkg-comment
+END
+postinstall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Installer/freebsd/postinstall.sh
+END
+virtualbox.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/32388/trunk/src/VBox/Installer/freebsd/virtualbox.desktop
+END

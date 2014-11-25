@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50361/trunk/src/libs/xpcom18a4/xpcom/proxy/public
+END
+nsProxyEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/public/nsProxyEvent.h
+END
+nsIProxyCreateInstance.idl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/public/nsIProxyCreateInstance.idl
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/public/.cvsignore
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/public/Makefile.in
+END
+nsProxiedService.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/public/nsProxiedService.h
+END
+nsIProxyObjectManager.idl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/proxy/public/nsIProxyObjectManager.idl
+END
+nsProxyRelease.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/50361/trunk/src/libs/xpcom18a4/xpcom/proxy/public/nsProxyRelease.h
+END

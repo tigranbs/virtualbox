@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52970/trunk/src/VBox/Devices/Graphics/vmsvga_glext
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52970/trunk/src/VBox/Devices/Graphics/vmsvga_glext/glxext.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52970/trunk/src/VBox/Devices/Graphics/vmsvga_glext/glext.h
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52970/trunk/src/VBox/Devices/Graphics/vmsvga_glext/wglext.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/untgz
+END
+untgz.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/untgz/untgz.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/untgz/Makefile
+END
+Makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/contrib/untgz/Makefile.msc
+END

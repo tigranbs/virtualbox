@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/4481/trunk/src/libs/xpcom18a4/xpcom/MoreFiles
+END
+MoreFilesX.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/4481/trunk/src/libs/xpcom18a4/xpcom/MoreFiles/MoreFilesX.c
+END
+FSCopyObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/4481/trunk/src/libs/xpcom18a4/xpcom/MoreFiles/FSCopyObject.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/MoreFiles/Makefile.in
+END
+MoreFilesX.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/4481/trunk/src/libs/xpcom18a4/xpcom/MoreFiles/MoreFilesX.h
+END
+FSCopyObject.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/4481/trunk/src/libs/xpcom18a4/xpcom/MoreFiles/FSCopyObject.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/MoreFiles/.cvsignore
+END

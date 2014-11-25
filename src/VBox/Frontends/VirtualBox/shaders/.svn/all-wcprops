@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders
+END
+cconvAYUV_void.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvAYUV_void.c
+END
+mainOverlayNoCKey.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/mainOverlayNoCKey.c
+END
+mainOverlayNoDiscard2.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/mainOverlayNoDiscard2.c
+END
+cconvYUY2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvYUY2.c
+END
+cconvBGR.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvBGR.c
+END
+cconvUYVY.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvUYVY.c
+END
+ckeyDst.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/ckeyDst.c
+END
+cconvYV12_void.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvYV12_void.c
+END
+cconvAYUV.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvAYUV.c
+END
+mainOverlayNoDiscard.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/mainOverlayNoDiscard.c
+END
+cconvYUY2_void.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvYUY2_void.c
+END
+cconvApplyAYUV.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvApplyAYUV.c
+END
+cconvBGR_void.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvBGR_void.c
+END
+mainOverlay.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/mainOverlay.c
+END
+cconvUYVY_void.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvUYVY_void.c
+END
+ckeyDst_void.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/ckeyDst_void.c
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/35519/trunk/src/VBox/Frontends/VirtualBox/shaders/COPYRIGHT
+END
+splitBGRA.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/splitBGRA.c
+END
+ckeyDst2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/ckeyDst2.c
+END
+cconvYV12.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/35579/trunk/src/VBox/Frontends/VirtualBox/shaders/cconvYV12.c
+END

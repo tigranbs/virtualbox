@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-server/freebsd
+END
+USBProxyServiceFreeBSD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-server/freebsd/USBProxyServiceFreeBSD.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/src-server/freebsd/Makefile.kup
+END
+PerformanceFreeBSD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/49718/trunk/src/VBox/Main/src-server/freebsd/PerformanceFreeBSD.cpp
+END
+NetIf-freebsd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/49718/trunk/src/VBox/Main/src-server/freebsd/NetIf-freebsd.cpp
+END
+HostHardwareFreeBSD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-server/freebsd/HostHardwareFreeBSD.cpp
+END

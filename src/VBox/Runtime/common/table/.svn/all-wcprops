@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table
+END
+avlrogcphys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlrogcphys.cpp
+END
+avlhcphys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlhcphys.cpp
+END
+avlroogcptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlroogcptr.cpp
+END
+avlrgcptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlrgcptr.cpp
+END
+avluintptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avluintptr.cpp
+END
+avlu32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlu32.cpp
+END
+avl_DoWithAll.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avl_DoWithAll.cpp.h
+END
+avlogcphys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlogcphys.cpp
+END
+avl_Destroy.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avl_Destroy.cpp.h
+END
+avlgcptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlgcptr.cpp
+END
+avlul.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlul.cpp
+END
+avlrogcptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlrogcptr.cpp
+END
+avl_Range.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/table/avl_Range.cpp.h
+END
+avl_RemoveNode.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/table/avl_RemoveNode.cpp.h
+END
+avlou32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlou32.cpp
+END
+avl_Enum.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/table/avl_Enum.cpp.h
+END
+avlgcphys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlgcphys.cpp
+END
+avlogcptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlogcptr.cpp
+END
+avl_Base.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/table/avl_Base.cpp.h
+END
+avlru64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlru64.cpp
+END
+avlrfoff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlrfoff.cpp
+END
+avl_RemoveBestFit.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/table/avl_RemoveBestFit.cpp.h
+END
+avl_Get.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/table/avl_Get.cpp.h
+END
+avlrpv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlrpv.cpp
+END
+avlohcphys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlohcphys.cpp
+END
+avlroioport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlroioport.cpp
+END
+table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/common/table/table.cpp
+END
+avl_GetBestFit.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/common/table/avl_GetBestFit.cpp.h
+END
+avlpv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlpv.cpp
+END
+avllu32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avllu32.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/5422/trunk/src/VBox/Runtime/common/table/Makefile.kup
+END
+avlruintptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avlruintptr.cpp
+END
+avloioport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/49788/trunk/src/VBox/Runtime/common/table/avloioport.cpp
+END

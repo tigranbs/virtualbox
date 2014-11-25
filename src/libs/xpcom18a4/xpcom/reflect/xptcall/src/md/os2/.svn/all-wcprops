@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/3149/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/Makefile.in
+END
+xptcinvoke_vacpp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/xptcinvoke_vacpp.asm
+END
+xptcstubs_os2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/xptcstubs_os2.cpp
+END
+xptcinvoke_emx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/xptcinvoke_emx.cpp
+END
+xptcstubs_gcc_x86_os2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/3149/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/xptcstubs_gcc_x86_os2.cpp
+END
+xptcstubs_vacpp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/xptcstubs_vacpp.asm
+END
+xptcstubs_emx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/xptcstubs_emx.cpp
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/1/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/.cvsignore
+END
+xptcinvoke_gcc_x86_os2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vbox/!svn/ver/3149/trunk/src/libs/xpcom18a4/xpcom/reflect/xptcall/src/md/os2/xptcinvoke_gcc_x86_os2.cpp
+END

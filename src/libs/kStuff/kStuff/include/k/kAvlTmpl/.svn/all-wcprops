@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/kstuff-mirror/!svn/ver/36/trunk/include/k/kAvlTmpl
+END
+kAvlDestroy.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlTmpl/kAvlDestroy.h
+END
+kAvlBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kstuff-mirror/!svn/ver/36/trunk/include/k/kAvlTmpl/kAvlBase.h
+END
+kAvlRemoveBestFit.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlTmpl/kAvlRemoveBestFit.h
+END
+kAvlGet.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlTmpl/kAvlGet.h
+END
+kAvlRemove2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kstuff-mirror/!svn/ver/34/trunk/include/k/kAvlTmpl/kAvlRemove2.h
+END
+kAvlGetBestFit.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlTmpl/kAvlGetBestFit.h
+END
+kAvlUndef.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlTmpl/kAvlUndef.h
+END
+kAvlEnum.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlTmpl/kAvlEnum.h
+END
+kAvlGetWithParent.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/kstuff-mirror/!svn/ver/34/trunk/include/k/kAvlTmpl/kAvlGetWithParent.h
+END
+kAvlDoWithAll.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kstuff-mirror/!svn/ver/29/trunk/include/k/kAvlTmpl/kAvlDoWithAll.h
+END

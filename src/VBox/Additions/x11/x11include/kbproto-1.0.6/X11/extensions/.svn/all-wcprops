@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/43279/trunk/src/VBox/Additions/x11/x11include/kbproto-1.0.6/X11/extensions
+END
+XKBproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/43279/trunk/src/VBox/Additions/x11/x11include/kbproto-1.0.6/X11/extensions/XKBproto.h
+END
+XKBgeom.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vbox/!svn/ver/43279/trunk/src/VBox/Additions/x11/x11include/kbproto-1.0.6/X11/extensions/XKBgeom.h
+END
+XKBstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/43279/trunk/src/VBox/Additions/x11/x11include/kbproto-1.0.6/X11/extensions/XKBstr.h
+END
+XKBsrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/43279/trunk/src/VBox/Additions/x11/x11include/kbproto-1.0.6/X11/extensions/XKBsrv.h
+END
+XKB.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/43279/trunk/src/VBox/Additions/x11/x11include/kbproto-1.0.6/X11/extensions/XKB.h
+END

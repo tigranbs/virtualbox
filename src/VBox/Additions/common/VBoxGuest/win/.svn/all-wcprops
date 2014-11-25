@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44978/trunk/src/VBox/Additions/common/VBoxGuest/win
+END
+VBoxGuest.inf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44978/trunk/src/VBox/Additions/common/VBoxGuest/win/VBoxGuest.inf
+END
+VBoxGuestInst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/44977/trunk/src/VBox/Additions/common/VBoxGuest/win/VBoxGuestInst.cpp
+END
+VBoxGuest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/32399/trunk/src/VBox/Additions/common/VBoxGuest/win/VBoxGuest.rc
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/32266/trunk/src/VBox/Additions/common/VBoxGuest/win/Makefile.kup
+END

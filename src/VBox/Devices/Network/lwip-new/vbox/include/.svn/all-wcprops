@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/50517/trunk/src/VBox/Devices/Network/lwip-new/vbox/include
+END
+lwip-namespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/50517/trunk/src/VBox/Devices/Network/lwip-new/vbox/include/lwip-namespace.h
+END
+lwip-log.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/50273/trunk/src/VBox/Devices/Network/lwip-new/vbox/include/lwip-log.h
+END

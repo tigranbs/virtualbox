@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48943/trunk/src/VBox/Additions/solaris/Mouse/testcase
+END
+solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/41852/trunk/src/VBox/Additions/solaris/Mouse/testcase/solaris.h
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/41711/trunk/src/VBox/Additions/solaris/Mouse/testcase/Makefile.kup
+END
+tstVBoxMouse-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/48943/trunk/src/VBox/Additions/solaris/Mouse/testcase/tstVBoxMouse-solaris.c
+END

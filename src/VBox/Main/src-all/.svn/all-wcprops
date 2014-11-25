@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vbox/!svn/ver/53160/trunk/src/VBox/Main/src-all
+END
+SharedFolderImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/50919/trunk/src/VBox/Main/src-all/SharedFolderImpl.cpp
+END
+ProgressImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51687/trunk/src/VBox/Main/src-all/ProgressImpl.cpp
+END
+PCIDeviceAttachmentImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/50922/trunk/src/VBox/Main/src-all/PCIDeviceAttachmentImpl.cpp
+END
+Logging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Main/src-all/Logging.cpp
+END
+DisplayUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-all/DisplayUtils.cpp
+END
+VirtualBoxBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/51903/trunk/src/VBox/Main/src-all/VirtualBoxBase.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/35375/trunk/src/VBox/Main/src-all/Makefile.kup
+END
+AutoCaller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52095/trunk/src/VBox/Main/src-all/AutoCaller.cpp
+END
+ExtPackUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/51092/trunk/src/VBox/Main/src-all/ExtPackUtil.cpp
+END
+Global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53012/trunk/src/VBox/Main/src-all/Global.cpp
+END
+DisplayResampleImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/src-all/DisplayResampleImage.cpp
+END
+HashedPw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/40066/trunk/src/VBox/Main/src-all/HashedPw.cpp
+END
+EventImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53160/trunk/src/VBox/Main/src-all/EventImpl.cpp
+END
+VirtualBoxErrorInfoImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/47391/trunk/src/VBox/Main/src-all/VirtualBoxErrorInfoImpl.cpp
+END
+DisplayPNGUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Main/src-all/DisplayPNGUtil.cpp
+END
+QMTranslatorImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/52901/trunk/src/VBox/Main/src-all/QMTranslatorImpl.cpp
+END
+ExtPackManagerImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52596/trunk/src/VBox/Main/src-all/ExtPackManagerImpl.cpp
+END

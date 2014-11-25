@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/50724/trunk/src/VBox/HostServices/DragAndDrop
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/50460/trunk/src/VBox/HostServices/DragAndDrop/Makefile.kmk
+END
+dndmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50561/trunk/src/VBox/HostServices/DragAndDrop/dndmanager.cpp
+END
+service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/50724/trunk/src/VBox/HostServices/DragAndDrop/service.cpp
+END
+dndmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/50460/trunk/src/VBox/HostServices/DragAndDrop/dndmanager.h
+END

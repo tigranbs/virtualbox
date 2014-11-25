@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vbox/!svn/ver/53337/trunk/src/VBox/Storage
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/51759/trunk/src/VBox/Storage/Makefile.kmk
+END
+Parallels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/50988/trunk/src/VBox/Storage/Parallels.cpp
+END
+VHD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/52695/trunk/src/VBox/Storage/VHD.cpp
+END
+VDI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/50988/trunk/src/VBox/Storage/VDI.cpp
+END
+VDVfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/43121/trunk/src/VBox/Storage/VDVfs.cpp
+END
+RAW.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/50988/trunk/src/VBox/Storage/RAW.cpp
+END
+VDICore.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Storage/VDICore.h
+END
+VMDK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/50988/trunk/src/VBox/Storage/VMDK.cpp
+END
+VCICache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/50988/trunk/src/VBox/Storage/VCICache.cpp
+END
+VDIfVfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/48957/trunk/src/VBox/Storage/VDIfVfs.cpp
+END
+DMG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/50988/trunk/src/VBox/Storage/DMG.cpp
+END
+VDBackends.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/50988/trunk/src/VBox/Storage/VDBackends.h
+END
+VD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/53337/trunk/src/VBox/Storage/VD.cpp
+END
+QED.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/51680/trunk/src/VBox/Storage/QED.cpp
+END
+QCOW.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/51626/trunk/src/VBox/Storage/QCOW.cpp
+END
+VHDX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/50988/trunk/src/VBox/Storage/VHDX.cpp
+END
+ISCSI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/51105/trunk/src/VBox/Storage/ISCSI.cpp
+END

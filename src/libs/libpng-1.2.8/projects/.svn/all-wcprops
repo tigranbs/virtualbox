@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/projects
+END
+netware.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/6394/trunk/src/libs/libpng-1.2.8/projects/netware.txt
+END
+wince.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/6394/trunk/src/libs/libpng-1.2.8/projects/wince.txt
+END

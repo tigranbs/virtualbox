@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 21
+libSDL
+qt
+libXcursor
+
+END

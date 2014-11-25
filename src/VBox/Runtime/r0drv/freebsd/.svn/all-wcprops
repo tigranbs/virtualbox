@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/52822/trunk/src/VBox/Runtime/r0drv/freebsd
+END
+thread2-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/36555/trunk/src/VBox/Runtime/r0drv/freebsd/thread2-r0drv-freebsd.c
+END
+alloc-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/49718/trunk/src/VBox/Runtime/r0drv/freebsd/alloc-r0drv-freebsd.c
+END
+initterm-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/36555/trunk/src/VBox/Runtime/r0drv/freebsd/initterm-r0drv-freebsd.c
+END
+time-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/52822/trunk/src/VBox/Runtime/r0drv/freebsd/time-r0drv-freebsd.c
+END
+semeventmulti-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/36190/trunk/src/VBox/Runtime/r0drv/freebsd/semeventmulti-r0drv-freebsd.c
+END
+assert-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/36555/trunk/src/VBox/Runtime/r0drv/freebsd/assert-r0drv-freebsd.c
+END
+thread-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r0drv/freebsd/thread-r0drv-freebsd.c
+END
+semmutex-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Runtime/r0drv/freebsd/semmutex-r0drv-freebsd.c
+END
+the-freebsd-kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/49718/trunk/src/VBox/Runtime/r0drv/freebsd/the-freebsd-kernel.h
+END
+memobj-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/49718/trunk/src/VBox/Runtime/r0drv/freebsd/memobj-r0drv-freebsd.c
+END
+mp-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/r0drv/freebsd/mp-r0drv-freebsd.c
+END
+process-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/18972/trunk/src/VBox/Runtime/r0drv/freebsd/process-r0drv-freebsd.c
+END
+memuserkernel-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48935/trunk/src/VBox/Runtime/r0drv/freebsd/memuserkernel-r0drv-freebsd.c
+END
+timer-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/Runtime/r0drv/freebsd/timer-r0drv-freebsd.c
+END
+spinlock-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/Runtime/r0drv/freebsd/spinlock-r0drv-freebsd.c
+END
+sleepqueue-r0drv-freebsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Runtime/r0drv/freebsd/sleepqueue-r0drv-freebsd.h
+END
+semfastmutex-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/39656/trunk/src/VBox/Runtime/r0drv/freebsd/semfastmutex-r0drv-freebsd.c
+END
+semevent-r0drv-freebsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/36190/trunk/src/VBox/Runtime/r0drv/freebsd/semevent-r0drv-freebsd.c
+END

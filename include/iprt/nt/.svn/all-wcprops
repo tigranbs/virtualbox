@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/vbox/!svn/ver/52969/trunk/include/iprt/nt
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/51770/trunk/include/iprt/nt/Makefile.kup
+END
+nt-and-windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/52102/trunk/include/iprt/nt/nt-and-windows.h
+END
+nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/52969/trunk/include/iprt/nt/nt.h
+END

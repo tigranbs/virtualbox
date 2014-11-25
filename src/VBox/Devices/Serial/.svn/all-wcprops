@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/50876/trunk/src/VBox/Devices/Serial
+END
+DrvRawFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/Devices/Serial/DrvRawFile.cpp
+END
+DrvChar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/45061/trunk/src/VBox/Devices/Serial/DrvChar.cpp
+END
+DrvHostSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/48028/trunk/src/VBox/Devices/Serial/DrvHostSerial.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/2477/trunk/src/VBox/Devices/Serial/Makefile.kup
+END
+DevSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50876/trunk/src/VBox/Devices/Serial/DevSerial.cpp
+END
+DrvNamedPipe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Devices/Serial/DrvNamedPipe.cpp
+END

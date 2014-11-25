@@ -1,0 +1,113 @@
+<ui version="4.0">
+ <comment>
+ VBox frontends: Qt4 GUI ("VirtualBox"):
+
+ Copyright (C) 2009-2013 Oracle Corporation
+
+ This file is part of VirtualBox Open Source Edition (OSE), as
+ available from http://www.virtualbox.org. This file is free software;
+ you can redistribute it and/or modify it under the terms of the GNU
+ General Public License (GPL) as published by the Free Software
+ Foundation, in version 2 as it comes in the "COPYING" file of the
+ VirtualBox OSE distribution. VirtualBox OSE is distributed in the
+ hope that it will be useful, but WITHOUT ANY WARRANTY of any kind.
+ </comment>
+ <class>UIGlobalSettingsNetwork</class>
+ <widget class="QWidget" name="UIGlobalSettingsNetwork">
+  <layout class="QVBoxLayout">
+   <item>
+    <widget class="QITabWidget" name="m_pTabWidget">
+     <widget class="QWidget" name="m_pTabNAT">
+      <attribute name="title">
+       <string>&amp;NAT Networks</string>
+      </attribute>
+      <layout class="QHBoxLayout" name="m_pLayoutNAT">
+       <property name="spacing">
+        <number>3</number>
+       </property>
+       <item>
+        <widget class="QTreeWidget" name="m_pTreeNetworkNAT">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="MinimumExpanding" vsizetype="MinimumExpanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>150</height>
+          </size>
+         </property>
+         <property name="whatsThis">
+          <string>Lists all available NAT networks.</string>
+         </property>
+         <property name="rootIsDecorated">
+          <bool>false</bool>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="UIToolBar" name="m_pToolbarNetworkNAT"/>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="m_pTabHostOnly">
+      <attribute name="title">
+       <string>&amp;Host-only Networks</string>
+      </attribute>
+      <layout class="QHBoxLayout" name="m_pLayoutHostOnly">
+       <property name="spacing">
+        <number>3</number>
+       </property>
+       <item>
+        <widget class="QTreeWidget" name="m_pTreeNetworkHost">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="MinimumExpanding" vsizetype="MinimumExpanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>150</height>
+          </size>
+         </property>
+         <property name="whatsThis">
+          <string>Lists all available host-only networks.</string>
+         </property>
+         <property name="rootIsDecorated">
+          <bool>false</bool>
+         </property>
+         <column>
+          <property name="text">
+           <string>Name</string>
+          </property>
+         </column>
+        </widget>
+       </item>
+       <item>
+        <widget class="UIToolBar" name="m_pToolbarNetworkHost"/>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>UIToolBar</class>
+   <extends>QToolBar</extends>
+   <header>UIToolBar.h</header>
+  </customwidget>
+  <customwidget>
+   <class>QITabWidget</class>
+   <extends>QTabWidget</extends>
+   <header>QITabWidget.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

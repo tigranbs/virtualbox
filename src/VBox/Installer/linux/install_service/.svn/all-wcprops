@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/49039/trunk/src/VBox/Installer/linux/install_service
+END
+init_template.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Installer/linux/install_service/init_template.sh
+END
+generate_service_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vbox/!svn/ver/49039/trunk/src/VBox/Installer/linux/install_service/generate_service_file.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44092/trunk/src/VBox/Installer/linux/install_service/Makefile.kmk
+END
+install_service.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Installer/linux/install_service/install_service.sh
+END

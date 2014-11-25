@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Devices/Network/scripts
+END
+VBoxConvertNATStats.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Devices/Network/scripts/VBoxConvertNATStats.sh
+END
+VBoxPortForwarding.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/43105/trunk/src/VBox/Devices/Network/scripts/VBoxPortForwarding.py
+END

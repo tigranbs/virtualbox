@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditionsToolsAndServices
+END
+VBoxServiceWrapper
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditionsToolsAndServices/VBoxServiceWrapper
+END
+org.virtualbox.additions.vboxclient.plist
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditionsToolsAndServices/org.virtualbox.additions.vboxclient.plist
+END
+org.virtualbox.additions.vboxservice.plist
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/vbox/!svn/ver/48251/trunk/src/VBox/Additions/darwin/Installer/VBoxGuestAdditionsToolsAndServices/org.virtualbox.additions.vboxservice.plist
+END

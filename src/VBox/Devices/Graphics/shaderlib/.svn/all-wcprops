@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53277/trunk/src/VBox/Devices/Graphics/shaderlib
+END
+shaderapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/shaderapi.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/53274/trunk/src/VBox/Devices/Graphics/shaderlib/utils.c
+END
+directx.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/53258/trunk/src/VBox/Devices/Graphics/shaderlib/directx.c
+END
+shaderlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/shaderlib.h
+END
+winoverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/53274/trunk/src/VBox/Devices/Graphics/shaderlib/winoverride.h
+END
+vboxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/53222/trunk/src/VBox/Devices/Graphics/shaderlib/vboxext.h
+END
+wined3d_gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53272/trunk/src/VBox/Devices/Graphics/shaderlib/wined3d_gl.h
+END
+shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/shader.c
+END
+shader_sm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/shader_sm1.c
+END
+glsl_shader.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/53277/trunk/src/VBox/Devices/Graphics/shaderlib/glsl_shader.c
+END
+shader_sm4.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/shader_sm4.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53276/trunk/src/VBox/Devices/Graphics/shaderlib/Makefile.kup
+END
+stateblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/stateblock.c
+END
+wined3d_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/53201/trunk/src/VBox/Devices/Graphics/shaderlib/wined3d_private.h
+END

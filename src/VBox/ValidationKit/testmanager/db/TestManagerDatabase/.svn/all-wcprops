@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabase
+END
+defaultdomains.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabase/defaultdomains.xml
+END
+dl_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabase/dl_settings.xml
+END
+defaultRDBMSSites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabase/defaultRDBMSSites.xml
+END
+types.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabase/types.xml
+END
+dr_custom_scripts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/db/TestManagerDatabase/dr_custom_scripts.xml
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook
+END
+Makefile.w32
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/Makefile.w32
+END
+readpng2.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/readpng2.h
+END
+wpng.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/wpng.c
+END
+rpng-x.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/rpng-x.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/README
+END
+Makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/Makefile.sgi
+END
+readpng.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/readpng.c
+END
+rpng2-win.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/rpng2-win.c
+END
+readpng.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/readpng.h
+END
+toucan.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/toucan.png
+END
+rpng2-x.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/rpng2-x.c
+END
+makevms.com
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/makevms.com
+END
+writepng.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/writepng.c
+END
+rpng-win.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/rpng-win.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/LICENSE
+END
+readpng2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/readpng2.c
+END
+writepng.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/writepng.h
+END
+Makefile.unx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/6395/trunk/src/libs/libpng-1.2.8/contrib/gregbook/Makefile.unx
+END

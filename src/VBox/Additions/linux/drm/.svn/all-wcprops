@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/53340/trunk/src/VBox/Additions/linux/drm
+END
+vboxvideo_drm.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/53340/trunk/src/VBox/Additions/linux/drm/vboxvideo_drm.c
+END
+files_vboxvideo_drm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/linux/drm/files_vboxvideo_drm
+END
+Makefile.module.kms
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50901/trunk/src/VBox/Additions/linux/drm/Makefile.module.kms
+END
+vbox_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52864/trunk/src/VBox/Additions/linux/drm/vbox_drv.c
+END
+vboxvideo_drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/linux/drm/vboxvideo_drm.h
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/50946/trunk/src/VBox/Additions/linux/drm/Makefile.kmk
+END
+vbox_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52864/trunk/src/VBox/Additions/linux/drm/vbox_drv.h
+END
+Makefile.module
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/52421/trunk/src/VBox/Additions/linux/drm/Makefile.module
+END
+files_vboxvideo_drv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50901/trunk/src/VBox/Additions/linux/drm/files_vboxvideo_drv
+END

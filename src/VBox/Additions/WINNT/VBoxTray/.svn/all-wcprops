@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/53315/trunk/src/VBox/Additions/WINNT/VBoxTray
+END
+VBoxDnD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51924/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDnD.cpp
+END
+VBoxDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48070/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDisplay.h
+END
+VBoxDnDDropSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51476/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDnDDropSource.cpp
+END
+VBoxSeamless.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxSeamless.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/51224/trunk/src/VBox/Additions/WINNT/VBoxTray/Makefile.kmk
+END
+VBoxIPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47195/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxIPC.h
+END
+VBoxVRDP.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxVRDP.h
+END
+VBoxDispIf.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48732/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDispIf.h
+END
+VBoxHostVersion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxHostVersion.cpp
+END
+VBoxTray.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxTray.h
+END
+VBoxSharedFolders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxSharedFolders.cpp
+END
+VBoxDnDDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51476/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDnDDataObject.cpp
+END
+VBoxMMR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxMMR.cpp
+END
+VBoxTray.rc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/32394/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxTray.rc
+END
+VBoxLA.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/40498/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxLA.h
+END
+VBoxDnDEnumFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDnDEnumFormat.cpp
+END
+VBoxClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxClipboard.h
+END
+VBoxDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/53313/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDisplay.cpp
+END
+VBoxHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/48070/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxHelpers.h
+END
+VBoxDnD.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/51675/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDnD.h
+END
+VBoxVRDP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxVRDP.cpp
+END
+VBoxIPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxIPC.cpp
+END
+VBoxDispIf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/53315/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDispIf.cpp
+END
+VBoxTray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/51473/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxTray.cpp
+END
+VBoxSeamless.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/48070/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxSeamless.h
+END
+VBoxHostVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/31002/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxHostVersion.h
+END
+VBoxSharedFolders.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/31026/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxSharedFolders.h
+END
+VBoxTrayMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/47973/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxTrayMsg.h
+END
+VBoxLA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxLA.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Additions/WINNT/VBoxTray/resource.h
+END
+VBoxClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxClipboard.cpp
+END
+VBoxMMR.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/42295/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxMMR.h
+END
+VBoxDnDDropTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51469/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxDnDDropTarget.cpp
+END
+VBoxHelpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vbox/!svn/ver/48070/trunk/src/VBox/Additions/WINNT/VBoxTray/VBoxHelpers.cpp
+END

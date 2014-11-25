@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/batch
+END
+close_orphaned_testsets.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/batch/close_orphaned_testsets.py
+END
+del_build.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/batch/del_build.py
+END
+filearchiver.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/batch/filearchiver.py
+END
+vcs_import.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/batch/vcs_import.py
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/batch/Makefile.kmk
+END
+add_build.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52776/trunk/src/VBox/ValidationKit/testmanager/batch/add_build.py
+END

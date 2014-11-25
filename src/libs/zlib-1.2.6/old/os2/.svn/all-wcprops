@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/old/os2
+END
+Makefile.os2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/old/os2/Makefile.os2
+END
+zlib.def
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/40354/trunk/src/libs/zlib-1.2.6/old/os2/zlib.def
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/client
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/client/__init__.py
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/11746/trunk/src/libs/xpcom18a4/python/client/.cvsignore
+END

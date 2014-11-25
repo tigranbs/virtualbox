@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 125
+sdk
+libxslt
+qt
+mingw32
+mingw-w64
+ddknt4
+ifskit
+DIFx
+ddkwin2k3
+w32api
+wix
+HTML_Help_Workshop
+libsdl
+yasm
+vcc
+nsis
+dxsdk
+gsoap
+
+END

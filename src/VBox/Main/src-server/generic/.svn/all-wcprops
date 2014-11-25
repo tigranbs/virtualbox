@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/50899/trunk/src/VBox/Main/src-server/generic
+END
+AutostartDb-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/47117/trunk/src/VBox/Main/src-server/generic/AutostartDb-generic.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/35368/trunk/src/VBox/Main/src-server/generic/Makefile.kup
+END
+NetIf-generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/50899/trunk/src/VBox/Main/src-server/generic/NetIf-generic.cpp
+END

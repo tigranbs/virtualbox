@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vbox/!svn/ver/50456/trunk/src/VBox/Runtime/common/net
+END
+macstr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/49326/trunk/src/VBox/Runtime/common/net/macstr.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/43221/trunk/src/VBox/Runtime/common/net/Makefile.kup
+END
+netaddrstr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/50456/trunk/src/VBox/Runtime/common/net/netaddrstr.cpp
+END
+netaddrstr2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/50456/trunk/src/VBox/Runtime/common/net/netaddrstr2.cpp
+END

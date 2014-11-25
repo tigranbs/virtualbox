@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/44514/trunk/src/VBox/Devices/PC/ACPI
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44514/trunk/src/VBox/Devices/PC/ACPI/Makefile.kup
+END
+VBoxAcpi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44514/trunk/src/VBox/Devices/PC/ACPI/VBoxAcpi.cpp
+END

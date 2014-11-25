@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/52879/trunk/src/VBox/Storage/testcase
+END
+tstVDResize.vd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/tstVDResize.vd
+END
+VDIoBackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52710/trunk/src/VBox/Storage/testcase/VDIoBackend.h
+END
+VDMemDisk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/VDMemDisk.cpp
+END
+VDScriptChecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/44941/trunk/src/VBox/Storage/testcase/VDScriptChecker.cpp
+END
+tstVDIo.vd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/tstVDIo.vd
+END
+tstVDCopy.vd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52879/trunk/src/VBox/Storage/testcase/tstVDCopy.vd
+END
+VDScriptStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/44941/trunk/src/VBox/Storage/testcase/VDScriptStack.h
+END
+VDScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52415/trunk/src/VBox/Storage/testcase/VDScript.cpp
+END
+tstVDCopy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Storage/testcase/tstVDCopy.cpp
+END
+tstVDCompact.vd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/tstVDCompact.vd
+END
+tstVD-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Storage/testcase/tstVD-2.cpp
+END
+tstVD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/44528/trunk/src/VBox/Storage/testcase/tstVD.cpp
+END
+VDIoRnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/36529/trunk/src/VBox/Storage/testcase/VDIoRnd.cpp
+END
+VDScriptAst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/VDScriptAst.cpp
+END
+VDIoBackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52710/trunk/src/VBox/Storage/testcase/VDIoBackend.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/52379/trunk/src/VBox/Storage/testcase/Makefile.kmk
+END
+VDIoBackendMem.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/46247/trunk/src/VBox/Storage/testcase/VDIoBackendMem.h
+END
+VDScriptInterp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/48957/trunk/src/VBox/Storage/testcase/VDScriptInterp.cpp
+END
+VDDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vbox/!svn/ver/46247/trunk/src/VBox/Storage/testcase/VDDefs.h
+END
+vditool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/38636/trunk/src/VBox/Storage/testcase/vditool.cpp
+END
+tstVDDiscard.vd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/tstVDDiscard.vd
+END
+tstVDSnap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/46614/trunk/src/VBox/Storage/testcase/tstVDSnap.cpp
+END
+tstVDMultBackends.vd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/tstVDMultBackends.vd
+END
+VDMemDisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/36134/trunk/src/VBox/Storage/testcase/VDMemDisk.h
+END
+vbox-img.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vbox/!svn/ver/51306/trunk/src/VBox/Storage/testcase/vbox-img.cpp
+END
+tstVDIo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52710/trunk/src/VBox/Storage/testcase/tstVDIo.cpp
+END
+BuiltinTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/52111/trunk/src/VBox/Storage/testcase/BuiltinTests.h
+END
+VDScriptInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44901/trunk/src/VBox/Storage/testcase/VDScriptInternal.h
+END
+tstVDShareable.vd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/tstVDShareable.vd
+END
+VDScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/VDScript.h
+END
+VDIoBackendMem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/46247/trunk/src/VBox/Storage/testcase/VDIoBackendMem.cpp
+END
+VDIoRnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/35596/trunk/src/VBox/Storage/testcase/VDIoRnd.h
+END
+VDScriptAst.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52371/trunk/src/VBox/Storage/testcase/VDScriptAst.h
+END
+tstVDShareable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/Storage/testcase/tstVDShareable.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/vbox/!svn/ver/51877/trunk/tools/win.x86/bin
+END
+libxslt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/1/trunk/tools/win.x86/bin/libxslt.dll
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/1/trunk/tools/win.x86/bin/zlib1.dll
+END
+doxygen.exe
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40362/trunk/tools/win.x86/bin/doxygen.exe
+END
+xsltproc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/40362/trunk/tools/win.x86/bin/xsltproc.exe
+END
+doxytag.exe
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/40362/trunk/tools/win.x86/bin/doxytag.exe
+END
+libexslt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/1/trunk/tools/win.x86/bin/libexslt.dll
+END
+as86.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/40362/trunk/tools/win.x86/bin/as86.exe
+END
+libxml2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/1/trunk/tools/win.x86/bin/libxml2.dll
+END
+glib-1.2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/1/trunk/tools/win.x86/bin/glib-1.2.dll
+END
+iasl.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/40362/trunk/tools/win.x86/bin/iasl.exe
+END
+iconv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/1/trunk/tools/win.x86/bin/iconv.dll
+END
+msvcrt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/1/trunk/tools/win.x86/bin/msvcrt.dll
+END
+yasm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/51877/trunk/tools/win.x86/bin/yasm.exe
+END
+libidl-0.6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vbox/!svn/ver/1/trunk/tools/win.x86/bin/libidl-0.6.dll
+END

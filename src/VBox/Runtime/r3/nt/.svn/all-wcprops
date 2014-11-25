@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/52953/trunk/src/VBox/Runtime/r3/nt
+END
+internal-r3-nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/52944/trunk/src/VBox/Runtime/r3/nt/internal-r3-nt.h
+END
+direnum-r3-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/49150/trunk/src/VBox/Runtime/r3/nt/direnum-r3-nt.cpp
+END
+pathint-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/52953/trunk/src/VBox/Runtime/r3/nt/pathint-nt.cpp
+END
+fs-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/49150/trunk/src/VBox/Runtime/r3/nt/fs-nt.cpp
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/47533/trunk/src/VBox/Runtime/r3/nt/Makefile.kup
+END
+RTProcQueryParent-r3-nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/51770/trunk/src/VBox/Runtime/r3/nt/RTProcQueryParent-r3-nt.cpp
+END

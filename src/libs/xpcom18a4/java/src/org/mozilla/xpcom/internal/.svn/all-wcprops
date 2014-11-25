@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/36814/trunk/src/libs/xpcom18a4/java/src/org/mozilla/xpcom/internal
+END
+XPCOMJavaProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vbox/!svn/ver/36814/trunk/src/libs/xpcom18a4/java/src/org/mozilla/xpcom/internal/XPCOMJavaProxy.java
+END
+JavaXPCOMMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/29140/trunk/src/libs/xpcom18a4/java/src/org/mozilla/xpcom/internal/JavaXPCOMMethods.java
+END
+GREImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vbox/!svn/ver/29140/trunk/src/libs/xpcom18a4/java/src/org/mozilla/xpcom/internal/GREImpl.java
+END
+XPCOMJavaProxyBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vbox/!svn/ver/29140/trunk/src/libs/xpcom18a4/java/src/org/mozilla/xpcom/internal/XPCOMJavaProxyBase.java
+END
+XPCOMImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vbox/!svn/ver/29140/trunk/src/libs/xpcom18a4/java/src/org/mozilla/xpcom/internal/XPCOMImpl.java
+END
+MozillaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/29140/trunk/src/libs/xpcom18a4/java/src/org/mozilla/xpcom/internal/MozillaImpl.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vbox/!svn/ver/50323/trunk/src/VBox/Additions/WINNT/VBoxCredProv
+END
+VBoxCredProvFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/40435/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvFactory.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/42288/trunk/src/VBox/Additions/WINNT/VBoxCredProv/Makefile.kmk
+END
+VBoxCredProvCredential.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/49722/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvCredential.cpp
+END
+register.reg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/27860/trunk/src/VBox/Additions/WINNT/VBoxCredProv/register.reg
+END
+VBoxCredProvFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/40435/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvFactory.h
+END
+unregister.reg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/27860/trunk/src/VBox/Additions/WINNT/VBoxCredProv/unregister.reg
+END
+VBoxCredProvCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/46385/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvCredential.h
+END
+VBoxCredentialProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/50076/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredentialProvider.cpp
+END
+VBoxCredentialProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/46183/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredentialProvider.h
+END
+VBoxCredProvProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/50064/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvProvider.cpp
+END
+VBoxCredentialProvider.def
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/40939/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredentialProvider.def
+END
+VBoxCredProvPoller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/40435/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvPoller.cpp
+END
+VBoxCredProvProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/40435/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvProvider.h
+END
+VBoxCredProvUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/50323/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvUtils.cpp
+END
+VBoxCredentialProvider.rc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vbox/!svn/ver/40435/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredentialProvider.rc
+END
+VBoxCredProvPoller.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/40435/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvPoller.h
+END
+VBoxCredProvUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/40435/trunk/src/VBox/Additions/WINNT/VBoxCredProv/VBoxCredProvUtils.h
+END

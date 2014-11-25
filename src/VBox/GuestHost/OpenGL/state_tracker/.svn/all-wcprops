@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vbox/!svn/ver/53088/trunk/src/VBox/GuestHost/OpenGL/state_tracker
+END
+state_snapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/50429/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_snapshot.c
+END
+state_hint.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_hint.txt
+END
+state_limits.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/40124/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_limits.c
+END
+state_glsl.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/53088/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_glsl.c
+END
+state_extensions_isenabled.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_extensions_isenabled.txt
+END
+state_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52329/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_init.c
+END
+state_internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/25303/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_internals.h
+END
+dump_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/GuestHost/OpenGL/state_tracker/dump_gen.py
+END
+state_client.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_client.txt
+END
+state_flush.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_flush.c
+END
+state_framebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/52641/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_framebuffer.c
+END
+state_funcs.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_funcs.py
+END
+state_attrib.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/44326/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_attrib.c
+END
+state.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52329/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state.h
+END
+state_point.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/46037/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_point.txt
+END
+state_point.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_point.c
+END
+state_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44196/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_error.c
+END
+get_components.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/GuestHost/OpenGL/state_tracker/get_components.py
+END
+state_multisample.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_multisample.c
+END
+state_select_special
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_select_special
+END
+state_stencil.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_stencil.txt
+END
+state_special
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/51200/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_special
+END
+state_stencil.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44332/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_stencil.c
+END
+gendiffcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/GuestHost/OpenGL/state_tracker/gendiffcode.py
+END
+dump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/50095/trunk/src/VBox/GuestHost/OpenGL/state_tracker/dump.cpp
+END
+state_diff.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/52263/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_diff.c
+END
+state_transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_transform.c
+END
+state_rasterpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_rasterpos.c
+END
+state_current.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/51313/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_current.c
+END
+state_polygon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_polygon.txt
+END
+state_feedback.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_feedback.c
+END
+state_evaluators.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/33540/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_evaluators.c
+END
+state_get.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/50041/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_get.py
+END
+state_polygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44196/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_polygon.c
+END
+state_extensions_get.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vbox/!svn/ver/31808/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_extensions_get.txt
+END
+state_regcombiner.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/40301/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_regcombiner.c
+END
+state_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/52641/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_texture.c
+END
+state_lighting.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_lighting.txt
+END
+state_hint.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_hint.c
+END
+state_feedback_special
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_feedback_special
+END
+state_program.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_program.txt
+END
+state_lighting.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/29930/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_lighting.c
+END
+state_program.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/48491/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_program.c
+END
+state_occlude.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_occlude.c
+END
+state_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/51319/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_client.c
+END
+state_fence.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_fence.c
+END
+state_current.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/51319/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_current.py
+END
+state_multisample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_multisample.txt
+END
+state_texdiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vbox/!svn/ver/44947/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_texdiff.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/Makefile.kup
+END
+state_isenabled.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_isenabled.py
+END
+state_lists.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52263/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_lists.c
+END
+state_bufferobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/48491/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_bufferobject.c
+END
+state_teximage.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/46235/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_teximage.c
+END
+state_getstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_getstring.c
+END
+state_buffer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/34725/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_buffer.txt
+END
+state_fog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_fog.txt
+END
+state_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/46037/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_buffer.c
+END
+state_fog.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_fog.c
+END
+state_get.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/46037/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_get.txt
+END
+state_viewport.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_viewport.txt
+END
+state_viewport.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_viewport.c
+END
+state_pixel.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/27091/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_pixel.c
+END
+state_isenabled.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_isenabled.txt
+END
+state_line.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_line.txt
+END
+state_bits_globalop.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/46037/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_bits_globalop.h
+END
+convert.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/convert.py
+END
+state_enable.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vbox/!svn/ver/44326/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_enable.c
+END
+state_line.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_line.c
+END
+state_defs.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_defs.py
+END
+state_regcombiner.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vbox/!svn/ver/15532/trunk/src/VBox/GuestHost/OpenGL/state_tracker/state_regcombiner.txt
+END

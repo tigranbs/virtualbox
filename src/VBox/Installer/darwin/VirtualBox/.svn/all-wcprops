@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vbox/!svn/ver/49540/trunk/src/VBox/Installer/darwin/VirtualBox
+END
+VBoxAutostartDarwin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/43656/trunk/src/VBox/Installer/darwin/VirtualBox/VBoxAutostartDarwin.sh
+END
+org.virtualbox.vboxautostart.plist
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vbox/!svn/ver/46736/trunk/src/VBox/Installer/darwin/VirtualBox/org.virtualbox.vboxautostart.plist
+END
+postflight
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/49540/trunk/src/VBox/Installer/darwin/VirtualBox/postflight
+END
+preflight
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/47448/trunk/src/VBox/Installer/darwin/VirtualBox/preflight
+END
+org.virtualbox.vboxwebsrv.plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vbox/!svn/ver/31940/trunk/src/VBox/Installer/darwin/VirtualBox/org.virtualbox.vboxwebsrv.plist
+END
+org.virtualbox.vboxballoonctrl.plist
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vbox/!svn/ver/36698/trunk/src/VBox/Installer/darwin/VirtualBox/org.virtualbox.vboxballoonctrl.plist
+END
+PkgBuildComponent.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vbox/!svn/ver/47448/trunk/src/VBox/Installer/darwin/VirtualBox/PkgBuildComponent.plist
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53318/trunk/src/VBox/HostDrivers/VBoxNetFlt/win
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/21333/trunk/src/VBox/HostDrivers/VBoxNetFlt/win/Makefile.kup
+END

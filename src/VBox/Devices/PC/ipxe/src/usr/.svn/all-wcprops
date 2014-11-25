@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr
+END
+dhcpmgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/dhcpmgmt.c
+END
+ifmgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/ifmgmt.c
+END
+iwmgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/iwmgmt.c
+END
+lotest.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/lotest.c
+END
+autoboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/autoboot.c
+END
+fcmgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/fcmgmt.c
+END
+imgtrust.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/imgtrust.c
+END
+route.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/route.c
+END
+imgmgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/imgmgmt.c
+END
+prompt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/prompt.c
+END
+pxemenu.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vbox/!svn/ver/47928/trunk/src/VBox/Devices/PC/ipxe/src/usr/pxemenu.c
+END

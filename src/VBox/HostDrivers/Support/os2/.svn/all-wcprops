@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/os2
+END
+SUPR0IdcClient-os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/os2/SUPR0IdcClient-os2.c
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vbox/!svn/ver/22077/trunk/src/VBox/HostDrivers/Support/os2/Makefile.kup
+END
+SUPLib-os2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/os2/SUPLib-os2.cpp
+END
+SUPDrv-os2.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/os2/SUPDrv-os2.def
+END
+SUPDrvA-os2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vbox/!svn/ver/22077/trunk/src/VBox/HostDrivers/Support/os2/SUPDrvA-os2.asm
+END
+SUPDrv-os2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/Support/os2/SUPDrv-os2.cpp
+END

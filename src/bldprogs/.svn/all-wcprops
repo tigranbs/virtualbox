@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/vbox/!svn/ver/52843/trunk/src/bldprogs
+END
+VBoxTpG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/47518/trunk/src/bldprogs/VBoxTpG.cpp
+END
+scmrw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/40534/trunk/src/bldprogs/scmrw.cpp
+END
+bin2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/51770/trunk/src/bldprogs/bin2c.c
+END
+scmstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vbox/!svn/ver/48959/trunk/src/bldprogs/scmstream.cpp
+END
+deftoimp.sed
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/34662/trunk/src/bldprogs/deftoimp.sed
+END
+scmsubversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/48959/trunk/src/bldprogs/scmsubversion.cpp
+END
+scmstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/41217/trunk/src/bldprogs/scmstream.h
+END
+biossums.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vbox/!svn/ver/44528/trunk/src/bldprogs/biossums.c
+END
+filesplitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vbox/!svn/ver/48959/trunk/src/bldprogs/filesplitter.cpp
+END
+scmdiff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/52836/trunk/src/bldprogs/scmdiff.cpp
+END
+Makefile.kmk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vbox/!svn/ver/49116/trunk/src/bldprogs/Makefile.kmk
+END
+VBoxCmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/42079/trunk/src/bldprogs/VBoxCmp.cpp
+END
+VBoxDef2LazyLoad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/47685/trunk/src/bldprogs/VBoxDef2LazyLoad.cpp
+END
+scmdiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vbox/!svn/ver/40530/trunk/src/bldprogs/scmdiff.h
+END
+VBoxCPP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/52843/trunk/src/bldprogs/VBoxCPP.cpp
+END
+scm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vbox/!svn/ver/48958/trunk/src/bldprogs/scm.cpp
+END
+VBoxPeSetVersion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vbox/!svn/ver/43134/trunk/src/bldprogs/VBoxPeSetVersion.cpp
+END
+preload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vbox/!svn/ver/44528/trunk/src/bldprogs/preload.cpp
+END
+scm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vbox/!svn/ver/41966/trunk/src/bldprogs/scm.h
+END
+checkUndefined.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vbox/!svn/ver/44528/trunk/src/bldprogs/checkUndefined.sh
+END

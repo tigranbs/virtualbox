@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86
+END
+kmk_cat.exe
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_cat.exe
+END
+kmk_append.exe
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_append.exe
+END
+kObjCache.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kObjCache.exe
+END
+kmk_sleep.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_sleep.exe
+END
+kmk_ln.exe
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_ln.exe
+END
+kmk_md5sum.exe
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_md5sum.exe
+END
+kmk_ash.exe
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_ash.exe
+END
+kmk_sed.exe
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_sed.exe
+END
+kDepObj.exe
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kDepObj.exe
+END
+kmk_rmdir.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_rmdir.exe
+END
+kmk_expr.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_expr.exe
+END
+kmk_echo.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_echo.exe
+END
+kmk_rm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_rm.exe
+END
+kmk_cmp.exe
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_cmp.exe
+END
+kmk_test.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_test.exe
+END
+kmk.exe
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk.exe
+END
+kmk_mv.exe
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_mv.exe
+END
+kmk_gmake.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_gmake.exe
+END
+kDepPre.exe
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kDepPre.exe
+END
+kmk_chmod.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_chmod.exe
+END
+kmk_time.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_time.exe
+END
+kDepIDB.exe
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kDepIDB.exe
+END
+kmk_redirect.exe
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_redirect.exe
+END
+kmk_cp.exe
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_cp.exe
+END
+kmk_printf.exe
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_printf.exe
+END
+msvcr100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/kbuild-mirror/!svn/ver/2632/trunk/kBuild/bin/win.x86/msvcr100.dll
+END
+kmk_install.exe
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_install.exe
+END
+kmk_mkdir.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/kbuild-mirror/!svn/ver/2712/trunk/kBuild/bin/win.x86/kmk_mkdir.exe
+END

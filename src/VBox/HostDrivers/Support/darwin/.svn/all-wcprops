@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/darwin
+END
+load.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vbox/!svn/ver/29844/trunk/src/VBox/HostDrivers/Support/darwin/load.sh
+END
+Makefile.kup
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/325/trunk/src/VBox/HostDrivers/Support/darwin/Makefile.kup
+END
+SUPR0IdcClient-darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vbox/!svn/ver/44529/trunk/src/VBox/HostDrivers/Support/darwin/SUPR0IdcClient-darwin.c
+END
+SUPLib-darwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/53002/trunk/src/VBox/HostDrivers/Support/darwin/SUPLib-darwin.cpp
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vbox/!svn/ver/48677/trunk/src/VBox/HostDrivers/Support/darwin/Info.plist
+END
+SUPDrv-darwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vbox/!svn/ver/52618/trunk/src/VBox/HostDrivers/Support/darwin/SUPDrv-darwin.cpp
+END

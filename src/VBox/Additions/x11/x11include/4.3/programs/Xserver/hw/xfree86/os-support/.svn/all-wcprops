@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vbox/!svn/ver/35398/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support
+END
+xf86_ansic.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/35398/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86_ansic.h
+END
+int10Defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/int10Defines.h
+END
+assyntax.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/assyntax.h
+END
+xf86OSKbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86OSKbd.h
+END
+xf86OSpriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86OSpriv.h
+END
+xf86drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86drm.h
+END
+xf86_OSproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/17242/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86_OSproc.h
+END
+xf86drmCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86drmCompat.h
+END
+xf86_OSlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86_OSlib.h
+END
+xf86_libc.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vbox/!svn/ver/35398/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86_libc.h
+END
+xf86OSmouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vbox/!svn/ver/25452/trunk/src/VBox/Additions/x11/x11include/4.3/programs/Xserver/hw/xfree86/os-support/xf86OSmouse.h
+END
